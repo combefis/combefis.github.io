@@ -1,0 +1,13 @@
+# Site settings
+title: Sébastien Combéfis
+email: sebastien@combefis.be
+description: >
+  The personal website of Sébastien Combéfis contains information about
+  his research and teaching activities, and other personal information.
+baseurl: ""
+url: "http://sebastien.combefis.be"
+twitter_username: scombefis
+github_username: combefis
+
+# Build settings
+markdown: kramdown

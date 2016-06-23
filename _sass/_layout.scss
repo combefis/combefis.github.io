@@ -241,3 +241,34 @@
         }
     }
 }
+
+/**
+ * Custom elements
+ */
+.publications-start {
+    counter-reset: publications;
+    
+    li {
+        list-style: none;
+    }
+    
+    li:before {
+        content: "[" counter(publications) "] ";
+        counter-increment: publications;
+        float: left;
+        margin-left: -30px;
+    }
+}
+
+.publications-continue {
+    li {
+        list-style: none;
+    }
+    
+    li:before {
+        content: "[" counter(publications) "] ";
+        counter-increment: publications;
+        float: left;
+        margin-left: -30px;
+    }
+}

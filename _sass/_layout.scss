@@ -111,6 +111,13 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    
+    a {
+        &:hover {
+            color: white;
+            background-color: $hover-color;
+        }
+    }
 }
 
 .page-heading {

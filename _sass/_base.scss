@@ -98,11 +98,6 @@ a {
     &:visited {
         color: darken($brand-color, 15%);
     }
-
-    &:hover {
-        color: white;
-        background-color: $hover-color;
-    }
 }
 
 

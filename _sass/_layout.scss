@@ -245,6 +245,21 @@
     background-color: $grey-color-light;
 }
 
+.socialnetworks {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    li {
+        float: left;
+		margin-bottom: 8px;
+    }
+    
+    li + li {
+        margin-left: 5px;
+    }
+}
+
 @include media-query($on-palm) {
     .footer-col {
         float: none;

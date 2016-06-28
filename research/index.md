@@ -15,7 +15,7 @@ permalink: /research/
     enriched LTS (Labelled Transition Systems), we generate abstractions of
     those systems, called mental models, which allows an operator to control
     the system in a proper way.</p>
-    
+
     <p>I am also interested in pedagogy, in particular for higher education. I
     completed an <em>advanced master</em> in that domain and my master thesis is
     about motivational and success rate for first bachelor students in computer

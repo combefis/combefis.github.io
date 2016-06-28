@@ -6,8 +6,6 @@ description: >
   his research and teaching activities, and other personal information.
 baseurl: ""
 url: "http://sebastien.combefis.be"
-twitter_username: scombefis
-github_username: combefis
 
 # Build settings
 markdown: kramdown

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /about/
-tags: mainmenu
+permalink: /contact/
 ---
 
 Ir. Sébastien Combéfis, Ph.D.<br />

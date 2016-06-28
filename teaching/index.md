@@ -2,7 +2,6 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-tags: mainmenu
 ---
 
 <p>I work as a <em>lecturer</em> at the

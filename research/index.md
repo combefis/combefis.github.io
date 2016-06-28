@@ -2,7 +2,6 @@
 layout: page
 title: Research
 permalink: /research/
-tags: mainmenu
 ---
 
 <p>I got my PhD in November 2013 from the

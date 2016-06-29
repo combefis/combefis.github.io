@@ -28,7 +28,7 @@ permalink: /about/
     Bangkok, Thailand, July 2011.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
-      <li>CV</li>
+      <li><a href="/about/cv/">Curriculum Vitae</a></li>
     </ul>
   </div>
 </div>

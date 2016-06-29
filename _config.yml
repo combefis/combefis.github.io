@@ -6,6 +6,7 @@ description: >
   his research and teaching activities, and other personal information.
 baseurl: ""
 url: "https://sebastien.combefis.be"
+enforce_ssl: "sebastien.combefis.be"
 
 # Build settings
 markdown: kramdown

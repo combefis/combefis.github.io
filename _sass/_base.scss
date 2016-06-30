@@ -150,8 +150,18 @@ pre {
 /**
  * Tables
  */
-td {
-    vertical-align: top;
+table {
+    border-spacing: 0 2px;
+
+    tr {
+        margin-bottom: 10px;
+        background-color: #eee;
+
+        td {
+            vertical-align: top;
+            padding: 10px;
+        }
+    }
 }
 
 

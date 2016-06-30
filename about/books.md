@@ -49,4 +49,9 @@ permalink: /about/books/
       </tr>
     </table>
   </div>
+  <div class="page-col page-col-2">
+    <p><img src="/images/pittsburgh.jpg" alt="Pittsburgh, PA, USA,
+    July 2009." width="200" height="267" /><br />
+    Pittsburgh, PA, USA, July 2009.</p>
+  </div>
 </div>

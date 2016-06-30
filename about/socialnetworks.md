@@ -53,4 +53,10 @@ permalink: /about/socialnetworks/
       <li><a href="http://www.vivino.com/users/combefis">Vivino</a></li>
     </ul>
   </div>
+  <div class="page-col page-col-2">
+    <p><img src="/images/eindhoven.jpg" alt="Eindhoven, The Netherlands,
+    November 2009." width="200" height="267" /><br />
+    Eindhoven, The Netherlands,<br />
+    November 2009.</p>
+  </div>
 </div>

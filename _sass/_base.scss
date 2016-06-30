@@ -44,7 +44,6 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-    max-width: 100%;
     vertical-align: middle;
 }
 
@@ -144,6 +143,15 @@ pre {
         padding-right: 0;
         padding-left: 0;
     }
+}
+
+
+
+/**
+ * Tables
+ */
+td {
+    vertical-align: top;
 }
 
 

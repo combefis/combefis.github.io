@@ -21,6 +21,10 @@ permalink: /about/
     Phone: +32(0)2.541.48.50<br />
     Fax: +32(0)2.541.48.59<br />
     Email: <a href="mailto:s.combefis@ecam.be">s.combefis@ecam.be</a></p>
+
+    <p><a href="http://be.linkedin.com/in/sebastiencombefis">
+    <img src="/images/btn_liprofile_blue_80x15.gif" alt="LinkedIn"
+    width="80" height="15" /></a></p>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/bangkok.jpg" alt="Bangkok, Thailand, July 2011."
@@ -30,6 +34,7 @@ permalink: /about/
     <ul class="navigation">
       <li><a href="/about/cv/">Curriculum Vitae</a></li>
       <li><a href="/about/socialnetworks/">Social Networks</a></li>
+      <li><a href="/about/books/">Books</a></li>
     </ul>
   </div>
 </div>

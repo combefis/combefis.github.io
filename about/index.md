@@ -29,6 +29,7 @@ permalink: /about/
     <h3>Navigation</h3>
     <ul class="navigation">
       <li><a href="/about/cv/">Curriculum Vitae</a></li>
+      <li><a href="/about/socialnetworks/">Social Networks</a></li>
     </ul>
   </div>
 </div>

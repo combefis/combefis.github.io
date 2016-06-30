@@ -670,4 +670,9 @@ permalink: /about/cv/
       Belgian Olympiad in Informatics. <small>(10 Mar. 2010)</small></li>
     </ul>
   </div>
+  <div class="page-col page-col-2">
+    <p><img src="/images/ucl-london.jpg" alt="London, UK, September 2009."
+    width="200" height="150" /><br />
+    London, UK, September 2009.</p>
+  </div>
 </div>

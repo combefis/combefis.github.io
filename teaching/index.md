@@ -38,7 +38,7 @@ permalink: /teaching/
     Niagara, Canada, August 2010.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
-      <li>ECAM</li>
+      <li><a href="/teaching/ecam/">ECAM</a></li>
       <li>ITSCM</li>
       <li>UCL</li>
       <li>Master thesis</li>

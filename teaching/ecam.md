@@ -23,11 +23,11 @@ permalink: /teaching/ecam/
         <col style="width: 85%;"/>
       </colgroup>
       <tr>
-        <td>2014-now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(2 years)</small></td>
         <td>
-          <b>B2010 - Informatique</b> <small>(4 ECTS, 43h)</small>
+          <b>B2010 – Informatique</b> <small>(4 ECTS, 43h)</small>
           <ul>
-            <li><small>B201B - Concepts informatiques (28h)</small></li>
+            <li><small>B201B – Concepts informatiques (28h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in second year of
           bachelor in engineering, is about programming in Python and teaches
@@ -40,11 +40,11 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2015-now<br /><small>(2 years)</small></td>
+        <td>2015–now<br /><small>(2 years)</small></td>
         <td>
-          <b>B2160 - Projet informatique</b> <small>(5 ECTS, 57h)</small>
+          <b>B2160 – Projet informatique</b> <small>(5 ECTS, 57h)</small>
           <ul>
-            <li><small>B216C - Applications de méthodes numériques
+            <li><small>B216C – Applications de méthodes numériques
            (14h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in second year of
@@ -58,13 +58,13 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2016-now<br /><small>(1 year)</small></td>
+        <td>2016–now<br /><small>(1 year)</small></td>
         <td>
-          <b>E3020 - Électronique et programmation des systèmes
+          <b>E3020 – Électronique et programmation des systèmes
           embarqués</b> <small>(4 ECTS, 42h)</small>
           <ul>
-            <li><small>E302C - Gestion des périphériques (10,5h)</small></li>
-            <li><small>E302D - Application robotisée (21h)</small></li>
+            <li><small>E302C – Gestion des périphériques (10,5h)</small></li>
+            <li><small>E302D – Application robotisée (21h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in third year of
           bachelor in electronics and computer science engineering, presents 
@@ -75,11 +75,11 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2014-now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(2 years)</small></td>
         <td>
-          <b>M3090 - Techniques informatiques</b> <small>(4 ECTS, 43h)</small>
+          <b>M3090 – Techniques informatiques</b> <small>(4 ECTS, 43h)</small>
           <ul>
-            <li><small>3090B - Informatique appliquée (28h)</small></li>
+            <li><small>3090B – Informatique appliquée (28h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in third year of
           bachelor in electromechanical engineering, presents how 
@@ -89,15 +89,15 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2014-now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(2 years)</small></td>
         <td>
-          <b>I4030 - Technologie des ordinateurs et systèmes
+          <b>I4030 – Technologie des ordinateurs et systèmes
           d'exploitation</b> <small>(5 ECTS, 56h)</small>
           <ul>
-            <li><small>I403A - Systèmes d'exploitation (27h)</small></li>
-            <li><small>I403L - Laboratoire de systèmes
+            <li><small>I403A – Systèmes d'exploitation (27h)</small></li>
+            <li><small>I403L – Laboratoire de systèmes
             d'exploitation (14h)</small></li>
-            <li><small>I403B - Technologie des ordinateurs (15h)</small></li>
+            <li><small>I403B – Technologie des ordinateurs (15h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in first year of
           master in electronics and in computer science engineering, presents
@@ -109,11 +109,11 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2016-now<br /></td>
+        <td>2016–now<br /></td>
         <td>
-          <b>I4040 - Base de données avancées</b> <small>(4 ECTS, 43h)</small>
+          <b>I4040 – Base de données avancées</b> <small>(4 ECTS, 43h)</small>
           <ul>
-            <li><small>I404B - NoSQL (15h)</small></li>
+            <li><small>I404B – NoSQL (15h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in first year of master
           in computer science engineering, presents advanced concepts in
@@ -124,9 +124,9 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2014-now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(2 years)</small></td>
         <td>
-          <b>I4020 - Architecture logicielle</b> <small>(3 ECTS, 27h)</small>
+          <b>I4020 – Architecture logicielle</b> <small>(3 ECTS, 27h)</small>
           <p><small><i>This course, taught to students in first year of master
           in electronics and in computer science engineering, presents how to
           architecture a software at different levels from the structure of the
@@ -134,11 +134,11 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2017-now<br /></td>
+        <td>2017–now<br /></td>
         <td>
-          <b>I5020 - Systèmes distribués</b> <small>(3 ECTS, 29h)</small>
+          <b>I5020 – Systèmes distribués</b> <small>(3 ECTS, 29h)</small>
           <ul>
-            <li><small>I502A - Sécurité physique et logicielle
+            <li><small>I502A – Sécurité physique et logicielle
             (15h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in second year of master
@@ -148,9 +148,9 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2015-now<br /><small>(2 years)</small></td>
+        <td>2015–now<br /><small>(2 years)</small></td>
         <td>
-          <b>I5030 - Séminaires professionnels</b> <small>(4 ECTS, 45h)</small>
+          <b>I5030 – Séminaires professionnels</b> <small>(4 ECTS, 45h)</small>
           <p><small><i>This course, taught to students in second year of master
           in electronics and in computer science engineering, is a seminar
           where the students are asked to prepare and present, in
@@ -160,7 +160,7 @@ permalink: /teaching/ecam/
       <tr>
         <td>2016</td>
         <td>
-          <b>B1070 - Projet intégrateur</b> <small>(6 ECTS, 71h)</small>
+          <b>B1070 – Projet intégrateur</b> <small>(6 ECTS, 71h)</small>
           <p><small><i>This course, taught to students in first year of
           bachelor in engineering, is a project where the students have to work
           on a multidisciplinary project by teams of six. For example, in 2016,
@@ -171,7 +171,7 @@ permalink: /teaching/ecam/
       <tr>
         <td>2015<br /><small>(1 year)</small></td>
         <td>
-          <b>B1080 - Électricité et ses outils mathématiques</b>
+          <b>B1080 – Électricité et ses outils mathématiques</b>
           <small>(7 ECTS, 90h)</small>
           <ul>
             <li><small>B108L - Laboratoires d'électricité (10,5h)</small></li>
@@ -184,9 +184,9 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2015-2016<br /><small>(2 years)</small></td>
+        <td>2015–2016<br /><small>(2 years)</small></td>
         <td>
-          <b>JA40I - Programmation distribuée</b> <small>(4 ECTS, 45h)</small>
+          <b>JA40I – Programmation distribuée</b> <small>(4 ECTS, 45h)</small>
           <p><small><i>This course, taught to students in first year of master
           in electronics and in computer science engineering, is a project
           where the students have to develop a 3-tiers domotic application to

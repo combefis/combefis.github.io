@@ -11,14 +11,14 @@ permalink: /about/cv/
     <ul>
       <li><b>Advanced Master in Pedagogy in Higher Education</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Cum laude.
-      <small>(Sep 2010 - Jun 2014)</small><br />
+      <small>(Sep 2010 – Jun 2014)</small><br />
       <small>- Subject: <i>« Enseigner des outils méthodologiques et former une
       attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en
       place et évaluation d‘un dispositif d’aide à la réussite »</i><br />
       - Supervisor: <i>Prof. Mariane Frenay and co-supervisor: Dr. Mireille
       Houart</i>.</small></li>
       <li><b>PhD in Engineering</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep 2007 - Nov 2013)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep 2007 – Nov 2013)</small><br />
       <small>- Subject: <i>« A Formal Framework for the Analysis of
       Human-Machine Interactions »</i><br />
       - Examining Board: <i>Prof. Charles Pecheur, supervisor (UCL/ICTM,
@@ -28,12 +28,12 @@ permalink: /about/cv/
       Prof. Peter Van Roy, chair (UCL/ICTM, Belgium)</i>.</small></li>
       <li><b>Master in Computer Science Engineering</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Magna cum laude.
-      <small>(Sep 2002 - Jun 2007)</small><br />
+      <small>(Sep 2002 – Jun 2007)</small><br />
       <small>- Subject: <i>« Viral Marketing and Community Detection
       Algorithm »</i><br />
       - Supervisor: <i>Prof. Pierre Dupont</i>.</small></li>
       <li><b>General Secondary Education</b>, <i>Lycée de Berlaymont</i>,
-      Waterloo, Belgium, 85%. <small>(Sep. 1996 - Jun. 2002)</small><br />
+      Waterloo, Belgium, 85%. <small>(Sep. 1996 – Jun. 2002)</small><br />
       <small>Mathematics/Science option.</small></li>
     </ul>
 
@@ -58,44 +58,44 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Lecturer</b>, <i>École Centrale des Arts et Métiers</i> (ECAM),
-      Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 - now)</small><br />
+      Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – now)</small><br />
       <small>Professor in an industrial higher education institution, in the
       department of electrical and computer engineering.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Sep. 2015 - now)</small><br />
+      Belgium. <small>(Sep. 2015 – now)</small><br />
       <small>Project Manager for the TeachEng project working on the
       development and deployment of a MOOC platform for engineers.</small></li>
       <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>
       (UCL), Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2014 - Sep. 2016)</small><br />
+      <small>(Sep. 2014 – Sep. 2016)</small><br />
       <small>Invited lecturer for the programming course for first year
       bachelor students in engineering and in computer science.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i>
-      (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 - Jun. 2015)</small>
+      (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015)</small>
       <small>Professor in a higher education institution in social advancement
       for the bachelor in informatics and systems and the bachelor in
       electronics of the Technology Pole.</small></li>
       <li><b>Research Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 - May 2014)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br />
       <small>Research assistant for the ICT, Electronics and Applied
       Mathematics Institute (ICTEAM), attached to the Computer Science
       Engineering Department (INGI).</small></li>
       <li><b>Educational Advisor</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 - May 2014)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br />
       <small>Educational Advisor for the Louvain School of Engineering
       (EPL).</small></li>
       <li><b>Associate</b>, <i>Binnovart</i>, Belgium.
-      <small>(Oct. 2013 - May 2014)</small><br />
+      <small>(Oct. 2013 – May 2014)</small><br />
       <small>Founder and Associate at Binnovart SPRL, a company developing a
       platform where young artists can meet art investors to catch up and sell
       and promote their artworks.</small></li>
       <li><b>Teaching Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 - Sep. 2013)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Sep. 2013)</small><br />
       <small>Teaching assistant for the Louvain School of Engineering (EPL),
       attached to the Computer Science Engineering Department
       (INGI).</small></li>
       <li><b>Student Monitor</b>, <i>Louvain School of Engineering</i>,
-      Louvain-la-Neuve, Belgium. <small>(2004 - 2006)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(2004 – 2006)</small><br />
       <small>Student monitor (tutor) for the <i>« Introduction to
       Programming »</i> course taught to first year bachelors in
       engineering.</small></li>
@@ -106,20 +106,20 @@ permalink: /about/cv/
     <ul>
       <li><b>Founder and President</b>, <i>Computer Science and IT in Education
       ASBL</i> (CSITEd), Louvain-la-Neuve, Belgium.
-      <small>(Jul. 2012 - now)</small><br />
+      <small>(Jul. 2012 – now)</small><br />
       <small>CSITEd is a non-profit organisation whose goal is to promote
       computer science at large, especially towards pupils from secondary
       schools and in the education field.</small></li>
       <li><b>President</b>, <i>Corps Scientifique de l'Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2013 - May 2014)</small><br />
+      <small>(Sep. 2013 – May 2014)</small><br />
       <small>The <i>« Corps Scientifique de l‘UCL »</i> (Scientific Body) of the
       university gathers all the researchers that are not professors. The role
       of the president is to be the representative of the body in several
       organs of the university, some of them being decision
       organs.</small></li>
       <li><b>Treasurer</b>, <i>UCLouvain ACM Student Chapter ASBL</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2011 - Sep. 2013)</small></li>
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2011 – Sep. 2013)</small></li>
       <li><b>Founder and Co-organiser</b>, <i>Belgian Olympiad in
       Informatics</i>. <small>(Editions 2010 and 2011)</small><br />
       <small>The Belgian Olympiad in Informatics (be-OI) is a programming and
@@ -128,7 +128,7 @@ permalink: /about/cv/
       (IOI).</small></li>
       <li><b>Founder and President</b>, <i>UCLouvain ACM Student Chapter
       ASBL</i>, Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2009 - Sep. 2011)</small><br />
+      <small>(Sep. 2009 – Sep. 2011)</small><br />
       <small>The UCLouvain ACM Student Chapter is the local chapter of the
       Association for Computing Machinery (ACM), an international organisation
       whose goal is to promote computer science.</small></li>
@@ -196,7 +196,7 @@ permalink: /about/cv/
       Interaction</i>, May 2012.</li>
       <li>Jim Plumat, Chantal Poncin, Delphine Ducarme, Sébastien Combéfis.
       Passer d'un « Service d'Aide à la Réussite » à des « Ateliers de Formation
-      Professionnelle » ou comment passer d'un SAR, une béquille ? - à un AFP,
+      Professionnelle » ou comment passer d'un SAR, une béquille ? – à un AFP,
       un piolet !. In <i>Proceedings of the 27th Congrès de l'Association
       Internationale de Pédagogie Universitaire</i>, May 2012.</li>
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, Peter
@@ -288,26 +288,26 @@ permalink: /about/cv/
 
     <ul>
       <li><b>2016 European MOOCs Stakeholders Summit</b> (EMOOCs 2016), Graz,
-      Austria. <small>(22-24 Feb. 2016)</small></li>
+      Austria. <small>(22–24 Feb. 2016)</small></li>
       <li><b>HybridEd: MOOC-based Models for Hybrid Pedagogies</b> (HybridEd
       2015), Toledo, Spain. <small>(18 Sep. 2015)</small></li>
       <li><b>Scratch Conference 2015</b>, Amsterdam, The Netherlands.
-      <small>(12-15 Aug. 2015)</small></li>
+      <small>(12–15 Aug. 2015)</small></li>
       <li><b>1st Int'l Code Hunt Workshop on Educational Software
       Engineering</b> (CHESE 2015), Baltimore, MD, USA. <small>(14 Jul.
       2015)</small></li>
       <li><b>2015 European MOOCs Stakeholders Summit</b> (EMOOCs 2015), Mons,
-      Belgium. <small>(18-20 May 2015)</small></li>
+      Belgium. <small>(18–20 May 2015)</small></li>
       <li><b>8th IOI Conference</b>, Taipei, Taiwan.
       <small>(15, 17 Jul. 2014)</small></li>
       <li><b>28ème Congrès de l'Association Internationale de Pédagogie
       Universitaire</b> (AIPU 2014), Mons, Belgium.
-      <small>(18-22 May 2014)</small></li>
+      <small>(18–22 May 2014)</small></li>
       <li><b>Formal Verification and Modeling in Human-Machine Systems AAAI
       Spring Symposium</b> (FVHMS 2014), Palo Alto, CA, USA.
-      <small>(24-26 Mar. 2014)</small></li>
+      <small>(24–26 Mar. 2014)</small></li>
       <li><b>2014 European MOOCs Stakeholders Summit</b> (EMOOCs 2014),
-      Lausanne, Switzerland. <small>(10-12 Feb. 2014)</small></li>
+      Lausanne, Switzerland. <small>(10–12 Feb. 2014)</small></li>
       <li><b>7th IOI Conference</b>, Brisbane, Australia.
       <small>(8, 10 Jul. 2013)</small></li>
       <li><b>Première journée du Corps Scientifique de l'UCL</b>,
@@ -318,21 +318,21 @@ permalink: /about/cv/
       (Formal H), London, UK. <small>(28 May 2012)</small></li>
       <li><b>27ème Congrès de l'Association Internationale de Pédagogie
       Universitaire</b> (AIPU 2012), Trois-Rivières, QC, Canada.
-      <small>(14-18 May 2012)</small></li>
+      <small>(14–18 May 2012)</small></li>
       <li><b>ACM Europe Chapter Workshop</b>, Paris, France.
-      <small>(12-13 Jan. 2012)</small></li>
+      <small>(12–13 Jan. 2012)</small></li>
       <li><b>2011 IEEE International Conference on Systems, Man, and
-      Cybernetics</b> (SMC 2011), Anchorage, AK, USA. <small>(9-12 Oct.
+      Cybernetics</b> (SMC 2011), Anchorage, AK, USA. <small>(9–12 Oct.
       2011)</small></li>
       <li><b>5th IOI Conference</b>, Pattaya, Thailand.
       <small>24, 26 Jul. 2011</small></li>
       <li><b>8th BElgian-NEtherlands software eVOLution seminar</b> (BENEVOL
-      2009), Louvain-la-Neuve, Belgium. <small>(17-18 Dec. 2009)</small></li>
+      2009), Louvain-la-Neuve, Belgium. <small>(17–18 Dec. 2009)</small></li>
       <li><b>3rd International Workshop on Formal Methods for Interactive
       Systems</b> (FMIS 2009), Eindhoven, The Netherlands.
       <small>(2 Nov. 2009)</small></li>
       <li><b>ACM SIGCHI symposium on Engineering Interactive Computing
-      Systems</b> (EICS 2009), Pittsburgh, PA, USA. <small>(14-17 Jul.
+      Systems</b> (EICS 2009), Pittsburgh, PA, USA. <small>(14–17 Jul.
       2009)</small></li>
       <li><b>Annual Meeting of the FNRS Contact group on Fundamental Computer
       Science</b>, Namur, Belgium. <small>(28 May 2008)</small></li>
@@ -342,9 +342,9 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Visiting researcher</b>, <i>NASA Ames Research Center</i>, Mountain
-      View, CA, USA. <small>(30 May 2011-15 Jul. 2011)</small></li>
+      View, CA, USA. <small>(30 May 2011–15 Jul. 2011)</small></li>
       <li><b>Visiting researcher</b>, <i>NASA Ames Research Center</i>, Mountain
-      View, CA, USA. <small>(23 Aug. 2010-18 Sep. 2010)</small></li>
+      View, CA, USA. <small>(23 Aug. 2010–18 Sep. 2010)</small></li>
     </ul>
 
     <h3>Organised events</h3>
@@ -360,29 +360,29 @@ permalink: /about/cv/
 
     <ul>
       <li><b>11th International Bebras Task Workshop</b>, Sankt-Pölten, Austria.
-      <small>(25-29 May 2015)</small></li>
+      <small>(25–29 May 2015)</small></li>
       <li><b>IOI Workshop 2015</b>, Bitola, Republic of Macedonia.
-      <small>(19-24 Apr. 2015)</small></li>
-      <li>Euraxess Conference: Raising Researchers' Voices - Opinions on Job
+      <small>(19–24 Apr. 2015)</small></li>
+      <li>Euraxess Conference: Raising Researchers' Voices – Opinions on Job
       Careers and Rights</b>, Brussels, Belgium</li>
       <li><b>9th International Bebras Task Workshop</b>, Toruń, Poland.
-      <small>(28-30 Jun. 2013)</small></li>
+      <small>(28–30 Jun. 2013)</small></li>
       <li><b>8th International Bebras Task Workshop</b>, Druskininkai, Lituania.
-      <small>(29 May 2012-3 Jun. 2012)</small></li>
+      <small>(29 May 2012–3 Jun. 2012)</small></li>
       <li><b>2011 IEEE International Conference on Systems, Man, and
       Cybernetics</b> (SMC 2011), Anchorage, AK, USA. <small>(9 Oct.
       2011)</small></li>
       <li><b>Fifth GASICS Meeting</b>, Mons, Belgium.
-      <small>(5-6 May 2011)</small></li>
+      <small>(5–6 May 2011)</small></li>
       <li><b>25th IEEE/ACM International Conference on Automated Software
       Engineering</b> (ASE 2010), Antwerpen, Belgium.
-      <small>(20-24 Sep. 2010)</small></li>
+      <small>(20–24 Sep. 2010)</small></li>
       <li><b>16th International Symposium on Formal Methods</b> (FM 2009),
-      Eindhoven, The Netherlands. <small>(2-6 Nov. 2009)</small></li>
+      Eindhoven, The Netherlands. <small>(2–6 Nov. 2009)</small></li>
       <li><b>Automata and Verification Workshop</b>, Mons, Belgium.
-      <small>(25-26 Aug. 2008)</small></li>
+      <small>(25–26 Aug. 2008)</small></li>
       <li><b>MOdelling and VErifying parallel Processes summer school</b>
-      (MOVEP 2008), Orléans, France. <small>(23-27 Jun. 2008)</small></li>
+      (MOVEP 2008), Orléans, France. <small>(23–27 Jun. 2008)</small></li>
       <li><b>Research seminar on Software Evolution</b> (Evol@Mons 2008),
       Mons, Belgium. <small>(25 Feb. 2008)</small></li>
     </ul>
@@ -409,47 +409,47 @@ permalink: /about/cv/
     <h3>Trained Courses at UCL</h3>
 
     <ul>
-      <li><b>LFSAB1401 - Informatique 1</b>, <i>First year bachelor students in
-      engineering</i>. <small>(2004-2011, 8 years)</small><br />
+      <li><b>LFSAB1401 – Informatique 1</b>, <i>First year bachelor students in
+      engineering</i>. <small>(2004–2011, 8 years)</small><br />
       <small>That course teaches the basics of object oriented programming,
       using the Java programming language. Students are discovering notions of
       programming, objects, classes, arrays, composition and inheritance,
       graphical interface, files and linked data structures.</small></li>
-      <li><b>LSINF1160 - Introduction à l'Algorithmique et Programmation,
+      <li><b>LSINF1160 – Introduction à l'Algorithmique et Programmation,
       partie 1</b>, <i>First year bachelor students in computer science</i>.
-      <small>(2007-2011, 5 years)</small><br />
+      <small>(2007–2011, 5 years)</small><br />
       <small>That course teaches the basics of algorithmic and programming,
       mainly using the Java programming language. Students are discovering
       algorithmic, representation of numbers, the notion of machine code and
       algorithms on arrays.</small></li>
-      <li><b>LINGI2143 - Concurrent Systems: Models and Analysis</b>, <i>Master
+      <li><b>LINGI2143 – Concurrent Systems: Models and Analysis</b>, <i>Master
       students in computer science and in computer science engineering</i>.
-      <small>(2008, 2010-2011, 3 years)</small><br />
+      <small>(2008, 2010–2011, 3 years)</small><br />
       <small>In that course, students are learning the theory of concurrent
       systems. They are taught how to model such systems and how to make
       analysis (deadlock, reachability, safety and liveness properties).
       Students have to realise three small projects with LTS models (LTSA) and
       petri nets (pipe).</small></li>
-      <li><b>LINGI2132 - Langages et Traducteurs</b>, <i>First year master
+      <li><b>LINGI2132 – Langages et Traducteurs</b>, <i>First year master
       students in computer science and in computer science engineering</i>.
-      <small>(2008-2010, 3 years)</small><br />
+      <small>(2008–2010, 3 years)</small><br />
       <small>In that course, students are learning the theory of automata,
       languages and compilation. Students have to realise a project which
       consists in the development of a compiler or interpreter for a language
       that they define, using a LL(1) or WP syntactic analyser.</small></li>
-      <li><b>LSINF1121 - Algorithmique et Structures de Données</b>, <i>Third
+      <li><b>LSINF1121 – Algorithmique et Structures de Données</b>, <i>Third
       year bachelor students in computer science and in computer science
       engineering</i>. <small>(2007, 1 year)</small></li>
-      <li><b>LGBIO2010 - Bioinformatique</b>, <i>Master students in computer
+      <li><b>LGBIO2010 – Bioinformatique</b>, <i>Master students in computer
       science and in computer science engineering</i>. <small>(2007, 1
       year)</small></li>
-      <li><b>LSINF1151 - Laboratoire; Résolution Informatique de Problèmes</b>,
+      <li><b>LSINF1151 – Laboratoire; Résolution Informatique de Problèmes</b>,
       <i>First year bachelor students in computer science</i>.
       <small>(2012, 1 year)</small></li>
-      <li><b>LSINF1101 - Introduction à la programmation</b>, <i>First year
+      <li><b>LSINF1101 – Introduction à la programmation</b>, <i>First year
       bachelor students in computer science</i>, <small>(2012, 1
       year)</small></li>
-      <li><b>LSINF1102 - Résolution informatique de problèmes</b>, <i>First year
+      <li><b>LSINF1102 – Résolution informatique de problèmes</b>, <i>First year
       bachelor students in computer science</i>. <small>(2012, 1
       year)</small></li>
     </ul>
@@ -462,7 +462,7 @@ permalink: /about/cv/
       <small>Trainer for a course about the LATEX professional typesetting
       system.</small></li>
       <li><b>Trainer</b>, <i>Faculty of Science</i>, Louvain-la-Neuve, Belgium.
-      <small>(Summers 2011-2013, 3 years)</small><br />
+      <small>(Summers 2011–2013, 3 years)</small><br />
       <small>Trainer for the summer courses in physics organised for the future
       university students, giving the module on optics (in particular the
       interference phenomenon).</small></li>
@@ -505,32 +505,32 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Guest</b>, <i>26th International Olympiad in Informatics
-      (IOI 2014)</i>, Taipei, Taiwan. <small>(13-20 Jul. 2014)</small></li>
+      (IOI 2014)</i>, Taipei, Taiwan. <small>(13–20 Jul. 2014)</small></li>
       <li><b>Internship Supervisor</b>, <i>Supervising a 3rd year bachelor
       student from EPHEC</i>, Université catholique de Louvain,
-      Louvain-la-Neuve, Belgium. <small>(Feb. 2014-May 2014)</small></li>
+      Louvain-la-Neuve, Belgium. <small>(Feb. 2014–May 2014)</small></li>
       <li><b>Guide</b>, <i>Benelux Algorithm Programming Contest (BAPC
       2013)</i>, Utrecht, The Netherlands. <small>(26 Oct. 2013)</small></li>
       <li><b>Guest</b>, <i>25th International Olympiad in Informatics
-      (IOI 2013)</i>, Brisbane, Australia. <small>(6-13 Jul. 2013)</small></li>
+      (IOI 2013)</i>, Brisbane, Australia. <small>(6–13 Jul. 2013)</small></li>
       <li><b>Reader for Thesis of Bachelor in Business Computing</b>,
       <i>Institut Paul Lambin (IPL)</i>, Brussels, Belgium.
       <small>(Jun. 2010, Jun. 2012)</small></li>
       <li><b>Invited Student Scholar</b>, <i>ACM A.M. Turing Centenary
       Celebration</i>, San Francisco, CA, USA.</li>
       <li><b>Guest</b>, <i>23th International Olympiad in Informatics
-      (IOI 2011)</i>, Pattaya, Thailand. <small>(22-29 Jul. 2011)</small></li>
+      (IOI 2011)</i>, Pattaya, Thailand. <small>(22–29 Jul. 2011)</small></li>
       <li>Participation to the sessions of the Agile Campus Tour,
-      Louvain-la-Neuve, Belgium. <small>(Feb. 2011-Mar. 2011)</small></li>
+      Louvain-la-Neuve, Belgium. <small>(Feb. 2011–Mar. 2011)</small></li>
       <li><b>Visitor</b>, <i>ICT 2010: Digitally Driven</i>, Brussels, Belgium.
-      <small>(27-29 Sep. 2010)</small></li>
+      <small>(27–29 Sep. 2010)</small></li>
     </ul>
 
 
     <h2>Projects</h2>
 
     <ul>
-      <li><b>Pythia</b> <small>(Jan. 2012-now)</small><br />
+      <li><b>Pythia</b> <small>(Jan. 2012–now)</small><br />
       <small>The Pythia project consists in developing an online learning
       platform for programming. The platform supports automatic correction of
       submitted programs, and generates intelligent feedbacks to support
@@ -538,18 +538,18 @@ permalink: /about/cv/
       project also consists in creating a set of lessons meant to be used in
       secondary schools. The project is realised with CSITEd and the École
       Centrale des Arts et Métiers.</small></li>
-      <li><b>ILPADS</b> <small>(Jan. 2013-now)</small><br />
+      <li><b>ILPADS</b> <small>(Jan. 2013–now)</small><br />
       <small>The ILPADS project consists in developing an interactive online
       platform to develop programming and algorithm design skills. The platform
       is mainly targeted to secondary school pupils, but is meant to be used by
       people at large. The goal of the platform is to grow algorithmic thinking
       and then drive them to the learning of the Python programming language.
       The project is realised with CSITEd.</small></li>
-      <li><b>MCP</b> <small>(Mar. 2014-now)</small><br />
+      <li><b>MCP</b> <small>(Mar. 2014–now)</small><br />
       <small>The MCP project consists in developing a platform where
       contestants can set up a public profile with their performances on
       various contests in order to compare themselves with others.</small></li>
-      <li><b>METIER</b> <small>(Sep. 2011-Dec. 2011)</small><br />
+      <li><b>METIER</b> <small>(Sep. 2011–Dec. 2011)</small><br />
       <small>The METIER project consists in creating a new scheme to help
       bachelor students to succeed their first year at university. The project
       was about to develop a new course targeted to computer science students,
@@ -567,7 +567,7 @@ permalink: /about/cv/
       Operators »</i> paper submitted at the 2011 International Workshop on
       Machine Learning Technologies in Software Engineering conference
       (MALETS 2011).</small></li>
-      <li><b>ACM 2010-2011 Student Chapter Excellence Award</b>.
+      <li><b>ACM 2010–2011 Student Chapter Excellence Award</b>.
       <small>(2011)</small><br />
       <small>Award received for the Outstanding Chapter Activities of the
       UCLouvain ACM Student Chapter.</small></li>
@@ -577,25 +577,25 @@ permalink: /about/cv/
 
     <ul>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
-      <small>(Sep. 2015-now)</small></li>
+      <small>(Sep. 2015–now)</small></li>
       <li><b>HTML5.1x Learn HTML5 from W3C</b>, <i>edX</i>.
-      <small>(Jul. 2015-now)</small></li>
-      <li><b>Louv1.2x Paradigms of Computer Programming - Abstraction and
-      Concurrency</b>, <i>edX</i>. <small>(Jan. 2015-now)</small></li>
-      <li><b>Louv1.1x Paradigms of Computer Programming - Fundamentals</b>,
-      <i>edX</i>. <small>(Nov. 2014-now)</small></li>
+      <small>(Jul. 2015–now)</small></li>
+      <li><b>Louv1.2x Paradigms of Computer Programming – Abstraction and
+      Concurrency</b>, <i>edX</i>. <small>(Jan. 2015–now)</small></li>
+      <li><b>Louv1.1x Paradigms of Computer Programming – Fundamentals</b>,
+      <i>edX</i>. <small>(Nov. 2014–now)</small></li>
       <li><b>World101x Anthropology of Current World Issues</b>, <i>edX</i>.
-      <small>(Oct. 2014-now)</small></li>
+      <small>(Oct. 2014–now)</small></li>
       <li><b>ATOC185x Natural Disasters</b>, <i>edX</i>.
-      <small>(Aug. 2015-now)</small></li>
+      <small>(Aug. 2015–now)</small></li>
       <li><b>AE1110x Introduction to Aeronautical Engineering</b>, <i>edX</i>.
-      <small>(May 2014-now)</small></li>
+      <small>(May 2014–now)</small></li>
       <li><b>UT.9.01x Effective Thinking Through Mathematics</b>, <i>edX</i>.
-      <small>(May 2014-now)</small></li>
+      <small>(May 2014–now)</small></li>
       <li><b>Louv3.01x Découvrir la science politique</b>, <i>edX</i>.
-      <small>(Apr. 2014-now)</small></li>
+      <small>(Apr. 2014–now)</small></li>
       <li><b>Functional Programming Principles in Scala</b>, <i>Coursera</i>.
-      <small>(Nov. 2012-now)</small></li>
+      <small>(Nov. 2012–now)</small></li>
     </ul>
 
 
@@ -603,20 +603,20 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Association Internationale de Pédagogie Universitaire (AIPU)</b>,
-      <i>Member</i>. <small>(2013-now)</small></li>
+      <i>Member</i>. <small>(2013–now)</small></li>
       <li><b>Association for Computing Machinery (ACM)</b>, <i>Member</i>.
-      <small>(2009-now)</small></li>
+      <small>(2009–now)</small></li>
       <li><b>Institute of Electrical and Electronics Engineers (IEEE)</b>,
-      <i>Member</i>. <small>(2009-now)</small></li>
+      <i>Member</i>. <small>(2009–now)</small></li>
     </ul>
 
     <h3>Other</h3>
 
     <ul>
       <li><b>Alumni Ingénieurs Louvain (AILouvain)</b>, <i>Member</i>.
-      <small>(2007-now)</small></li>
+      <small>(2007–now)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>,
-      <i>Member</i>. <small>(2002-now)</small></li>
+      <i>Member</i>. <small>(2002–now)</small></li>
     </ul>
 
 

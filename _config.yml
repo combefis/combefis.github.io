@@ -7,6 +7,7 @@ description: >
 baseurl: ""
 url: "https://sebastien.combefis.be"
 enforce_ssl: "sebastien.combefis.be"
+include: [".well-known"]
 
 # Build settings
 markdown: kramdown

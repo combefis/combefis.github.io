@@ -39,7 +39,7 @@ permalink: /teaching/
     <h3>Navigation</h3>
     <ul class="navigation">
       <li><a href="/teaching/ecam/">ECAM</a></li>
-      <li>ITSCM</li>
+      <li><a href="/teaching/itscm/">ITSCM</a></li>
       <li><a href="/teaching/ucl/">UCL</a></li>
       <li>Master thesis</li>
       <li>Internships</li>

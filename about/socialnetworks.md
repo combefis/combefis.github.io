@@ -42,6 +42,9 @@ permalink: /about/socialnetworks/
 
     <ul>
       <li><a href="https://github.com/combefis">GitHub</a></li>
+      <li><a href="https://bitbucket.org/combefis/">Bitbucket</a></li>
+      <li><a href="http://stackoverflow.com/users/3592801/combefis">
+      Stackoverflow</a></li>
       <li><a href="https://coderwall.com/combefis">Coderwall</a></li>
     </ul>
 
@@ -50,6 +53,8 @@ permalink: /about/socialnetworks/
 
     <ul>
       <li><a href="http://www.slideshare.net/seb478">Slideshare</a></li>
+      <li><a href="https://www.reddit.com/user/combefis">Reddit</a></li>
+      <li><a href="https://keybase.io/combefis">Keybase</a></li>
       <li><a href="http://www.vivino.com/users/combefis">Vivino</a></li>
     </ul>
   </div>

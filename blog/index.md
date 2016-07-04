@@ -17,4 +17,9 @@ permalink: /blog/
       {% endfor %}
     </ul>
   </div>
+  <div class="page-col page-col-2">
+    <p><img src="/images/san-francisco.jpg" alt="San Francisco, CA, USA 2014."
+    width="200" height="150" /><br />
+    San Francisco, CA, USA 2014.</p>
+  </div>
 </div>

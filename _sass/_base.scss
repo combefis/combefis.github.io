@@ -167,6 +167,19 @@ table {
 
 
 /**
+ * Figures
+ */
+figure {
+    text-align: center;
+
+    > img {
+        margin: auto;
+    }
+}
+
+
+
+/**
  * Wrapper
  */
 .wrapper {

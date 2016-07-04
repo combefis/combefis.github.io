@@ -132,7 +132,7 @@
 
 .post-list {
     margin-left: 0;
-    list-style: none;
+    list-style: none !important;
 
     > li {
         margin-bottom: $spacing-unit;
@@ -145,8 +145,12 @@
 }
 
 .post-link {
-    display: block;
     font-size: 24px;
+    color: $brand-color !important;
+
+    &:hover {
+        background-color: transparent !important;
+    }
 }
 
 

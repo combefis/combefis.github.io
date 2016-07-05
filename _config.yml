@@ -8,7 +8,7 @@ baseurl: ""
 url: "https://sebastien.combefis.be"
 enforce_ssl: "sebastien.combefis.be"
 include: [".well-known"]
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown

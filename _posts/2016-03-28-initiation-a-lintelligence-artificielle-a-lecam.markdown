@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Initiation à l'intelligence artificielle à l'ECAM"
-date:   2016-03-28 14:16:36 +0200
+title: "Initiation à l'intelligence artificielle à l'ECAM"
+date: 2016-03-28 14:16:36 +0200
 categories: enseignement
 ---
 

@@ -401,6 +401,10 @@ permalink: /about/cv/
       Interaction (Formal H).</li>
       <li><b>Technical Paper Review</b>, 2011 IEEE International Conference on
       Systems, Man, and Cybernetics (SMC 2011).</li>
+      <li><b>Checking Human Machine Interactions</b>, The Java Pathfinder Team,
+      Google Summer of Code 2011.</li>
+      <li><b>Checking Human Machine Interactions</b>, The Java Pathfinder Team,
+      Google Summer of Code 2010.</li>
     </ul>
 
 

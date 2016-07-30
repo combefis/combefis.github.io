@@ -43,7 +43,7 @@ permalink: /teaching/itscm/
         </td>
       </tr>
       <tr>
-        <td><br />2013–2015<br /><small>(3 years)</small></td>
+        <td>2013–2015<br /><small>(3 years)</small></td>
         <td>
           <b>2982.21.U31.D1 – Initiation aux bases de données</b>
           <p><small><i>This course, taught to students in first year of

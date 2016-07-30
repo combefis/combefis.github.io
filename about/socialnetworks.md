@@ -56,6 +56,8 @@ permalink: /about/socialnetworks/
       <li><a href="https://www.reddit.com/user/combefis">Reddit</a></li>
       <li><a href="https://keybase.io/combefis">Keybase</a></li>
       <li><a href="http://www.vivino.com/users/combefis">Vivino</a></li>
+      <li><a href="https://www.amazon.fr/Sebastien-Combefis/e/B00JCUOJA6">
+      Amazon</a></li>
     </ul>
   </div>
   <div class="page-col page-col-2">

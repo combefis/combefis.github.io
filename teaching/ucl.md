@@ -23,7 +23,7 @@ permalink: /teaching/ucl/
         <col style="width: 85%;"/>
       </colgroup>
       <tr>
-        <td>2014–2011<br /><small>(8 years)</small></td>
+        <td>2004–2011<br /><small>(8 years)</small></td>
         <td>
           <b>LFSAB1401 – Informatique 1</b>
           <p><small><i>This course, taught to students in first year of bachelor

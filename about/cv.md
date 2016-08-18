@@ -140,6 +140,9 @@ permalink: /about/cv/
     <h3>Journal papers</h3>
 
     <ul>
+      <li>Sébastien Combéfis, Gytautas Beresnevičius, Valentina Dagienė. Learning
+      Programming through Games and Contests: Overview, Characterisation and
+      Discussion. In <i>Olympiads in Informatics</i>, August 2016.</li>
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur. Automatic
       Detection of Potential Automation Surprises for ADEPT Models. In <i>IEEE
       Transactions on Human-Machine Systems</i>, 2016.</li>

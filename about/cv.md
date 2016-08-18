@@ -258,6 +258,8 @@ permalink: /about/cv/
     <h3>Books</h3>
 
     <ul>
+      <li>Sébastien Combéfis, Alexis Nootens. Bases des mathématiques et préparation
+      à l'enseignement supérieur : Formules et concepts, July 2016.</li>
       <li>Sébastien Combéfis, Georges-Henri Leclercq, Loïc Fortemps de Loneux,
       Adrien Bibal, Virginie Van den Schrieck (Eds). Bebras Belgium : Recueil de
       questions édition 2013, July 2016.</li>

@@ -9,11 +9,14 @@ permalink: /research/publications/
     <h2>2016</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
+      Identification with Code Plagiarism-Based Clustering. To appear, 2016.</li>
+
       <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
-      Pecheur, Franco Raimondi and Neha Rungta. Formal Analysis of Multiple
+      Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple
       Coordinated HMI Systems. To appear, 2016.</li>
 
-      <li>Sébastien Combéfis, Gytautas Beresnevičius and Valentina Dagienė.
+      <li>Sébastien Combéfis, Gytautas Beresnevičius, Valentina Dagienė.
       Learning Programming through Games and Contests: Overview,
       Characterisation and Discussion. In <i>Olympiads in Informatics</i>,
       <b>10</b>:39-60, 2016.
@@ -28,7 +31,7 @@ permalink: /research/publications/
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
 
       <li>Sébastien Combéfis, Marie-Françoise Lefebvre, Quentin Lurkin, Cédric
-      Marchand et Philippe Melotte. TeachEng, a Multi-Paradigm MOOCs Provider
+      Marchand, Philippe Melotte. TeachEng, a Multi-Paradigm MOOCs Provider
       Platform to Teach Future Engineers. In <i>Proceedings of the European
       MOOCs Stakeholders Summit 2016</i>, 521-525, Graz, Austria, February
       2016.

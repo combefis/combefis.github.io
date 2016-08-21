@@ -60,5 +60,9 @@ permalink: /teaching/itscm/
     <p><img src="/images/sydney.jpg" alt="Sydney, NSW, Australia, July 2013."
     width="200" height="150" /><br />
     Sydney, NSW, Australia, July 2013.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="/teaching/itscm/prog/">Programming Basics</a></li>
+    </ul>
   </div>
 </div>

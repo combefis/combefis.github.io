@@ -200,5 +200,9 @@ permalink: /teaching/ecam/
     <p><img src="/images/big-basin-redwoods-state-park.jpg" alt="Big Basin, CA,
     USA, July 2011." width="200" height="150" /><br />
     Big Basin, CA, USA, July 2011.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="/teaching/ecam/python/">Python</a></li>
+    </ul>
   </div>
 </div>

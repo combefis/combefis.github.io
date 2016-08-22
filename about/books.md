@@ -20,13 +20,19 @@ permalink: /about/books/
         <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
         o=8&#38;a=1446708314" width="1" height="1" border="0" alt=""
         style="border: none!important; margin: 0px!important;" /></td>
-        <td><p><i>Ce livre se veut être un guide pratique à destination de
-        quiconque désire profiter au maximum de toute la puissance de LaTeX
-        pour composer des documents de qualité typographique professionnelle.
-        Dans ce livre, vous ne trouverez pas un tutoriel détaillé, mais bien
-        des exemples concrets vous permettant de réaliser diverses choses comme
-        insérer des images, insérer des tableaux, faire des dessins, mettre en
-        page des mathématiques, présenter des codes source...</i></p></td>
+        <td>
+          <h3>LaTeX HowTo : Le Guide Pratique</h3>
+          <p><i>Ce livre se veut être un guide pratique à destination de
+          quiconque désire profiter au maximum de toute la puissance de LaTeX
+          pour composer des documents de qualité typographique professionnelle.
+          Dans ce livre, vous ne trouverez pas un tutoriel détaillé, mais bien
+          des exemples concrets vous permettant de réaliser diverses choses
+          comme insérer des images, insérer des tableaux, faire des dessins,
+          mettre en page des mathématiques, présenter des codes
+          source...</i></p>
+          <p>Par Sébastien Combéfis,
+          ISBN : 978-1-446-70831-6.</p>
+        </td>
       </tr>
       <tr>
         <td><a href="http://www.amazon.fr/gp/product/1291625232/ref=as_li_tl?
@@ -36,16 +42,69 @@ permalink: /about/books/
         <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
         o=8&#38;a=1291625232" width="1" height="1" border="0" alt=""
         style="border: none!important; margin: 0px!important;" /></td>
-        <td><p><i>Bebras est un concours international dont le but est de
-        sensibiliser ses participants à l'informatique en tant que science. Ce
-        concours, principalement destiné aux élèves du secondaire, se déroule
-        dans les écoles durant une semaine en automne. Le concours permet aux
-        jeunes de découvrir et d'avoir une meilleure connaissance de ce qu'est
-        l'informatique, de montrer qu'elle est partout dans la vie quotidienne
-        et de leur donner envie d'en savoir plus. Ce concours vise à accroitre
-        leur culture générale et à leur apprendre des notions plus spécifiques
-        aux sciences informatiques, en leur montrant que l'informatique est
-        captivante et diversifiée.</i></p></td>
+        <td>
+          <h3>Bebras Belgium : Recueil de questions Édition 2012</h3>
+          <p><i>Bebras est un concours international dont le but est de
+          sensibiliser ses participants à l'informatique en tant que science. Ce
+          concours, principalement destiné aux élèves du secondaire, se déroule
+          dans les écoles durant une semaine en automne. Le concours permet aux
+          jeunes de découvrir et d'avoir une meilleure connaissance de ce qu'est
+          l'informatique, de montrer qu'elle est partout dans la vie quotidienne
+          et de leur donner envie d'en savoir plus. Ce concours vise à accroitre
+          leur culture générale et à leur apprendre des notions plus spécifiques
+          aux sciences informatiques, en leur montrant que l'informatique est
+          captivante et diversifiée.</i></p>
+          <p>Par Sébastien Combéfis, Jérémy Wautelet, Georges-Henri Leclercq,
+          Adrien Bibal et Virginie Van den Schrieck (Eds.),
+          ISBN : 978-1-291-62523-3.</p>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.amazon.fr/gp/product/132674724X/ref=as_li_tl?
+        ie=UTF8&#38;camp=1642&#38;creative=6746&#38;creativeASIN=132674724X&#38;
+        linkCode=as2&#38;tag=uko-21">
+        <img src="/images/book-bebras-2013.png" width="100" height="149" /></a>
+        <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
+        o=8&#38;a=132674724X" width="1" height="1" border="0" alt=""
+        style="border: none!important; margin: 0px!important;" /></td>
+        <td>
+          <h3>Bebras Belgium : Recueil de questions Édition 2013</h3>
+          <p><i>Bebras est un concours international dont le but est de
+          sensibiliser ses participants à l'informatique en tant que science. Ce
+          concours, principalement destiné aux élèves du secondaire, se déroule
+          dans les écoles durant une semaine en automne. Le concours permet aux
+          jeunes de découvrir et d'avoir une meilleure connaissance de ce qu'est
+          l'informatique, de montrer qu'elle est partout dans la vie quotidienne
+          et de leur donner envie d'en savoir plus. Ce concours vise à accroitre
+          leur culture générale et à leur apprendre des notions plus spécifiques
+          aux sciences informatiques, en leur montrant que l'informatique est
+          captivante et diversifiée.</i></p>
+          <p>Par Sébastien Combéfis, Georges-Henri Leclercq, Loïc Fortemps de
+          Loneux, Adrien Bibal et Virginie Van den Schrieck (Eds.),
+          ISBN : 978-1-32674-724-4.</p>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://www.amazon.fr/gp/product/1326376802/ref=as_li_tl?
+        ie=UTF8&#38;camp=1642&#38;creative=6746&#38;creativeASIN=1326376802&#38;
+        linkCode=as2&#38;tag=uko-21">
+        <img src="/images/book-maths-secondaire-tome3.png" width="100"
+        height="149" /></a>
+        <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
+        o=8&#38;a=1326376802" width="1" height="1" border="0" alt=""
+        style="border: none!important; margin: 0px!important;" /></td>
+        <td>
+          <h3>Bases des mathématiques et préparation à l'enseignement supérieur
+          : Formules et concepts</h3>
+          <p><i>Ce livre est l'un des trois tomes de la trilogie &#171; Bases
+          des mathématiques et préparation à l'enseignement supérieur &#187;.
+          Ce tome propose un résumé condensé des formules et concepts couverts
+          en secondaire. Vous y trouverez très rapidement toutes les formules
+          et concepts de l'algèbre, de l'analyse, de la trigonométrie, de la
+          géométrie et enfin des statistiques et probabilités.</i></p>
+          <p>Par Sébastien Combéfis et Alexis Nootens,
+          ISBN : 978-1-326-37680-2.</p>
+        </td>
       </tr>
     </table>
   </div>

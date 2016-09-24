@@ -106,6 +106,24 @@ permalink: /about/books/
           ISBN : 978-1-326-37680-2.</p>
         </td>
       </tr>
+      <tr>
+        <td>
+        <img src="/images/book-apprendre-python.png" width="100"
+        height="149" />
+        </td>
+        <td>
+          <h3>Apprendre Python et s'initier à la programmation</h3>
+          <p><i>Ce livre propose une initiation à la programmation avec Python.
+          Sa première partie aborde les concepts de base que sont les
+          variables, conditions, instructions conditionnelles, boucles et
+          séquences, permettant de faire de la programmation procédurale. Sa
+          seconde partie introduit à la programmation orientée objet et
+          présente l'utilisation de dictionnaires, les exceptions, la
+          manipulation de fichiers et les interfaces graphiques.</i></p>
+          <p>Par Sébastien Combéfis et Quentin Lurkin,
+          ISBN : 978-1-326-76710-5.</p>
+        </td>
+      </tr>
     </table>
   </div>
   <div class="page-col page-col-2">

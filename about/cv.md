@@ -9,6 +9,9 @@ permalink: /about/cv/
     <h2>Education and trainings</h2>
 
     <ul>
+      <li><b>Higher Education Teaching Certificate</b>, <i>Université catholique
+      de Louvain</i>, Louvain-la-Neuve, Belgium.
+      <small>(Jan 2016 - ongoing)</small></li>
       <li><b>Advanced Master in Pedagogy in Higher Education</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Cum laude.
       <small>(Sep 2010 – Jun 2014)</small><br />

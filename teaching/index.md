@@ -43,7 +43,7 @@ permalink: /teaching/
       <li><a href="/teaching/ucl/">UCL</a></li>
       <li>Master thesis</li>
       <li>Internships</li>
-      <li>Trainings</li>
+      <li><a href="/teaching/trainings/">Trainings</a></li>
       <li>Conferences</li>
       <li>Projects</li>
     </ul>

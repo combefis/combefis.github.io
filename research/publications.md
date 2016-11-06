@@ -10,7 +10,11 @@ permalink: /research/publications/
 
     <ol class="publications-start">
       <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
-      Identification with Code Plagiarism-Based Clustering. To appear, 2016.</li>
+      Identification with Code Plagiarism-Based Clustering. In <i>Proceedings of the
+      2nd Int'l Code Hunt Workshop on Educational Software Engineering</i>,
+      1-6, Seattle, WA, USA, November 2016.
+      <a href="/files/publi/combefis-chese2016.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
 
       <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
       Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple
@@ -69,7 +73,7 @@ permalink: /research/publications/
       <li>Sébastien Combéfis, Alexis Paques. Pythia reloaded: an Intelligent
       Unit Testing-Based Code Grader for Education. In <i>Proceedings of the
       1st Int'l Code Hunt Workshop on Educational Software Engineering</i>,
-      5-8, Baltimore, Maryland, USA, July 2015.
+      5-8, Baltimore, MD, USA, July 2015.
       <a href="/files/publi/combefis-chese2015.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
       <a href="/files/publi/combefis-chese2015-slides.pdf">

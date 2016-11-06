@@ -169,6 +169,10 @@ permalink: /about/cv/
     <h3>Conference papers (peer-reviewed)</h3>
 
     <ul>
+      <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
+      Identification with Code Plagiarism-Based Clustering. In <i>Proceedings of the
+      2nd Int'l Code Hunt Workshop on Educational Software Engineering</i>,
+      November 2016.</li>
       <li>Sébastien Combéfis, Chantal Poncin. Web Platform to Support Teaching
       Programming with Snap! and Manage Pupils' Learning. In <i>Proceedings of
       the Scratch Conference 2015</i>, August 2015.</li>

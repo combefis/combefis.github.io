@@ -22,7 +22,7 @@ permalink: /about/
     Fax: +32(0)2.541.48.59<br />
     Email: <a href="mailto:s.combefis@ecam.be">s.combefis@ecam.be</a></p>
 
-    <p><a href="http://be.linkedin.com/in/sebastiencombefis">
+    <p><a href="https://www.linkedin.com/in/scombefis">
     <img src="/images/btn_liprofile_blue_80x15.gif" alt="LinkedIn"
     width="80" height="15" /></a></p>
   </div>

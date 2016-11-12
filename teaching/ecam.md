@@ -202,6 +202,7 @@ permalink: /teaching/ecam/
     Big Basin, CA, USA, July 2011.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
+      <li><a href="/teaching/ecam/nosql/">NoSQL</a></li>
       <li><a href="/teaching/ecam/python/">Python</a></li>
     </ul>
   </div>

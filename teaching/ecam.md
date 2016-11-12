@@ -17,6 +17,9 @@ permalink: /teaching/ecam/
     the course and a short description of it. For each course, only the
     activities I am involved in are mentioned.</p>
 
+
+    <h2>Currently taught</h2>
+
     <table>
       <colgroup>
         <col style="width: 15%;"/>
@@ -157,8 +160,18 @@ permalink: /teaching/ecam/
           English, a subject related to engineering.</i></small></p>
         </td>
       </tr>
+    </table>
+
+
+    <h2>Previously taught</h2>
+
+    <table>
+      <colgroup>
+        <col style="width: 15%;"/>
+        <col style="width: 85%;"/>
+      </colgroup>
       <tr>
-        <td>2016</td>
+        <td>2016<br /><small>(1 year)</small></td>
         <td>
           <b>B1070 – Projet intégrateur</b> <small>(6 ECTS, 71h)</small>
           <p><small><i>This course, taught to students in first year of

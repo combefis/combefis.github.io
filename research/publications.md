@@ -14,7 +14,10 @@ permalink: /research/publications/
       2nd Int'l Code Hunt Workshop on Educational Software Engineering</i>,
       1-6, Seattle, WA, USA, November 2016.
       <a href="/files/publi/combefis-chese2016.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
+      <a href="/files/publi/combefis-chese2016-slides.pdf">
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides" /></a></li>
 
       <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
       Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple

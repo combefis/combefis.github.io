@@ -304,6 +304,9 @@ permalink: /about/cv/
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>2nd Int'l Code Hunt Workshop on Educational Software
+      Engineering</b> (CHESE 2016), Seattle, WA, USA. <small>(14 Nov.
+      2016)</small></li>
       <li><b>2016 European MOOCs Stakeholders Summit</b> (EMOOCs 2016), Graz,
       Austria. <small>(22–24 Feb. 2016)</small></li>
       <li><b>HybridEd: MOOC-based Models for Hybrid Pedagogies</b> (HybridEd
@@ -407,6 +410,8 @@ permalink: /about/cv/
     <h3>Miscellaneous</h3>
 
     <ul>
+      <li><b>Program committee</b>, 2nd Int'l Code Hunt Workshop on Educational
+      Software Engineering (CHESE 2016).</li>
       <li><b>Program committee</b>, 1st Int'l Code Hunt Workshop on Educational
       Software Engineering (CHESE 2015).</li>
       <li><b>Reviewer</b>, IEEE Transactions on Human-Machine Systems.</li>

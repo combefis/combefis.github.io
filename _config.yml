@@ -5,8 +5,9 @@ description: >
   The personal website of Sébastien Combéfis contains information about
   his research and teaching activities, and other personal information.
 baseurl: ""
-url: https://sebastien.combefis.be
-enforce_ssl: sebastien.combefis.be
+url: http://sebastien.combefis.be
+#url: https://sebastien.combefis.be
+#enforce_ssl: sebastien.combefis.be
 include: [".well-known"]
 permalink: /blog/:year/:month/:day/:title/
 

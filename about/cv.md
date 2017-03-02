@@ -11,17 +11,17 @@ permalink: /about/cv/
     <ul>
       <li><b>Higher Education Teaching Certificate</b>, <i>Université catholique
       de Louvain</i>, Louvain-la-Neuve, Belgium.
-      <small>(Jan 2016 - ongoing)</small></li>
+      <small>(Jan. 2016 - ongoing)</small></li>
       <li><b>Advanced Master in Pedagogy in Higher Education</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Cum laude.
-      <small>(Sep 2010 – Jun 2014)</small><br />
+      <small>(Sep. 2010 – Jun. 2014)</small><br />
       <small>- Subject: <i>« Enseigner des outils méthodologiques et former une
       attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en
       place et évaluation d‘un dispositif d’aide à la réussite »</i><br />
       - Supervisor: <i>Prof. Mariane Frenay and co-supervisor: Dr. Mireille
       Houart</i>.</small></li>
       <li><b>PhD in Engineering</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep 2007 – Nov 2013)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Nov. 2013)</small><br />
       <small>- Subject: <i>« A Formal Framework for the Analysis of
       Human-Machine Interactions »</i><br />
       - Examining Board: <i>Prof. Charles Pecheur, supervisor (UCL/ICTM,
@@ -31,7 +31,7 @@ permalink: /about/cv/
       Prof. Peter Van Roy, chair (UCL/ICTM, Belgium)</i>.</small></li>
       <li><b>Master in Computer Science Engineering</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Magna cum laude.
-      <small>(Sep 2002 – Jun 2007)</small><br />
+      <small>(Sep. 2002 – Jun. 2007)</small><br />
       <small>- Subject: <i>« Viral Marketing and Community Detection
       Algorithm »</i><br />
       - Supervisor: <i>Prof. Pierre Dupont</i>.</small></li>
@@ -43,6 +43,10 @@ permalink: /about/cv/
     <h3>Trainings</h3>
 
     <ul>
+      <li><b>Security Fundamentals</b>, <i>Technobel</i>, Ciney, Belgium.
+      <small>(6–7 Jun. 2016)</small><br />
+      <small>Training about IT security to understand threats and
+      attacks in IT systems and how to deal with them.</small></li>
       <li><b>From Research To Business</b> (FR2B), Belgium.
       <small>(1st cycle 2010)</small><br />
       <small>Seven-day training composed of four modules, targeted to
@@ -68,16 +72,17 @@ permalink: /about/cv/
       Belgium. <small>(Sep. 2015 – now)</small><br />
       <small>Project Manager for the TeachEng project working on the
       development and deployment of a MOOC platform for engineers.</small></li>
+      <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i>
+      (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015,
+      Jan. 2017 – now)</small>
+      <small>Professor in a higher education institution in social advancement
+      for the bachelor in informatics and systems and the bachelor in
+      electronics of the Technology Pole.</small></li>
       <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>
       (UCL), Louvain-la-Neuve, Belgium.
       <small>(Sep. 2014 – Sep. 2016)</small><br />
       <small>Invited lecturer for the programming course for first year
       bachelor students in engineering and in computer science.</small></li>
-      <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i>
-      (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015)</small>
-      <small>Professor in a higher education institution in social advancement
-      for the bachelor in informatics and systems and the bachelor in
-      electronics of the Technology Pole.</small></li>
       <li><b>Research Assistant</b>, <i>Université catholique de Louvain</i>,
       Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br />
       <small>Research assistant for the ICT, Electronics and Applied
@@ -370,6 +375,9 @@ permalink: /about/cv/
     <h3>Organised events</h3>
 
     <ul>
+      <li><b>Google Hash Code 2017</b>, <i>ECAM Brussels Engineering School
+      Hub</i>, Woluwé-Saint-Lambert, Belgium.
+      <small>(23 Feb. 2017)</small></li>
       <li><b>LVL HMI Meeting 2011</b>, Louvain-la-Neuve, Belgium.
       <small>(17 Nov. 2011)</small></li>
       <li><b>Annual Meeting of the FNRS Contact group on Fundamental Computer
@@ -379,12 +387,16 @@ permalink: /about/cv/
     <h3>Participation (conference, workshop, tutorial...)</h3>
 
     <ul>
+      <li><b>Google Hash Code 2017</b>, <i>Online Qualification Round</i>,
+      Woluwé-Saint-Lambert, Belgium.
+      <small>(23 Feb. 2017)</small></li>
       <li><b>11th International Bebras Task Workshop</b>, Sankt-Pölten, Austria.
       <small>(25–29 May 2015)</small></li>
       <li><b>IOI Workshop 2015</b>, Bitola, Republic of Macedonia.
       <small>(19–24 Apr. 2015)</small></li>
-      <li>Euraxess Conference: Raising Researchers' Voices – Opinions on Job
-      Careers and Rights</b>, Brussels, Belgium</li>
+      <li><b>Euraxess Conference: Raising Researchers' Voices – Opinions on Job
+      Careers and Rights</b>, Brussels, Belgium.
+      <small>(21–22 Nov. 2013)</small></li>
       <li><b>9th International Bebras Task Workshop</b>, Toruń, Poland.
       <small>(28–30 Jun. 2013)</small></li>
       <li><b>8th International Bebras Task Workshop</b>, Druskininkai, Lituania.

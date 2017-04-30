@@ -6,9 +6,24 @@ permalink: /research/publications/
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <h2>2016</h2>
+    <h2>2017</h2>
 
     <ol class="publications-start">
+      <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
+      Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple
+      Coordinated HMI Systems. In Benjamin Weyers, Judy Bowen, Alan Dix,
+      Philippe Palanque, Eds., <i>The Handbook of Formal Methods in
+      Human-Computer Interaction</i>, ch. 15, 405-431, 2017.</li>
+
+      <li>Guillaume Maudoux, Charles Pecheur, Sébastien Combéfis. Learning Safe
+      Interactions and Full-Control. In Benjamin Weyers, Judy Bowen, Alan Dix,
+      Philippe Palanque, Eds., <i>The Handbook of Formal Methods in
+      Human-Computer Interaction</i>, ch. 11, 297-317, 2017.</li>
+    </ol>
+
+    <h2>2016</h2>
+
+    <ol class="publications-continue">
       <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
       Identification with Code Plagiarism-Based Clustering. In <i>Proceedings of the
       2nd Int'l Code Hunt Workshop on Educational Software Engineering</i>,
@@ -18,10 +33,6 @@ permalink: /research/publications/
       <a href="/files/publi/combefis-chese2016-slides.pdf">
       <img src="/images/slides.png" width="16" height="16"
       alt="Slides" /></a></li>
-
-      <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
-      Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple
-      Coordinated HMI Systems. To appear, 2016.</li>
 
       <li>Sébastien Combéfis, Gytautas Beresnevičius, Valentina Dagienė.
       Learning Programming through Games and Contests: Overview,

@@ -148,9 +148,17 @@ permalink: /about/cv/
     <h3>Journal papers</h3>
 
     <ul>
-      <li>Sébastien Combéfis, Gytautas Beresnevičius, Valentina Dagienė. Learning
-      Programming through Games and Contests: Overview, Characterisation and
-      Discussion. In <i>Olympiads in Informatics</i>, August 2016.</li>
+      <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
+      Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple
+      Coordinated HMI Systems. In <i>The Handbook of Formal Methods in
+      Human-Computer Interaction</i>, 2017.</li>
+      <li>Guillaume Maudoux, Charles Pecheur, Sébastien Combéfis. Learning Safe
+      Interactions and Full-Control. In <i>The Handbook of Formal Methods in
+      Human-Computer Interaction</i>, 2017.</li>
+      <li>Sébastien Combéfis, Gytautas Beresnevičius, Valentina Dagienė.
+      Learning Programming through Games and Contests: Overview,
+      Characterisation and Discussion. In <i>Olympiads in Informatics</i>,
+      August 2016.</li>
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur. Automatic
       Detection of Potential Automation Surprises for ADEPT Models. In <i>IEEE
       Transactions on Human-Machine Systems</i>, 2016.</li>
@@ -175,9 +183,9 @@ permalink: /about/cv/
 
     <ul>
       <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
-      Identification with Code Plagiarism-Based Clustering. In <i>Proceedings of the
-      2nd Int'l Code Hunt Workshop on Educational Software Engineering</i>,
-      November 2016.</li>
+      Identification with Code Plagiarism-Based Clustering. In <i>Proceedings
+      of the 2nd Int'l Code Hunt Workshop on Educational Software
+      Engineering</i>, November 2016.</li>
       <li>Sébastien Combéfis, Chantal Poncin. Web Platform to Support Teaching
       Programming with Snap! and Manage Pupils' Learning. In <i>Proceedings of
       the Scratch Conference 2015</i>, August 2015.</li>

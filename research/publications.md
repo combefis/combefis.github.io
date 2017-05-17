@@ -9,6 +9,12 @@ permalink: /research/publications/
     <h2>2017</h2>
 
     <ol class="publications-start">
+      <li>Chang Liu, Sébastien Combéfis, Judith Bishop, Tao Xie. Workshop
+      Proposal: The Third International Workshop on Coding and Human aspects
+      of Educational Software Engineering (CHESE 2017).
+      <a href="/files/publi/combefis-splash17workshops.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+
       <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
       Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple
       Coordinated HMI Systems. In Benjamin Weyers, Judy Bowen, Alan Dix,

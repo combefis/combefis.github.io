@@ -395,6 +395,8 @@ permalink: /about/cv/
     <h3>Participation (conference, workshop, tutorial...)</h3>
 
     <ul>
+      <li><b>13th International Bebras Task Workshop</b>, Brescia, Italy.
+      <small>(25 May–2 June 2017)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>Online Qualification Round</i>,
       Woluwé-Saint-Lambert, Belgium.
       <small>(23 Feb. 2017)</small></li>
@@ -430,6 +432,8 @@ permalink: /about/cv/
     <h3>Miscellaneous</h3>
 
     <ul>
+      <li><b>Program co-chair</b>, 3nd Int'l Coding and Human aspects of
+      Educational Software Engineering (CHESE 2017).</li>
       <li><b>Program committee</b>, 2nd Int'l Code Hunt Workshop on Educational
       Software Engineering (CHESE 2016).</li>
       <li><b>Program committee</b>, 1st Int'l Code Hunt Workshop on Educational
@@ -563,7 +567,8 @@ permalink: /about/cv/
       <i>Institut Paul Lambin (IPL)</i>, Brussels, Belgium.
       <small>(Jun. 2010, Jun. 2012)</small></li>
       <li><b>Invited Student Scholar</b>, <i>ACM A.M. Turing Centenary
-      Celebration</i>, San Francisco, CA, USA.</li>
+      Celebration</i>, San Francisco, CA, USA.
+      <small>(15–16 Jun. 2012)</small></li></li>
       <li><b>Guest</b>, <i>23th International Olympiad in Informatics
       (IOI 2011)</i>, Pattaya, Thailand. <small>(22–29 Jul. 2011)</small></li>
       <li>Participation to the sessions of the Agile Campus Tour,

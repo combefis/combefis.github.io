@@ -26,7 +26,7 @@ permalink: /teaching/ecam/
         <col style="width: 85%;"/>
       </colgroup>
       <tr>
-        <td>2014–now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(3 years)</small></td>
         <td>
           <b>B2010 – Informatique</b> <small>(4 ECTS, 43h)</small>
           <ul>
@@ -43,7 +43,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2015–now<br /><small>(2 years)</small></td>
+        <td>2015–now<br /><small>(3 years)</small></td>
         <td>
           <b>B2160 – Projet informatique</b> <small>(5 ECTS, 57h)</small>
           <ul>
@@ -57,11 +57,13 @@ permalink: /teaching/ecam/
           expressions, network programming (socket, TCP client/server, UDP
           peers), concurrent programming (process and thread), functional
           programming. It also introduces algorithmic with recursion,
-          trees, search algorithms and backtracking for AI.</i></small></p>
+          trees, search algorithms and backtracking for AI. Finally, it
+          introduces to numerical methods with Octave and with the
+          Scipy library.</i></small></p>
         </td>
       </tr>
       <tr>
-        <td>2016–now<br /><small>(1 year)</small></td>
+        <td>2016–now<br /><small>(2 years)</small></td>
         <td>
           <b>E3020 – Électronique et programmation des systèmes
           embarqués</b> <small>(4 ECTS, 42h)</small>
@@ -70,15 +72,16 @@ permalink: /teaching/ecam/
             <li><small>E302D – Application robotisée (21h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in third year of
-          bachelor in electronics and computer science engineering, presents 
+          bachelor in electronics and in computer science engineering, presents 
           the three main components of an embedded system: energy management,
           an intelligent electronic unit and peripherals. The course presents
           how to build an embedded system through the design and the
-          construction of a robot application.</i></small></p>
+          construction of a robot application. In particular, it teaches how to
+          program embedded systems.</i></small></p>
         </td>
       </tr>
       <tr>
-        <td>2014–now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(3 years)</small></td>
         <td>
           <b>M3090 – Techniques informatiques</b> <small>(4 ECTS, 43h)</small>
           <ul>
@@ -87,12 +90,12 @@ permalink: /teaching/ecam/
           <p><small><i>This course, taught to students in third year of
           bachelor in electromechanical engineering, presents how 
           to analyse and develop a computer application using modelisation
-          (UML), simple databases and queries (access) and object oriented
-          programming (C#).</i></small></p>
+          (UML), simple databases and queries (Microsoft Access) and object
+          oriented programming (C#).</i></small></p>
         </td>
       </tr>
       <tr>
-        <td>2014–now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(3 years)</small></td>
         <td>
           <b>I4030 – Technologie des ordinateurs et systèmes
           d'exploitation</b> <small>(5 ECTS, 56h)</small>
@@ -106,13 +109,13 @@ permalink: /teaching/ecam/
           master in electronics and in computer science engineering, presents
           how a computer works, from the very low hardware level to the very
           high level architecture and organisation. It also presents how it can
-          be operated with an operating system and its components (process and
+          be operated with an operating system and its components (processes and
           threads, scheduling, deadlock, memory management, filesystem, mass
           storage, security...).</i></small></p>
         </td>
       </tr>
       <tr>
-        <td>2016–now<br /></td>
+        <td>2016–now<br /><small>(1 year)</small></td>
         <td>
           <b>I4040 – Base de données avancées</b> <small>(4 ECTS, 43h)</small>
           <ul>
@@ -127,17 +130,17 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2014–now<br /><small>(2 years)</small></td>
+        <td>2014–now<br /><small>(3 years)</small></td>
         <td>
           <b>I4020 – Architecture logicielle</b> <small>(3 ECTS, 27h)</small>
           <p><small><i>This course, taught to students in first year of master
-          in electronics and in computer science engineering, presents how to
-          architecture a software at different levels from the structure of the
-          code to organisation of software components.</i></small></p>
+          in computer science engineering, presents how to architecture a
+          software at different levels from the structure of the code to
+          organisation of software components.</i></small></p>
         </td>
       </tr>
       <tr>
-        <td>2017–now<br /></td>
+        <td>2017–now<br /><small>(1 year)</small></td>
         <td>
           <b>I5020 – Systèmes distribués</b> <small>(3 ECTS, 29h)</small>
           <ul>
@@ -151,13 +154,16 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2015–now<br /><small>(2 years)</small></td>
+        <td>2015–now<br /><small>(3 years)</small></td>
         <td>
           <b>I5030 – Séminaires professionnels</b> <small>(4 ECTS, 45h)</small>
           <p><small><i>This course, taught to students in second year of master
           in electronics and in computer science engineering, is a seminar
-          where the students are asked to prepare and present, in
-          English, a subject related to engineering.</i></small></p>
+          where the students are asked to prepare and present, in English, a
+          subject related to engineering or to their master thesis to share
+          their experience. Students are also asked to attend external events
+          they have to found by themselves and report about what they learned
+          to the other students.</i></small></p>
         </td>
       </tr>
     </table>
@@ -202,9 +208,9 @@ permalink: /teaching/ecam/
           <b>JA40I – Programmation distribuée</b> <small>(4 ECTS, 45h)</small>
           <p><small><i>This course, taught to students in first year of master
           in electronics and in computer science engineering, is a project
-          where the students have to develop a 3-tiers domotic application to
-          manage a concrete model of a house. They also have an activity about
-          object oriented programming with Java.</i></small></p>
+          where the students have to develop a 3-tiers home automation
+          application to manage a concrete model of a house. They also have an
+          activity about object oriented programming with Java.</i></small></p>
         </td>
       </tr>
     </table>

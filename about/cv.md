@@ -727,5 +727,10 @@ permalink: /about/cv/
     <p><img src="/images/ucl-london.jpg" alt="London, UK, September 2009."
     width="200" height="150" /><br />
     London, UK, September 2009.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="/files/combefis-CV-full.pdf">Download CV <img
+      src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+    </ul>
   </div>
 </div>

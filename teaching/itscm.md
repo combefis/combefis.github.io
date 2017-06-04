@@ -13,13 +13,15 @@ permalink: /teaching/itscm/
     bachelor in informatics and systems and the bachelor in electronics from
     the technology pole.</p>
 
+    <h2>Currently taught</h2>
+
     <table>
       <colgroup>
         <col style="width: 15%;"/>
         <col style="width: 85%;"/>
       </colgroup>
       <tr>
-        <td>2017–now</td>
+        <td>2017–now<br /><small>(1 year)</small></td>
         <td>
           <b>2261.11.U31.D1 – Transmission numérique</b>
           <p><small><i>This course, taught to students in third year of bachelor
@@ -30,15 +32,25 @@ permalink: /teaching/itscm/
           the laboratory.</i></small></p>
         </td>
       </tr>
+    </table>
+
+
+    <h2>Previously taught</h2>
+
+    <table>
+      <colgroup>
+        <col style="width: 15%;"/>
+        <col style="width: 85%;"/>
+      </colgroup>
       <tr>
         <td>2011–2014<br /><small>(4 years)</small></td>
         <td>
           <b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
           technologies : Bases de la programmation</b>
           <p><small><i>This course, taught to students in second year of
-          bachelor in computer science, teaches basic programming concepts:
-          multidimensional arrays, embedded loops, boolean and characters,
-          decomposition in procedures and functions, file
+          bachelor in informatics and systems, teaches basic programming
+          concepts: multidimensional arrays, embedded loops, boolean and
+          characters, decomposition in procedures and functions, file
           manipulation...</i></small></p>
         </td>
       </tr>

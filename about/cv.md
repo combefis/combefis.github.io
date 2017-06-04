@@ -396,7 +396,7 @@ permalink: /about/cv/
 
     <ul>
       <li><b>13th International Bebras Task Workshop</b>, Brescia, Italy.
-      <small>(25 May–2 June 2017)</small></li>
+      <small>(25 May–2 Jun. 2017)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>Online Qualification Round</i>,
       Woluwé-Saint-Lambert, Belgium.
       <small>(23 Feb. 2017)</small></li>
@@ -404,6 +404,8 @@ permalink: /about/cv/
       <small>(25–29 May 2015)</small></li>
       <li><b>IOI Workshop 2015</b>, Bitola, Republic of Macedonia.
       <small>(19–24 Apr. 2015)</small></li>
+      <li><b>edX Consortium Meeting</b>, Boston, MA, USA.
+      <small>(24–26 Nov. 2013)</small></li>
       <li><b>Euraxess Conference: Raising Researchers' Voices – Opinions on Job
       Careers and Rights</b>, Brussels, Belgium.
       <small>(21–22 Nov. 2013)</small></li>
@@ -568,7 +570,7 @@ permalink: /about/cv/
       <small>(Jun. 2010, Jun. 2012)</small></li>
       <li><b>Invited Student Scholar</b>, <i>ACM A.M. Turing Centenary
       Celebration</i>, San Francisco, CA, USA.
-      <small>(15–16 Jun. 2012)</small></li></li>
+      <small>(15–16 Jun. 2012)</small></li>
       <li><b>Guest</b>, <i>23th International Olympiad in Informatics
       (IOI 2011)</i>, Pattaya, Thailand. <small>(22–29 Jul. 2011)</small></li>
       <li>Participation to the sessions of the Agile Campus Tour,

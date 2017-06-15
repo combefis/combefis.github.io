@@ -9,6 +9,11 @@ permalink: /research/publications/
     <h2>2017</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe,
+      Mathieu David, Guillaume de Moffarts, Hadrien Hachez, Julien Kessels.
+      Learning and Teaching Algorithm Design and Optimisation Using Contests
+      Tasks. To appear in <i>Olympiads in Informatics</i>.</li>
+
       <li>Chang Liu, Sébastien Combéfis, Judith Bishop, Tao Xie. Workshop
       Proposal: The Third International Workshop on Coding and Human aspects
       of Educational Software Engineering (CHESE 2017).

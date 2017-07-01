@@ -6,7 +6,7 @@ permalink: /teaching/ecam/
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>I currently work as a professor at the
+    <p>I currently work as a lecturer at the
     <a href="http://www.vinci.be/fr-be/ecam">École Centrale des Arts et
     Métiers</a> (ECAM), an industrial higher education institution. I am
     involved in several courses of the bachelor and the master, in particular
@@ -15,7 +15,8 @@ permalink: /teaching/ecam/
     <p>You can find the list of courses that I am currently teaching, and that
     I taught in the past, hereafter, along with the level of students attending
     the course and a short description of it. For each course, only the
-    activities I am involved in are mentioned.</p>
+    activities I am involved in are mentioned. More details with resources for
+    some courses are available on subsequent pages.</p>
 
 
     <h2>Currently taught</h2>
@@ -30,7 +31,7 @@ permalink: /teaching/ecam/
         <td>
           <b>B2010 – Informatique</b> <small>(4 ECTS, 43h)</small>
           <ul>
-            <li><small>B201B – Concepts informatiques (28h)</small></li>
+            <li><small>B201B – Informatique appliquée (28h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in second year of
           bachelor in engineering, is about programming in Python and teaches
@@ -63,13 +64,30 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
+        <td>new</td>
+        <td>
+          <b>E3010 – Électronique numérique</b> <small>(6 ECTS, 70h)</small>
+          <ul>
+            <li><small>E301B – Programmation C (14h)</small></li>
+          </ul>
+          <p><small><i>This course, taught to students in third year of
+          bachelor in electronics and in computer science engineering, presents 
+          how microcontrollers work and how to program them using asembly
+          language or with the C language. Students learn to program PIC
+          microcontrollers and how to control timers, interruptions,
+          etc. They are also introduced to Boolean algebra and how to minimise
+          a logical function.</i></small></p>
+        </td>
+      </tr>
+      <tr>
         <td>2016–now<br /><small>(2 years)</small></td>
         <td>
           <b>E3020 – Électronique et programmation des systèmes
-          embarqués</b> <small>(4 ECTS, 42h)</small>
+          embarqués</b> <small>(4 ECTS, 45,5h)</small>
           <ul>
-            <li><small>E302C – Gestion des périphériques (10,5h)</small></li>
-            <li><small>E302D – Application robotisée (21h)</small></li>
+            <li><small>E302A – Électronique embarquée (31,5h)</small></li>
+            <li><small>E302B – Projet d'électronique embarquée
+            (14h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in third year of
           bachelor in electronics and in computer science engineering, presents 
@@ -81,12 +99,25 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
+        <td>new</td>
+        <td>
+          <b>E3040 – Projet informatique</b> <small>(5 ECTS, 52,5h)</small>
+          <ul>
+            <li><small>E304A – Structure de données (10,5h)</small></li>
+          </ul>
+          <p><small><i>This course, taught to students in third year of
+          bachelor in electronics and in computer science engineering, is a
+          project where students have to develop a whole desktop application
+          with C#, including a GUI and a database. For that project, students
+          have to deal with datastructures. The project has to be realised
+          completely in English.</i></small></p>
+        </td>
+      </tr>
+      <tr>
         <td>2014–now<br /><small>(3 years)</small></td>
         <td>
-          <b>M3090 – Techniques informatiques</b> <small>(4 ECTS, 43h)</small>
-          <ul>
-            <li><small>3090B – Informatique appliquée (28h)</small></li>
-          </ul>
+          <b>M3090 – Conception et développement informatique</b> <small>(4
+          ECTS, 43h)</small>
           <p><small><i>This course, taught to students in third year of
           bachelor in electromechanical engineering, presents how 
           to analyse and develop a computer application using modelisation
@@ -97,13 +128,32 @@ permalink: /teaching/ecam/
       <tr>
         <td>2014–now<br /><small>(3 years)</small></td>
         <td>
+          <b>I4020 – Architecture et qualité logicielle</b> <small>(4 ECTS,
+          49h)</small>
+          <ul>
+            <li><small>I402A – Architecture logicielle (21h)</small></li>
+            <li><small>I402B – Test driven development and continuous
+            integration (28h)</small></li>
+          </ul>
+          <p><small><i>This course, taught to students in first year of master
+          in computer science engineering, presents how to architecture a
+          software at different levels from the structure of the code to
+          organisation of software components. It also teaches all the steps
+          required to develop a large software with a particular attention to
+          versioning, automated testing, and deployment.</i></small></p>
+        </td>
+      </tr>
+      <tr>
+        <td>2014–now<br /><small>(3 years)</small></td>
+        <td>
           <b>I4030 – Technologie des ordinateurs et systèmes
           d'exploitation</b> <small>(5 ECTS, 56h)</small>
           <ul>
-            <li><small>I403A – Systèmes d'exploitation (27h)</small></li>
+            <li><small>I403A – Systèmes d'exploitation (15h)</small></li>
+            <li><small>I403B – Technologie des ordinateurs (15h)</small></li>
+            <li><small>I403C – OS avancé (12h)</small></li>
             <li><small>I403L – Laboratoire de systèmes
             d'exploitation (14h)</small></li>
-            <li><small>I403B – Technologie des ordinateurs (15h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in first year of
           master in electronics and in computer science engineering, presents
@@ -130,33 +180,58 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2014–now<br /><small>(3 years)</small></td>
+        <td>new</td>
         <td>
-          <b>I4020 – Architecture logicielle</b> <small>(3 ECTS, 27h)</small>
+          <b>I4100 – Synthèse d'images</b> <small>(4 ECTS, 49h)</small>
+          <ul>
+            <li><small>I410A – Algorithmique et optimisation (21h)</small></li>
+            <li><small>I410B – Programmation parallèle (28h)</small></li>
+          </ul>
           <p><small><i>This course, taught to students in first year of master
-          in computer science engineering, presents how to architecture a
-          software at different levels from the structure of the code to
-          organisation of software components.</i></small></p>
+          in computer science engineering, presents parallel programming
+          techniques that are used to generate images and 3D imaging techniques.
+          For that, an activity about algorithm design and optimisation is also
+          organised where students learn how to think about an innovating
+          project and handle it with relevant algorithms.</i></small></p>
+        </td>
+      </tr>
+      <tr>
+        <td>new</td>
+        <td>
+          <b>I5010 – Architecture distribuée</b> <small>(4 ECTS, 43h)</small>
+          <ul>
+            <li><small>I501B – Virtualisation (15h)</small></li>
+          </ul>
+          <p><small><i>This course, taught to students in second year of master
+          in computer science engineering, presents what a distributed system
+          is and how it works. In particular, it covers three aspects of
+          distributed architectures which are how to scale an application, how
+          to virtualise one and finally how to manage databases
+          clustering.</i></small></p>
         </td>
       </tr>
       <tr>
         <td>2017–now<br /><small>(1 year)</small></td>
         <td>
-          <b>I5020 – Systèmes distribués</b> <small>(3 ECTS, 29h)</small>
+          <b>I5020 – Sécurité des systèmes informatiques</b> <small>(4 ECTS,
+          36h)</small>
           <ul>
             <li><small>I502A – Sécurité physique et logicielle
             (15h)</small></li>
+            <li><small>I502L – Laboratoire de sécurité logicielle
+            (21h)</small></li>
           </ul>
           <p><small><i>This course, taught to students in second year of master
-          in computer science engineering, presents what a distributed system
-          is and how it works. It also presents how to build and secure such a
-          system, both physically and with softwares.</i></small></p>
+          in computer science engineering, presents what is the security of an
+          informatic system, at the hardware and the software levels. It also
+          presents how to build and secure such systems and how to analyse and
+          manage the risks that they are exposed to.</i></small></p>
         </td>
       </tr>
       <tr>
         <td>2015–now<br /><small>(3 years)</small></td>
         <td>
-          <b>I5030 – Séminaires professionnels</b> <small>(4 ECTS, 45h)</small>
+          <b>O5040 – Séminaires professionnels</b> <small>(3 ECTS, 45h)</small>
           <p><small><i>This course, taught to students in second year of master
           in electronics and in computer science engineering, is a seminar
           where the students are asked to prepare and present, in English, a
@@ -164,6 +239,23 @@ permalink: /teaching/ecam/
           their experience. Students are also asked to attend external events
           they have to found by themselves and report about what they learned
           to the other students.</i></small></p>
+        </td>
+      </tr>
+      <tr>
+        <td>new</td>
+        <td>
+          <b>I5080 – Intelligence artificielle</b> <small>(4 ECTS,
+          47,5h)</small>
+          <ul>
+            <li><small>I508A – IA et machine learning, big data et data mining
+            (30h)</small></li>
+            <li><small>I508B – Laboratoire IA (17,5h)</small></li>
+          </ul>
+          <p><small><i>This course, taught to students in second year of master
+          in computer science engineering and in electronics, presents what is
+          artificial intelligence. In particular it presents search and machine
+          learning techniques and algorithms, and also presents how big data
+          can be analysed to extract relevant information.</i></small></p>
         </td>
       </tr>
     </table>

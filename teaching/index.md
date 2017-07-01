@@ -9,7 +9,7 @@ permalink: /teaching/
     <p>I work as a <em>lecturer</em> at the
     <a href="http://www.vinci.be/fr-be/ecam">École Centrale des Arts et
     Métiers</a> (ECAM) and also at the
-    <a href="http://www.cardinalmercier-promotionsociale.be/spip2012/index.php">
+    <a href="http://www.cardinalmercier-promotionsociale.be/">
     Institut Technique Supérieur Cardinal Mercier</a> (ITSCM) where I am
     teaching computer science related courses.</p>
 
@@ -22,12 +22,9 @@ permalink: /teaching/
     year bachelor students were given in French while those for master students
     were given in English. I also supervised several master thesis at UCL.</p>
 
-    <p>In addition to my main activities, I also gave trainings on Java™ for
-    second year bachelor students, for their programming project course. I also
-    gave other trainings, for the  UCLouvain ACM Student Chapter non-profit
-    association, for example.</p>
-
-    <p>Finally, I am involved in several pedagogical projects including the
+    <p>In addition to my main activities, I also gave trainings and conferences
+    about various subjects mainly related to computer science, project
+    management, efficient communication and other sciences. Finally, I am involved in several pedagogical projects including the
     development of educational devices to improve the success rate for first
     year bachelor students.</p>
   </div>

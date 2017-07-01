@@ -12,7 +12,9 @@ permalink: /research/publications/
       <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe,
       Mathieu David, Guillaume de Moffarts, Hadrien Hachez, Julien Kessels.
       Learning and Teaching Algorithm Design and Optimisation Using Contests
-      Tasks. To appear in <i>Olympiads in Informatics</i>.</li>
+      Tasks. In <i>Olympiads in Informatics</i>, <b>11</b>:19-28, 2017.
+      <a href="/files/publi/combefis-olympiads2017.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
 
       <li>Chang Liu, Sébastien Combéfis, Judith Bishop, Tao Xie. Workshop
       Proposal: The Third International Workshop on Coding and Human aspects

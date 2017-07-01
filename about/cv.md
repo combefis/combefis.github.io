@@ -148,6 +148,10 @@ permalink: /about/cv/
     <h3>Journal papers</h3>
 
     <ul>
+      <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe,
+      Mathieu David, Guillaume de Moffarts, Hadrien Hachez, Julien Kessels.
+      Learning and Teaching Algorithm Design and Optimisation Using Contests
+      Tasks. In <i>Olympiads in Informatics</i>, July 2017.</li>
       <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles
       Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple
       Coordinated HMI Systems. In <i>The Handbook of Formal Methods in

@@ -175,3 +175,7 @@ dynamiser vos formations et rendre vos stagiaires actifs_. Eyrolles. (ISBN:
 astuces, méthodes pédagogiques_. Armand Colin. (ISBN 978-2-2002-5458-2)<br />
 [3] <https://perso.uclouvain.be/olivier.bonaventure/blog/html/2013/02/05/humming.html><br/>
 [4] <https://www.plickers.com>
+
+## Crédits
+
+Merci à Sébastien d'Oreye de Lantremange et Julien Gomez pour les photos.

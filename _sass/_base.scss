@@ -52,8 +52,11 @@ img {
 /**
  * Figures
  */
-figure > img {
-    display: block;
+figure {
+
+    > img {
+        display: block;
+    }
 }
 
 figcaption {
@@ -65,11 +68,13 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ul,
+ol {
     margin-left: $spacing-unit;
 }
 
 li {
+
     > ul,
     > ol {
          margin-bottom: 0;
@@ -164,6 +169,24 @@ table {
     }
 }
 
+table.data {
+    font-size: 0.9 * $base-font-size;
+    border-top: 2px solid #999;
+    border-bottom: 2px solid #999;
+
+    tr {
+        margin-bottom: 2px;
+
+        td {
+            padding: 2px;
+        }
+
+        > th {
+            border-bottom: 1px solid #999;
+        }
+    }
+}
+
 
 
 /**
@@ -228,6 +251,22 @@ figure {
 
         path {
             fill: $grey-color;
+        }
+    }
+}
+
+
+
+/**
+ * Slideshow
+ */
+.slideshow {
+
+    div {
+        text-align: center;
+
+        img {
+            margin: auto;
         }
     }
 }

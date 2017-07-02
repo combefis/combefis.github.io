@@ -1,0 +1,85 @@
+---
+layout: post
+title: "Bonne année 2015 !"
+date: 2015-01-01 13:51:16 +0200
+categories: physique
+---
+
+_Bonne et heureuse nouvelle année 2015 !_ Vous l'avez sans doute déjà entendue
+plus d'une fois et vous risquez certainement de l'entendre encore dans les
+jours à venir. Si pas, il vous suffit d'allumer votre téléviseur, de lire la
+presse ou de surfer au hasard sur Internet. Vous pourriez ainsi découvrir les
+tours du monde du passage à l'an neuf et entendre des phrases comme :
+_« Pendant 24 heures, les terriens ont célébré l'entrée dans 2015 »_.
+D'ailleurs, on pourrait se poser les questions suivantes. En combien de temps
+la Terre fait-elle un tour complet ? Quelle est la durée d'une journée ?
+Facile, me direz-vous, une journée dure 24 heures ! Eh bien, ce n'est pas
+forcément la bonne réponse...
+
+## Jour solaire vs Jour sidéral
+
+En fait, tout dépend de ce qu'on mesure. Si on ne s'intéresse qu'au mouvement
+de rotation de la Terre, on trouve que celle-ci fait un tour complet sur
+elle-même en un petit peu moins de _86164_ secondes, soit 23 heures, 56 minutes
+et 4 secondes. On appelle cette durée **le jour sidéral**, à savoir la durée
+mise par la Terre pour faire un tour sur elle-même, indépendamment de sa
+révolution autour du Soleil. C'est donc parce que la Terre tourne autour du
+soleil en même temps qu'elle tourne sur elle-même qu'il y a différentes
+définitions possibles pour le **jour**; voyons cela avec la figure suivante.
+
+<figure>
+  <img src="/images/blog/jour-sideral.png" width="450" height="404"
+  alt="Différence entre jour sidéral et solaire" />
+  <figcaption>Différence de durée entre le jour sidéral (B) et le jour
+  solaire (C).</figcaption>
+</figure>
+
+Le jour sidéral est la durée qui s'écoule entre les positions (A) et (B) de la
+Terre sur la figure ci-dessus. Il s'agit du temps que met la Terre pour faire
+un tour complet sur elle-même par rapport au point vernal (un point rendant la
+mesure indépendante de la révolution de la Terre autour du Soleil). Le jour
+auquel on fait naturellement référence, celui qui dure par définition _24_
+heures, est appelé **jour solaire**. Il dure un peu plus longtemps que le jour
+sidéral car, sur le temps que la Terre fasse un tour complet sur elle-même,
+elle a également avancé autour du soleil, et il faudra donc attendre qu'elle
+tourne encore un peu pour qu'un observateur fixe se retrouve de nouveau en face
+du soleil. Le jour solaire correspond donc à la durée entre les positions (A)
+et (C) de la figure ci-dessus.
+
+Faire des mesures est toujours une difficulté en astronomie, car il faut bien
+choisir le référentiel utilisé pour faire ses mesures. Il existe par ailleurs
+une troisième définition du jour qui existe. Un **jour stellaire** est la
+période de rotation de la Terre mesurée relativement à des étoiles dites
+_« fixes »_, pas comme le soleil. Cette durée est un peu plus longue que le jour
+sidéral, d'environ _8 millisecondes_.
+
+## Calculer la durée du jour sidéral
+
+Pour les curieux, voici une manière simple de calculer la valeur d'un jour
+sidéral étant donné la durée d'un jour solaire. On sait qu'une année dure
+_365,2425_ jours et qu'un jour solaire dure _24_ heures. Notons par \\(\omega\\)
+la vitesse angulaire de la Terre en radians par secondes, c'est-à-dire la
+vitesse angulaire à laquelle elle tourne sur elle-même. Le jour sidéral
+correspond donc à :
+
+$$T_{\textrm sideral} = \frac{2\pi}{\omega}$$
+
+Pour atteindre la position (C) correspondant au jour solaire, la Terre a dû
+tourner encore un peu plus sur elle-même. Si l'on note cet angle supplémentaire
+\\(\alpha\\), on peut écrire le jour solaire comme :
+
+$$T_{\textrm solaire} = \frac{2\pi + \alpha}{\omega}$$
+
+De plus, entre les positions (A) et (C), il y a exactement _24_ heures et
+l'angle \\(\alpha\\) parcouru est égal à \\(\frac{2\pi}{365,2425}\\). On peut
+donc calculer la valeur de \\(\omega\\) :
+
+$$T_{\textrm solaire} = \frac{2\pi + \alpha}{\omega} = \frac{2\pi}{\omega} + \frac{\alpha}{\omega} = T_{\textrm sideral} + \frac{2\pi}{365,2425\omega} = 24 \cdot 3600 [s]$$
+
+On trouve donc \\(\omega = 7,2921 \cdot 10^{-5} [rad \cdot s^{-1}]\\) . Et donc, on peut calculer la durée du jour sidéral :
+
+$$T_{\textrm sideral} = \frac{2\pi}{\omega} = 86164,10 [s]$$
+
+## Références
+
+[1] <http://www.navipedia.net/index.php/Solar_and_Sidereal_Times_relationship>

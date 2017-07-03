@@ -22,11 +22,13 @@ permalink: /teaching/internships/projects/
       <li>Anthony Maton. Design et développement d'un système de monitoring et
       d'un studio de création de tâches pour Pythia, une plateforme
       d'évaluation de codes. <i>Internship</i>. Institut Paul Lambin (IPL),
-      Belgium, February-May 2017.</li>
+      Belgium, February-May 2017.<br /><small>Supervisor: Dr Grégory
+      Seront.</small></li>
       <li>Sylvain Nyssens. Projet ILPADS : une plateforme en ligne
       d'apprentissage de l'algorithmique et de la programmation.
       <i>Internship</i> and <i>Bachelor Thesis</i>. École Pratique des Hautes
-      Études Commerciales (EPHEC), Belgium, February-May 2015.</li>
+      Études Commerciales (EPHEC), Belgium, February-May 2015.<br />
+      <small>Supervisor: Dr Virginie Van den Schrieck.</small></li>
       <li>Yemni Daoud. Projet Classy Votes : une application mobile de votes
       interactifs. <i>Internship</i>. Institut Paul Lambin (IPL), Belgium,
       February-May 2015.</li>
@@ -37,7 +39,8 @@ permalink: /teaching/internships/projects/
       <li>Gregory Bishop. Développement d'un LMS autour de la plateforme Pythia
       pour l'évaluation automatique de code. <i>Internship</i> and <i>Bachelor
       Thesis</i>. École Pratique des Hautes Études Commerciales (EPHEC),
-      Belgium, February-May 2014.</li>
+      Belgium, February-May 2014.<br /><small>Supervisor: Christian
+      Lambeau.</small></li>
     </ol>
 
     <figure>

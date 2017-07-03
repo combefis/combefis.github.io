@@ -8,7 +8,8 @@ permalink: /teaching/internships/supervision/
   <div class="page-col page-col-1">
     <p>The list hereafter contains all the internships supervisions for ECAM
     students that I made, with the firm where the internships took place. 
-    Internships are ordered by years and by study years.</p>
+    Internships are ordered by years and by study years. Reports that are not
+    confidential can be downloaded on this page.</p>
     
     <h2>2017</h2>
 
@@ -22,8 +23,12 @@ permalink: /teaching/internships/supervision/
 
     <ol class="publications-continue">
       <li>Benoit de Patoul, 2nd master, <b>SMDW</b>, Brussels.</li>
-      <li>Sylvain Alonso, 3rd bachelor, <b>Infrabel</b>, Brussels.</li>
-      <li>Antoine Vander Meiren, 3rd bachelor, <b>Infrabel</b>, Brussels.</li>
+      <li>Sylvain Alonso, 3rd bachelor, <b>Infrabel</b>, Brussels,
+      March 28-May 9, 2016.</li>
+      <li>Antoine Vander Meiren, 3rd bachelor, <b>Infrabel</b>, Brussels,
+      March 28-May 9, 2016.
+      <a href="/files/publi/vandermeiren-bachelor-internship-2016.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Gaetano Giordano, 3rd bachelor, <b>Icon Security International</b>,
       Brussels.</li>
       <li>Omer Seuwa Ndomjou, 3rd bachelor, <b>Icon Security International</b>,

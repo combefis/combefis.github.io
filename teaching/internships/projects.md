@@ -22,7 +22,10 @@ permalink: /teaching/internships/projects/
       <li>Anthony Maton. Design et développement d'un système de monitoring et
       d'un studio de création de tâches pour Pythia, une plateforme
       d'évaluation de codes. <i>Internship</i>. Institut Paul Lambin (IPL),
-      Belgium, February-May 2017.<br /><small>Supervisor: Dr Grégory
+      Belgium, February-May 2017.
+      <a href="/files/publi/maton-bachelor-thesis-2017.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
+      <br /><small>Supervisor: Dr Grégory
       Seront.</small></li>
       <li>Sylvain Nyssens. Projet ILPADS : une plateforme en ligne
       d'apprentissage de l'algorithmique et de la programmation.

@@ -8,7 +8,7 @@ permalink: /teaching/ucl/
   <div class="page-col page-col-1">
     <p>This page of the website lists the courses I had to train for my
     teaching assistant duties at
-    <a href="http://www.uclouvain.be/en-index.html">Université catholique de
+    <a href="https://www.uclouvain.be/en/">Université catholique de
     Louvain</a> (UCL). My role was to prepare and give practical sessions to
     the students.</p>
 

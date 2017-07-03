@@ -7,7 +7,7 @@ permalink: /research/
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
     <p>I got my PhD in November 2013 from the
-    <a href="http://uclouvain.be/en-index.html">Université catholique de
+    <a href="https://www.uclouvain.be/en/">Université catholique de
     Louvain</a> (UCL). I worked for the <a href="http://lvl.info.ucl.ac.be/">
     Louvain Verification Lab</a> (LVL) under the supervision of Prof. Charles
     Pecheur. My PhD thesis is about the study of <em>human-machine interaction

@@ -15,7 +15,7 @@ permalink: /teaching/masterthesis/
     internship</a> that took place during the first semester.</p>
     
     <p>When I was a researcher working as a teaching assistant at
-    <a href="http://www.uclouvain.be/en-index.html">Université catholique de
+    <a href="https://www.uclouvain.be/en/">Université catholique de
     Louvain</a> (UCL), I co-supervised several master thesis whose topics where
     related to my own PhD thesis or to other projects I was working on at that
     time.</p>

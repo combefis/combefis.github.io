@@ -155,7 +155,7 @@ permalink: /research/publications/
       <img src="/images/slides.png" width="16" height="16"
       alt="Slides" /></a></li>
 
-      <li>Sébastien Combéfis, Fabien Duchêne, Virginie Van Den Schrieck. APP0,
+      <li>Sébastien Combéfis, Fabien Duchêne, Virginie Van den Schrieck. APP0,
       ou la découverte du monde universitaire par des compétences techniques au
       service de l'intégration sociale. Presented at <i>the 28th Congrès de
       l'Association Internationale de Pédagogie Universitaire</i>, Mons,

@@ -24,9 +24,8 @@ permalink: /teaching/internships/projects/
       d'évaluation de codes. <i>Internship</i>. Institut Paul Lambin (IPL),
       Belgium, February-May 2017.
       <a href="/files/publi/maton-bachelor-thesis-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Supervisor: Dr Grégory
-      Seront.</small></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <small>Supervisor: Dr Grégory Seront.</small></li>
       <li>Sylvain Nyssens. Projet ILPADS : une plateforme en ligne
       d'apprentissage de l'algorithmique et de la programmation.
       <i>Internship</i> and <i>Bachelor Thesis</i>. École Pratique des Hautes
@@ -39,11 +38,13 @@ permalink: /teaching/internships/projects/
       de vocabulaire technique dans plusieurs langues. <i>Internship</i>. École
       Pratique des Hautes Études Commerciales (EPHEC), Belgium, February-May
       2015.</li>
-      <li>Gregory Bishop. Développement d'un LMS autour de la plateforme Pythia
-      pour l'évaluation automatique de code. <i>Internship</i> and <i>Bachelor
-      Thesis</i>. École Pratique des Hautes Études Commerciales (EPHEC),
-      Belgium, February-May 2014.<br /><small>Supervisor: Christian
-      Lambeau.</small></li>
+      <li>Gregory Bishop. Développement d'un framework de correction de code
+      Java pour Pythia (plateforme d'apprentissage de la programmation).
+      <i>Internship</i> and <i>Bachelor Thesis</i>. École Pratique des Hautes
+      Études Commerciales (EPHEC), Belgium, February-May 2014.
+      <a href="/files/publi/bishop-bachelor-thesis-2014.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <small>Supervisor: Christian Lambeau.</small></li>
     </ol>
 
     <figure>

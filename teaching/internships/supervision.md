@@ -24,7 +24,9 @@ permalink: /teaching/internships/supervision/
     <ol class="publications-continue">
       <li>Benoit de Patoul, 2nd master, <b>SMDW</b>, Brussels.</li>
       <li>Sylvain Alonso, 3rd bachelor, <b>Infrabel</b>, Brussels,
-      March 28-May 9, 2016.</li>
+      March 28-May 9, 2016.
+      <a href="/files/publi/alonso-bachelor-internship-2016.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Antoine Vander Meiren, 3rd bachelor, <b>Infrabel</b>, Brussels,
       March 28-May 9, 2016.
       <a href="/files/publi/vandermeiren-bachelor-internship-2016.pdf">

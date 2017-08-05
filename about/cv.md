@@ -638,7 +638,9 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Marketing Digital</b>, <i>Google</i>.
-      <small>(July. 2017–now)</small></li>
+      <small>(July. 2017–now)</small>
+      <a href="/files/cv/combefis-google-atelier-digital-certificate-2017.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
       <small>(Sep. 2015–now)</small></li>
       <li><b>HTML5.1x Learn HTML5 from W3C</b>, <i>edX</i>.
@@ -723,14 +725,20 @@ permalink: /about/cv/
       <li>Interview by <i>IOI 2013</i> Reporter during the IOI conference.
       <small>(11 Jul. 2013)</small></li>
       <li>Interview by the newspaper <i>Le Soir</i> for CSITEd and the Bebras
-      Contest. <small>(17 Apr. 2013)</small></li>
+      Contest. <small>(17 Apr. 2013)</small>
+      <a href="/files/media/combefis-le-soir-april-2013.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Interview by the local television channel <i>TVCom</i> for the final
       of the first edition of the Belgian Olympiad in Informatics.
       <small>(14 May 2010)</small></li>
       <li>Interview by the specialised paper magasine <i>Data News</i> for the
-      UCLouvain ACM Student Chapter. <small>(7 May 2010)</small></li>
+      UCLouvain ACM Student Chapter. <small>(7 May 2010)</small>
+      <a href="/files/media/combefis-datanews-may-2010.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Interview by the newspaper <i>Vers l'Avenir Brabant Wallon</i> for the
-      Belgian Olympiad in Informatics. <small>(10 Mar. 2010)</small></li>
+      Belgian Olympiad in Informatics. <small>(10 Mar. 2010)</small>
+      <a href="/files/media/combefis-vers-l-avenir-march-2010.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
     </ul>
   </div>
   <div class="page-col page-col-2">
@@ -739,7 +747,7 @@ permalink: /about/cv/
     London, UK, September 2009.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
-      <li><a href="/files/combefis-CV-full.pdf">Download CV <img
+      <li><a href="/files/cv/combefis-CV-full.pdf">Download CV <img
       src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
     </ul>
   </div>

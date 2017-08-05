@@ -68,13 +68,17 @@ permalink: /about/cv/
       Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – now)</small><br />
       <small>Professor in an industrial higher education institution, in the
       department of electrical and computer engineering.</small></li>
+      <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgium.
+      <small>(July. 2017 – now)</small><br />
+      <small>Responsible of academic relationships and coordination of the 
+      IT challenges themes and jurys.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
       Belgium. <small>(Sep. 2015 – now)</small><br />
       <small>Project Manager for the TeachEng project working on the
       development and deployment of a MOOC platform for engineers.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i>
       (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015,
-      Jan. 2017 – now)</small>
+      Jan. 2017 – now)</small><br />
       <small>Professor in a higher education institution in social advancement
       for the bachelor in informatics and systems and the bachelor in
       electronics of the Technology Pole.</small></li>
@@ -633,6 +637,8 @@ permalink: /about/cv/
     <h3>Certifications</h3>
 
     <ul>
+      <li><b>Marketing Digital</b>, <i>Google</i>.
+      <small>(July. 2017–now)</small></li>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
       <small>(Sep. 2015–now)</small></li>
       <li><b>HTML5.1x Learn HTML5 from W3C</b>, <i>edX</i>.

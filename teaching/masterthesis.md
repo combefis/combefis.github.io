@@ -23,9 +23,16 @@ permalink: /teaching/masterthesis/
     <h2>ECAM</h2>
 
     <ol class="publications-start">
+      <li>Damien Vanhove. Design, développement et intégration à une plateforme
+      de gestion d'école d'un module de gestion des stages. <i>Master
+      Thesis</i>. École Centrale des Arts et Métiers, Belgium, September
+      2017.<a href="/files/publi/vanhove-master-thesis-2017.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
+      <br /><small>Advisor: Dr Sébastien Combéfis (École Centrale des Arts et
+      Métiers, ECAM).</small></li>
       <li>Benoit de Patoul. Post-Wildfire Vegetation Loss Mapping using
       Bitemporal Synthetic Aperture Radar. <i>Master Thesis</i>. École Centrale
-      des Arts et Métiers, Belgium, June 2017.<br /><small>Advisor: Dr. Zhi Qiang Chen (University of Missouri-Kansas City, UMKC).</small></li>
+      des Arts et Métiers, Belgium, June 2017.<br /><small>Advisor: Dr Zhi Qiang Chen (University of Missouri-Kansas City, UMKC).</small></li>
       <li>Lionel Gosselin. Création d'un service Fablab pour la conception et
       l'impression 3D au sein de l'ECAM. <i>Master Thesis</i>. École Centrale
       des Arts et Métiers, Belgium, June 2016.<br /><small>Advisor: Cédric Marchand (École Centrale des Arts et Métiers, ECAM).</small></li>

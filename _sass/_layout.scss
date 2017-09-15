@@ -200,6 +200,13 @@
             font-size: 12px;
         }
     }
+
+    figure.multipics {
+        > img {
+            display: inline-block;
+            margin-left: 10px;
+        }
+    }
 }
 
 /**

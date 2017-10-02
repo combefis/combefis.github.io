@@ -28,9 +28,13 @@ permalink: /teaching/trainings/digitalent/
     <h2>Resources</h2>
 
     <ul>
-        <li>Introduction to the technical modules
+        <li>Introduction to the technical module
         <a href="/files/trainings/digitalent/Digitalent-2017-Intro-Slides.pdf">
         <img src="/images/slides.png" width="16" height="16" alt="Slides" />
+        </a></li>
+        <li>Useful resources and links
+        <a href="/files/trainings/digitalent/Digitalent-2017-Ressources.pdf">
+        <img src="/images/pdf.png" width="16" height="16" alt="PDF" />
         </a></li>
     </ul>
   </div>

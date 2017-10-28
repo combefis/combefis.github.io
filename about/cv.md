@@ -17,7 +17,7 @@ permalink: /about/cv/
       <small>(Sep. 2010 – Jun. 2014)</small><br />
       <small>- Subject: <i>« Enseigner des outils méthodologiques et former une
       attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en
-      place et évaluation d‘un dispositif d’aide à la réussite »</i><br />
+      place et évaluation d‘un dispositif d'aide à la réussite »</i><br />
       - Supervisor: <i>Prof. Mariane Frenay and co-supervisor: Dr. Mireille
       Houart</i>.</small></li>
       <li><b>PhD in Engineering</b>, <i>Université catholique de Louvain</i>,
@@ -466,6 +466,124 @@ permalink: /about/cv/
 
     <h2>Teaching</h2>
 
+    <h3>Trained Courses at ECAM</h3>
+
+    <ul>
+      <li><b>B2010 – Informatique</b>, <i>Second year bachelor students in
+      engineering</i>. <small>(2014–now, 3 years)</small><br />
+      <small>This course is about programming in Python and teaches advanced
+      data structures (set, dictionaries and tuples), object oriented
+      programming basics, event-based programming and GUI development with
+      Kivy, error handling and exceptions, text and binary files reading and
+      writing. It also explains how the internet works and introduces to HTML,
+      CSS and JavaScript and how to develop a simple website with the CherryPy
+      web framework.</small></li>
+      <li><b>B2160 – Projet informatique</b>, <i>Second year bachelor students
+      in electronics and in computer science engineering</i>. <small>(2015–now,
+      3 years)</small><br />
+      <small>This course presents advanced programming concepts with the Python
+      language. It presents project management tools (Git, Travis, Heroku...),
+      regular expressions, network programming (socket, TCP client/server, UDP
+      peers), concurrent programming (process and thread), functional
+      programming. It also introduces algorithmic with recursion, trees, search
+      algorithms and backtracking for AI. Finally, it introduces to numerical
+      methods with Octave and with the Scipy library.</small></li>
+      <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>,
+      <i>Third year bachelor students in electronics and in computer science
+      engineering</i>. <small>(2016–now, 2 years)</small><br />
+      <small>This course presents the three main components of an embedded
+      system: energy management, an intelligent electronic unit and
+      peripherals. The course presents how to build an embedded system through
+      the design and the construction of a robot application. In particular, it
+      teaches how to program embedded systems.</small></li>
+      <li><b>M3090 – Techniques informatiques</b>, <i>Third year bachelor
+      students in electromechanical engineering</i>. <small>(2014–now,
+      3 years)</small><br />
+      <small>This course, taught to students in third year of bachelor in
+      electromechanical engineering, presents how to analyse and develop a
+      computer application using modelisation (UML), simple databases and
+      queries (Microsoft Access) and object oriented programming
+      (C#).</small></li>
+      <li><b>I4030 – Technologie des ordinateurs et systèmes
+      d'exploitation</b>, <i>First year master students in electronics and in
+      computer science engineering</i>. <small>(2014–now, 3 years)</small><br />
+      <small>This course presents how a computer works, from the very low
+      hardware level to the very high level architecture and organisation. It
+      also presents how it can be operated with an operating system and its
+      components (processes and threads, scheduling, deadlock, memory
+      management, filesystem, mass storage, security...).</small></li>
+      <li><b>I4040 – Base de données avancées</b>, <i>First year master
+      students in computer science engineering</i>. <small>(2016–now,
+      1 year)</small><br />
+      <small>This course presents advanced concepts in databases and how to
+      manage them (distributed databases, transactions, optimisation...). It
+      also introduces to NoSQL and in particular to document-based databases
+      and how to combine them with relational databases in
+      applications.</small></li>
+      <li><b>I4020 – Architecture logicielle</b>, <i>First year master
+      students in computer science engineering</i>. <small>(2014–now,
+      3 years)</small><br />
+      <small>This course presents how to architecture a software at different
+      levels from the structure of the code to organisation of software
+      components.</small></li>
+      <li><b>I5020 – Systèmes distribués</b>, <i>Second year master students in
+      computer science engineering</i>. <small>(2017–now, 1 year)</small><br />
+      <small>This course presents what a distributed system is and how it
+      works. It also presents how to build and secure such a system, both
+      physically and with softwares.</small></li>
+      <li><b>I5030 – Séminaires professionnels</b>, <i>Second year master
+      students in electronics and in computer science engineering</i>.
+      <small>(2015–now, 3 years)</small><br />
+      <small>This course is a seminar where the students are asked to prepare
+      and present, in English, a subject related to engineering or to their
+      master thesis to share their experience. Students are also asked to
+      attend external events they have to found by themselves and report about
+      what they learned to the other students.</small></li>
+      <li><b>B1070 – Projet intégrateur</b>, <i>First year bachelor students in
+      engineering</i>. <small>(2016, 1 year)</small><br />
+      <small>This course is a project where the students have to work on a
+      multidisciplinary project by teams of six. For example, in 2016, they had
+      to develop an automated distributor controlled by an Arduino and using an
+      RFID tag.</small></li>
+      <li><b>B1080 – Électricité et ses outils mathématiques</b>, <i>First year
+      bachelor students in engineering</i>. <small>(2015, 1 year)</small><br />
+      <small>This course is about electromagnetism and circuits theory. It also
+      presents the necessary mathematical tools: functions with multiple
+      variables, complex numbers, vectors, multiple integrals...</small></li>
+      <li><b>JA40I – Programmation distribuée</b>, <i>First year master
+      students in electronics and in computer science engineering</i>. <small>(2015–2016, 2 years)</small><br />
+      <small>This course is a project where the students have to develop a
+      3-tiers home automation application to manage a concrete model of a
+      house. They also have an activity about object oriented programming with
+      Java.</small></li>
+    </ul>
+
+    <h3>Trained Courses at ITSCM</h3>
+
+    <ul>
+      <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Third year
+      bachelor students in informatics and systems and in electronics</i>.
+      <small>(2017–now, 1 year)</small><br />
+      <small>This course presents how to identify and analyse digital
+      transmission with the specific circuits and needed protocols. Students
+      have an opportunity to design and develop a complete sensor-based system
+      with data transmission during the laboratory.</small></li>
+      <li><b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
+      technologies : Bases de la programmation</b>, <i>Second year bachelor
+      students in informatics and systems</i>. <small>(2011–2014,
+      4 years)</small><br />
+      <small>This course teaches basic programming concepts: multidimensional
+      arrays, embedded loops, boolean and characters, decomposition in
+      procedures and functions, file manipulation...</small></li>
+      <li><b>2982.21.U31.D1 – Initiation aux bases de données</b>, <i>First
+      year bachelor students in informatics and systems and in
+      electronics</i>. <small>(2013–2015, 3 years)</small><br />
+      <small>This course is an introduction to databases and presents DataBase
+      Management System (DBMS), relational databases, Structured Query Language
+      (SQL), primary keys and views, table joins, data importation and
+      exportation...</small></li>
+    </ul>
+
     <h3>Trained Courses at UCL</h3>
 
     <ul>
@@ -517,6 +635,11 @@ permalink: /about/cv/
     <h3>Trainings</h3>
 
     <ul>
+      <li><b>Digitalent Coach</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
+      Belgium. <small>(Fall 2014, 1 year)</small><br />
+      <small>Technical coach for the eight-week Digitalent training organised
+      by the Proximus Foundation, for the Schaerbeek session at La Lustrerie
+      (teaching 3D printing and Arduino programming).</small></li>
       <li><b>Trainer</b>, <i>LSM Conseil</i>, Louvain-la-Neuve, Belgium.
       <small>(Spring 2014, 1 year)</small><br />
       <small>Trainer for a course about the LATEX professional typesetting
@@ -564,6 +687,10 @@ permalink: /about/cv/
     <h2>Other activities</h2>
 
     <ul>
+      <li><b>Business Visitor</b>, <i>Digital First 2017</i>, Brussels,
+      Belgium. <small>(19 Oct. 2017)</small></li>
+      <li><b>Visitor</b>, <i>Virtuality 2017</i>, Paris, France. <small>(25
+      Feb. 2017)</small></li>
       <li><b>Guest</b>, <i>26th International Olympiad in Informatics
       (IOI 2014)</i>, Taipei, Taiwan. <small>(13–20 Jul. 2014)</small></li>
       <li><b>Internship Supervisor</b>, <i>Supervising a 3rd year bachelor

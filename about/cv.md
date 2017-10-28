@@ -769,23 +769,39 @@ permalink: /about/cv/
       <a href="/files/cv/combefis-google-atelier-digital-certificate-2017.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
-      <small>(Sep. 2015–now)</small></li>
+      <small>(Sep. 2015–now)</small>
+      <a href="/files/cv/combefis-edX-DAT204x-2015.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>HTML5.1x Learn HTML5 from W3C</b>, <i>edX</i>.
       <small>(Jul. 2015–now)</small></li>
       <li><b>Louv1.2x Paradigms of Computer Programming – Abstraction and
-      Concurrency</b>, <i>edX</i>. <small>(Jan. 2015–now)</small></li>
+      Concurrency</b>, <i>edX</i>. <small>(Jan. 2015–now)</small>
+      <a href="/files/cv/combefis-edX-Louv1.2x-2015.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>Louv1.1x Paradigms of Computer Programming – Fundamentals</b>,
-      <i>edX</i>. <small>(Nov. 2014–now)</small></li>
+      <i>edX</i>. <small>(Nov. 2014–now)</small>
+      <a href="/files/cv/combefis-edX-Louv1.1x-2014.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>World101x Anthropology of Current World Issues</b>, <i>edX</i>.
-      <small>(Oct. 2014–now)</small></li>
+      <small>(Oct. 2014–now)</small>
+      <a href="/files/cv/combefis-edX-World101x-2014.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>ATOC185x Natural Disasters</b>, <i>edX</i>.
-      <small>(Aug. 2015–now)</small></li>
+      <small>(Aug. 2015–now)</small>
+      <a href="/files/cv/combefis-edX-ATOC185x-2014.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>AE1110x Introduction to Aeronautical Engineering</b>, <i>edX</i>.
-      <small>(May 2014–now)</small></li>
+      <small>(May 2014–now)</small>
+      <a href="/files/cv/combefis-edX-AE1110x-2014.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>UT.9.01x Effective Thinking Through Mathematics</b>, <i>edX</i>.
-      <small>(May 2014–now)</small></li>
+      <small>(May 2014–now)</small>
+      <a href="/files/cv/combefis-edX-UT.9.01x-2014.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>Louv3.01x Découvrir la science politique</b>, <i>edX</i>.
-      <small>(Apr. 2014–now)</small></li>
+      <small>(Apr. 2014–now)</small>
+      <a href="/files/cv/combefis-edX-Louv1.03x-2014.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>Functional Programming Principles in Scala</b>, <i>Coursera</i>.
       <small>(Nov. 2012–now)</small></li>
     </ul>

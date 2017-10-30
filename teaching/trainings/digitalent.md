@@ -13,8 +13,8 @@ permalink: /teaching/trainings/digitalent/
     cards programming to the young trainees. They will work on a group project
     that they will invent, design and build from scratch. For the 2017 session
     that takes place at La Lustrerie (Schaerbeek), Proximus partnered with
-    <a href="http://www.vinci.be/fr-be/ecam">École Centrale des Arts et
-    Métiers</a> (ECAM)</p>
+    <a href="http://www.cerdecam.be">CEntre de Recherche et de Développement
+    de l’ECAM</a> (CERDECAM)</p>
 
     <h2>Trainers</h2>
 
@@ -31,6 +31,10 @@ permalink: /teaching/trainings/digitalent/
         <li>Introduction to the technical module
         <a href="/files/trainings/digitalent/Digitalent-2017-Intro-Slides.pdf">
         <img src="/images/slides.png" width="16" height="16" alt="Slides" />
+        </a></li>
+        <li>Description of the developed projects
+        <a href="/files/trainings/digitalent/Digitalent-2017-Projects-Slides.pdf">
+        <img src="/images/pdf.png" width="16" height="16" alt="PDF" />
         </a></li>
         <li>Useful resources and links
         <a href="/files/trainings/digitalent/Digitalent-2017-Ressources.pdf">

@@ -6,14 +6,20 @@ permalink: /teaching/internships/supervision/
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>The list hereafter contains all the internships supervisions for ECAM
-    students that I made, with the firm where the internships took place. 
+    <p>The list hereafter contains all the internships supervisions that I made
+    for ECAM students, with the firm where the internship took place. 
     Internships are ordered by years and by study years. Reports that are not
     confidential can be downloaded on this page.</p>
-    
+
     <h2>2017</h2>
 
     <ol class="publications-start">
+      <li>Antoine Vander Meiren, 2nd master, <b>Thales</b>, Tubize.
+      <small>(September 11-October 27)</small>
+      <a href="/files/publi/vandermeiren-master-internship-2017.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <li>Charles Vandevoorde, 2nd master, <b>Thales</b>, Tubize.
+      <small>(September 11-October 27)</small></li>
       <li>Alexis Nootens, 3rd bachelor, <b>Macq</b>, Brussels.
       <small>(April 17-May 26)</small>
       <a href="/files/publi/nootens-bachelor-internship-2017.pdf">

@@ -391,6 +391,9 @@ permalink: /about/cv/
     <h3>Organised events</h3>
 
     <ul>
+      <li><b>Google Hash Code 2018</b>, <i>ECAM Brussels School of Engineering
+      Hub</i>, Woluwé-Saint-Lambert, Belgium.
+      <small>(1 Mar. 2018)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>ECAM Brussels Engineering School
       Hub</i>, Woluwé-Saint-Lambert, Belgium.
       <small>(23 Feb. 2017)</small></li>
@@ -403,6 +406,9 @@ permalink: /about/cv/
     <h3>Participation (conference, workshop, tutorial...)</h3>
 
     <ul>
+      <li><b>Google Hash Code 2018</b>, <i>Online Qualification Round</i>,
+      Woluwé-Saint-Lambert, Belgium.
+      <small>(1 Mar. 2018)</small></li>
       <li><b>13th International Bebras Task Workshop</b>, Brescia, Italy.
       <small>(25 May–2 Jun. 2017)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>Online Qualification Round</i>,
@@ -636,7 +642,7 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Digitalent Coach</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Fall 2014, 1 year)</small><br />
+      Belgium. <small>(Fall 2017, 1 year)</small><br />
       <small>Technical coach for the eight-week Digitalent training organised
       by the Proximus Foundation, for the Schaerbeek session at La Lustrerie
       (teaching 3D printing and Arduino programming).</small></li>
@@ -687,6 +693,12 @@ permalink: /about/cv/
     <h2>Other activities</h2>
 
     <ul>
+      <li><b>Attendee</b>, <i>TEDxBrussels 2018</i>, Brussels, Belgium. <small>(5
+      Mar. 2018)</small></li>
+      <li><b>Visitor</b>, <i>Virtuality 2018</i>, Paris, France. <small>(10
+      Feb. 2018)</small></li>
+      <li><b>Attendee</b>, <i>Proximus Think Things 2017</i>, Brussels,
+      Belgium. <small>(9 Nov. 2017)</small></li>
       <li><b>Business Visitor</b>, <i>Digital First 2017</i>, Brussels,
       Belgium. <small>(19 Oct. 2017)</small></li>
       <li><b>Visitor</b>, <i>Virtuality 2017</i>, Paris, France. <small>(25
@@ -866,7 +878,9 @@ permalink: /about/cv/
 
     <ul>
       <li>Interview by <i>IOI 2013</i> Reporter during the IOI conference.
-      <small>(11 Jul. 2013)</small></li>
+      <small>(11 Jul. 2013)</small>
+      <a href="/files/media/combefis-IOI-reporter-july-2013.mp3">
+      <img src="/images/sound.png" width="16" height="16" alt="Sound" /></a></li>
       <li>Interview by the newspaper <i>Le Soir</i> for CSITEd and the Bebras
       Contest. <small>(17 Apr. 2013)</small>
       <a href="/files/media/combefis-le-soir-april-2013.pdf">

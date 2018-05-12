@@ -102,6 +102,10 @@
     padding: $spacing-unit / 2 0;
     font-size: 0.9 * $base-font-size;
     color: $grey-color;
+
+    #language {
+        float: right;
+    }
 }
 
 

@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Books
-permalink: /about/books/
+title: Livres
+permalink: /fr/about/books/
 path: /about/books/
+language: fr
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>This page gathers the books that I authored or co-authored. The books
-    I wrote are either about computer science or mathematics and published
-    under the UKO label, or about promoting computer science and programming
-    under the CSITEd non-profit organisation. They all are in French,
-    so are the short descriptions for each book.</p>
+    <p>Cette page reprend les livres que j'ai écrit ou co-écrit. Une partie de
+    ces livres concerne l'informatique ou les mathématiques et ils sont publiés
+    sous le label UKO. Les autres livres sont à propos de la promotion de
+    l'informatique et de la programmation et sont publiés au nom de l'ASBL
+    CSITEd.</p>
 
     <table>
       <tr>
@@ -32,7 +33,7 @@ path: /about/books/
           comme insérer des images, insérer des tableaux, faire des dessins,
           mettre en page des mathématiques, présenter des codes
           source...</i></p>
-          <p>By Sébastien Combéfis.
+          <p>Par Sébastien Combéfis.
           <small>(ISBN : 978-1-446-70831-6)</small></p>
         </td>
       </tr>
@@ -56,8 +57,8 @@ path: /about/books/
           leur culture générale et à leur apprendre des notions plus spécifiques
           aux sciences informatiques, en leur montrant que l'informatique est
           captivante et diversifiée.</i></p>
-          <p>By Sébastien Combéfis, Jérémy Wautelet, Georges-Henri Leclercq,
-          Adrien Bibal and Virginie Van den Schrieck (Eds.).
+          <p>Par Sébastien Combéfis, Jérémy Wautelet, Georges-Henri Leclercq,
+          Adrien Bibal et Virginie Van den Schrieck (Eds.).
           <small>(ISBN : 978-1-291-62523-3)</small></p>
         </td>
       </tr>
@@ -81,8 +82,8 @@ path: /about/books/
           leur culture générale et à leur apprendre des notions plus spécifiques
           aux sciences informatiques, en leur montrant que l'informatique est
           captivante et diversifiée.</i></p>
-          <p>By Sébastien Combéfis, Georges-Henri Leclercq, Loïc Fortemps de
-          Loneux, Adrien Bibal and Virginie Van den Schrieck (Eds.).
+          <p>Par Sébastien Combéfis, Georges-Henri Leclercq, Loïc Fortemps de
+          Loneux, Adrien Bibal et Virginie Van den Schrieck (Eds.).
           <small>(ISBN : 978-1-32674-724-4)</small></p>
         </td>
       </tr>
@@ -104,7 +105,7 @@ path: /about/books/
           en secondaire. Vous y trouverez très rapidement toutes les formules
           et concepts de l'algèbre, de l'analyse, de la trigonométrie, de la
           géométrie et enfin des statistiques et probabilités.</i></p>
-          <p>By Sébastien Combéfis and Alexis Nootens.
+          <p>Par Sébastien Combéfis et Alexis Nootens.
           <small>(ISBN : 978-1-326-37680-2)</small></p>
         </td>
       </tr>
@@ -126,7 +127,7 @@ path: /about/books/
           seconde partie introduit à la programmation orientée objet et
           présente l'utilisation de dictionnaires, les exceptions, la
           manipulation de fichiers et les interfaces graphiques.</i></p>
-          <p>By Sébastien Combéfis and Quentin Lurkin.
+          <p>Par Sébastien Combéfis et Quentin Lurkin.
           <small>(ISBN : 978-1-326-76710-5)</small></p>
         </td>
       </tr>
@@ -134,7 +135,7 @@ path: /about/books/
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/pittsburgh.jpg" alt="Pittsburgh, PA, USA,
-    July 2009." width="200" height="267" /><br />
-    Pittsburgh, PA, USA, July 2009.</p>
+    Juillet 2009." width="200" height="267" /><br />
+    Pittsburgh, PA, USA, Juillet 2009.</p>
   </div>
 </div>

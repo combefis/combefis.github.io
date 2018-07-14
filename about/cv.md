@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /about/cv/
+path: /about/cv/
 ---
 
 <div class="page-col-wrapper">
@@ -11,7 +12,10 @@ permalink: /about/cv/
     <ul>
       <li><b>Higher Education Teaching Certificate</b>, <i>Université catholique
       de Louvain</i>, Louvain-la-Neuve, Belgium.
-      <small>(Jan. 2016 - ongoing)</small></li>
+      <small>(Jan. 2016 - Jun. 2018)</small><br />
+      <small>- Subject: <i>« Enseigner l'informatique à de futurs ingénieurs :
+      Mise en place d'un cours de programmation informatique en deuxième année
+      de bachelier en sciences de l'ingénieur »</i></small></li>
       <li><b>Advanced Master in Pedagogy in Higher Education</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Cum laude.
       <small>(Sep. 2010 – Jun. 2014)</small><br />
@@ -64,12 +68,16 @@ permalink: /about/cv/
     <h2>Professional experiences</h2>
 
     <ul>
-      <li><b>Lecturer</b>, <i>École Centrale des Arts et Métiers</i> (ECAM),
+      <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i>,
       Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – now)</small><br />
       <small>Professor in an industrial higher education institution, in the
       department of electrical and computer engineering.</small></li>
+      <li><b>Senior Researcher</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
+      Belgium. <small>(Mar. 2018 – now)</small><br />
+      <small>Supervisor of a junior researcher in the frame of the Egonet
+      project, in partnership with UCL and IPL.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgium.
-      <small>(July. 2017 – now)</small><br />
+      <small>(Jul. 2017 – now)</small><br />
       <small>Responsible of academic relationships and coordination of the 
       IT challenges themes and jurys.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
@@ -96,7 +104,7 @@ permalink: /about/cv/
       Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br />
       <small>Educational Advisor for the Louvain School of Engineering
       (EPL).</small></li>
-      <li><b>Associate</b>, <i>Binnovart</i>, Belgium.
+      <li><b>Associate</b>, <i>Binnovart</i>, Waterloo, Belgium.
       <small>(Oct. 2013 – May 2014)</small><br />
       <small>Founder and Associate at Binnovart SPRL, a company developing a
       platform where young artists can meet art investors to catch up and sell
@@ -125,7 +133,7 @@ permalink: /about/cv/
       <li><b>President</b>, <i>Corps Scientifique de l'Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgium.
       <small>(Sep. 2013 – May 2014)</small><br />
-      <small>The <i>« Corps Scientifique de l‘UCL »</i> (Scientific Body) of the
+      <small>The <i>« Corps Scientifique de l'UCL »</i> (Scientific Body) of the
       university gathers all the researchers that are not professors. The role
       of the president is to be the representative of the body in several
       organs of the university, some of them being decision
@@ -181,7 +189,7 @@ permalink: /about/cv/
       Programming. In <i>Olympiads in Informatics</i>, July 2013.</li>
       <li>Sébastien Combéfis, Vianney le Clément de Saint-Marcq. Teaching
       Programming and Algorithm Design with Pythia, a Web-Based Learning
-      Platform. In <i>Olympiads in Informatics</i>, Septembre 2012.</li>
+      Platform. In <i>Olympiads in Informatics</i>, September 2012.</li>
       <li>Sébastien Combéfis, Damien Leroy. Belgian Olympiads in Informatics:
       The Story of Launching a National Contest. In <i>Olympiads in
       Informatics</i>, July 2011.</li>
@@ -291,8 +299,9 @@ permalink: /about/cv/
     <ul>
       <li>Sébastien Combéfis, Quentin Lurkin. Apprendre Python et s'initier à la
       programmation, September 2016.</li>
-      <li>Sébastien Combéfis, Alexis Nootens. Bases des mathématiques et préparation
-      à l'enseignement supérieur : Formules et concepts, July 2016.</li>
+      <li>Sébastien Combéfis, Alexis Nootens. Bases des mathématiques et
+      préparation à l'enseignement supérieur : Formules et concepts, July
+      2016.</li>
       <li>Sébastien Combéfis, Georges-Henri Leclercq, Loïc Fortemps de Loneux,
       Adrien Bibal, Virginie Van den Schrieck (Eds). Bebras Belgium : Recueil de
       questions édition 2013, July 2016.</li>
@@ -406,6 +415,9 @@ permalink: /about/cv/
     <h3>Participation (conference, workshop, tutorial...)</h3>
 
     <ul>
+      <li><b>XXXVIII Sunbelt Conference</b> (Sunbelt 2018), Utrecht, The
+      Netherlands.
+      <small>(26 Jun.–1 Jul. 2018)</small></li>
       <li><b>Google Hash Code 2018</b>, <i>Online Qualification Round</i>,
       Woluwé-Saint-Lambert, Belgium.
       <small>(1 Mar. 2018)</small></li>
@@ -476,9 +488,9 @@ permalink: /about/cv/
 
     <ul>
       <li><b>B2010 – Informatique</b>, <i>Second year bachelor students in
-      engineering</i>. <small>(2014–now, 3 years)</small><br />
+      engineering</i>. <small>(2014–now, 4 years)</small><br />
       <small>This course is about programming in Python and teaches advanced
-      data structures (set, dictionaries and tuples), object oriented
+      data structures (sets, dictionaries and tuples), object oriented
       programming basics, event-based programming and GUI development with
       Kivy, error handling and exceptions, text and binary files reading and
       writing. It also explains how the internet works and introduces to HTML,
@@ -486,7 +498,7 @@ permalink: /about/cv/
       web framework.</small></li>
       <li><b>B2160 – Projet informatique</b>, <i>Second year bachelor students
       in electronics and in computer science engineering</i>. <small>(2015–now,
-      3 years)</small><br />
+      4 years)</small><br />
       <small>This course presents advanced programming concepts with the Python
       language. It presents project management tools (Git, Travis, Heroku...),
       regular expressions, network programming (socket, TCP client/server, UDP
@@ -496,23 +508,23 @@ permalink: /about/cv/
       methods with Octave and with the Scipy library.</small></li>
       <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>,
       <i>Third year bachelor students in electronics and in computer science
-      engineering</i>. <small>(2016–now, 2 years)</small><br />
+      engineering</i>. <small>(2016–now, 3 years)</small><br />
       <small>This course presents the three main components of an embedded
       system: energy management, an intelligent electronic unit and
       peripherals. The course presents how to build an embedded system through
-      the design and the construction of a robot application. In particular, it
-      teaches how to program embedded systems.</small></li>
+      the design and the construction of an IoT application, covering all the 
+      layers from the hardware to the cloud. In particular, it teaches how to
+      program embedded systems and connect them with other systems.</small></li>
       <li><b>M3090 – Techniques informatiques</b>, <i>Third year bachelor
       students in electromechanical engineering</i>. <small>(2014–now,
-      3 years)</small><br />
-      <small>This course, taught to students in third year of bachelor in
-      electromechanical engineering, presents how to analyse and develop a
-      computer application using modelisation (UML), simple databases and
-      queries (Microsoft Access) and object oriented programming
-      (C#).</small></li>
+      4 years)</small><br />
+      <small>This course presents how to analyse and develop a computer
+      application using modelisation (UML), simple databases and queries
+      (Microsoft Access) and low level programming (C) and object oriented
+      programming (C#).</small></li>
       <li><b>I4030 – Technologie des ordinateurs et systèmes
       d'exploitation</b>, <i>First year master students in electronics and in
-      computer science engineering</i>. <small>(2014–now, 3 years)</small><br />
+      computer science engineering</i>. <small>(2014–now, 4 years)</small><br />
       <small>This course presents how a computer works, from the very low
       hardware level to the very high level architecture and organisation. It
       also presents how it can be operated with an operating system and its
@@ -520,7 +532,7 @@ permalink: /about/cv/
       management, filesystem, mass storage, security...).</small></li>
       <li><b>I4040 – Base de données avancées</b>, <i>First year master
       students in computer science engineering</i>. <small>(2016–now,
-      1 year)</small><br />
+      2 years)</small><br />
       <small>This course presents advanced concepts in databases and how to
       manage them (distributed databases, transactions, optimisation...). It
       also introduces to NoSQL and in particular to document-based databases
@@ -528,18 +540,18 @@ permalink: /about/cv/
       applications.</small></li>
       <li><b>I4020 – Architecture logicielle</b>, <i>First year master
       students in computer science engineering</i>. <small>(2014–now,
-      3 years)</small><br />
+      4 years)</small><br />
       <small>This course presents how to architecture a software at different
       levels from the structure of the code to organisation of software
       components.</small></li>
       <li><b>I5020 – Systèmes distribués</b>, <i>Second year master students in
-      computer science engineering</i>. <small>(2017–now, 1 year)</small><br />
+      computer science engineering</i>. <small>(2017–now, 2 years)</small><br />
       <small>This course presents what a distributed system is and how it
       works. It also presents how to build and secure such a system, both
       physically and with softwares.</small></li>
       <li><b>I5030 – Séminaires professionnels</b>, <i>Second year master
       students in electronics and in computer science engineering</i>.
-      <small>(2015–now, 3 years)</small><br />
+      <small>(2015–now, 4 years)</small><br />
       <small>This course is a seminar where the students are asked to prepare
       and present, in English, a subject related to engineering or to their
       master thesis to share their experience. Students are also asked to
@@ -557,7 +569,8 @@ permalink: /about/cv/
       presents the necessary mathematical tools: functions with multiple
       variables, complex numbers, vectors, multiple integrals...</small></li>
       <li><b>JA40I – Programmation distribuée</b>, <i>First year master
-      students in electronics and in computer science engineering</i>. <small>(2015–2016, 2 years)</small><br />
+      students in electronics and in computer science engineering</i>.
+      <small>(2015–2016, 2 years)</small><br />
       <small>This course is a project where the students have to develop a
       3-tiers home automation application to manage a concrete model of a
       house. They also have an activity about object oriented programming with
@@ -569,7 +582,7 @@ permalink: /about/cv/
     <ul>
       <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Third year
       bachelor students in informatics and systems and in electronics</i>.
-      <small>(2017–now, 1 year)</small><br />
+      <small>(2017–now, 2 years)</small><br />
       <small>This course presents how to identify and analyse digital
       transmission with the specific circuits and needed protocols. Students
       have an opportunity to design and develop a complete sensor-based system
@@ -642,16 +655,17 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Digitalent Coach</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Fall 2017, 1 year)</small><br />
+      Belgium. <small>(Fall 2017–Spring 2018, 2 sessions)</small><br />
       <small>Technical coach for the eight-week Digitalent training organised
-      by the Proximus Foundation, for the Schaerbeek session at La Lustrerie
-      (teaching 3D printing and Arduino programming).</small></li>
+      by the Proximus Foundation, for the Schaerbeek session at La Lustrerie and
+      the Brussels session at BeCentral (teaching 3D modelling and printing and
+      Arduino programming).</small></li>
       <li><b>Trainer</b>, <i>LSM Conseil</i>, Louvain-la-Neuve, Belgium.
-      <small>(Spring 2014, 1 year)</small><br />
-      <small>Trainer for a course about the LATEX professional typesetting
+      <small>(Spring 2014, 1 session)</small><br />
+      <small>Trainer for a course about the LaTeX professional typesetting
       system.</small></li>
       <li><b>Trainer</b>, <i>Faculty of Science</i>, Louvain-la-Neuve, Belgium.
-      <small>(Summers 2011–2013, 3 years)</small><br />
+      <small>(Summers 2011–2013, 3 sessions)</small><br />
       <small>Trainer for the summer courses in physics organised for the future
       university students, giving the module on optics (in particular the
       interference phenomenon).</small></li>
@@ -693,8 +707,10 @@ permalink: /about/cv/
     <h2>Other activities</h2>
 
     <ul>
-      <li><b>Attendee</b>, <i>TEDxBrussels 2018</i>, Brussels, Belgium. <small>(5
-      Mar. 2018)</small></li>
+      <li><b>Attendee</b>, <i>TEDxUCLouvain 2018</i>, Louvain-la-Neuve, Belgium.
+      <small>(26 Avr. 2018)</small></li>
+      <li><b>Attendee</b>, <i>TEDxBrussels 2018</i>, Brussels, Belgium.
+      <small>(5 Mar. 2018)</small></li>
       <li><b>Visitor</b>, <i>Virtuality 2018</i>, Paris, France. <small>(10
       Feb. 2018)</small></li>
       <li><b>Attendee</b>, <i>Proximus Think Things 2017</i>, Brussels,
@@ -736,8 +752,8 @@ permalink: /about/cv/
       submitted programs, and generates intelligent feedbacks to support
       learning. In addition to the pure development of the platform, the
       project also consists in creating a set of lessons meant to be used in
-      secondary schools. The project is realised with CSITEd and the École
-      Centrale des Arts et Métiers.</small></li>
+      secondary schools. The project is realised with CSITEd, EDITx and the ECAM
+      Brussels Engineering School.</small></li>
       <li><b>ILPADS</b> <small>(Jan. 2013–now)</small><br />
       <small>The ILPADS project consists in developing an interactive online
       platform to develop programming and algorithm design skills. The platform
@@ -752,10 +768,10 @@ permalink: /about/cv/
       <li><b>METIER</b> <small>(Sep. 2011–Dec. 2011)</small><br />
       <small>The METIER project consists in creating a new scheme to help
       bachelor students to succeed their first year at university. The project
-      was about to develop a new course targeted to computer science students,
-      to teach them soft-skills and work methodology to help them for their
-      future work but also their current job which is to be
-      students.</small></li>
+      was about the development of a new course targeted to computer science
+      students, to teach them soft-skills and work methodology to help them
+      for their future work but also their current job which is to be
+      a good and efficient student.</small></li>
     </ul>
 
 
@@ -777,7 +793,7 @@ permalink: /about/cv/
 
     <ul>
       <li><b>Marketing Digital</b>, <i>Google</i>.
-      <small>(July. 2017–now)</small>
+      <small>(Jul. 2017–now)</small>
       <a href="/files/cv/combefis-google-atelier-digital-certificate-2017.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
@@ -861,7 +877,7 @@ permalink: /about/cv/
     <h2>Computer skills</h2>
 
     <ul>
-      <li><b>Operating systems</b>, <i>Mac OS X, Linux, Windows</i>.</li>
+      <li><b>Operating systems</b>, <i>macOS, Linux, Windows</i>.</li>
       <li><b>Programming</b>, <i>Java, C, Python, XHTML/CSS, Javascript, LaTeX,
       Matlab, PHP, SQL, C#, R, Go, Shell, Visual Basic</i>.</li>
       <li><b>Libraries</b>, <i>jQuery, Node.js, MEAN.js</i>.</li>
@@ -880,20 +896,22 @@ permalink: /about/cv/
       <li>Interview by <i>IOI 2013</i> Reporter during the IOI conference.
       <small>(11 Jul. 2013)</small>
       <a href="/files/media/combefis-IOI-reporter-july-2013.mp3">
-      <img src="/images/sound.png" width="16" height="16" alt="Sound" /></a></li>
+      <img src="/images/sound.png" width="16" height="16"
+      alt="Sound" /></a></li>
       <li>Interview by the newspaper <i>Le Soir</i> for CSITEd and the Bebras
       Contest. <small>(17 Apr. 2013)</small>
       <a href="/files/media/combefis-le-soir-april-2013.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Interview by the local television channel <i>TVCom</i> for the final
-      of the first edition of the Belgian Olympiad in Informatics.
+      of the first edition of the Belgian Olympiads in Informatics.
       <small>(14 May 2010)</small></li>
-      <li>Interview by the specialised paper magasine <i>Data News</i> for the
+      <li>Interview by the specialised magasine <i>Data News</i> for the
       UCLouvain ACM Student Chapter. <small>(7 May 2010)</small>
       <a href="/files/media/combefis-datanews-may-2010.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
-      <li>Interview by the newspaper <i>Vers l'Avenir Brabant Wallon</i> for the
-      Belgian Olympiad in Informatics. <small>(10 Mar. 2010)</small>
+      <li>Interview by the regional newspaper <i>Vers l'Avenir Brabant
+      Wallon</i> for the Belgian Olympiads in Informatics.
+      <small>(10 Mar. 2010)</small>
       <a href="/files/media/combefis-vers-l-avenir-march-2010.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
     </ul>
@@ -904,7 +922,7 @@ permalink: /about/cv/
     London, UK, September 2009.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
-      <li><a href="/files/cv/combefis-CV-full.pdf">Download CV <img
+      <li><a href="/files/cv/combefis-CV-full-EN.pdf">Download CV <img
       src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
     </ul>
   </div>

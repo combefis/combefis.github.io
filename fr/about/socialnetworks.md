@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Social Networks
-permalink: /about/socialnetworks/
+title: Réseaux sociaux
+permalink: /fr/about/socialnetworks/
 path: /about/socialnetworks/
+language: fr
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>This page gathers several social networks on which I am present.</p>
+    <p>Cette page rassemble plusieurs réseaux sociaux sur lesquels je suis
+    présent.</p>
 
 
-    <h2>General</h2>
+    <h2>Général</h2>
 
     <ul>
       <li><a href="https://about.me/sebastien.combefis">About.me</a></li>
@@ -24,7 +26,7 @@ path: /about/socialnetworks/
     </ul>
 
 
-    <h2>Research</h2>
+    <h2>Recherche</h2>
 
     <ul>
       <li><a href="http://scholar.google.be/citations?user=D676gFcAAAAJ">
@@ -39,7 +41,7 @@ path: /about/socialnetworks/
     </ul>
 
 
-    <h2>Development</h2>
+    <h2>Développement</h2>
 
     <ul>
       <li><a href="https://github.com/combefis">GitHub</a></li>
@@ -50,7 +52,7 @@ path: /about/socialnetworks/
     </ul>
 
 
-    <h2>Other</h2>
+    <h2>Autre</h2>
 
     <ul>
       <li><a href="http://www.slideshare.net/seb478">Slideshare</a></li>
@@ -63,9 +65,9 @@ path: /about/socialnetworks/
     </ul>
   </div>
   <div class="page-col page-col-2">
-    <p><img src="/images/eindhoven.jpg" alt="Eindhoven, The Netherlands,
-    November 2009." width="200" height="267" /><br />
-    Eindhoven, The Netherlands,<br />
-    November 2009.</p>
+    <p><img src="/images/eindhoven.jpg" alt="Eindhoven, Pays-Bas,
+    Novembre 2009." width="200" height="267" /><br />
+    Eindhoven, Pays-Bas,<br />
+    Novembre 2009.</p>
   </div>
 </div>

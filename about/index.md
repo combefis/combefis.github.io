@@ -26,6 +26,15 @@ path: /about/
     Phone: +32(0)2.541.48.50<br />
     Fax: +32(0)2.541.48.59<br />
     Email: <a href="mailto:s.combefis@ecam.be">s.combefis@ecam.be</a></p>
+
+    <h2>EDITx</h2>
+
+    <p><i>Head Advisory Board</i><br />
+    Rue des Francs 79<br />
+    1040 Etterbeek<br />
+    Belgium</p>
+
+    <p>Email: <a href="mailto:scombefis@editx.eu">scombefis@editx.eu</a></p>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/bangkok.jpg" alt="Bangkok, Thailand, July 2011."

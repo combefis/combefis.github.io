@@ -9,10 +9,11 @@ language: fr
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
     <p>Cette page reprend les livres que j'ai écrit ou co-écrit. Une partie de
-    ces livres concerne l'informatique ou les mathématiques et ils sont publiés
-    sous le label UKO. Les autres livres sont à propos de la promotion de
-    l'informatique et de la programmation et sont publiés au nom de l'ASBL
-    CSITEd.</p>
+    ces livres concerne l'informatique ou les mathématiques et ils sont publiés 
+    sous le label <a href="https://www.ukonline.be">UKO</a>. Les autres livres 
+    sont à propos de la promotion de l'informatique et de la programmation et 
+    sont publiés au nom de l'ASBL
+    <a href="https://www.csited.be">CSITEd</a>.</p>
 
     <table>
       <tr>

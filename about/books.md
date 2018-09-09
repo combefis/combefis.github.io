@@ -9,9 +9,10 @@ path: /about/books/
   <div class="page-col page-col-1">
     <p>This page gathers the books that I authored or co-authored. The books
     I wrote are either about computer science or mathematics and published
-    under the UKO label, or about promoting computer science and programming
-    under the CSITEd non-profit organisation. They all are in French,
-    so are the short descriptions for each book.</p>
+    under the <a href="https://www.ukonline.be">UKO</a> label, or about
+    promoting computer science and programming under the
+    <a href="https://www.csited.be">CSITEd</a> non-profit organisation.
+    They all are in French, so are the short descriptions for each book.</p>
 
     <table>
       <tr>

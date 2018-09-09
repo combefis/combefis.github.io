@@ -2,22 +2,17 @@
 layout: page
 title: Politics
 permalink: /politics/
+path: /politics/
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>TODO...</p>
+    <p>Ongoing translation... see <a href="/fr/politics/">french version</a></p>
   </div>
   <div class="page-col page-col-2">
-    <p><img src="/images/nasa-ames.jpg" alt="Mountain View, CA, USA,
-    September 2010." width="200" height="150" /><br />
-    Mountain View, CA, USA,<br />
-    September 2010.</p>
-    <h3>Navigation</h3>
-    <ul class="navigation">
-      <li><a href="/research/publications/">Publications</a></li>
-      <li>PhD Thesis</li>
-      <li>Projects</li>
-    </ul>
+    <p><img src="/images/vienna.jpg" alt="Vienna, Austria,
+    July 2018." width="200" height="150" /><br />
+    Vienna, Austria,<br />
+    July 2018.</p>
   </div>
 </div>

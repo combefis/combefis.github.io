@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /fr/blog/
 path: /blog/
+language: fr
 ---
 
 <div class="page-col-wrapper">

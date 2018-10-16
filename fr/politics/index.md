@@ -10,7 +10,7 @@ language: fr
   <div class="page-col page-col-1">
     <p>Je me suis activement engagé en politique en avril 2018 après avoir été
     contacté par Denis Vandenbergen, alors Président de la section locale du MR
-    d'Ottignies. Je suis depuis lors membre du groupe
+    d'Ottignies-Louvain-la-Neuve. Je suis depuis lors membre de la liste
     <a href="https://www.olln20.be">OLLN 2.0</a>, une liste d'ouverture à
     connotation libérale, menée par Bénédicte Kaisin, dans le cadre des
     élections communales 2018. Je suis également membre du
@@ -28,17 +28,15 @@ language: fr
     mon expertise et mes idées au profit de ma ville
     d'<a href="http://www.olln.be">Ottignies-Louvain-la-Neuve</a> et de ses
     habitants.</p>
-
-    <figure>
-      <a href="https://www.olln20.be/31-candidats/sebastien-combefis"><img
-      src="/images/elections-communales-2018.jpg" alt="Sébastien Combéfis,
-      candidat 14 (OLLN 2.0)" width="250" height="353" /></a>
-    </figure>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/vienna.jpg" alt="Vienne, Autriche,
     Juillet 2018." width="200" height="150" /><br />
     Vienne, Autriche,<br />
     Juillet 2018.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="/fr/politics/elections2018/">Élections 2018</a></li>
+    </ul>
   </div>
 </div>

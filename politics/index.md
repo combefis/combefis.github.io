@@ -14,5 +14,9 @@ path: /politics/
     July 2018." width="200" height="150" /><br />
     Vienna, Austria,<br />
     July 2018.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="/politics/elections2018/">Elections 2018</a></li>
+    </ul>
   </div>
 </div>

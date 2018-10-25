@@ -7,64 +7,6 @@ path: /about/cv/
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <h2>Education and trainings</h2>
-
-    <ul>
-      <li><b>Higher Education Teaching Certificate</b>, <i>Université catholique
-      de Louvain</i>, Louvain-la-Neuve, Belgium.
-      <small>(Jan. 2016 - Jun. 2018)</small><br />
-      <small>- Subject: <i>« Enseigner l'informatique à de futurs ingénieurs :
-      Mise en place d'un cours de programmation informatique en deuxième année
-      de bachelier en sciences de l'ingénieur »</i></small></li>
-      <li><b>Advanced Master in Pedagogy in Higher Education</b>, <i>Université
-      catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Cum laude.
-      <small>(Sep. 2010 – Jun. 2014)</small><br />
-      <small>- Subject: <i>« Enseigner des outils méthodologiques et former une
-      attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en
-      place et évaluation d‘un dispositif d'aide à la réussite »</i><br />
-      - Supervisor: <i>Prof. Mariane Frenay and co-supervisor: Dr. Mireille
-      Houart</i>.</small></li>
-      <li><b>PhD in Engineering</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Nov. 2013)</small><br />
-      <small>- Subject: <i>« A Formal Framework for the Analysis of
-      Human-Machine Interactions »</i><br />
-      - Examining Board: <i>Prof. Charles Pecheur, supervisor (UCL/ICTM,
-      Belgium), Prof. Jean Vanderdonckt, secretary (UCL/ILSM, Belgium),
-      Prof. Thierry Massart (ULB, Belgium), Dr Dimitra Giannakopoulou
-      (NASA/ARC, USA), Prof. Philippe Palanque (UPS/IRIT, France) and
-      Prof. Peter Van Roy, chair (UCL/ICTM, Belgium)</i>.</small></li>
-      <li><b>Master in Computer Science Engineering</b>, <i>Université
-      catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Magna cum laude.
-      <small>(Sep. 2002 – Jun. 2007)</small><br />
-      <small>- Subject: <i>« Viral Marketing and Community Detection
-      Algorithm »</i><br />
-      - Supervisor: <i>Prof. Pierre Dupont</i>.</small></li>
-      <li><b>General Secondary Education</b>, <i>Lycée de Berlaymont</i>,
-      Waterloo, Belgium, 85%. <small>(Sep. 1996 – Jun. 2002)</small><br />
-      <small>Mathematics/Science option.</small></li>
-    </ul>
-
-    <h3>Trainings</h3>
-
-    <ul>
-      <li><b>Security Fundamentals</b>, <i>Technobel</i>, Ciney, Belgium.
-      <small>(6–7 Jun. 2016)</small><br />
-      <small>Training about IT security to understand threats and
-      attacks in IT systems and how to deal with them.</small></li>
-      <li><b>From Research To Business</b> (FR2B), Belgium.
-      <small>(1st cycle 2010)</small><br />
-      <small>Seven-day training composed of four modules, targeted to
-      researchers who think that their research may lead to the creation of a
-      company.</small></li>
-      <li><b>Teaching monitor Training</b>, <i>Louvain School of
-      Engineering</i>, Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2004)</small><br />
-      <small>Training to become student monitor (tutor) to supervise the
-      practical sessions of the <i>« Introduction to Programming »</i> course
-      taught to first year bachelors in engineering.</small></li>
-    </ul>
-
-
     <h2>Professional experiences</h2>
 
     <ul>
@@ -75,7 +17,7 @@ path: /about/cv/
       <li><b>Senior Researcher</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
       Belgium. <small>(Mar. 2018 – now)</small><br />
       <small>Supervisor of a junior researcher in the frame of the Egonet
-      project, in partnership with UCL and IPL.</small></li>
+      project, in partnership with UCLouvain and IPL.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgium.
       <small>(Jul. 2017 – now)</small><br />
       <small>Responsible of academic relationships and coordination of the 
@@ -90,9 +32,8 @@ path: /about/cv/
       <small>Professor in a higher education institution in social advancement
       for the bachelor in informatics and systems and the bachelor in
       electronics of the Technology Pole.</small></li>
-      <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>
-      (UCL), Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2014 – Sep. 2016)</small><br />
+      <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>,
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2014 – Sep. 2016)</small><br />
       <small>Invited lecturer for the programming course for first year
       bachelor students in engineering and in computer science.</small></li>
       <li><b>Research Assistant</b>, <i>Université catholique de Louvain</i>,
@@ -152,6 +93,64 @@ path: /about/cv/
       <small>The UCLouvain ACM Student Chapter is the local chapter of the
       Association for Computing Machinery (ACM), an international organisation
       whose goal is to promote computer science.</small></li>
+    </ul>
+
+
+    <h2>Education and trainings</h2>
+
+    <ul>
+      <li><b>Higher Education Teaching Certificate</b>, <i>Université catholique
+      de Louvain</i>, Louvain-la-Neuve, Belgium.
+      <small>(Jan. 2016 - Jun. 2018)</small><br />
+      <small>- Subject: <i>« Enseigner l'informatique à de futurs ingénieurs :
+      Mise en place d'un cours de programmation informatique en deuxième année
+      de bachelier en sciences de l'ingénieur »</i></small></li>
+      <li><b>Advanced Master in Pedagogy in Higher Education</b>, <i>Université
+      catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Cum laude.
+      <small>(Sep. 2010 – Jun. 2014)</small><br />
+      <small>- Subject: <i>« Enseigner des outils méthodologiques et former une
+      attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en
+      place et évaluation d‘un dispositif d'aide à la réussite »</i><br />
+      - Supervisor: <i>Prof. Mariane Frenay and co-supervisor: Dr. Mireille
+      Houart</i>.</small></li>
+      <li><b>PhD in Engineering</b>, <i>Université catholique de Louvain</i>,
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Nov. 2013)</small><br />
+      <small>- Subject: <i>« A Formal Framework for the Analysis of
+      Human-Machine Interactions »</i><br />
+      - Examining Board: <i>Prof. Charles Pecheur, supervisor (UCLouvain/ICTM,
+      Belgium), Prof. Jean Vanderdonckt, secretary (UCLouvain/ILSM, Belgium),
+      Prof. Thierry Massart (ULB, Belgium), Dr Dimitra Giannakopoulou
+      (NASA/ARC, USA), Prof. Philippe Palanque (UPS/IRIT, France) and
+      Prof. Peter Van Roy, chair (UCLouvain/ICTM, Belgium)</i>.</small></li>
+      <li><b>Master in Computer Science Engineering</b>, <i>Université
+      catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Magna cum laude.
+      <small>(Sep. 2002 – Jun. 2007)</small><br />
+      <small>- Subject: <i>« Viral Marketing and Community Detection
+      Algorithm »</i><br />
+      - Supervisor: <i>Prof. Pierre Dupont</i>.</small></li>
+      <li><b>General Secondary Education</b>, <i>Lycée de Berlaymont</i>,
+      Waterloo, Belgium, 85%. <small>(Sep. 1996 – Jun. 2002)</small><br />
+      <small>Mathematics/Science option.</small></li>
+    </ul>
+
+    <h3>Trainings</h3>
+
+    <ul>
+      <li><b>Security Fundamentals</b>, <i>Technobel</i>, Ciney, Belgium.
+      <small>(6–7 Jun. 2016)</small><br />
+      <small>Training about IT security to understand threats and
+      attacks in IT systems and how to deal with them.</small></li>
+      <li><b>From Research To Business</b> (FR2B), Belgium.
+      <small>(1st cycle 2010)</small><br />
+      <small>Seven-day training composed of four modules, targeted to
+      researchers who think that their research may lead to the creation of a
+      company.</small></li>
+      <li><b>Teaching monitor Training</b>, <i>Louvain School of
+      Engineering</i>, Louvain-la-Neuve, Belgium.
+      <small>(Sep. 2004)</small><br />
+      <small>Training to become student monitor (tutor) to supervise the
+      practical sessions of the <i>« Introduction to Programming »</i> course
+      taught to first year bachelors in engineering.</small></li>
     </ul>
 
 
@@ -484,7 +483,7 @@ path: /about/cv/
 
     <h2>Teaching</h2>
 
-    <h3>Trained Courses at ECAM</h3>
+    <h3>Courses Taught at ECAM</h3>
 
     <ul>
       <li><b>B2010 – Informatique</b>, <i>Second year bachelor students in
@@ -577,7 +576,7 @@ path: /about/cv/
       Java.</small></li>
     </ul>
 
-    <h3>Trained Courses at ITSCM</h3>
+    <h3>Courses Taught at ITSCM</h3>
 
     <ul>
       <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Third year
@@ -603,7 +602,7 @@ path: /about/cv/
       exportation...</small></li>
     </ul>
 
-    <h3>Trained Courses at UCL</h3>
+    <h3>Courses Trained at UCLouvain</h3>
 
     <ul>
       <li><b>LFSAB1401 – Informatique 1</b>, <i>First year bachelor students in
@@ -691,11 +690,11 @@ path: /about/cv/
       (1 year), President and 2013–2014 (1 year), Vice-President for Internal
       Matters of the Association of the Scientific staff of the ICT,
       Electronics and Applied Mathematics Institute (AsCII).</small></li>
-      <li><b>Member of the MOOCs@UCL Steering Committee</b>, Louvain-la-Neuve,
-      Belgium.<br />
+      <li><b>Member of the MOOCs@UCLouvain Steering Committee</b>,
+      Louvain-la-Neuve, Belgium.<br />
       <small>Member of the committee which is steering the MOOC phenomenon at
       Université catholique de Louvain and coordinating the LouvainX initiative
-      (UCL courses on the edX platform).</small></li>
+      (UCLouvain courses on the edX platform).</small></li>
       <li><b>Deputy Leader</b>, <i>22nd International Olympiad in Informatics
       (IOI 2010)</i>, Waterloo, ON, Canada.<br />
       <small>Representative for Belgium at the International Olympiad in
@@ -707,6 +706,8 @@ path: /about/cv/
     <h2>Other activities</h2>
 
     <ul>
+      <li><b>Laureate</b>, <i>3ème édition des Sésames d'Agoria</i>, Gosselies,
+      Belgium. <small>(24 Oct. 2018)</small></li>
       <li><b>Attendee</b>, <i>TEDxUCLouvain 2018</i>, Louvain-la-Neuve, Belgium.
       <small>(26 Avr. 2018)</small></li>
       <li><b>Attendee</b>, <i>TEDxBrussels 2018</i>, Brussels, Belgium.
@@ -728,7 +729,7 @@ path: /about/cv/
       2013)</i>, Utrecht, The Netherlands. <small>(26 Oct. 2013)</small></li>
       <li><b>Guest</b>, <i>25th International Olympiad in Informatics
       (IOI 2013)</i>, Brisbane, Australia. <small>(6–13 Jul. 2013)</small></li>
-      <li><b>Reader for Thesis of Bachelor in Business Computing</b>,
+      <li><b>Reader for Bachelor Thesis in Business Computing</b>,
       <i>Institut Paul Lambin (IPL)</i>, Brussels, Belgium.
       <small>(Jun. 2010, Jun. 2012)</small></li>
       <li><b>Invited Student Scholar</b>, <i>ACM A.M. Turing Centenary
@@ -778,6 +779,9 @@ path: /about/cv/
     <h2>Awards and recognitions</h2>
 
     <ul>
+      <li><b>« Sésames d'Agoria 2018 » Laureate</b>. <small>(2018)</small><br />
+      <small>For the <i>« Digitalent »</i> project I worked on for CERDECAM with
+      the Proximus Foundation.</small></li>
       <li><b>Best paper</b>. <small>(2011)</small><br />
       <small>For the <i>« Learning System Abstractions for Human
       Operators »</i> paper submitted at the 2011 International Workshop on
@@ -851,6 +855,8 @@ path: /about/cv/
     <ul>
       <li><b>Alumni Ingénieurs Louvain (AILouvain)</b>, <i>Member</i>.
       <small>(2007–now)</small></li>
+      <li><b>Mouvement Réformateur (MR)</b>, <i>Member</i>.
+      <small>(2014–now)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>,
       <i>Member</i>. <small>(2002–now)</small></li>
     </ul>

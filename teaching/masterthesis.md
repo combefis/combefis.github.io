@@ -2,47 +2,69 @@
 layout: page
 title: Master thesis
 permalink: /teaching/masterthesis/
+path: /teaching/masterthesis/
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>The list hereafter contains all the master thesis that I supervised
-    as part of my lecturer position at the
-    <a href="http://www.vinci.be/fr-be/ecam">École Centrale des Arts et
-    Métiers</a> (ECAM). Most of them are performed in a firm outside the school
-    and are in the continuity of the
+    <p>The list hereafter contains all the <b>master thesis</b> that I
+    supervised as part of my lecturer position at the
+    <a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels Engineering
+    School</a> (ECAM). Most of them are performed in a company outside the
+    school and are in the continuity of the
     <a href="/teaching/internships/supervision/">work placement 
-    internship</a> that took place during the first semester.</p>
-    
-    <p>When I was a researcher working as a teaching assistant at
-    <a href="https://www.uclouvain.be/en/">Université catholique de
-    Louvain</a> (UCL), I co-supervised several master thesis whose topics where
-    related to my own PhD thesis or to other projects I was working on at that
-    time.</p>
+    internship</a> that took place during the first semester. When I was a
+    researcher working as a teaching assistant at
+    <a href="https://www.uclouvain.be/en">Université catholique de
+    Louvain</a> (UCLouvain), I co-supervised several master thesis whose topics
+    were related to my own PhD thesis or to other projects I was working on at
+    that time. Reports that are not confidential can be downloaded on this page.</p>
 
     <h2>ECAM</h2>
 
     <ol class="publications-start">
+      <li>Yannick Berckmans. Boitier électronique IoT de monitoring
+      énergétique : Étude et programmation d'un prototype. <i>Master
+      Thesis</i>. ECAM Brussels Engineering School, Belgium, June 2018.
+      <br /><small>Advisor: Ing. Michaël Jeanmotte (G.M. Electronics,
+      Ganshoren).</small></li>
+      <li>Antoine Vander Meiren. Développement de l'entièreté de la chaine
+      d'une solution de chiffrement sur Android basée sur un module
+      hardware spécialisé. <i>Master Thesis</i>. ECAM Brussels Engineering
+      School, Belgium, June 2018.<br /><small>Advisor: Ir. Samuel
+      Tessian (Thalès, Tubize).</small></li>
+      <li>Charles Vandevoorde. Hybrid ordering protocol for
+      partially-replicated state machine. <i>Master Thesis</i>. ECAM Brussels
+      Engineering School, Belgium, June 2018.
+      <a href="/files/publi/vandevoorde-master-thesis-2018.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
+      <br /><small>Advisor: Prof. Peter Van Roy (Université catholique de
+      Louvain, UCLouvain).</small></li>
       <li>Damien Vanhove. Design, développement et intégration à une plateforme
       de gestion d'école d'un module de gestion des stages. <i>Master
-      Thesis</i>. École Centrale des Arts et Métiers, Belgium, September
+      Thesis</i>. ECAM Brussels Engineering School, ECAM, September
       2017.<a href="/files/publi/vanhove-master-thesis-2017.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Advisor: Dr Sébastien Combéfis (École Centrale des Arts et
-      Métiers, ECAM).</small></li>
+      <br /><small>Advisor: Dr Sébastien Combéfis (ECAM Brussels Engineering
+      School, Woluwé-Saint-Lambert).</small></li>
       <li>Benoit de Patoul. Post-Wildfire Vegetation Loss Mapping using
-      Bitemporal Synthetic Aperture Radar. <i>Master Thesis</i>. École Centrale
-      des Arts et Métiers, Belgium, June 2017.<br /><small>Advisor: Dr Zhi Qiang Chen (University of Missouri-Kansas City, UMKC).</small></li>
+      Bitemporal Synthetic Aperture Radar. <i>Master Thesis</i>. ECAM Brussels
+      Engineering School, Belgium, June 2017.
+      <a href="/files/publi/depatoul-master-thesis-2017.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
+      <br /><small>Advisor: Dr Zhi Qiang Chen (University of Missouri-Kansas
+      City, UMKC).</small></li>
       <li>Lionel Gosselin. Création d'un service Fablab pour la conception et
-      l'impression 3D au sein de l'ECAM. <i>Master Thesis</i>. École Centrale
-      des Arts et Métiers, Belgium, June 2016.<br /><small>Advisor: Cédric Marchand (École Centrale des Arts et Métiers, ECAM).</small></li>
+      l'impression 3D au sein de l'ECAM. <i>Master Thesis</i>. ECAM Brussels
+      Engineering School, Belgium, June 2016.<br /><small>Advisor: Ir. Cédric
+      Marchand (CERDECAM, Woluwé-Saint-Lambert).</small></li>
       <li>Damien Vanhove. Développement d'un outil d'analyse de la topologie
-      d'un réseau informatique industriel. <i>Master Thesis</i>. École Centrale
-      des Arts et Métiers, Belgium, June 2016.<br /><small>Advisor: Serge
+      d'un réseau informatique industriel. <i>Master Thesis</i>. ECAM Brussels
+      Engineering School, Belgium, June 2016.<br /><small>Advisor: Ir. Serge
       Wautier (eWon, Nivelles).</small></li>
     </ol>
 
-    <h2>UCL</h2>
+    <h2>UCLouvain</h2>
 
     <ol class="publications-continue">
       <li>Steven An. Extending Pythia with structural source code checks for

@@ -2,20 +2,23 @@
 layout: page
 title: LADO
 permalink: /teaching/projects/lado/
+path: /teaching/projects/lado/
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
     <p>The <b>LADO project</b> aims at the design of learning materials to
-    learn and teach algorithm design and optimisation using contest tasks. A
-    group of students, supervised by a coach-professor, will work together
-    and cooperate through a GitHub repository, to produce learning materials
-    based on existing contest tasks. This material can then be used to support
-    the learning of algorithm design and optimisation in programming courses
-    for higher education or it can also be used for self learning. The
-    project will take place during the 2017-2018 academic year at the
-    <a href="http://www.vinci.be/fr-be/ecam">École Centrale des Arts et
-    Métiers</a> (ECAM).</p>
+    learn and teach algorithm design and optimisation using contest tasks.
+    Students working as a group, supervised by a coach-professor, will work
+    together and cooperate through a GitHub repository, to produce learning
+    materials based on existing contest tasks. This material can then be used
+    to support the <b>learning of algorithm design and optimisation</b> in
+    programming courses for higher education or it can also be used for
+    self-learning.</p>
+
+    <p>The project should have taken place during the 2017-2018 academic year
+    at the <a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels Engineering
+    School</a> (ECAM), but has been delayed to a near future, hopefully.</p>
 
     <h2>Contributors</h2>
 

@@ -2,6 +2,7 @@
 layout: page
 title: NoSQL
 permalink: /teaching/ecam/nosql/
+path: /teaching/ecam/nosql/
 ---
 
 <div class="page-col-wrapper">

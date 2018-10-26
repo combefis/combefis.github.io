@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /teaching/projects/
+path: /teaching/projects/
 ---
 
 <div class="page-col-wrapper">
@@ -11,10 +12,11 @@ permalink: /teaching/projects/
     of sciences</b>, in particular computer science. Some projects are also
     related to the improvement of the <b>success rate of students</b>. Finally,
     some projects are dedicated to teaching in special conditions or for a
-    particular public such as young people who dropped out of school.</p>
+    particular public such as young people who dropped out of school, for
+    example.</p>
 
-    <p>In this section, you can find ressources related to the different
-    projects as well as teaching and learning materials that has been 
+    <p>In this section of the website, you can find resources related to the
+    different projects as well as teaching and learning materials that has been
     developed in the frame of the projects.</p>
   </div>
   <div class="page-col page-col-2">

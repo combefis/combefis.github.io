@@ -2,21 +2,22 @@
 layout: page
 title: ECAM
 permalink: /teaching/ecam/
+path: /teaching/ecam/
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>I currently work as a lecturer at the
-    <a href="http://www.vinci.be/fr-be/ecam">École Centrale des Arts et
-    Métiers</a> (ECAM), an industrial higher education institution. I am
-    involved in several courses of the bachelor and the master, in particular
-    for the future industrial engineers in electronics and computer science.</p>
-
-    <p>You can find the list of courses that I am currently teaching, and that
-    I taught in the past, hereafter, along with the level of students attending
-    the course and a short description of it. For each course, only the
-    activities I am involved in are mentioned. More details with resources for
-    some courses are available on subsequent pages.</p>
+    <p>I currently work as a <b>lecturer</b> at the
+    <a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels Engineering
+    School</a> (ECAM), an industrial higher education institution. I am
+    involved in several courses dedicated to the bachelor and master students,
+    in particular for the future industrial engineers in electronics and
+    computer science. Since 2018, I also give some courses to business analyst 
+    master students, an alternating course program co-organised with the
+    <a href="https://www.ichec.be/?kb_lang=english">ICHEC Brussels Management
+    School</a>. Several courses are managed by a team, and only the
+    activities I am involved in are mentioned hereafter. More details with
+    resources for some courses are available on subsequent pages.</p>
 
 
     <h2>Currently taught</h2>
@@ -27,7 +28,7 @@ permalink: /teaching/ecam/
         <col style="width: 85%;"/>
       </colgroup>
       <tr>
-        <td>2014–now<br /><small>(3 years)</small></td>
+        <td>2014–now<br /><small>(4 years)</small></td>
         <td>
           <b>B2010 – Informatique</b> <small>(4 ECTS, 43h)</small>
           <ul>
@@ -44,7 +45,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2015–now<br /><small>(3 years)</small></td>
+        <td>2015–now<br /><small>(4 years)</small></td>
         <td>
           <b>B2160 – Projet informatique</b> <small>(5 ECTS, 57h)</small>
           <ul>
@@ -64,7 +65,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>new</td>
+        <td>2017–now<br /><small>(1 year)</small></td>
         <td>
           <b>E3010 – Électronique numérique</b> <small>(6 ECTS, 70h)</small>
           <ul>
@@ -80,7 +81,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2016–now<br /><small>(2 years)</small></td>
+        <td>2016–now<br /><small>(3 years)</small></td>
         <td>
           <b>E3020 – Électronique et programmation des systèmes
           embarqués</b> <small>(4 ECTS, 45,5h)</small>
@@ -99,7 +100,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>new</td>
+        <td>2018–now<br /><small>(1 year)</small></td>
         <td>
           <b>E3040 – Projet informatique</b> <small>(5 ECTS, 52,5h)</small>
           <ul>
@@ -114,19 +115,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2014–now<br /><small>(3 years)</small></td>
-        <td>
-          <b>M3090 – Conception et développement informatique</b> <small>(4
-          ECTS, 43h)</small>
-          <p><small><i>This course, taught to students in third year of
-          bachelor in electromechanical engineering, presents how 
-          to analyse and develop a computer application using modelisation
-          (UML), simple databases and queries (Microsoft Access) and object
-          oriented programming (C#).</i></small></p>
-        </td>
-      </tr>
-      <tr>
-        <td>2014–now<br /><small>(3 years)</small></td>
+        <td>2014–now<br /><small>(4 years)</small></td>
         <td>
           <b>I4020 – Architecture et qualité logicielle</b> <small>(4 ECTS,
           49h)</small>
@@ -144,7 +133,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2014–now<br /><small>(3 years)</small></td>
+        <td>2014–now<br /><small>(4 years)</small></td>
         <td>
           <b>I4030 – Technologie des ordinateurs et systèmes
           d'exploitation</b> <small>(5 ECTS, 56h)</small>
@@ -165,7 +154,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2016–now<br /><small>(1 year)</small></td>
+        <td>2016–now<br /><small>(2 years)</small></td>
         <td>
           <b>I4040 – Base de données avancées</b> <small>(4 ECTS, 43h)</small>
           <ul>
@@ -180,7 +169,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>new</td>
+        <td>2018–now<br /><small>(1 year)</small></td>
         <td>
           <b>I4100 – Synthèse d'images</b> <small>(4 ECTS, 49h)</small>
           <ul>
@@ -196,7 +185,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>new</td>
+        <td>2018–now<br /><small>(1 year)</small></td>
         <td>
           <b>I5010 – Architecture distribuée</b> <small>(4 ECTS, 43h)</small>
           <ul>
@@ -211,7 +200,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2017–now<br /><small>(1 year)</small></td>
+        <td>2017–now<br /><small>(2 years)</small></td>
         <td>
           <b>I5020 – Sécurité des systèmes informatiques</b> <small>(4 ECTS,
           36h)</small>
@@ -229,7 +218,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>2015–now<br /><small>(3 years)</small></td>
+        <td>2015–now<br /><small>(4 years)</small></td>
         <td>
           <b>O5040 – Séminaires professionnels</b> <small>(3 ECTS, 45h)</small>
           <p><small><i>This course, taught to students in second year of master
@@ -242,7 +231,7 @@ permalink: /teaching/ecam/
         </td>
       </tr>
       <tr>
-        <td>new</td>
+        <td>2018–now<br /><small>(1 year)</small></td>
         <td>
           <b>I5080 – Intelligence artificielle</b> <small>(4 ECTS,
           47,5h)</small>
@@ -258,6 +247,36 @@ permalink: /teaching/ecam/
           can be analysed to extract relevant information.</i></small></p>
         </td>
       </tr>
+      <tr>
+        <td>2018–now<br /><small>(1 year)</small></td>
+        <td>
+          <b>Développement logiciel</b> <small>(6 ECTS, 70h)</small>
+          <ul>
+            <li><small>Programmation orientée objet (42h)</small></li>
+            <li><small>Qualité logicielle (14h)</small></li>
+          </ul>
+          <p><small><i>This course, taught to students in first year of the
+          business analyst master, presents what is the object oriented (OO)
+          programming paradigm and initiates students to it. The course 
+          focuses on the analysis of an OO design, to identify good practices
+          and assess the quality of an OO architecture.</i></small></p>
+        </td>
+      </tr>
+      <tr>
+        <td>new</td>
+        <td>
+          <b>Sécurité et architecture réseau</b> <small>(6 ECTS, 72h)</small>
+          <ul>
+            <li><small>Virtualisation (7h)</small></li>
+            <li><small>Sécurité physique et logicielle (7h)</small></li>
+          </ul>
+          <p><small><i>This course, taught to students in second year of the
+          business analyst master, is about network architecture and security.
+          In addition to network architecture, students are taught what are the
+          main virtualisation techniques and how to secure an information
+          system, on the hardware and software levels.</i></small></p>
+        </td>
+      </tr>
     </table>
 
 
@@ -268,6 +287,18 @@ permalink: /teaching/ecam/
         <col style="width: 15%;"/>
         <col style="width: 85%;"/>
       </colgroup>
+      <tr>
+        <td>2014–2017<br /><small>(4 years)</small></td>
+        <td>
+          <b>M3090 – Conception et développement informatique</b> <small>(4
+          ECTS, 43h)</small>
+          <p><small><i>This course, taught to students in third year of
+          bachelor in electromechanical engineering, presents how 
+          to analyse and develop a computer application using modelisation
+          (UML), simple databases and queries (Microsoft Access) and object
+          oriented programming (C#).</i></small></p>
+        </td>
+      </tr>
       <tr>
         <td>2016<br /><small>(1 year)</small></td>
         <td>

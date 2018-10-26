@@ -2,6 +2,7 @@
 layout: page
 title: Python Programming
 permalink: /teaching/ecam/python/
+path: /teaching/ecam/python/
 ---
 
 <div class="page-col-wrapper">

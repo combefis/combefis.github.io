@@ -32,6 +32,18 @@ language: fr
     <h2>Anciens stagiaires</h2>
 
     <ol class="publications-start">
+      <li>Amaury Lekens. Identification automatique de profils d'utilisateurs
+      par rapport à leurs compétences IT. <i>Stage EDITx</i>. ECAM Brussels
+      Engineering School (ECAM), Belgique, Octobre-Novembre 2018.
+      <a href="/files/publi/lekens-master-internship-2018.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <small>Superviseur : Ing. Rémy Taymans.</small></li>
+      <li>Julien Kessels. Mise en place d'un tutoriel intelligent en vue
+      d'améliorer des compétences IT. <i>Stage EDITx</i>. ECAM Brussels
+      Engineering School (ECAM), Belgique, Octobre-Novembre 2018.
+      <a href="/files/publi/kessels-master-internship-2018.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <small>Supervisor: Ing. Rémy Taymans.</small></li>
       <li>Nathan Little. Pythia-EDITx integration and data analysis. <i>Stage
       EDITx</i>. ECAM Brussels Engineering School (ECAM), Belgique,
       Avril-Mai 2018.

@@ -18,9 +18,13 @@ path: /teaching/internships/supervision/
 
     <ol class="publications-start">
       <li>Tom Selleslagh, 2nd master, <b>CETIC</b>, Charleroi.
-      <small>(September 17-October 26)</small></li>
+      <small>(September 17-October 26)</small>
+      <a href="/files/publi/selleslagh-master-internship-2018.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Hadrien Hachez, 2nd master, <b>Avanade</b>, Brussels.
-      <small>(August 1-October 26)</small></li>
+      <small>(August 1-October 26)</small>
+      <a href="/files/publi/hachez-master-internship-2018.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Christophe Simon, 3rd bachelor, <b>Ingestic</b>, Louvain-la-Neuve.
       <small>(April 2-May 11)</small>
       <a href="/files/publi/simon-bachelor-internship-2018.pdf">

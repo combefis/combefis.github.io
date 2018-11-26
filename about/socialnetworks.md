@@ -3,6 +3,7 @@ layout: page
 title: Social Networks
 permalink: /about/socialnetworks/
 path: /about/socialnetworks/
+language: en
 ---
 
 <div class="page-col-wrapper">

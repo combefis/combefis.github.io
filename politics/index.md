@@ -3,6 +3,7 @@ layout: page
 title: Politics
 permalink: /politics/
 path: /politics/
+language: en
 ---
 
 <div class="page-col-wrapper">

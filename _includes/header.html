@@ -19,23 +19,11 @@
         </svg>
       </a>
 
-      {% if page.language and page.language == 'fr' %}
       <div class="trigger">
-        <a class="page-link" href="/fr/teaching/">Enseignement</a>
-        <a class="page-link" href="/fr/research/">Recherche</a>
-        <a class="page-link" href="/fr/politics/">Politique</a>
-        <a class="page-link" href="/fr/blog/">Blog</a>
-        <a class="page-link" href="/fr/about/">À propos</a>
+        {% for menu in site.t[page.language] %}
+        <a class="page-link" href="{{ menu[1].url }}/">{{ menu[1].name }}</a>
+        {% endfor %}
       </div>
-      {% else %}
-      <div class="trigger">
-        <a class="page-link" href="/teaching/">Teaching</a>
-        <a class="page-link" href="/research/">Research</a>
-        <a class="page-link" href="/politics/">Politics</a>
-        <a class="page-link" href="/blog/">Blog</a>
-        <a class="page-link" href="/about/">About</a>
-      </div>
-      {% endif %}
     </nav>
   </div>
 </header>

@@ -3,6 +3,7 @@ layout: page
 title: Programming basics
 permalink: /teaching/itscm/programming/
 path: /teaching/itscm/programming/
+language: en
 ---
 
 <div class="page-col-wrapper">

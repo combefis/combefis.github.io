@@ -3,6 +3,7 @@ layout: page
 title: Internships
 permalink: /teaching/internships/
 path: /teaching/internships/
+language: en
 ---
 
 <div class="page-col-wrapper">

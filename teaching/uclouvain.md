@@ -3,6 +3,7 @@ layout: page
 title: UCLouvain
 permalink: /teaching/uclouvain/
 path: /teaching/uclouvain/
+language: en
 ---
 
 <div class="page-col-wrapper">

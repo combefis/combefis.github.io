@@ -3,6 +3,8 @@ layout: post
 title: "Petit moment de détente"
 date: 2014-05-18 21:22:41 +0200
 categories: jeu
+permalink: /fr/blog/:year/:month/:day/:title/
+language: fr
 ---
 
 Pour se changer les idées lors d'un gros travail prenant, ou lors d'un petit moment bas dans une journée éreintante, rien de tel qu'un petit jeu en ligne. Aujourd'hui, j'ai décidé de ne pas jouer pour occuper un petit moment creux dans ma journée, mais de partager avec vous quelques jeux qui m'ont déjà bien servi et qui mêle réflexion stratégique et simple défoulement "bestial".

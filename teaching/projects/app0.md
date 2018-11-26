@@ -3,6 +3,7 @@ layout: page
 title: APP0
 permalink: /teaching/projects/app0/
 path: /teaching/projects/app0/
+language: en
 ---
 
 <div class="page-col-wrapper">

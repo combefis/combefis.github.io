@@ -3,6 +3,7 @@ layout: page
 title: Initiation to databases
 permalink: /teaching/itscm/database/
 path: /teaching/itscm/database/
+language: en
 ---
 
 <div class="page-col-wrapper">

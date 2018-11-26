@@ -3,6 +3,7 @@ layout: page
 title: Proximus Digitalent
 permalink: /teaching/trainings/digitalent/
 path: /teaching/trainings/digitalent/
+language: en
 ---
 
 <div class="page-col-wrapper">

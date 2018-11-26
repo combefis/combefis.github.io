@@ -3,6 +3,7 @@ layout: post
 title: "« Pause interactive » en cours"
 date: 2014-11-14 10:31:43 +0200
 categories: enseignement, pédagogie
+language: fr
 ---
 
 Depuis septembre 2014, je suis _chargé de cours invité_ à l'Université

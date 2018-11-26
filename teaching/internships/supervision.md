@@ -3,6 +3,7 @@ layout: page
 title: Internships supervision
 permalink: /teaching/internships/supervision/
 path: /teaching/internships/supervision/
+language: en
 ---
 
 <div class="page-col-wrapper">

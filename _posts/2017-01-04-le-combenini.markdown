@@ -3,6 +3,8 @@ layout: post
 title: "Le « Combénini »"
 date: 2017-01-04 12:10:21 +0200
 categories: cuisine, recette
+permalink: /fr/blog/:year/:month/:day/:title/
+language: fr
 ---
 
 J'aime manger, j'aime la bonne nourriture, je ne le cache pas. Il m'arrive

@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /teaching/projects/
 path: /teaching/projects/
+language: en
 ---
 
 <div class="page-col-wrapper">

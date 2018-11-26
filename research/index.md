@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+language: en
 ---
 
 <div class="page-col-wrapper">

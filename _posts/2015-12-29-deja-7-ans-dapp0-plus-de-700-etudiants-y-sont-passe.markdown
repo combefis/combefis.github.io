@@ -3,6 +3,8 @@ layout: post
 title: "Déjà 7 ans d'APP0, plus de 700 étudiants y sont passé..."
 date: 2015-12-29 17:53:25 +0200
 categories: enseignement, pédagogie, informatique, jeu
+permalink: /fr/blog/:year/:month/:day/:title/
+language: fr
 ---
 
 **Sept années** déjà... plus de **700 étudiants** qui sont passé par l'UCL, en

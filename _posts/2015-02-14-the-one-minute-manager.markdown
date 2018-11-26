@@ -3,6 +3,7 @@ layout: post
 title: "The One Minute Manager"
 date: 2015-02-14 19:51:38 +0200
 categories: livre, management
+language: fr
 ---
 
 The _One Minute Manager_ présente une méthode pratique et efficace qui vous

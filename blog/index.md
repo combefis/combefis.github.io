@@ -3,11 +3,13 @@ layout: page
 title: Blog
 permalink: /blog/
 path: /blog/
+language: en
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-  {% for post in site.posts %}
+  {% assign posts = site.posts | where: "language", page.language %}
+  {% for post in posts %}
     {% capture thisyear %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture nextyear %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 

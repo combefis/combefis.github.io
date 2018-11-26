@@ -3,6 +3,7 @@ layout: post
 title: "Quantité d'information : en parler... correctement !"
 date: 2012-09-22 19:47:38 +0200
 categories: informatique
+language: fr
 ---
 
 Ce post fait suite à une discussion que j'ai eue avec mon collègue de bureau.

@@ -3,6 +3,7 @@ layout: page
 title: Books
 permalink: /about/books/
 path: /about/books/
+language: en
 ---
 
 <div class="page-col-wrapper">

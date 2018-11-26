@@ -3,6 +3,8 @@ layout: post
 title: "Concours Bebras, 3ème édition réussie pour la promotion de l'informatique !"
 date: 2015-03-27 17:54:21 +0200
 categories: concours, informatique
+permalink: /fr/blog/:year/:month/:day/:title/
+language: fr
 ---
 
 Et voilà, samedi dernier, le 21 mars 2015, a eu lieu l'épreuve _« Bebras The

@@ -3,6 +3,7 @@ layout: page
 title: Digital transmission
 permalink: /teaching/itscm/transmission/
 path: /teaching/itscm/transmission/
+language: en
 ---
 
 <div class="page-col-wrapper">

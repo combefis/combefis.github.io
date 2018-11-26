@@ -3,6 +3,7 @@ layout: post
 title: "Ces suites de chiffres qui recèlent d'informations..."
 date: 2012-11-02 22:59:21 +0200
 categories: informatique
+language: fr
 ---
 
 On est entourés de suites de chiffres en tout genre, que ce soit sur les cartes

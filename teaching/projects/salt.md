@@ -3,6 +3,7 @@ layout: page
 title: SAlt
 permalink: /teaching/projects/salt/
 path: /teaching/projects/salt/
+language: en
 ---
 
 <div class="page-col-wrapper">

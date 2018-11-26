@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 path: /teaching/
+language: en
 ---
 
 <div class="page-col-wrapper">

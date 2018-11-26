@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /research/publications/
+language: en
 ---
 
 <div class="page-col-wrapper">

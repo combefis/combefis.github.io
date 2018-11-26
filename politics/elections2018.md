@@ -3,6 +3,7 @@ layout: page
 title: Elections 2018
 permalink: /politics/elections2018/
 path: /politics/elections2018/
+language: en
 ---
 
 <div class="page-col-wrapper">

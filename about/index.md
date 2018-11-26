@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 path: /about/
+language: en
 ---
 
 <div class="page-col-wrapper">

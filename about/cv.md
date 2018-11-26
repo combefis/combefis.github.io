@@ -3,6 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /about/cv/
 path: /about/cv/
+language: en
 ---
 
 <div class="page-col-wrapper">

@@ -3,6 +3,7 @@ layout: page
 title: ITSCM
 permalink: /teaching/itscm/
 path: /teaching/itscm/
+language: en
 ---
 
 <div class="page-col-wrapper">

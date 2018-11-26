@@ -3,6 +3,7 @@ layout: page
 title: Master thesis
 permalink: /teaching/masterthesis/
 path: /teaching/masterthesis/
+language: en
 ---
 
 <div class="page-col-wrapper">

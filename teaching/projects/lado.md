@@ -3,6 +3,7 @@ layout: page
 title: LADO
 permalink: /teaching/projects/lado/
 path: /teaching/projects/lado/
+language: en
 ---
 
 <div class="page-col-wrapper">

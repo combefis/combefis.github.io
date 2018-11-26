@@ -3,6 +3,8 @@ layout: post
 title: "Me voilà lancé en politique, suis-je devenu un pourri ?"
 date: 2018-10-10 12:30:21 +0200
 categories: politique, élection
+permalink: /fr/blog/:year/:month/:day/:title/
+language: fr
 ---
 
 Un titre choc, certes... mais une véritable question qui se pose !

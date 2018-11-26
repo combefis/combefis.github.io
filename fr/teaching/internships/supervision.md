@@ -19,9 +19,13 @@ language: fr
 
     <ol class="publications-start">
       <li>Tom Selleslagh, 2ème master, <b>CETIC</b>, Charleroi.
-      <small>(17 septembre-26 octobre)</small></li>
+      <small>(17 septembre-26 octobre)</small>
+      <a href="/files/publi/selleslagh-master-internship-2018.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Hadrien Hachez, 2ème master, <b>Avanade</b>, Bruxelles.
-      <small>(1 aout-26 octobre)</small></li>
+      <small>(1 aout-26 octobre)</small>
+      <a href="/files/publi/hachez-master-internship-2018.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
       <li>Christophe Simon, 3ème bachelier, <b>Ingestic</b>, Louvain-la-Neuve.
       <small>(2 avril-11 mai)</small>
       <a href="/files/publi/simon-bachelor-internship-2018.pdf">

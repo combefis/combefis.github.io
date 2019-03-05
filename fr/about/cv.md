@@ -882,10 +882,12 @@ language: fr
     <ul>
       <li><b>Alumni Ingénieurs Louvain (AILouvain)</b>, <i>Membre</i>.
       <small>(2007–maintenant)</small></li>
-      <li><b>Mouvement Réformateur (MR)</b>, <i>Member</i>.
-      <small>(2014–now)</small></li>
+      <li><b>Mouvement Réformateur (MR)</b>, <i>Membre</i>.
+      <small>(2014–maintenant)</small></li>
+      <li><b>Association des Habitants de Louvain-la-Neuve (AHLLN)</b>, <i>Membre</i>.
+      <small>(2018–maintenant)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>,
-      <i>Membre</i>. <small>(2002–maintenant)</small></li>
+      <i>Membre</i>. <small>(2002)</small></li>
     </ul>
 
 

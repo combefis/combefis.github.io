@@ -858,8 +858,10 @@ language: en
       <small>(2007–now)</small></li>
       <li><b>Mouvement Réformateur (MR)</b>, <i>Member</i>.
       <small>(2014–now)</small></li>
+      <li><b>Association des Habitants de Louvain-la-Neuve (AHLLN)</b>, <i>Member</i>.
+      <small>(2018–now)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>,
-      <i>Member</i>. <small>(2002–now)</small></li>
+      <i>Member</i>. <small>(2002)</small></li>
     </ul>
 
 

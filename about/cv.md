@@ -23,16 +23,16 @@ language: en
       <small>(Jul. 2017 – now)</small><br />
       <small>Responsible of academic relationships and coordination of the 
       IT challenges themes and jurys.</small></li>
-      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Sep. 2015 – now)</small><br />
-      <small>Project Manager for the TeachEng project working on the
-      development and deployment of a MOOC platform for engineers.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i>
       (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015,
       Jan. 2017 – now)</small><br />
       <small>Professor in a higher education institution in social advancement
       for the bachelor in informatics and systems and the bachelor in
       electronics of the Technology Pole.</small></li>
+      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
+      Belgium. <small>(Sep. 2015 – Sep. 2019)</small><br />
+      <small>Project Manager for the TeachEng project working on the
+      development and deployment of a MOOC platform for engineers.</small></li>
       <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>,
       Louvain-la-Neuve, Belgium. <small>(Sep. 2014 – Sep. 2016)</small><br />
       <small>Invited lecturer for the programming course for first year
@@ -679,6 +679,11 @@ language: en
       <small>Coordinator for the Bebras contest in Belgium and representative
       for Belgium at the international level (namely participating to the
       annual International Bebras Task Workshop).</small></li>
+      <li><b>Team Leader</b>, <i>1st International Balkan University Olympiad
+      in Informatics (IBUOI 2019)</i>, Skopje, North Macedonia.<br />
+      <small>Representative for Belgium at the International Balkan University
+      Olympiad in Informatics, that is, accompanying the four
+      Belgian contestants.</small></li>
       <li><b>Representative for the Scientific Staff of the Université
       catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgium.<br />
       <small>- 2012–2013 (1 year), Vice-President for the Science and

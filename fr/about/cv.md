@@ -24,16 +24,16 @@ language: fr
       <small>(Juil. 2017 – maintenant)</small><br />
       <small>Responsable des relations académiques et coordination des thèmes
       et jurys des challenges IT.</small></li>
-      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
-      Belgique. <small>(Sep. 2015 – maintenant)</small><br />
-      <small>Project Manager du projet TeachEng visant à développer
-      et déployer une plateforme de MOOC pour ingénieurs.</small></li>
       <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal
       Mercier</i> (ITSCM), Schaerbeek, Belgique. <small>(Sep. 2011 – Juin 2015,
       Jan. 2017 – maintenant)</small><br />
       <small>Professeur dans une institution supérieure de promotion sociale
       dans le cadre des bacheliers en informatique et systèmes et en
       électronique du pôle technologique.</small></li>
+      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
+      Belgique. <small>(Sep. 2015 – Sep. 2019)</small><br />
+      <small>Project Manager du projet TeachEng visant à développer
+      et déployer une plateforme de MOOC pour ingénieurs.</small></li>
       <li><b>Chargé de cours invité</b>, <i>Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgique.
       <small>(Sep. 2014 – Sep. 2016)</small><br />
@@ -702,6 +702,10 @@ language: fr
       <small>Coordinateur pour le concours Bebras en Belgique et représentant
       de la Belgique au niveau international (participant notamment au 
       International Bebras Task Workshop annuel).</small></li>
+      <li><b>Team Leader</b>, <i>1st International Balkan University Olympiad
+      in Informatics (IBUOI 2019)</i>, Skopje, Macédoine du Nord.<br />
+      <small>Représentant pour la Belgique aux Olympiades d'Informatique de l'International Balkan University, c'est-à-dire, accompagnateur des
+      quatre participants belges.</small></li>
       <li><b>Représentant du Corps Scientifique de l'Université
       catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgique.<br />
       <small>- 2012–2013 (1 an), Vice-Président pour le Secteur des Sciences

@@ -63,13 +63,13 @@ language: en
       engineering.</small></li>
     </ul>
 
-    <h3>Non-profit organisations</h3>
+    <h3>Nonprofit organisations</h3>
 
     <ul>
       <li><b>Founder and President</b>, <i>Computer Science and IT in Education
       ASBL</i> (CSITEd), Louvain-la-Neuve, Belgium.
       <small>(Jul. 2012 – now)</small><br />
-      <small>CSITEd is a non-profit organisation whose goal is to promote
+      <small>CSITEd is a nonprofit organisation whose goal is to promote
       computer science at large, especially towards pupils from secondary
       schools and in the education field.</small></li>
       <li><b>President</b>, <i>Corps Scientifique de l'Université catholique de
@@ -400,12 +400,16 @@ language: en
     <h3>Organised events</h3>
 
     <ul>
+      <li><b>Computer Science Day 2019</b>, Woluwé-Saint-Lambert, Belgium.
+      <small>(11 May 2019)</small></li>
       <li><b>Google Hash Code 2018</b>, <i>ECAM Brussels School of Engineering
       Hub</i>, Woluwé-Saint-Lambert, Belgium.
       <small>(1 Mar. 2018)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>ECAM Brussels Engineering School
       Hub</i>, Woluwé-Saint-Lambert, Belgium.
       <small>(23 Feb. 2017)</small></li>
+      <li><b>Computer Science Day 2016</b>, Woluwé-Saint-Lambert, Belgium.
+      <small>(19 Mar. 2016)</small></li>
       <li><b>LVL HMI Meeting 2011</b>, Louvain-la-Neuve, Belgium.
       <small>(17 Nov. 2011)</small></li>
       <li><b>Annual Meeting of the FNRS Contact group on Fundamental Computer

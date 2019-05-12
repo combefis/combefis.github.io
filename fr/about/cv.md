@@ -408,12 +408,16 @@ language: fr
     <h3>Évènements organisés</h3>
 
     <ul>
+      <li><b>Computer Science Day 2019</b>, Woluwé-Saint-Lambert, Belgique.
+      <small>(11 Mai 2019)</small></li>
       <li><b>Google Hash Code 2018</b>, <i>ECAM Brussels Engineering School
       Hub</i>, Woluwé-Saint-Lambert, Belgique.
       <small>(1 Mar. 2018)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>ECAM Brussels Engineering School
       Hub</i>, Woluwé-Saint-Lambert, Belgique.
       <small>(23 Fév. 2017)</small></li>
+      <li><b>Computer Science Day 2016</b>, Woluwé-Saint-Lambert, Belgique.
+      <small>(19 Mar. 2016)</small></li>
       <li><b>LVL HMI Meeting 2011</b>, Louvain-la-Neuve, Belgique.
       <small>(17 Nov. 2011)</small></li>
       <li><b>Meeting annuel du FNRS Contact group on Fundamental Computer

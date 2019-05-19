@@ -419,6 +419,8 @@ language: en
     <h3>Participation (conference, workshop, tutorial...)</h3>
 
     <ul>
+      <li><b>15th International Bebras Task Workshop</b>, Balatonkenese, Hungary.
+      <small>(13–17 May 2019)</small></li>
       <li><b>XXXVIII Sunbelt Conference</b> (Sunbelt 2018), Utrecht, The
       Netherlands.
       <small>(26 Jun.–1 Jul. 2018)</small></li>
@@ -659,7 +661,7 @@ language: en
 
     <ul>
       <li><b>Digitalent Coach</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Fall 2017–Spring 2018, 2 sessions)</small><br />
+      Belgium. <small>(Fall 2017–Spring 2018–Fall 2018, 3 sessions)</small><br />
       <small>Technical coach for the eight-week Digitalent training organised
       by the Proximus Foundation, for the Schaerbeek session at La Lustrerie and
       the Brussels session at BeCentral (teaching 3D modelling and printing and

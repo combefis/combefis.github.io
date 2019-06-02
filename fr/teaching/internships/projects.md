@@ -19,15 +19,8 @@ language: fr
 
     <h2>Stagiaires actuels</h2>
 
-    <p>J'ai actuellement deux stagiaires chez EDITx qui travaillent sur le
-    déploiement de techniques de data mining et de machine learning pour servir
-    le business de la boite: Julien Kessels (à gauche) et Amaury Lekens
-    (à droite).</p>
+    <p>Je n'ai actuellement aucun stagiaire.</p>
 
-    <figure>
-      <img src="/images/2018-interns.jpg" width="619" height="286"
-      alt="Stagiaires 2018 à EDITx" />
-    </figure>
 
     <h2>Anciens stagiaires</h2>
 
@@ -80,10 +73,20 @@ language: fr
       <small>Superviseur : Christian Lambeau.</small></li>
     </ol>
 
-    <figure>
-      <img src="/images/2015-interns.jpg" width="619" height="286"
-      alt="Stagiaires 2015 à l'ECAM" />
-    </figure>
+
+    <h2>Photos</h2>
+
+    <div class="slideshow">
+      <div><img src="/images/2018-interns.jpg" width="619" height="286"
+      alt="2018 interns at EDITx"><br><small>Julien Kessels (à gauche) et
+      Amaury Lekens (à droite) travaillent chez EDITx sur le déploiement de
+      techniques de data mining et de machine learning pour servir le business
+      de la boite (2018).</small></div>
+      <div><img src="/images/2015-interns.jpg" width="619" height="286"
+      alt="2015 interns at ECAM"><br><small>Trois stagiaires de l'EPHEC (en
+      arrière plan) travaillent à l'ECAM comme stagiaires, dans le cadre de
+      leur travail de fin d'étude de bachelier (2015).</small></div>
+    </div>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/brescia.jpg" alt="Brescia, Italie, Mai 2017."

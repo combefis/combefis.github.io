@@ -18,14 +18,8 @@ language: en
 
     <h2>Current interns</h2>
 
-    <p>I currently have two interns working at EDITx on deploying data mining
-    and artificial intelligence techniques to help the company's business:
-    Julien Kessels (on the left) and Amaury Lekens (on the right).</p>
+    <p>I do not have any interns currently.</p>
 
-    <figure>
-      <img src="/images/2018-interns.jpg" width="619" height="286"
-      alt="2018 interns at EDITx" />
-    </figure>
 
     <h2>Past interns</h2>
 
@@ -34,37 +28,37 @@ language: en
       par rapport à leurs compétences IT. <i>EDITx Internship</i>. ECAM Brussels
       Engineering School (ECAM), Belgium, October-November 2018.
       <a href="/files/publi/lekens-master-internship-2018.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a><br>
       <small>Supervisor: Ing. Rémy Taymans.</small></li>
       <li>Julien Kessels. Mise en place d'un tutoriel intelligent en vue
       d'améliorer des compétences IT. <i>EDITx Internship</i>. ECAM Brussels
       Engineering School (ECAM), Belgium, October-November 2018.
       <a href="/files/publi/kessels-master-internship-2018.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a><br>
       <small>Supervisor: Ing. Rémy Taymans.</small></li>
       <li>Nathan Little. Pythia-EDITx integration and data analysis. <i>EDITx
       Internship</i>. ECAM Brussels Engineering School (ECAM), Belgium,
       April-May 2018.
       <a href="/files/publi/little-bachelor-internship-2018.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a><br>
       <small>Supervisor: Ing. Clémence Flémal.</small></li>
       <li>Anthony Maton. Design et développement d'un système de monitoring et
       d'un studio de création de tâches pour Pythia, une plateforme
       d'évaluation de codes. <i>ECAM Internship</i> and <i>Bachelor Thesis</i>.
       Institut Paul Lambin (IPL), Belgium, February-May 2017.
       <a href="/files/publi/maton-bachelor-thesis-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a><br>
       <small>Supervisor: Dr Grégory Seront.</small></li>
       <li>Sylvain Nyssens. Projet ILPADS : une plateforme en ligne
       d'apprentissage de l'algorithmique et de la programmation.
       <i>ECAM Internship</i> and <i>Bachelor Thesis</i>. École Pratique des
-      Hautes Études Commerciales (EPHEC), Belgium, February-May 2015.<br />
+      Hautes Études Commerciales (EPHEC), Belgium, February-May 2015.<br>
       <small>Supervisor: Dr Virginie Van den Schrieck.</small></li>
       <li>Yemni Daoud. Projet Classy Votes : une application mobile de votes
       interactifs. <i>ECAM Internship</i> and <i>Bachelor Thesis</i>. Institut
       Paul Lambin (IPL), Belgium, February-May 2015.
       <a href="/files/publi/daoud-bachelor-thesis-2015.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a><br>
       <small>Supervisor: Dr Christophe Damas.</small></li>
       <li>Ibrahim Amellal. Projet EVoL : une application web d'apprentissages
       de vocabulaire technique dans plusieurs langues. <i>ECAM Internship</i>.
@@ -75,17 +69,27 @@ language: en
       <i>UCLouvain Internship</i> and <i>Bachelor Thesis</i>. École Pratique des
       Hautes Études Commerciales (EPHEC), Belgium, February-May 2014.
       <a href="/files/publi/bishop-bachelor-thesis-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a><br />
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a><br>
       <small>Supervisor: Christian Lambeau.</small></li>
     </ol>
 
-    <figure>
-      <img src="/images/2015-interns.jpg" width="619" height="286"
-      alt="2015 interns at ECAM" />
-    </figure>
+
+    <h2>Pictures</h2>
+
+    <div class="slideshow">
+      <div><img src="/images/2018-interns.jpg" width="619" height="286"
+      alt="2018 interns at EDITx"><br><small>Julien Kessels (on the left) and
+      Amaury Lekens (on the right) working at EDITx on deploying data mining
+      and artificial intelligence techniques to help the company's
+      business (2018).</small></div>
+      <div><img src="/images/2015-interns.jpg" width="619" height="286"
+      alt="2015 interns at ECAM"><br><small>Three interns from EPHEC (in the
+      background) working at ECAM as interns, for their bachelor
+      thesis (2015).</small></div>
+    </div>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/brescia.jpg" alt="Brescia, Italy, May 2017."
-    width="200" height="150" /><br />Brescia, Italy, May 2017.</p>
+    width="200" height="150"><br>Brescia, Italy, May 2017.</p>
   </div>
 </div>

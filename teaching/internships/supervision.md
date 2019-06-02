@@ -15,9 +15,26 @@ language: en
     years and by start date. Reports that are not confidential can be
     downloaded on this page.</p>
 
-    <h2>2018</h2>
+    <h2>2019</h2>
 
     <ol class="publications-start">
+      <li>Théo Ducoulombier, 3rd bachelor, <b>Spentys</b>, Forest.
+      <small>(April 8-May 17)</small>
+      <a href="/files/publi/ducoulombier-bachelor-internship-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <li>Yassine El Bakkoury, 3rd bachelor, <b>Shayp</b>, Etterbeek.
+      <small>(April 8-May 21)</small>
+      <a href="/files/publi/el-bakkoury-bachelor-internship-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <li>Julien Kirstein, 3rd bachelor, <b>Gembloux Agro-Bio Tech</b>,
+      Gembloux. <small>(April 8-May 21)</small>
+      <a href="/files/publi/kirstein-bachelor-internship-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+    </ol>
+
+    <h2>2018</h2>
+
+    <ol class="publications-continue">
       <li>Tom Selleslagh, 2nd master, <b>CETIC</b>, Charleroi.
       <small>(September 17-October 26)</small>
       <a href="/files/publi/selleslagh-master-internship-2018.pdf">

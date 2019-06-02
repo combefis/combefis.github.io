@@ -15,9 +15,26 @@ language: fr
     stages sont classés par année et par date de début. Les rapports qui ne sont
     pas confidentiels peuvent être téléchargés sur cette page.</p>
 
-    <h2>2018</h2>
+    <h2>2019</h2>
 
     <ol class="publications-start">
+      <li>Théo Ducoulombier, 3ème bachelier, <b>Spentys</b>, Forest.
+      <small>(8 avril-17 mai)</small>
+      <a href="/files/publi/ducoulombier-bachelor-internship-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <li>Yassine El Bakkoury, 3ème bachelier, <b>Shayp</b>, Etterbeek.
+      <small>(8 avril-17 mai)</small>
+      <a href="/files/publi/el-bakkoury-bachelor-internship-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <li>Julien Kirstein, 3ème bachelier, <b>Gembloux Agro-Bio Tech</b>,
+      Gembloux. <small>(8 avril-21 mai)</small>
+      <a href="/files/publi/kirstein-bachelor-internship-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+    </ol>
+
+    <h2>2018</h2>
+
+    <ol class="publications-continue">
       <li>Tom Selleslagh, 2ème master, <b>CETIC</b>, Charleroi.
       <small>(17 septembre-26 octobre)</small>
       <a href="/files/publi/selleslagh-master-internship-2018.pdf">

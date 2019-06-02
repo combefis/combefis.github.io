@@ -24,44 +24,68 @@ language: fr
     <h2>ECAM</h2>
 
     <ol class="publications-start">
+      <li>Gaétan Guru. Design and Implementation of a Social Networks Analysis
+      Framework Combining the Neo4j Graph Database and the Python Programming
+      Language. <i>Mémoire de master</i>. ECAM Brussels Engineering School,
+      Belgique, Juin 2019.
+      <a href="/files/publi/guru-master-thesis-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Dr Sébastien Combéfis (CERDECAM,
+      Woluwé-Saint-Lambert).</small></li>
+      <li>Julien Kessels. Mise en place d’un tutoriel intelligent et d'outils
+      d'aide à la création de questions d'examens par des algorithmes de
+      machine learning. <i>Mémoire de master</i>. ECAM Brussels Engineering
+      School, Belgique, Juin 2019.
+      <br><small>Promoteur : Dr Sébastien Combéfis (EDITx,
+      Etterbeek).</small></li>
+      <li>Amaury Lekens. Système de prédiction des niveaux de compétence IT de
+      programmeurs par machine learning. <i>Mémoire de master</i>. ECAM Brussels
+      Engineering School, Belgique, Juin 2019.
+      <br><small>Promoteur : Dr Sébastien Combéfis (EDITx,
+      Etterbeek).</small></li>
+      <li>Tom Selleslagh. Réalisation d'une architecture IoT distribuée
+      autonome basée sur les concepts de micro-services. <i>Mémoire de master</i>. ECAM Brussels Engineering School, Belgique, Juin 2019.
+      <a href="/files/publi/selleslagh-master-thesis-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Ir. Laurent Deru (CETIC, Charleroi).</small></li>
       <li>Yannick Berckmans. Boitier électronique IoT de monitoring
       énergétique : Étude et programmation d'un prototype. <i>Mémoire de 
       master</i>. ECAM Brussels Engineering School, Belgique, Juin 2018.
-      <br /><small>Promoteur : Ing. Michaël Jeanmotte (G.M. Electronics,
+      <br><small>Promoteur : Ing. Michaël Jeanmotte (G.M. Electronics,
       Ganshoren).</small></li>
       <li>Antoine Vander Meiren. Développement de l'entièreté de la chaine
       d'une solution de chiffrement sur Android basée sur un module
       hardware spécialisé. <i>Mémoire de master</i>. ECAM Brussels Engineering
-      School, Belgique, Juin 2018.<br /><small>Promoteur : Ir. Samuel
+      School, Belgique, Juin 2018.<br><small>Promoteur : Ir. Samuel
       Tessian (Thalès, Tubize).</small></li>
       <li>Charles Vandevoorde. Hybrid ordering protocol for
       partially-replicated state machine. <i>Mémoire de master</i>. ECAM
       Brussels Engineering School, Belgique, Juin 2018.
       <a href="/files/publi/vandevoorde-master-thesis-2018.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteur : Prof. Peter Van Roy (Université catholique de
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Prof. Peter Van Roy (Université catholique de
       Louvain, UCLouvain).</small></li>
       <li>Damien Vanhove. Design, développement et intégration à une plateforme
       de gestion d'école d'un module de gestion des stages. <i>Mémoire de
       master</i>. ECAM Brussels Engineering School, Belgique, Septembre
       2017.<a href="/files/publi/vanhove-master-thesis-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteur : Dr Sébastien Combéfis (ECAM Brussels Engineering
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Dr Sébastien Combéfis (ECAM Brussels Engineering
       School, ECAM).</small></li>
       <li>Benoit de Patoul. Post-Wildfire Vegetation Loss Mapping using
       Bitemporal Synthetic Aperture Radar. <i>Mémoire de master</i>. ECAM
       Brussels Engineering School, Belgique, Juin 2017.
       <a href="/files/publi/depatoul-master-thesis-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteur : Dr Zhi Qiang Chen (University of Missouri-Kansas
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Dr Zhi Qiang Chen (University of Missouri-Kansas
       City, UMKC).</small></li>
       <li>Lionel Gosselin. Création d'un service Fablab pour la conception et
       l'impression 3D au sein de l'ECAM. <i>Mémoire de master</i>. ECAM Brussels
-      Engineering School, Belgique, Juin 2016.<br /><small>Promoteur : Ir.
+      Engineering School, Belgique, Juin 2016.<br><small>Promoteur : Ir.
       Cédric Marchand (CERDECAM, Woluwé-Saint-Lambert).</small></li>
       <li>Damien Vanhove. Développement d'un outil d'analyse de la topologie
       d'un réseau informatique industriel. <i>Mémoire de master</i>. ECAM
-      Brussels Engineering School, Belgique, Juin 2016.<br />
+      Brussels Engineering School, Belgique, Juin 2016.<br>
       <small>Promoteur : Ir. Serge Wautier (eWon, Nivelles).</small></li>
     </ol>
 
@@ -72,40 +96,40 @@ language: fr
       Java. <i>Mémoire de master</i>. Université catholique de Louvain,
       Belgique, Septembre 2014.
       <a href="/files/publi/an-master-thesis-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteur : Prof. Kim Mens, Co-Promoteur : Dr
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Prof. Kim Mens, Co-Promoteur : Dr
       Sébastien Combéfis.</small></li>
       <li>Pierre Bouilliez. Glass Cat — a tool for interactive visualization of
       the execution of Oz programs in the Pythia platform. <i>Mémoire de
       master</i>. Université catholique de Louvain, Belgique, Juin 2014.
       <a href="/files/publi/bouilliez-master-thesis-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteur :
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur :
       Prof. Peter Van Roy, Co-Promoteur : Dr Sébastien Combéfis.</small></li>
       <li>Pierre Nauw. Outils d'analyse de modèles de systèmes interactifs
       ADEPT. <i>Mémoire de master</i>. Université catholique de Louvain,
       Belgique, Juin 2014.
       <a href="/files/publi/nauw-master-thesis-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteur : Prof. Charles Pecheur, Co-Promoteur : Dr
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Prof. Charles Pecheur, Co-Promoteur : Dr
       Sébastien Combéfis.</small></li>
       <li>Simon Goffin. Analyse Comparative de Formalismes d'Interfaces
       Homme-Machine. <i>Mémoire de master</i>. Université catholique de Louvain,
       Belgique, Juin 2012.
       <a href="/files/publi/goffin-master-thesis-2012.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteurs : Prof. Charles Pecheur et Prof.
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteurs : Prof. Charles Pecheur et Prof.
       Jean Vanderdonckt.</small></li>
       <li>Olivier Goletti. Modeling Operation Errors by Model Mutation.
       <i>Mémoire de master</i>. Université catholique de Louvain, Belgique,
       Juin 2011.
       <a href="/files/publi/goletti-master-thesis-2011.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a>
-      <br /><small>Promoteur : Prof. Charles Pecheur.</small></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <br><small>Promoteur : Prof. Charles Pecheur.</small></li>
     </ol>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/leuven.jpg" alt="Leuven, Belgique, Mai 2017."
-    width="200" height="150" /><br />Leuven, Belgique, Mai 2017.</p>
+    width="200" height="150"><br>Leuven, Belgique, Mai 2017.</p>
   </div>
 </div>

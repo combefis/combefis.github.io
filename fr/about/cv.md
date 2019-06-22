@@ -270,6 +270,10 @@ language: fr
     <h3>Présentations</h3>
 
     <ul>
+      <li>Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Hélène Garin,
+      François Wyngaerden, Pablo Nicaise, Vincent Lorant. A Generic and
+      Flexible Analysis Framework to Categorise Social Support Networks. Lors
+      de la <i>XXXIX Sunbelt Social Networks Conference</i>, June 2019.</li>
       <li>Sébastien Combéfis, Corentin Vande Kerckhove, Peter Van Roy.
       Transforming a University Course into a Two-public Sustainable MOOC. Lors
       du <i>HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies</i>,

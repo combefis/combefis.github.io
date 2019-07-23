@@ -13,55 +13,55 @@ language: fr
     <ul>
       <li><b>Enseignant</b>, <i>ECAM Brussels Engineering School</i>,
       Woluwé-Saint-Lambert, Belgique. <small>(Sep. 2014 –
-      maintenant)</small><br />
+      maintenant)</small><br>
       <small>Enseignant dans un institut supérieur industriel, dans l'unité
       de génie électrique et informatique.</small></li>
       <li><b>Chercheur senior</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgique. <small>(Mar. 2018 – maintenant)</small><br />
+      Belgique. <small>(Mar. 2018 – maintenant)</small><br>
       <small>Superviseur d'un chercheur junior dans le cadre du projet
       Egonet, en partenariat avec l'UCLouvain et l'IPL.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgique.
-      <small>(Juil. 2017 – maintenant)</small><br />
+      <small>(Juil. 2017 – maintenant)</small><br>
       <small>Responsable des relations académiques et coordination des thèmes
       et jurys des challenges IT.</small></li>
       <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal
       Mercier</i> (ITSCM), Schaerbeek, Belgique. <small>(Sep. 2011 – Juin 2015,
-      Jan. 2017 – maintenant)</small><br />
+      Jan. 2017 – maintenant)</small><br>
       <small>Professeur dans une institution supérieure de promotion sociale
       dans le cadre des bacheliers en informatique et systèmes et en
       électronique du pôle technologique.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
-      Belgique. <small>(Sep. 2015 – Sep. 2019)</small><br />
+      Belgique. <small>(Sep. 2015 – Sep. 2019)</small><br>
       <small>Project Manager du projet TeachEng visant à développer
       et déployer une plateforme de MOOC pour ingénieurs.</small></li>
       <li><b>Chargé de cours invité</b>, <i>Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgique.
-      <small>(Sep. 2014 – Sep. 2016)</small><br />
+      <small>(Sep. 2014 – Sep. 2016)</small><br>
       <small>Chargé de cours invité pour le cours de programmation des
       étudiants en première année de bachelier ingénieur civil et en sciences
       informatique.</small></li>
       <li><b>Assistant de recherche</b>, <i>Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2013 – Mai
-      2014)</small><br />
+      2014)</small><br>
       <small>Assistant de recherche pour l'institut de recherche ICT,
       Electronics and Applied Mathematics Institute (ICTEAM), rattaché au
       département d'ingénierie informatique (INGI).</small></li>
       <li><b>Conseiller pédagogique</b>, <i>Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2013 – Mai
-      2014)</small><br />
+      2014)</small><br>
       <small>Conseiller pédagogique pour l'École Polytechnique de Louvain
       (EPL).</small></li>
       <li><b>Associé</b>, <i>Binnovart</i>, Waterloo, Belgique.
-      <small>(Oct. 2013 – Mai 2014)</small><br />
+      <small>(Oct. 2013 – Mai 2014)</small><br>
       <small>Fondateur et associé de Binnovart SPRL, une société qui développe
       une plateforme où les jeunes artistes peuvent rencontrer des
       investisseurs en art pour vendre et promouvoir leurs œuvres.</small></li>
       <li><b>Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgique. <small>(Sep. 2007 – Sep. 2013)</small><br />
+      Louvain-la-Neuve, Belgique. <small>(Sep. 2007 – Sep. 2013)</small><br>
       <small>Assistant à l'École Polytechnique de Louvain (EPL), rattaché au
       département d'ingénierie informatique (INGI).</small></li>
       <li><b>Étudiant moniteur</b>, <i>École Polytechnique de Louvain</i>,
-      Louvain-la-Neuve, Belgique. <small>(2004 – 2006)</small><br />
+      Louvain-la-Neuve, Belgique. <small>(2004 – 2006)</small><br>
       <small>Étudiant moniteur (tuteur) pour le cours d'<i>« Introduction à la
       programmation »</i> enseigné aux étudiants en première année de bachelier
       ingénieur civil.</small></li>
@@ -70,15 +70,21 @@ language: fr
     <h3>Associations sans but lucratif</h3>
 
     <ul>
+      <li><b>Administrateur</b>, <i>Maison du Développement Durable ASBL</i>
+      (MDD), Louvain-la-Neuve, Belgique.
+      <small>(Mai 2019 – maintenant)</small><br>
+      <small>MDD est une ASBL dont le but est de proposer un lieu pour faire
+      vivre la transition vers une société plus écologique, plus équitable,
+      plus conviviale, localement et globalement.</small></li>
       <li><b>Fondateur et Président</b>, <i>Computer Science and IT in Education
       ASBL</i> (CSITEd), Louvain-la-Neuve, Belgique.
-      <small>(Juil. 2012 – maintenant)</small><br />
+      <small>(Juil. 2012 – maintenant)</small><br>
       <small>CSITEd est une ASBL dont le but est la promotion de l'informatique
       au sens large, en particulier auprès des élèves du primaire et du
       secondaire et dans le domaine de l'éducation.</small></li>
       <li><b>Président</b>, <i>Corps Scientifique de l'Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgique.
-      <small>(Sep. 2013 – Mai 2014)</small><br />
+      <small>(Sep. 2013 – Mai 2014)</small><br>
       <small>Le Corps Scientifique de l'Université rassemble tous les chercheurs
       qui ne sont pas des professeurs. Le rôle du Président est de représenter
       ces chercheurs dans différents organes de l'université, certains étant
@@ -86,14 +92,14 @@ language: fr
       <li><b>Trésorier</b>, <i>UCLouvain ACM Student Chapter ASBL</i>,
       Louvain-la-Neuve, Belgique. <small>(Sep. 2011 – Sep. 2013)</small></li>
       <li><b>Fondateur et Co-organisateur</b>, <i>Olympiade belge
-      d'informatique</i>. <small>(Éditions 2010 et 2011)</small><br />
+      d'informatique</i>. <small>(Éditions 2010 et 2011)</small><br>
       <small>L'Olympiade belge d'Informatique (be-OI) est un concours de
       programmation et de pensée informatique dont le but est de sélectionner
       la délégation belge à envoyer aux Olympiades internationales
       d'informatique (IOI).</small></li>
       <li><b>Fondateur et Président</b>, <i>UCLouvain ACM Student Chapter
       ASBL</i>, Louvain-la-Neuve, Belgique.
-      <small>(Sep. 2009 – Sep. 2011)</small><br />
+      <small>(Sep. 2009 – Sep. 2011)</small><br>
       <small>L'UCLouvain ACM Student Chapter est la section locale de
       l'Association for Computing Machinery (ACM), une organisation
       internationale dont le but est la promotion de
@@ -107,24 +113,24 @@ language: fr
       <li><b>Certificat d'aptitude pédagogique approprié à l'enseignement
       supérieur</b> (CAPAES), <i>Université catholique de Louvain</i>,
       Louvain-la-Neuve, Belgique.
-      <small>(Jan. 2016 - Juin 2018)</small><br />
+      <small>(Jan. 2016 - Juin 2018)</small><br>
       <small>- Sujet : <i>« Enseigner l'informatique à de futurs ingénieurs :
       Mise en place d'un cours de programmation informatique en deuxième année
       de bachelier en sciences de l'ingénieur »</i></small></li>
       <li><b>Master complémentaire en Pédagogie universitaire et de
       l'enseignement supérieur</b>, <i>Université catholique de Louvain</i>,
       Louvain-la-Neuve, Belgique, Distinction.
-      <small>(Sep. 2010 – Juin 2014)</small><br />
+      <small>(Sep. 2010 – Juin 2014)</small><br>
       <small>- Sujet : <i>« Enseigner des outils méthodologiques et former une
       attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en
-      place et évaluation d‘un dispositif d'aide à la réussite »</i><br />
+      place et évaluation d‘un dispositif d'aide à la réussite »</i><br>
       - Promoteur : <i>Prof. Mariane Frenay et co-promoteur : Dr. Mireille
       Houart</i>.</small></li>
       <li><b>Doctorat en Sciences de l'ingénieur</b>, <i>Université catholique
       de Louvain</i>, Louvain-la-Neuve, Belgique.
-      <small>(Sep. 2007 – Nov. 2013)</small><br />
+      <small>(Sep. 2007 – Nov. 2013)</small><br>
       <small>- Sujet : <i>« A Formal Framework for the Analysis of
-      Human-Machine Interactions »</i><br />
+      Human-Machine Interactions »</i><br>
       - Jury : <i>Prof. Charles Pecheur, promoteur (UCLouvain/ICTM,
       Belgique), Prof. Jean Vanderdonckt, secrétaire (UCLouvain/ILSM, Belgique),
       Prof. Thierry Massart (ULB, Belgique), Dr Dimitra Giannakopoulou
@@ -133,12 +139,12 @@ language: fr
       Belgique)</i>.</small></li>
       <li><b>Master Ingénieur Civil en Informatique</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgique, Grande Distinction.
-      <small>(Sep. 2002 – Juin 2007)</small><br />
+      <small>(Sep. 2002 – Juin 2007)</small><br>
       <small>- Sujet : <i>« Viral Marketing and Community Detection
-      Algorithm »</i><br />
+      Algorithm »</i><br>
       - Promoteur : <i>Prof. Pierre Dupont</i>.</small></li>
       <li><b>Secondaire Général-Rénové</b>, <i>Lycée de Berlaymont</i>,
-      Waterloo, Belgique, 85%. <small>(Sep. 1996 – Juin 2002)</small><br />
+      Waterloo, Belgique, 85%. <small>(Sep. 1996 – Juin 2002)</small><br>
       <small>Option Math/Sciences.</small></li>
     </ul>
 
@@ -146,17 +152,17 @@ language: fr
 
     <ul>
       <li><b>Security Fundamentals</b>, <i>Technobel</i>, Ciney, Belgique.
-      <small>(6–7 Juin 2016)</small><br />
+      <small>(6–7 Juin 2016)</small><br>
       <small>Formation sur la sécurité IT pour comprendre les menaces et
       attaques dans les systèmes IT et comment les gérer.</small></li>
       <li><b>From Research To Business</b> (FR2B), Belgique.
-      <small>(1er cycle 2010)</small><br />
+      <small>(1er cycle 2010)</small><br>
       <small>Sept jours de formation avec quatre modules, ciblant des
       chercheurs qui pensent que leur recherche pourrait mener à la création
       d'une entreprise.</small></li>
       <li><b>Formation d'étudiant moniteur</b>, <i>École Polytechnique de
       Louvain</i>, Louvain-la-Neuve, Belgique.
-      <small>(Sep. 2004)</small><br />
+      <small>(Sep. 2004)</small><br>
       <small>Formation pour devenir étudiant moniteur (tuteur) pour encadrer
       les séances pratiques du cours d'<i>« Introduction à la
       programmation »</i> enseigné aux étudiants en première année de bachelier
@@ -169,6 +175,9 @@ language: fr
     <h3>Articles de journal</h3>
 
     <ul>
+      <li>Sébastien Combéfis, Guillaume de Moffarts, Mile Jovanov. TLCS: A
+      Digital Library with Resources to Teach and Learn Computer Science. Dans
+      <i>Olympiads in Informatics</i>, Aout 2019.</li>
       <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe,
       Mathieu David, Guillaume de Moffarts, Hadrien Hachez, Julien Kessels.
       Learning and Teaching Algorithm Design and Optimisation Using Contests
@@ -506,7 +515,7 @@ language: fr
 
     <ul>
       <li><b>B2010 – Informatique</b>, <i>Deuxième année de bachelier en
-      sciences industrielles</i>. <small>(2014–maintenant, 4 ans)</small><br />
+      sciences industrielles</i>. <small>(2014–maintenant, 5 ans)</small><br>
       <small>Ce cours concerne la programmation en Python et présente des
       structures de données avancées (ensembles, dictionnaires et tuples), les
       bases de la programmation orientée objet, la programmation évènementielle
@@ -517,7 +526,7 @@ language: fr
       web avec le micro-framework web CherryPy.</small></li>
       <li><b>B2160 – Projet informatique</b>, <i>Deuxième année de bachelier en
       sciences industrielles, pré-orientation électronique et informatique</i>.
-      <small>(2015–maintenant, 4 ans)</small><br />
+      <small>(2015–maintenant, 5 ans)</small><br>
       <small>Ce cours concerne des concepts avancés du langage Python. Il
       présente des outils de gestion de projet (Git, Travis, Heroku...), les
       expressions régulières, la programmation réseau (socket, client/serveur
@@ -525,28 +534,40 @@ language: fr
       programmation fonctionnelle. Il introduit également à l'algorithmique avec
       la récursion, les arbres et les algorithmes de recherche et de
       backtracking pour l'IA. Enfin, il introduit au calcul numérique avec
-      Octave et la librairie Scipy.</small></li>
-      <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>,
-      <i>Troisième année de bachelier en sciences industrielles, orientation
-      électronique et informatique</i>.
-      <small>(2016–maintenant, 3 ans)</small><br />
-      <small>Ce cours concerne les trois principaux composants d'un système
-      embarqué : la gestion de l'énergie, une unité électronique intelligente
-      et des périphériques. Il présente comment construire un système embarqué
-      à travers le design et la construction d'une application de type IoT, 
-      couvrant toutes les couches depuis le hardware au cloud. En particulier,
-      il explique comment programmer des systèmes embarqués et les connecter
-      avec d'autres systèmes.</small></li>
-      <li><b>M3090 – Techniques informatiques</b>, <i>Troisième année de
-      bachelier, orientation électromécanique</i>. <small>(2014–maintenant,
-      4 ans)</small><br />
-      <small>Ce cours concerne l'analyse et la modélisation d'applications (UML)
-      l'utilisation de base de données et de requêtes (Access) et la
-      programmation de bas niveau (C) et orientée objet (C#).</small></li>
+      l'écosystème Scipy (les librairies Numpy, Scipy, Matplotlib et
+      SymPy).</small></li>
+      <li><b>E3010 – Électronique numérique</b>, <i>Troisième année de
+      bachelier en sciences industrielles, orientation électronique et
+      informatique</i>. <small>(2017–maintenant, 2 ans)</small><br>
+      <small>Ce cours concerne le fonctionnement des micro-contrôleurs et
+      comment les programmer à l'aide d'un langage d'assemblage ou avec la
+      programmation C. Les étudiants apprennent à programmer des
+      micro-contrôleurs PIC et à utiliser les timers, les interruptions, etc.
+      Une introduction à l'algèbre de Boole et à la minimisation de fonction
+      logique leur est également proposée.</small></li>
+      <li><b>E3040 – Projet informatique</b>, <i>Troisième année de
+      bachelier en sciences industrielles, orientation électronique et
+      informatique</i>. <small>(2018–maintenant, 2 ans)</small><br>
+      <small>Ce cours est un projet où les étudiants doivent développer une
+      application de bureau complète en C#, incluant une interface graphique et
+      une base de données. Pour ce projet, les étudiants doivent manipuler des
+      structures de données et les principales leurs sont enseignées (pile,
+      file, deque, vecteur, liste, séquence, arbre, file de priorité, map,
+      table de hachage et graphe). Le projet doit être complètement réalisé en
+      anglais.</small></li>
+      <li><b>I4020 – Architecture logicielle</b>, <i>Première année de master
+      ingénieur industriel en informatique</i>. <small>(2014–maintenant,
+      5 ans)</small><br>
+      <small>Ce cours présente les différentes architectures possibles qu'un
+      logiciel peut avoir à différents niveaux, depuis la structure du code
+      jusqu'à l'organisation des composants logiciels. Il explique également
+      les différentes étapes nécessaires au développement d'un gros logiciel
+      avec une attention particulière pour le versioning, les tests automatisés
+      et le déploiement.</small></li>
       <li><b>I4030 – Technologie des ordinateurs et systèmes
       d'exploitation</b>, <i>Première année de master ingénieur industriel
       en électronique et en informatique</i>. <small>(2014–maintenant,
-      4 ans)</small><br />
+      5 ans)</small><br>
       <small>Ce cours concerne le fonctionnement d'un ordinateur, depuis la
       couche hardware au très bas niveau jusqu'à l'architecture et
       l'organisation au très haut niveau. Il présente aussi comment il peut
@@ -555,49 +576,95 @@ language: fr
       système de fichiers, stockage de masse, sécurité...).</small></li>
       <li><b>I4040 – Base de données avancées</b>, <i>Première année de master
       ingénieur industriel en informatique</i>. <small>(2016–maintenant,
-      2 ans)</small><br />
+      3 ans)</small><br>
       <small>Ce cours concerne des concepts avancés de base de données et
       comment les gérer (base de données distribuées, transaction,
       optimisation...). Il introduit également à NoSQL, et en particulier aux
       bases de données orientée document, et comment les combiner avec des
       bases de données relationnelles dans une même application.</small></li>
-      <li><b>I4020 – Architecture logicielle</b>, <i>Première année de master
-      ingénieur industriel en informatique</i>. <small>(2014–maintenant,
-      4 ans)</small><br />
-      <small>Ce cours concerne l'architecture des logiciels vue à différents
-      niveaux depuis la structure du code jusqu'à l'organisation des composants
-      d'un système logiciel.</small></li>
-      <li><b>I5020 – Systèmes distribués</b>, <i>Deuxième année de master
-      ingénieur industriel en informatique</i>. <small>(2017–maintenant,
-      2 ans)</small><br />
-      <small>Ce cours concerne les systèmes distribués et la manière avec
-      laquelle ils fonctionnent. Il présente également comment construire
-      et sécuriser de tels systèmes, tant au niveau physique que
-      logiciel.</small></li>
-      <li><b>I5030 – Séminaires professionnels</b>, <i>Deuxième année de master
+      <li><b>I4100 – Synthèse d'images</b>, <i>Première année de master
+      ingénieur industriel en informatique</i>. <small>(2018–maintenant,
+      2 ans)</small><br>
+      <small>Ce cours présente des techniques de programmation parallèle qui
+      sont utilisées pour générer des images et des techniques d'imagerie 3D.
+      Pour cela, une activité qui concerne le design d'algorithme et
+      l'optimisation est également organisée et les étudiants y apprennent
+      comment penser à un projet innovant et le mener à bien avec des
+      algorithmes pertinents.</small></li>
+      <li><b>I5010 – Architecture distribuée</b>, <i>Deuxième année de master
+      ingénieur industriel en informatique</i>. <small>(2018–maintenant,
+      2 ans)</small><br>
+      <small>Ce cours présente ce qu'est un système distribué et comment il
+      fonctionne. En particulier, il couvre trois aspects des architectures
+      distribuées qui sont comment passer une application à l'échelle, comment
+      la virtualiser et enfin comment gérer des bases de données en
+      clusters.</small></li>
+      <li><b>I5020 – Sécurité des systèmes informatiques</b>, <i>Deuxième année
+      de master ingénieur industriel en informatique</i>.
+      <small>(2017–maintenant, 3 ans)</small><br>
+      <small>Ce cours présente ce qu'est la sécurité d'un système informatique,
+      aux niveaux hardware et software. Il présente également comment
+      construire et sécuriser de tels systèmes et comment analyser et gérer les
+      risques auxquels ils sont exposés.</small></li>
+      <li><b>O5040 – Séminaires professionnels</b>, <i>Deuxième année de master
       ingénieur industriel en électronique et en informatique</i>.
-      <small>(2015–maintenant, 4 ans)</small><br />
+      <small>(2015–maintenant, 5 ans)</small><br>
       <small>Ce cours est un séminaire où les étudiants doivent préparer et
-      présenter, en anglais, un sujet lié à l'ingénierie ou à leur travail de
-      fin d'étude pour partager leur expérience. Les étudiants doivent également
-      participer à des évènements externes qu'ils ont trouvé par eux-mêmes et
-      faire rapport à leurs condisciples de ce qu'ils ont appris.</small></li>
+      présenter, en anglais, un sujet en lien avec l'ingénierie ou avec leur
+      travail de fin d'études, pour partager leur expérience. Les étudiants
+      doivent également participer à des évènements externes qu'ils doivent
+      trouver par eux-mêmes et rapporter ce qu'ils ont appris aux autres
+      étudiants.</small></li>
+      <li><b>I5080 – Artificial intelligence</b>, <i>Deuxième année de master
+      ingénieur industriel en électronique et en informatique</i>.
+      <small>(2018–maintenant, 2 ans)</small><br>
+      <small>Ce cours présente ce qu'est l'intelligence artificielle. En
+      particulier, il présente des techniques de recherche et de machine
+      learning et des algorithmes et il explique également comment le big data
+      peut être analysé pour extraire des informations pertinentes.</small></li>
+      <li><b>21BA060 – Développement logiciel</b>, <i>Première année de master business analyst</i>. <small>(2018–maintenant, 2 ans)</small><br>
+      <small>Ce cours présente ce qu'est le paradigme de programmation orienté
+      objet (OO) et y initie les étudiants. Le cours met l'accent sur l'analyse
+      d'un design OO, pour identifier les bonnes pratiques et déterminer la
+      qualité d'une architecture OO.</small></li>
+      <li><b>22BA010 – Sécurité et architecture réseau</b>, <i>Deuxième année
+      de master business analyst</i>. <small>(2018–maintenant, 1 an)</small><br>
+      <small>Ce cours concerne les architectures des réseaux et la sécurité. En
+      plus des architectures réseaux, les étudiants découvrent les principales
+      techniques de virtualisation et comment sécuriser un système
+      informatique, aux niveaux hardware et software.</small></li>
       <li><b>B1070 – Projet intégrateur</b>, <i>Première année de bachelier en
-      sciences industrielles</i>. <small>(2016, 1 an)</small><br />
+      sciences industrielles</i>. <small>(2016, 1 an)</small><br>
       <small>Ce cours est un projet où les étudiants doivent travailler sur un
       projet multidisciplinaire en groupes de six. Par exemple, en 2016, ils
       devaient développer un distributeur automatique contrôlé par un Arduino
       et utilisant un tag RFID.</small></li>
       <li><b>B1080 – Électricité et ses outils mathématiques</b>, <i>Première
       année de bachelier en sciences industrielles</i>. <small>(2015,
-      1 an)</small><br />
+      1 an)</small><br>
       <small>Ce cours concerne l'électromagnétisme et la théorie des circuits.
       Il présente également les outils mathématiques nécessaires : fonctions
       à plusieurs variables, nombres complexes, vecteurs, intégrales
       multiples...</small></li>
-      <li><b>JA40I – Programmation distribuée</b>, <i>Première année de
-      bachelier en sciences industrielles</i>. <small>(2015–2016,
-      2 ans)</small><br />
+      <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>,
+      <i>Troisième année de bachelier en sciences industrielles, orientation
+      électronique et informatique</i>. <small>(2016–2019, 4 ans)</small><br>
+      <small>Ce cours concerne les trois principaux composants d'un système
+      embarqué : la gestion de l'énergie, une unité électronique intelligente
+      et des périphériques. Il présente comment construire un système embarqué
+      à travers le design et la construction d'une application de type IoT, 
+      couvrant toutes les couches depuis le hardware au cloud. En particulier,
+      il explique comment programmer des systèmes embarqués et les connecter
+      avec d'autres systèmes.</small></li>
+      <li><b>M3090 – Techniques informatiques</b>, <i>Troisième année de
+      bachelier, orientation électromécanique</i>. <small>(2014–2017,
+      4 ans)</small><br>
+      <small>Ce cours concerne l'analyse et la modélisation d'applications (UML)
+      l'utilisation de base de données et de requêtes (Access) et la
+      programmation de bas niveau (C) et orientée objet (C#).</small></li>
+      <li><b>JA40I – Programmation distribuée</b>, <i>Première année de master
+      ingénieur industriel en électronique et en informatique</i>. 
+      <small>(2015–2016, 2 ans)</small><br>
       <small>Ce cours est un projet où les étudiants doivent développer une
       application de domotique en 3-tiers pour gérer un modèle concret d'une
       maison. Ils ont également une activité sur la programmation orientée
@@ -609,7 +676,7 @@ language: fr
     <ul>
       <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Troisième année
       de bachelier en informatique et systèmes et en électronique</i>.
-      <small>(2017–maintenant, 2 ans)</small><br />
+      <small>(2017–maintenant, 3 ans)</small><br>
       <small>Ce cours concerne l'identification et l'analyse de transmission
       numérique avec les circuits spécifiques et procotoles nécessaires. Les
       étudiants ont l'opportunité de faire le design et de développer un
@@ -618,14 +685,14 @@ language: fr
       <li><b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
       technologies : Bases de la programmation</b>, <i>Deuxième année de
       bachelier en informatique et systèmes</i>. <small>(2011–2014,
-      4 ans)</small><br />
+      4 ans)</small><br>
       <small>Ce cours concerne les concepts de base de la programmation :
       tableaux multidimensionnels, boucles imbriquées, booléens et caractères,
       décomposition en procédures et fonctions, manipulation de
       fichiers...</small></li>
       <li><b>2982.21.U31.D1 – Initiation aux bases de données</b>, <i>Première
       année de bachelier en informatique et systèmes</i>. <small>(2013–2015,
-      3 ans)</small><br />
+      3 ans)</small><br>
       <small>Ce cours concerne une introduction aux bases de données et présente
       les Systèmes de Gestion de Base de Données (SGBD), les bases de données
       relationnelles, le Structured Query Language (SQL), les clés primaires
@@ -637,7 +704,7 @@ language: fr
 
     <ul>
       <li><b>LFSAB1401 – Informatique 1</b>, <i>Première année de bachelier en
-      sciences de l'ingénieur</i>. <small>(2004–2011, 8 ans)</small><br />
+      sciences de l'ingénieur</i>. <small>(2004–2011, 8 ans)</small><br>
       <small>Ce cours concerne les bases de la programmation orientée objet
       avec le langage de programmation Java. Les étudiants découvrent la
       notion de programmation, les objets, les classes, les tableaux,
@@ -645,14 +712,14 @@ language: fr
       et les structures chainées.</small></li>
       <li><b>LSINF1160 – Introduction à l'Algorithmique et Programmation,
       partie 1</b>, <i>Première année de bachelier en sciences
-      informatiques</i>. <small>(2007–2011, 5 ans)</small><br />
+      informatiques</i>. <small>(2007–2011, 5 ans)</small><br>
       <small>Ce cours concerne les bases de l'algorithmique et de la
       programmation principalement avec le langage de programmation Java. Les
       étudiants découvrent l'algorithmique, la représentation des nombres, la
       notion de code machine et des algorithmes sur tableaux.</small></li>
       <li><b>LINGI2143 – Concurrent Systems: Models and Analysis</b>, <i>Master
       en sciences informatiques et ingénieur civil informaticien</i>.
-      <small>(2008, 2010–2011, 3 ans)</small><br />
+      <small>(2008, 2010–2011, 3 ans)</small><br>
       <small>Ce cours concerne la théorie des systèmes concurrents. Les
       étudiants découvrent comment modéliser de tels systèmes et comment les
       analyser (propriétés de deadlock, reachability, safety et liveness). Ils
@@ -660,7 +727,7 @@ language: fr
       et des réseaux de Petri (pipe).</small></li>
       <li><b>LINGI2132 – Langages et Traducteurs</b>, <i>Première année de
       master en sciences informatiques et ingénieur civil informaticien</i>.
-      <small>(2008–2010, 3 ans)</small><br />
+      <small>(2008–2010, 3 ans)</small><br>
       <small>Ce cours concerne la théorie des automates, les langages et
       la compilation. Les étudiants doivent réaliser un projet qui consiste
       en le développement d'un compilateur ou d'un interpréteur pour un
@@ -687,18 +754,22 @@ language: fr
     <h3>Formations</h3>
 
     <ul>
+      <li><b>Formateur</b>, <i>CSITEd</i>, Woluwé-Saint-Lambert, Belgique.
+      <small>(Été 2019, 1 session)</small><br>
+      <small>Formateur pour des formations technologiques introduisant à la programmation visuelle avec Scratch, la programmation textuelle avec Python et la programmation de carte électronique Arduino.</small></li>
       <li><b>Coach Digitalent</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgique. <small>(Automne 2017–Printemps 2018–Automne 2018, 3 sessions)</small><br />
+      Belgique. <small>(Automne 2017, Printemps 2018 et Automne 2018,
+      3 sessions)</small><br>
       <small>Coach technique pour la formation Digitalent de huit semaines de
       la fondation Proximus pour la session de Schaerbeek à La Lustrerie et la
       session de  Bruxelles à BeCentral (impression et modélisation 3D et
       programmation Arduino).</small></li>
       <li><b>Formateur</b>, <i>LSM Conseil</i>, Louvain-la-Neuve, Belgique.
-      <small>(Printemps 2014, 1 session)</small><br />
+      <small>(Printemps 2014, 1 session)</small><br>
       <small>Formateur pour un cours sur le système de composition
       professionnel LaTeX.</small></li>
       <li><b>Formateur</b>, <i>Faculté des Sciences</i>, Louvain-la-Neuve,
-      Belgique. <small>(Étés 2011–2013, 3 sessions)</small><br />
+      Belgique. <small>(Étés 2011–2013, 3 sessions)</small><br>
       <small>Formateur pour les cours d'été en physique organisés pour les 
       futurs étudiants universitaires, en charge du module sur l'optique
       (en particulier le phénomène d'interférences).</small></li>
@@ -708,33 +779,34 @@ language: fr
     <h2>Service à la société et représentation</h2>
 
     <ul>
-      <li><b>Représentant de la Belgique pour le concours Bebras</b>.<br />
+      <li><b>Représentant de la Belgique pour le concours Bebras</b>.<br>
       <small>Coordinateur pour le concours Bebras en Belgique et représentant
       de la Belgique au niveau international (participant notamment au 
-      International Bebras Task Workshop annuel).</small></li>
+      International Bebras Task Workshop annuel), comme membre du International
+      Bebras Committee (IBC).</small></li>
       <li><b>Team Leader</b>, <i>1st International Balkan University Olympiad
-      in Informatics (IBUOI 2019)</i>, Skopje, Macédoine du Nord.<br />
+      in Informatics (IBUOI 2019)</i>, Skopje, Macédoine du Nord.<br>
       <small>Représentant pour la Belgique aux Olympiades d'Informatique de l'International Balkan University, c'est-à-dire, accompagnateur des
       quatre participants belges.</small></li>
       <li><b>Représentant du Corps Scientifique de l'Université
-      catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgique.<br />
+      catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgique.<br>
       <small>- 2012–2013 (1 an), Vice-Président pour le Secteur des Sciences
       et Technologies du Corps Scientifique de l'Université catholique de 
-      Louvain (CORSCI).<br />
+      Louvain (CORSCI).<br>
       - 2010–2013 (3 ans), Président et 2013–2014 (1 an), Membre de 
       l'Association du Corps Scientifique de l'École Polytechnique de Louvain 
-      (ACSEP).<br />
+      (ACSEP).<br>
       - 2010–2012 (2 ans), Vice-Président Externe et 2012–2013
       (1 an), Président et 2013–2014 (1 an), Vice-Président Interne de 
       l'Association du Corps Scientifique de l'ICT, Electronics and Applied
       Mathematics Institute (AsCII).</small></li>
       <li><b>Membre du Comité de Pilotage MOOCs@UCLouvain</b>, Louvain-la-Neuve,
-      Belgique.<br />
+      Belgique.<br>
       <small>Membre du comité qui pilote le phénomène MOOC à l'Université
       catholique de Louvain et coordonne l'initiative LouvainX (cours UCLouvain
       sur la plateforme edX).</small></li>
       <li><b>Deputy Leader</b>, <i>22ème International Olympiad in Informatics
-      (IOI 2010)</i>, Waterloo, ON, Canada.<br />
+      (IOI 2010)</i>, Waterloo, ON, Canada.<br>
       <small>Représentant pour la Belgique aux Olympiades Internationales
       d'Informatique, c'est-à-dire, accompagnateur des quatre participants
       belges.</small></li>
@@ -784,7 +856,7 @@ language: fr
     <h2>Projets</h2>
 
     <ul>
-      <li><b>Pythia</b> <small>(Jan. 2012–maintenant)</small><br />
+      <li><b>Pythia</b> <small>(Jan. 2012–maintenant)</small><br>
       <small>Le projet Pythia consiste en le développement d'une plateforme
       d'apprentissage de la programmation. La plateforme supporte la
       correction automatique des programmes soumis, et génère des feedbacks
@@ -792,7 +864,7 @@ language: fr
       de la plateforme, le projet consiste aussi en la création d'un ensemble
       de leçons à utiliser dans les écoles secondaires. Le projet est réalisé
       avec CSITEd, EDITx et l'ECAM Brussels Engineering School.</small></li>
-      <li><b>ILPADS</b> <small>(Jan. 2013–maintenant)</small><br />
+      <li><b>ILPADS</b> <small>(Jan. 2013–maintenant)</small><br>
       <small>Le projet ILPADS consiste en le développement d'une plateforme
       interactive en ligne pour développer des compétences en programmation
       et en design d'algorithmes. La plateforme est principalement destinée
@@ -800,12 +872,12 @@ language: fr
       Le but de la plateforme est de développer la pensée algorithmique et
       amener les utilisateurs à apprendre le langage de programmation Python.
       Le projet est réalisé avec CSITEd.</small></li>
-      <li><b>MCP</b> <small>(Mar. 2014–maintenant)</small><br />
+      <li><b>MCP</b> <small>(Mar. 2014–maintenant)</small><br>
       <small>Le projet MCP consiste en le développement d'une plateforme où
       des participants peuvent définir un profil public reprenant leurs
       performances à différents concours afin de pouvoir se comparer aux
       autres.</small></li>
-      <li><b>METIER</b> <small>(Sep. 2011–Déc. 2011)</small><br />
+      <li><b>METIER</b> <small>(Sep. 2011–Déc. 2011)</small><br>
       <small>Le projet METIER consiste en la création d'un nouveau dispositif
       pédagogique pour aider les étudiants en première année de bachelier à
       réussir leur première année à l'université. Le projet concernait le
@@ -820,16 +892,16 @@ language: fr
 
     <ul>
       <li><b>Lauréat des « Sésames d'Agoria 2018 »</b>.
-      <small>(2018)</small><br />
+      <small>(2018)</small><br>
       <small>Pour le projet <i>« Digitalent »</i> sur lequel j'ai travaillé
       pour le CERDECAM avec la Proximus Foundation.</small></li>
-      <li><b>Meilleur papier</b>. <small>(2011)</small><br />
+      <li><b>Meilleur papier</b>. <small>(2011)</small><br>
       <small>Pour le papier <i>« Learning System Abstractions for Human
       Operators »</i> soumis à la conférence 2011 International Workshop on
       Machine Learning Technologies in Software Engineering
       (MALETS 2011).</small></li>
       <li><b>Prix ACM 2010–2011 de l'Excellence des Student Chapter</b>.
-      <small>(2011)</small><br />
+      <small>(2011)</small><br>
       <small>Prix reçu pour les activités exceptionnelles de l'UCLouvain ACM
       Student Chapter.</small></li>
     </ul>
@@ -840,41 +912,41 @@ language: fr
       <li><b>Marketing Digital</b>, <i>Google</i>.
       <small>(Juil. 2017–maintenant)</small>
       <a href="/files/cv/combefis-google-atelier-digital-certificate-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
       <small>(Sep. 2015–maintenant)</small>
       <a href="/files/cv/combefis-edX-DAT204x-2015.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>HTML5.1x Learn HTML5 from W3C</b>, <i>edX</i>.
       <small>(Juil. 2015–maintenant)</small></li>
       <li><b>Louv1.2x Paradigms of Computer Programming – Abstraction and
       Concurrency</b>, <i>edX</i>. <small>(Jan. 2015–maintenant)</small>
       <a href="/files/cv/combefis-edX-Louv1.2x-2015.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Louv1.1x Paradigms of Computer Programming – Fundamentals</b>,
       <i>edX</i>. <small>(Nov. 2014–maintenant)</small>
       <a href="/files/cv/combefis-edX-Louv1.1x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>World101x Anthropology of Current World Issues</b>, <i>edX</i>.
       <small>(Oct. 2014–maintenant)</small>
       <a href="/files/cv/combefis-edX-World101x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>ATOC185x Natural Disasters</b>, <i>edX</i>.
       <small>(Aout 2015–maintenant)</small>
       <a href="/files/cv/combefis-edX-ATOC185x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>AE1110x Introduction to Aeronautical Engineering</b>, <i>edX</i>.
       <small>(Mai 2014–maintenant)</small>
       <a href="/files/cv/combefis-edX-AE1110x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>UT.9.01x Effective Thinking Through Mathematics</b>, <i>edX</i>.
       <small>(Mai 2014–maintenant)</small>
       <a href="/files/cv/combefis-edX-UT.9.01x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Louv3.01x Découvrir la science politique</b>, <i>edX</i>.
       <small>(Avr. 2014–maintenant)</small>
       <a href="/files/cv/combefis-edX-Louv1.03x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Functional Programming Principles in Scala</b>, <i>Coursera</i>.
       <small>(Nov. 2012–maintenant)</small></li>
     </ul>
@@ -883,12 +955,12 @@ language: fr
     <h2>Associations professionnelles</h2>
 
     <ul>
-      <li><b>Association Internationale de Pédagogie Universitaire (AIPU)</b>,
-      <i>Membre</i>. <small>(2013–maintenant)</small></li>
       <li><b>Association for Computing Machinery (ACM)</b>, <i>Membre</i>.
       <small>(2009–maintenant)</small></li>
       <li><b>Institute of Electrical and Electronics Engineers (IEEE)</b>,
       <i>Membre</i>. <small>(2009–maintenant)</small></li>
+      <li><b>Association Internationale de Pédagogie Universitaire (AIPU)</b>,
+      <i>Membre</i>. <small>(2013–2014)</small></li>
     </ul>
 
     <h3>Autre</h3>
@@ -898,7 +970,8 @@ language: fr
       <small>(2007–maintenant)</small></li>
       <li><b>Mouvement Réformateur (MR)</b>, <i>Membre</i>.
       <small>(2014–maintenant)</small></li>
-      <li><b>Association des Habitants de Louvain-la-Neuve (AHLLN)</b>, <i>Membre</i>.
+      <li><b>Association des Habitants de Louvain-la-Neuve (AHLLN)</b>,
+      <i>Membre</i>.
       <small>(2018–maintenant)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>,
       <i>Membre</i>. <small>(2002)</small></li>
@@ -946,32 +1019,32 @@ language: fr
       <small>(11 Juil. 2013)</small>
       <a href="/files/media/combefis-IOI-reporter-july-2013.mp3">
       <img src="/images/sound.png" width="16" height="16"
-      alt="Sound" /></a></li>
+      alt="Sound"></a></li>
       <li>Interview par le journal <i>Le Soir</i> pour CSITEd et le concours
       Bebras. <small>(17 Avr. 2013)</small>
       <a href="/files/media/combefis-le-soir-april-2013.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li>Interview par la chaine de télévision locale <i>TVCom</i> pour la
       finale de la première édition des Olympiades belges d'Informatique.
       <small>(14 Mai 2010)</small></li>
       <li>Interview par le magasine spécialisé <i>Data News</i> pour
       l'UCLouvain ACM Student Chapter. <small>(7 Mai 2010)</small>
       <a href="/files/media/combefis-datanews-may-2010.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li>Interview par le journal régional <i>Vers l'Avenir Brabant Wallon</i>
       pour les Olympiades belges d'Informatique. <small>(10 Mar. 2010)</small>
       <a href="/files/media/combefis-vers-l-avenir-march-2010.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/ucl-london.jpg" alt="Londres, UK, Septembre 2009."
-    width="200" height="150" /><br />
+    width="200" height="150"><br>
     Londres, UK, Septembre 2009.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
       <li><a href="/files/cv/combefis-CV-full-FR.pdf">Télécharger le CV <img
-      src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
   </div>
 </div>

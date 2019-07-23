@@ -524,6 +524,7 @@ language: fr
       binaire. Il présente également comment internet fonctionne, introduit
       à HTML, CSS et JavaScript et explique comment développer un simple site
       web avec le micro-framework web CherryPy.</small></li>
+
       <li><b>B2160 – Projet informatique</b>, <i>Deuxième année de bachelier en
       sciences industrielles, pré-orientation électronique et informatique</i>.
       <small>(2015–maintenant, 5 ans)</small><br>
@@ -536,6 +537,7 @@ language: fr
       backtracking pour l'IA. Enfin, il introduit au calcul numérique avec
       l'écosystème Scipy (les librairies Numpy, Scipy, Matplotlib et
       SymPy).</small></li>
+
       <li><b>E3010 – Électronique numérique</b>, <i>Troisième année de
       bachelier en sciences industrielles, orientation électronique et
       informatique</i>. <small>(2017–maintenant, 2 ans)</small><br>
@@ -545,6 +547,7 @@ language: fr
       micro-contrôleurs PIC et à utiliser les timers, les interruptions, etc.
       Une introduction à l'algèbre de Boole et à la minimisation de fonction
       logique leur est également proposée.</small></li>
+
       <li><b>E3040 – Projet informatique</b>, <i>Troisième année de
       bachelier en sciences industrielles, orientation électronique et
       informatique</i>. <small>(2018–maintenant, 2 ans)</small><br>
@@ -555,6 +558,7 @@ language: fr
       file, deque, vecteur, liste, séquence, arbre, file de priorité, map,
       table de hachage et graphe). Le projet doit être complètement réalisé en
       anglais.</small></li>
+
       <li><b>I4020 – Architecture logicielle</b>, <i>Première année de master
       ingénieur industriel en informatique</i>. <small>(2014–maintenant,
       5 ans)</small><br>
@@ -564,6 +568,7 @@ language: fr
       les différentes étapes nécessaires au développement d'un gros logiciel
       avec une attention particulière pour le versioning, les tests automatisés
       et le déploiement.</small></li>
+
       <li><b>I4030 – Technologie des ordinateurs et systèmes
       d'exploitation</b>, <i>Première année de master ingénieur industriel
       en électronique et en informatique</i>. <small>(2014–maintenant,
@@ -574,6 +579,7 @@ language: fr
       être utilisé à l'aide d'un système d'exploitation et ses composants
       (processus et threads, ordonnancement, deadlock, gestion de la mémoire,
       système de fichiers, stockage de masse, sécurité...).</small></li>
+
       <li><b>I4040 – Base de données avancées</b>, <i>Première année de master
       ingénieur industriel en informatique</i>. <small>(2016–maintenant,
       3 ans)</small><br>
@@ -582,6 +588,7 @@ language: fr
       optimisation...). Il introduit également à NoSQL, et en particulier aux
       bases de données orientée document, et comment les combiner avec des
       bases de données relationnelles dans une même application.</small></li>
+
       <li><b>I4100 – Synthèse d'images</b>, <i>Première année de master
       ingénieur industriel en informatique</i>. <small>(2018–maintenant,
       2 ans)</small><br>
@@ -591,6 +598,7 @@ language: fr
       l'optimisation est également organisée et les étudiants y apprennent
       comment penser à un projet innovant et le mener à bien avec des
       algorithmes pertinents.</small></li>
+
       <li><b>I5010 – Architecture distribuée</b>, <i>Deuxième année de master
       ingénieur industriel en informatique</i>. <small>(2018–maintenant,
       2 ans)</small><br>
@@ -599,6 +607,7 @@ language: fr
       distribuées qui sont comment passer une application à l'échelle, comment
       la virtualiser et enfin comment gérer des bases de données en
       clusters.</small></li>
+
       <li><b>I5020 – Sécurité des systèmes informatiques</b>, <i>Deuxième année
       de master ingénieur industriel en informatique</i>.
       <small>(2017–maintenant, 3 ans)</small><br>
@@ -606,6 +615,7 @@ language: fr
       aux niveaux hardware et software. Il présente également comment
       construire et sécuriser de tels systèmes et comment analyser et gérer les
       risques auxquels ils sont exposés.</small></li>
+
       <li><b>O5040 – Séminaires professionnels</b>, <i>Deuxième année de master
       ingénieur industriel en électronique et en informatique</i>.
       <small>(2015–maintenant, 5 ans)</small><br>
@@ -615,6 +625,7 @@ language: fr
       doivent également participer à des évènements externes qu'ils doivent
       trouver par eux-mêmes et rapporter ce qu'ils ont appris aux autres
       étudiants.</small></li>
+
       <li><b>I5080 – Artificial intelligence</b>, <i>Deuxième année de master
       ingénieur industriel en électronique et en informatique</i>.
       <small>(2018–maintenant, 2 ans)</small><br>
@@ -622,23 +633,28 @@ language: fr
       particulier, il présente des techniques de recherche et de machine
       learning et des algorithmes et il explique également comment le big data
       peut être analysé pour extraire des informations pertinentes.</small></li>
-      <li><b>21BA060 – Développement logiciel</b>, <i>Première année de master business analyst</i>. <small>(2018–maintenant, 2 ans)</small><br>
+
+      <li><b>21BA060 – Développement logiciel</b>, <i>Première année de master 
+      business analyst</i>. <small>(2018–maintenant, 2 ans)</small><br>
       <small>Ce cours présente ce qu'est le paradigme de programmation orienté
       objet (OO) et y initie les étudiants. Le cours met l'accent sur l'analyse
       d'un design OO, pour identifier les bonnes pratiques et déterminer la
       qualité d'une architecture OO.</small></li>
+
       <li><b>22BA010 – Sécurité et architecture réseau</b>, <i>Deuxième année
       de master business analyst</i>. <small>(2018–maintenant, 1 an)</small><br>
       <small>Ce cours concerne les architectures des réseaux et la sécurité. En
       plus des architectures réseaux, les étudiants découvrent les principales
       techniques de virtualisation et comment sécuriser un système
       informatique, aux niveaux hardware et software.</small></li>
+
       <li><b>B1070 – Projet intégrateur</b>, <i>Première année de bachelier en
       sciences industrielles</i>. <small>(2016, 1 an)</small><br>
       <small>Ce cours est un projet où les étudiants doivent travailler sur un
       projet multidisciplinaire en groupes de six. Par exemple, en 2016, ils
       devaient développer un distributeur automatique contrôlé par un Arduino
       et utilisant un tag RFID.</small></li>
+
       <li><b>B1080 – Électricité et ses outils mathématiques</b>, <i>Première
       année de bachelier en sciences industrielles</i>. <small>(2015,
       1 an)</small><br>
@@ -646,6 +662,7 @@ language: fr
       Il présente également les outils mathématiques nécessaires : fonctions
       à plusieurs variables, nombres complexes, vecteurs, intégrales
       multiples...</small></li>
+
       <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>,
       <i>Troisième année de bachelier en sciences industrielles, orientation
       électronique et informatique</i>. <small>(2016–2019, 4 ans)</small><br>
@@ -656,12 +673,14 @@ language: fr
       couvrant toutes les couches depuis le hardware au cloud. En particulier,
       il explique comment programmer des systèmes embarqués et les connecter
       avec d'autres systèmes.</small></li>
+
       <li><b>M3090 – Techniques informatiques</b>, <i>Troisième année de
       bachelier, orientation électromécanique</i>. <small>(2014–2017,
       4 ans)</small><br>
       <small>Ce cours concerne l'analyse et la modélisation d'applications (UML)
       l'utilisation de base de données et de requêtes (Access) et la
       programmation de bas niveau (C) et orientée objet (C#).</small></li>
+
       <li><b>JA40I – Programmation distribuée</b>, <i>Première année de master
       ingénieur industriel en électronique et en informatique</i>. 
       <small>(2015–2016, 2 ans)</small><br>

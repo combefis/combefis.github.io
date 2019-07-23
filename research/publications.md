@@ -2,14 +2,26 @@
 layout: page
 title: Publications
 permalink: /research/publications/
+path: /research/publications/
 language: en
 ---
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <h2>2017</h2>
+    <h2>2019</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis, Guillaume de Moffarts, Mile Jovanov.
+      TLCS: A Digital Library with Resources to Teach and Learn Computer
+      Science. In <i>Olympiads in Informatics</i>, <b>13</b>:3-20, 2019.
+      <a href="/files/publi/combefis-olympiads2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+    </ol>
+
+
+    <h2>2017</h2>
+
+    <ol class="publications-continue">
       <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe,
       Mathieu David, Guillaume de Moffarts, Hadrien Hachez, Julien Kessels.
       Learning and Teaching Algorithm Design and Optimisation Using Contests
@@ -34,6 +46,7 @@ language: en
       Philippe Palanque, Eds., <i>The Handbook of Formal Methods in
       Human-Computer Interaction</i>, ch. 11, 297-317, 2017.</li>
     </ol>
+
 
     <h2>2016</h2>
 

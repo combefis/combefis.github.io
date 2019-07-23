@@ -20,10 +20,10 @@ language: fr
         <td><a href="http://www.amazon.fr/gp/product/1446708314/ref=as_li_tl?
         ie=UTF8&#38;camp=1642&#38;creative=6746&#38;creativeASIN=1446708314&#38;
         linkCode=as2&#38;tag=uko-21">
-        <img src="/images/book-latex-howto.png" width="100" height="149" /></a>
+        <img src="/images/book-latex-howto.png" width="100" height="149"></a>
         <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
         o=8&#38;a=1446708314" width="1" height="1" border="0" alt=""
-        style="border: none!important; margin: 0px!important;" /></td>
+        style="border: none!important; margin: 0px!important;"></td>
         <td>
           <h3>LaTeX HowTo : Le Guide Pratique</h3>
           <p><i>Ce livre se veut être un guide pratique à destination de
@@ -42,10 +42,10 @@ language: fr
         <td><a href="http://www.amazon.fr/gp/product/1291625232/ref=as_li_tl?
         ie=UTF8&#38;camp=1642&#38;creative=6746&#38;creativeASIN=1291625232&#38;
         linkCode=as2&#38;tag=uko-21">
-        <img src="/images/book-bebras-2012.png" width="100" height="149" /></a>
+        <img src="/images/book-bebras-2012.png" width="100" height="149"></a>
         <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
         o=8&#38;a=1291625232" width="1" height="1" border="0" alt=""
-        style="border: none!important; margin: 0px!important;" /></td>
+        style="border: none!important; margin: 0px!important;"></td>
         <td>
           <h3>Bebras Belgium : Recueil de questions Édition 2012</h3>
           <p><i>Bebras est un concours international dont le but est de
@@ -67,10 +67,10 @@ language: fr
         <td><a href="https://www.amazon.fr/gp/product/132674724X/ref=as_li_tl?
         ie=UTF8&#38;camp=1642&#38;creative=6746&#38;creativeASIN=132674724X&#38;
         linkCode=as2&#38;tag=uko-21">
-        <img src="/images/book-bebras-2013.png" width="100" height="149" /></a>
+        <img src="/images/book-bebras-2013.png" width="100" height="149"></a>
         <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
         o=8&#38;a=132674724X" width="1" height="1" border="0" alt=""
-        style="border: none!important; margin: 0px!important;" /></td>
+        style="border: none!important; margin: 0px!important;"></td>
         <td>
           <h3>Bebras Belgium : Recueil de questions Édition 2013</h3>
           <p><i>Bebras est un concours international dont le but est de
@@ -93,10 +93,10 @@ language: fr
         ie=UTF8&#38;camp=1642&#38;creative=6746&#38;creativeASIN=1326376802&#38;
         linkCode=as2&#38;tag=uko-21">
         <img src="/images/book-maths-secondaire-tome3.png" width="100"
-        height="149" /></a>
+        height="149"></a>
         <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
         o=8&#38;a=1326376802" width="1" height="1" border="0" alt=""
-        style="border: none!important; margin: 0px!important;" /></td>
+        style="border: none!important; margin: 0px!important;"></td>
         <td>
           <h3>Bases des mathématiques et préparation à l'enseignement supérieur
           : Formules et concepts</h3>
@@ -115,10 +115,10 @@ language: fr
         ie=UTF8&#38;camp=1642&#38;creative=6746&#38;creativeASIN=1326767100&#38;
         linkCode=as2&#38;tag=uko-21">
         <img src="/images/book-apprendre-python.png" width="100"
-        height="149" /></a>
+        height="149"></a>
         <img src="http://ir-fr.amazon-adsystem.com/e/ir?t=uko-21&#38;l=as2&#38;
         o=8&#38;a=1326767100" width="1" height="1" border="0" alt=""
-        style="border: none!important; margin: 0px!important;" /></td>
+        style="border: none!important; margin: 0px!important;"></td>
         <td>
           <h3>Apprendre Python et s'initier à la programmation</h3>
           <p><i>Ce livre propose une initiation à la programmation avec Python.
@@ -136,7 +136,7 @@ language: fr
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/pittsburgh.jpg" alt="Pittsburgh, PA, USA,
-    Juillet 2009." width="200" height="267" /><br />
+    Juillet 2009." width="200" height="267"><br>
     Pittsburgh, PA, USA, Juillet 2009.</p>
   </div>
 </div>

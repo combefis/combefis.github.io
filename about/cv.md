@@ -12,52 +12,52 @@ language: en
 
     <ul>
       <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i>,
-      Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – now)</small><br />
+      Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – now)</small><br>
       <small>Professor in an industrial higher education institution, in the
       department of electrical and computer engineering.</small></li>
       <li><b>Senior Researcher</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Mar. 2018 – now)</small><br />
+      Belgium. <small>(Mar. 2018 – now)</small><br>
       <small>Supervisor of a junior researcher in the frame of the Egonet
       project, in partnership with UCLouvain and IPL.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgium.
-      <small>(Jul. 2017 – now)</small><br />
+      <small>(Jul. 2017 – now)</small><br>
       <small>Responsible of academic relationships and coordination of the 
       IT challenges themes and jurys.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i>
       (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015,
-      Jan. 2017 – now)</small><br />
+      Jan. 2017 – now)</small><br>
       <small>Professor in a higher education institution in social advancement
       for the bachelor in informatics and systems and the bachelor in
       electronics of the Technology Pole.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Sep. 2015 – Sep. 2019)</small><br />
+      Belgium. <small>(Sep. 2015 – Sep. 2019)</small><br>
       <small>Project Manager for the TeachEng project working on the
       development and deployment of a MOOC platform for engineers.</small></li>
       <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2014 – Sep. 2016)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2014 – Sep. 2016)</small><br>
       <small>Invited lecturer for the programming course for first year
       bachelor students in engineering and in computer science.</small></li>
       <li><b>Research Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
       <small>Research assistant for the ICT, Electronics and Applied
       Mathematics Institute (ICTEAM), attached to the Computer Science
       Engineering Department (INGI).</small></li>
       <li><b>Educational Advisor</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
       <small>Educational Advisor for the Louvain School of Engineering
       (EPL).</small></li>
       <li><b>Associate</b>, <i>Binnovart</i>, Waterloo, Belgium.
-      <small>(Oct. 2013 – May 2014)</small><br />
+      <small>(Oct. 2013 – May 2014)</small><br>
       <small>Founder and Associate at Binnovart SPRL, a company developing a
       platform where young artists can meet art investors to catch up and sell
       and promote their artworks.</small></li>
       <li><b>Teaching Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Sep. 2013)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Sep. 2013)</small><br>
       <small>Teaching assistant for the Louvain School of Engineering (EPL),
       attached to the Computer Science Engineering Department
       (INGI).</small></li>
       <li><b>Student Monitor</b>, <i>Louvain School of Engineering</i>,
-      Louvain-la-Neuve, Belgium. <small>(2004 – 2006)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(2004 – 2006)</small><br>
       <small>Student monitor (tutor) for the <i>« Introduction to
       Programming »</i> course taught to first year bachelors in
       engineering.</small></li>
@@ -66,15 +66,21 @@ language: en
     <h3>Nonprofit organisations</h3>
 
     <ul>
+      <li><b>Administrator</b>, <i>Maison du Développement Durable ASBL</i>
+      (MDD), Louvain-la-Neuve, Belgium.
+      <small>(May 2019 – now)</small><br>
+      <small>MDD is a nonprofit organisation whose goal is to provide a place
+      to support the transition to a greener, more fair, more user-friendly
+      society, locally and globally.</small></li>
       <li><b>Founder and President</b>, <i>Computer Science and IT in Education
       ASBL</i> (CSITEd), Louvain-la-Neuve, Belgium.
-      <small>(Jul. 2012 – now)</small><br />
+      <small>(Jul. 2012 – now)</small><br>
       <small>CSITEd is a nonprofit organisation whose goal is to promote
       computer science at large, especially towards pupils from secondary
       schools and in the education field.</small></li>
       <li><b>President</b>, <i>Corps Scientifique de l'Université catholique de
       Louvain</i>, Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2013 – May 2014)</small><br />
+      <small>(Sep. 2013 – May 2014)</small><br>
       <small>The <i>« Corps Scientifique de l'UCL »</i> (Scientific Body) of the
       university gathers all the researchers that are not professors. The role
       of the president is to be the representative of the body in several
@@ -83,14 +89,14 @@ language: en
       <li><b>Treasurer</b>, <i>UCLouvain ACM Student Chapter ASBL</i>,
       Louvain-la-Neuve, Belgium. <small>(Sep. 2011 – Sep. 2013)</small></li>
       <li><b>Founder and Co-organiser</b>, <i>Belgian Olympiad in
-      Informatics</i>. <small>(Editions 2010 and 2011)</small><br />
+      Informatics</i>. <small>(Editions 2010 and 2011)</small><br>
       <small>The Belgian Olympiad in Informatics (be-OI) is a programming and
       algorithmic thinking contest whose goal is to select the Belgian
       delegation to be sent to the International Olympiad in Informatics
       (IOI).</small></li>
       <li><b>Founder and President</b>, <i>UCLouvain ACM Student Chapter
       ASBL</i>, Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2009 – Sep. 2011)</small><br />
+      <small>(Sep. 2009 – Sep. 2011)</small><br>
       <small>The UCLouvain ACM Student Chapter is the local chapter of the
       Association for Computing Machinery (ACM), an international organisation
       whose goal is to promote computer science.</small></li>
@@ -102,22 +108,22 @@ language: en
     <ul>
       <li><b>Higher Education Teaching Certificate</b>, <i>Université catholique
       de Louvain</i>, Louvain-la-Neuve, Belgium.
-      <small>(Jan. 2016 - Jun. 2018)</small><br />
+      <small>(Jan. 2016 - Jun. 2018)</small><br>
       <small>- Subject: <i>« Enseigner l'informatique à de futurs ingénieurs :
       Mise en place d'un cours de programmation informatique en deuxième année
       de bachelier en sciences de l'ingénieur »</i></small></li>
       <li><b>Advanced Master in Pedagogy in Higher Education</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Cum laude.
-      <small>(Sep. 2010 – Jun. 2014)</small><br />
+      <small>(Sep. 2010 – Jun. 2014)</small><br>
       <small>- Subject: <i>« Enseigner des outils méthodologiques et former une
       attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en
-      place et évaluation d‘un dispositif d'aide à la réussite »</i><br />
+      place et évaluation d‘un dispositif d'aide à la réussite »</i><br>
       - Supervisor: <i>Prof. Mariane Frenay and co-supervisor: Dr. Mireille
       Houart</i>.</small></li>
       <li><b>PhD in Engineering</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Nov. 2013)</small><br />
+      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Nov. 2013)</small><br>
       <small>- Subject: <i>« A Formal Framework for the Analysis of
-      Human-Machine Interactions »</i><br />
+      Human-Machine Interactions »</i><br>
       - Examining Board: <i>Prof. Charles Pecheur, supervisor (UCLouvain/ICTM,
       Belgium), Prof. Jean Vanderdonckt, secretary (UCLouvain/ILSM, Belgium),
       Prof. Thierry Massart (ULB, Belgium), Dr Dimitra Giannakopoulou
@@ -125,12 +131,12 @@ language: en
       Prof. Peter Van Roy, chair (UCLouvain/ICTM, Belgium)</i>.</small></li>
       <li><b>Master in Computer Science Engineering</b>, <i>Université
       catholique de Louvain</i>, Louvain-la-Neuve, Belgium, Magna cum laude.
-      <small>(Sep. 2002 – Jun. 2007)</small><br />
+      <small>(Sep. 2002 – Jun. 2007)</small><br>
       <small>- Subject: <i>« Viral Marketing and Community Detection
-      Algorithm »</i><br />
+      Algorithm »</i><br>
       - Supervisor: <i>Prof. Pierre Dupont</i>.</small></li>
       <li><b>General Secondary Education</b>, <i>Lycée de Berlaymont</i>,
-      Waterloo, Belgium, 85%. <small>(Sep. 1996 – Jun. 2002)</small><br />
+      Waterloo, Belgium, 85%. <small>(Sep. 1996 – Jun. 2002)</small><br>
       <small>Mathematics/Science option.</small></li>
     </ul>
 
@@ -138,17 +144,17 @@ language: en
 
     <ul>
       <li><b>Security Fundamentals</b>, <i>Technobel</i>, Ciney, Belgium.
-      <small>(6–7 Jun. 2016)</small><br />
+      <small>(6–7 Jun. 2016)</small><br>
       <small>Training about IT security to understand threats and
       attacks in IT systems and how to deal with them.</small></li>
       <li><b>From Research To Business</b> (FR2B), Belgium.
-      <small>(1st cycle 2010)</small><br />
+      <small>(1st cycle 2010)</small><br>
       <small>Seven-day training composed of four modules, targeted to
       researchers who think that their research may lead to the creation of a
       company.</small></li>
       <li><b>Teaching monitor Training</b>, <i>Louvain School of
       Engineering</i>, Louvain-la-Neuve, Belgium.
-      <small>(Sep. 2004)</small><br />
+      <small>(Sep. 2004)</small><br>
       <small>Training to become student monitor (tutor) to supervise the
       practical sessions of the <i>« Introduction to Programming »</i> course
       taught to first year bachelors in engineering.</small></li>
@@ -160,6 +166,9 @@ language: en
     <h3>Journal papers</h3>
 
     <ul>
+      <li>Sébastien Combéfis, Guillaume de Moffarts, Mile Jovanov. TLCS: A
+      Digital Library with Resources to Teach and Learn Computer Science. In
+      <i>Olympiads in Informatics</i>, August 2019.</li>
       <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe,
       Mathieu David, Guillaume de Moffarts, Hadrien Hachez, Julien Kessels.
       Learning and Teaching Algorithm Design and Optimisation Using Contests
@@ -498,43 +507,53 @@ language: en
 
     <ul>
       <li><b>B2010 – Informatique</b>, <i>Second year bachelor students in
-      engineering</i>. <small>(2014–now, 4 years)</small><br />
+      engineering</i>. <small>(2014–now, 5 years)</small><br>
       <small>This course is about programming in Python and teaches advanced
-      data structures (sets, dictionaries and tuples), object oriented
+      data structures (set, dictionaries and tuples), object oriented
       programming basics, event-based programming and GUI development with
       Kivy, error handling and exceptions, text and binary files reading and
-      writing. It also explains how the internet works and introduces to HTML,
-      CSS and JavaScript and how to develop a simple website with the CherryPy
-      web framework.</small></li>
+      writing. It also explains how the internet works and provides an
+      introduction to HTML, CSS and JavaScript and shows how to develop a
+      simple website with the CherryPy web framework.</small></li>
       <li><b>B2160 – Projet informatique</b>, <i>Second year bachelor students
       in electronics and in computer science engineering</i>. <small>(2015–now,
-      4 years)</small><br />
+      5 years)</small><br>
       <small>This course presents advanced programming concepts with the Python
       language. It presents project management tools (Git, Travis, Heroku...),
       regular expressions, network programming (socket, TCP client/server, UDP
-      peers), concurrent programming (process and thread), functional
-      programming. It also introduces algorithmic with recursion, trees, search
-      algorithms and backtracking for AI. Finally, it introduces to numerical
-      methods with Octave and with the Scipy library.</small></li>
-      <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>,
-      <i>Third year bachelor students in electronics and in computer science
-      engineering</i>. <small>(2016–now, 3 years)</small><br />
-      <small>This course presents the three main components of an embedded
-      system: energy management, an intelligent electronic unit and
-      peripherals. The course presents how to build an embedded system through
-      the design and the construction of an IoT application, covering all the 
-      layers from the hardware to the cloud. In particular, it teaches how to
-      program embedded systems and connect them with other systems.</small></li>
-      <li><b>M3090 – Techniques informatiques</b>, <i>Third year bachelor
-      students in electromechanical engineering</i>. <small>(2014–now,
-      4 years)</small><br />
-      <small>This course presents how to analyse and develop a computer
-      application using modelisation (UML), simple databases and queries
-      (Microsoft Access) and low level programming (C) and object oriented
-      programming (C#).</small></li>
+      peers), concurrent programming (process and thread) and functional
+      programming. It also introduces algorithm concepts such as recursion,
+      trees, search algorithms and backtracking for artificial intelligence.
+      Finally, it introduces to numerical methods with the Scipy ecosystem
+      (Numpy, Scipy, Matplotlib and SymPy libraries).</small></li>
+      <li><b>E3010 – Électronique numérique</b>, <i>Third year bachelor
+      students in electronics and in computer science engineering</i>.
+      <small>(2017–now, 2 years)</small><br>
+      <small>This course presents how microcontrollers work and how to program
+      them using assembly language or with the C programming language. Students
+      learn to program PIC microcontrollers and how to control timers,
+      interruptions, etc. They are also introduced to Boolean algebra and how
+      to minimise a logical function.</small></li>
+      <li><b>E3040 – Projet informatique</b>, <i>Third year bachelor students
+      in electronics and in computer science engineering</i>. <small>(2018–now,
+      2 years)</small><br>
+      <small>This course is a project where students have to develop a whole
+      desktop application with C#, including a GUI and a database. For that
+      project, students have to deal with data structures and they are taught
+      the main ones and how to use them (stack, queue, deque, vector, list,
+      sequence, tree, priority queue, map, hashtable and graph). The project
+      has to be realised completely in English.</small></li>
+      <li><b>I4020 – Architecture logicielle</b>, <i>First year master students
+      in computer science engineering</i>. <small>(2014–now,
+      5 years)</small><br>
+      <small>This course presents the different possible architectures that a
+      software can have at different levels from the structure of the code to
+      the organisation of software components. It also teaches all the steps
+      required to develop a large software with a particular attention to
+      versioning, automated testing, and deployment.</small></li>
       <li><b>I4030 – Technologie des ordinateurs et systèmes
       d'exploitation</b>, <i>First year master students in electronics and in
-      computer science engineering</i>. <small>(2014–now, 4 years)</small><br />
+      computer science engineering</i>. <small>(2014–now, 5 years)</small><br>
       <small>This course presents how a computer works, from the very low
       hardware level to the very high level architecture and organisation. It
       also presents how it can be operated with an operating system and its
@@ -542,45 +561,91 @@ language: en
       management, filesystem, mass storage, security...).</small></li>
       <li><b>I4040 – Base de données avancées</b>, <i>First year master
       students in computer science engineering</i>. <small>(2016–now,
-      2 years)</small><br />
+      3 years)</small><br>
       <small>This course presents advanced concepts in databases and how to
       manage them (distributed databases, transactions, optimisation...). It
       also introduces to NoSQL and in particular to document-based databases
       and how to combine them with relational databases in
       applications.</small></li>
-      <li><b>I4020 – Architecture logicielle</b>, <i>First year master
-      students in computer science engineering</i>. <small>(2014–now,
-      4 years)</small><br />
-      <small>This course presents how to architecture a software at different
-      levels from the structure of the code to organisation of software
-      components.</small></li>
-      <li><b>I5020 – Systèmes distribués</b>, <i>Second year master students in
-      computer science engineering</i>. <small>(2017–now, 2 years)</small><br />
+      <li><b>I4100 – Synthèse d'images</b>, <i>First year master students in
+      computer science engineering</i>. <small>(2018–now, 2 years)</small><br>
+      <small>This course presents parallel programming techniques that are used
+      to generate images and 3D imaging techniques. For that, an activity about
+      algorithm design and optimisation is also organised and students learn
+      how to think about an innovating project and handle it with relevant
+      algorithms.</small></li>
+      <li><b>I5010 – Architecture distribuée</b>, <i>Second year master
+      students in computer science engineering</i>. <small>(2018–now,
+      2 years)</small><br>
       <small>This course presents what a distributed system is and how it
-      works. It also presents how to build and secure such a system, both
-      physically and with softwares.</small></li>
-      <li><b>I5030 – Séminaires professionnels</b>, <i>Second year master
+      works. In particular, it covers three aspects of distributed
+      architectures which are how to scale an application, how to virtualise
+      one and finally how to manage databases clustering.</small></li>
+      <li><b>I5020 – Sécurité des systèmes informatiques</b>, <i>Second year
+      master students in computer science engineering</i>. <small>(2017–now,
+      3 years)</small><br>
+      <small>This course presents what is the security of an informatic system,
+      at the hardware and the software levels. It also presents how to build
+      and secure such systems and how to analyse and manage the risks that they
+      are exposed to.</small></li>
+      <li><b>O5040 – Séminaires professionnels</b>, <i>Second year master
       students in electronics and in computer science engineering</i>.
-      <small>(2015–now, 4 years)</small><br />
+      <small>(2015–now, 5 years)</small><br>
       <small>This course is a seminar where the students are asked to prepare
       and present, in English, a subject related to engineering or to their
       master thesis to share their experience. Students are also asked to
       attend external events they have to found by themselves and report about
       what they learned to the other students.</small></li>
+      <li><b>I5080 – Artificial intelligence</b>, <i>Second year master
+      students in electronics and in computer science engineering</i>.
+      <small>(2018–now, 2 years)</small><br>
+      <small>This course presents what is artificial intelligence. In
+      particular it presents search and machine learning techniques and
+      algorithms, and also presents how big data can be analysed to extract
+      relevant information.</small></li>
+      <li><b>21BA060 – Développement logiciel</b>, <i>First year master
+      students in business analyst</i>. <small>(2018–now, 2 years)</small><br>
+      <small>This course presents what is the object oriented (OO) programming
+      paradigm and initiates students to it. The course focuses on the analysis
+      of an OO design, to identify good practices and assess the quality of an
+      OO architecture.</small></li>
+      <li><b>22BA010 – Sécurité et architecture réseau</b>, <i>Second year
+      master students in business analyst</i>. <small>(2018–now,
+      1 year)</small><br>
+      <small>This course is about network architecture and security. In
+      addition to network architecture, students are taught what are the main
+      virtualisation techniques and how to secure an information system, on the
+      hardware and software levels.</small></li>
       <li><b>B1070 – Projet intégrateur</b>, <i>First year bachelor students in
-      engineering</i>. <small>(2016, 1 year)</small><br />
+      engineering</i>. <small>(2016, 1 year)</small><br>
       <small>This course is a project where the students have to work on a
       multidisciplinary project by teams of six. For example, in 2016, they had
       to develop an automated distributor controlled by an Arduino and using an
       RFID tag.</small></li>
       <li><b>B1080 – Électricité et ses outils mathématiques</b>, <i>First year
-      bachelor students in engineering</i>. <small>(2015, 1 year)</small><br />
+      bachelor students in engineering</i>. <small>(2015, 1 year)</small><br>
       <small>This course is about electromagnetism and circuits theory. It also
       presents the necessary mathematical tools: functions with multiple
       variables, complex numbers, vectors, multiple integrals...</small></li>
+      <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>, 
+      <i>Third year bachelor students in electronics and in computer science
+      engineering</i>. <small>(2016–2019, 4 years)</small><br>
+      <small>This course presents the three main components of an embedded
+      system: energy management, an intelligent electronic unit and
+      peripherals. The course presents how to build an embedded system through
+      the design and the construction of an IoT application, covering all the 
+      layers from the hardware to the cloud. In particular, it teaches how to
+      program embedded systems and connect them with other systems.</small></li>
+      <li><b>M3090 – Techniques informatiques</b>, <i>Third year bachelor
+      students in electromechanical engineering</i>. <small>(2014–2017,
+      4 years)</small><br>
+      <small>This course presents how to analyse and develop a computer
+      application using modelisation (UML), simple databases and queries
+      (Microsoft Access) and low level programming (C) and object oriented
+      programming (C#).</small></li>
       <li><b>JA40I – Programmation distribuée</b>, <i>First year master
       students in electronics and in computer science engineering</i>.
-      <small>(2015–2016, 2 years)</small><br />
+      <small>(2015–2016, 2 years)</small><br>
       <small>This course is a project where the students have to develop a
       3-tiers home automation application to manage a concrete model of a
       house. They also have an activity about object oriented programming with
@@ -592,7 +657,7 @@ language: en
     <ul>
       <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Third year
       bachelor students in informatics and systems and in electronics</i>.
-      <small>(2017–now, 2 years)</small><br />
+      <small>(2017–now, 3 years)</small><br>
       <small>This course presents how to identify and analyse digital
       transmission with the specific circuits and needed protocols. Students
       have an opportunity to design and develop a complete sensor-based system
@@ -600,13 +665,13 @@ language: en
       <li><b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
       technologies : Bases de la programmation</b>, <i>Second year bachelor
       students in informatics and systems</i>. <small>(2011–2014,
-      4 years)</small><br />
+      4 years)</small><br>
       <small>This course teaches basic programming concepts: multidimensional
       arrays, embedded loops, boolean and characters, decomposition in
       procedures and functions, file manipulation...</small></li>
       <li><b>2982.21.U31.D1 – Initiation aux bases de données</b>, <i>First
       year bachelor students in informatics and systems and in
-      electronics</i>. <small>(2013–2015, 3 years)</small><br />
+      electronics</i>. <small>(2013–2015, 3 years)</small><br>
       <small>This course is an introduction to databases and presents DataBase
       Management System (DBMS), relational databases, Structured Query Language
       (SQL), primary keys and views, table joins, data importation and
@@ -617,21 +682,21 @@ language: en
 
     <ul>
       <li><b>LFSAB1401 – Informatique 1</b>, <i>First year bachelor students in
-      engineering</i>. <small>(2004–2011, 8 years)</small><br />
+      engineering</i>. <small>(2004–2011, 8 years)</small><br>
       <small>That course teaches the basics of object oriented programming,
       using the Java programming language. Students are discovering notions of
       programming, objects, classes, arrays, composition and inheritance,
       graphical interface, files and linked data structures.</small></li>
       <li><b>LSINF1160 – Introduction à l'Algorithmique et Programmation,
       partie 1</b>, <i>First year bachelor students in computer science</i>.
-      <small>(2007–2011, 5 years)</small><br />
+      <small>(2007–2011, 5 years)</small><br>
       <small>That course teaches the basics of algorithmic and programming,
       mainly using the Java programming language. Students are discovering
       algorithmic, representation of numbers, the notion of machine code and
       algorithms on arrays.</small></li>
       <li><b>LINGI2143 – Concurrent Systems: Models and Analysis</b>, <i>Master
       students in computer science and in computer science engineering</i>.
-      <small>(2008, 2010–2011, 3 years)</small><br />
+      <small>(2008, 2010–2011, 3 years)</small><br>
       <small>In that course, students are learning the theory of concurrent
       systems. They are taught how to model such systems and how to make
       analysis (deadlock, reachability, safety and liveness properties).
@@ -639,7 +704,7 @@ language: en
       petri nets (pipe).</small></li>
       <li><b>LINGI2132 – Langages et Traducteurs</b>, <i>First year master
       students in computer science and in computer science engineering</i>.
-      <small>(2008–2010, 3 years)</small><br />
+      <small>(2008–2010, 3 years)</small><br>
       <small>In that course, students are learning the theory of automata,
       languages and compilation. Students have to realise a project which
       consists in the development of a compiler or interpreter for a language
@@ -664,18 +729,24 @@ language: en
     <h3>Trainings</h3>
 
     <ul>
+      <li><b>Trainer</b>, <i>CSITEd</i>, Woluwé-Saint-Lambert, Belgium.
+      <small>(Summer 2019, 1 session)</small><br>
+      <small>Trainer for technological trainings introducing the fundamentals
+      of visual programming with Scratch, textual programming with Python and
+      Arduino electronic board programming.</small></li>
       <li><b>Digitalent Coach</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Fall 2017–Spring 2018–Fall 2018, 3 sessions)</small><br />
+      Belgium. <small>(Fall 2017, Spring 2018 and Fall 2018,
+      3 sessions)</small><br>
       <small>Technical coach for the eight-week Digitalent training organised
       by the Proximus Foundation, for the Schaerbeek session at La Lustrerie and
       the Brussels session at BeCentral (teaching 3D modelling and printing and
       Arduino programming).</small></li>
       <li><b>Trainer</b>, <i>LSM Conseil</i>, Louvain-la-Neuve, Belgium.
-      <small>(Spring 2014, 1 session)</small><br />
+      <small>(Spring 2014, 1 session)</small><br>
       <small>Trainer for a course about the LaTeX professional typesetting
       system.</small></li>
       <li><b>Trainer</b>, <i>Faculty of Science</i>, Louvain-la-Neuve, Belgium.
-      <small>(Summers 2011–2013, 3 sessions)</small><br />
+      <small>(Summers 2011–2013, 3 sessions)</small><br>
       <small>Trainer for the summer courses in physics organised for the future
       university students, giving the module on optics (in particular the
       interference phenomenon).</small></li>
@@ -685,34 +756,35 @@ language: en
     <h2>Service to society and representation</h2>
 
     <ul>
-      <li><b>Representative of Belgium for the Bebras Contest</b>.<br />
+      <li><b>Representative of Belgium for the Bebras Contest</b>.<br>
       <small>Coordinator for the Bebras contest in Belgium and representative
       for Belgium at the international level (namely participating to the
-      annual International Bebras Task Workshop).</small></li>
+      annual International Bebras Task Workshop), as a member of the
+      International Bebras Committee (IBC).</small></li>
       <li><b>Team Leader</b>, <i>1st International Balkan University Olympiad
-      in Informatics (IBUOI 2019)</i>, Skopje, North Macedonia.<br />
+      in Informatics (IBUOI 2019)</i>, Skopje, North Macedonia.<br>
       <small>Representative for Belgium at the International Balkan University
       Olympiad in Informatics, that is, accompanying the four
       Belgian contestants.</small></li>
       <li><b>Representative for the Scientific Staff of the Université
-      catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgium.<br />
+      catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgium.<br>
       <small>- 2012–2013 (1 year), Vice-President for the Science and
       Technology Sector of the Scientific Staff of the Université catholique de
-      Louvain (CORSCI).<br />
+      Louvain (CORSCI).<br>
       - 2010–2013 (3 years), President and 2013–2014 (1 year), Member of the
       Association of the scientific staff of the Louvain School of Engineering
-      (ACSEP).<br />
+      (ACSEP).<br>
       - 2010–2012 (2 years), Vice-President for External Matters and 2012–2013
       (1 year), President and 2013–2014 (1 year), Vice-President for Internal
       Matters of the Association of the Scientific staff of the ICT,
       Electronics and Applied Mathematics Institute (AsCII).</small></li>
       <li><b>Member of the MOOCs@UCLouvain Steering Committee</b>,
-      Louvain-la-Neuve, Belgium.<br />
+      Louvain-la-Neuve, Belgium.<br>
       <small>Member of the committee which is steering the MOOC phenomenon at
       Université catholique de Louvain and coordinating the LouvainX initiative
       (UCLouvain courses on the edX platform).</small></li>
       <li><b>Deputy Leader</b>, <i>22nd International Olympiad in Informatics
-      (IOI 2010)</i>, Waterloo, ON, Canada.<br />
+      (IOI 2010)</i>, Waterloo, ON, Canada.<br>
       <small>Representative for Belgium at the International Olympiad in
       Informatics, that is, accompanying the four Belgian
       contestants.</small></li>
@@ -763,7 +835,7 @@ language: en
     <h2>Projects</h2>
 
     <ul>
-      <li><b>Pythia</b> <small>(Jan. 2012–now)</small><br />
+      <li><b>Pythia</b> <small>(Jan. 2012–now)</small><br>
       <small>The Pythia project consists in developing an online learning
       platform for programming. The platform supports automatic correction of
       submitted programs, and generates intelligent feedbacks to support
@@ -771,18 +843,18 @@ language: en
       project also consists in creating a set of lessons meant to be used in
       secondary schools. The project is realised with CSITEd, EDITx and the ECAM
       Brussels Engineering School.</small></li>
-      <li><b>ILPADS</b> <small>(Jan. 2013–now)</small><br />
+      <li><b>ILPADS</b> <small>(Jan. 2013–now)</small><br>
       <small>The ILPADS project consists in developing an interactive online
       platform to develop programming and algorithm design skills. The platform
       is mainly targeted to secondary school pupils, but is meant to be used by
       people at large. The goal of the platform is to grow algorithmic thinking
       and then drive them to the learning of the Python programming language.
       The project is realised with CSITEd.</small></li>
-      <li><b>MCP</b> <small>(Mar. 2014–now)</small><br />
+      <li><b>MCP</b> <small>(Mar. 2014–now)</small><br>
       <small>The MCP project consists in developing a platform where
       contestants can set up a public profile with their performances on
       various contests in order to compare themselves with others.</small></li>
-      <li><b>METIER</b> <small>(Sep. 2011–Dec. 2011)</small><br />
+      <li><b>METIER</b> <small>(Sep. 2011–Dec. 2011)</small><br>
       <small>The METIER project consists in creating a new scheme to help
       bachelor students to succeed their first year at university. The project
       was about the development of a new course targeted to computer science
@@ -795,16 +867,16 @@ language: en
     <h2>Awards and recognitions</h2>
 
     <ul>
-      <li><b>« Sésames d'Agoria 2018 » Laureate</b>. <small>(2018)</small><br />
+      <li><b>« Sésames d'Agoria 2018 » Laureate</b>. <small>(2018)</small><br>
       <small>For the <i>« Digitalent »</i> project I worked on for CERDECAM with
       the Proximus Foundation.</small></li>
-      <li><b>Best paper</b>. <small>(2011)</small><br />
+      <li><b>Best paper</b>. <small>(2011)</small><br>
       <small>For the <i>« Learning System Abstractions for Human
       Operators »</i> paper submitted at the 2011 International Workshop on
       Machine Learning Technologies in Software Engineering conference
       (MALETS 2011).</small></li>
       <li><b>ACM 2010–2011 Student Chapter Excellence Award</b>.
-      <small>(2011)</small><br />
+      <small>(2011)</small><br>
       <small>Award received for the Outstanding Chapter Activities of the
       UCLouvain ACM Student Chapter.</small></li>
     </ul>
@@ -815,41 +887,41 @@ language: en
       <li><b>Marketing Digital</b>, <i>Google</i>.
       <small>(Jul. 2017–now)</small>
       <a href="/files/cv/combefis-google-atelier-digital-certificate-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
       <small>(Sep. 2015–now)</small>
       <a href="/files/cv/combefis-edX-DAT204x-2015.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>HTML5.1x Learn HTML5 from W3C</b>, <i>edX</i>.
       <small>(Jul. 2015–now)</small></li>
       <li><b>Louv1.2x Paradigms of Computer Programming – Abstraction and
       Concurrency</b>, <i>edX</i>. <small>(Jan. 2015–now)</small>
       <a href="/files/cv/combefis-edX-Louv1.2x-2015.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Louv1.1x Paradigms of Computer Programming – Fundamentals</b>,
       <i>edX</i>. <small>(Nov. 2014–now)</small>
       <a href="/files/cv/combefis-edX-Louv1.1x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>World101x Anthropology of Current World Issues</b>, <i>edX</i>.
       <small>(Oct. 2014–now)</small>
       <a href="/files/cv/combefis-edX-World101x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>ATOC185x Natural Disasters</b>, <i>edX</i>.
       <small>(Aug. 2015–now)</small>
       <a href="/files/cv/combefis-edX-ATOC185x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>AE1110x Introduction to Aeronautical Engineering</b>, <i>edX</i>.
       <small>(May 2014–now)</small>
       <a href="/files/cv/combefis-edX-AE1110x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>UT.9.01x Effective Thinking Through Mathematics</b>, <i>edX</i>.
       <small>(May 2014–now)</small>
       <a href="/files/cv/combefis-edX-UT.9.01x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Louv3.01x Découvrir la science politique</b>, <i>edX</i>.
       <small>(Apr. 2014–now)</small>
       <a href="/files/cv/combefis-edX-Louv1.03x-2014.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Functional Programming Principles in Scala</b>, <i>Coursera</i>.
       <small>(Nov. 2012–now)</small></li>
     </ul>
@@ -858,12 +930,12 @@ language: en
     <h2>Professional affiliations</h2>
 
     <ul>
-      <li><b>Association Internationale de Pédagogie Universitaire (AIPU)</b>,
-      <i>Member</i>. <small>(2013–now)</small></li>
       <li><b>Association for Computing Machinery (ACM)</b>, <i>Member</i>.
       <small>(2009–now)</small></li>
       <li><b>Institute of Electrical and Electronics Engineers (IEEE)</b>,
       <i>Member</i>. <small>(2009–now)</small></li>
+      <li><b>Association Internationale de Pédagogie Universitaire (AIPU)</b>,
+      <i>Member</i>. <small>(2013–2014)</small></li>
     </ul>
 
     <h3>Other</h3>
@@ -873,7 +945,8 @@ language: en
       <small>(2007–now)</small></li>
       <li><b>Mouvement Réformateur (MR)</b>, <i>Member</i>.
       <small>(2014–now)</small></li>
-      <li><b>Association des Habitants de Louvain-la-Neuve (AHLLN)</b>, <i>Member</i>.
+      <li><b>Association des Habitants de Louvain-la-Neuve (AHLLN)</b>,
+      <i>Member</i>.
       <small>(2018–now)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>,
       <i>Member</i>. <small>(2002)</small></li>
@@ -921,33 +994,33 @@ language: en
       <small>(11 Jul. 2013)</small>
       <a href="/files/media/combefis-IOI-reporter-july-2013.mp3">
       <img src="/images/sound.png" width="16" height="16"
-      alt="Sound" /></a></li>
+      alt="Sound"></a></li>
       <li>Interview by the newspaper <i>Le Soir</i> for CSITEd and the Bebras
       Contest. <small>(17 Apr. 2013)</small>
       <a href="/files/media/combefis-le-soir-april-2013.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li>Interview by the local television channel <i>TVCom</i> for the final
       of the first edition of the Belgian Olympiads in Informatics.
       <small>(14 May 2010)</small></li>
       <li>Interview by the specialised magasine <i>Data News</i> for the
       UCLouvain ACM Student Chapter. <small>(7 May 2010)</small>
       <a href="/files/media/combefis-datanews-may-2010.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li>Interview by the regional newspaper <i>Vers l'Avenir Brabant
       Wallon</i> for the Belgian Olympiads in Informatics.
       <small>(10 Mar. 2010)</small>
       <a href="/files/media/combefis-vers-l-avenir-march-2010.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/ucl-london.jpg" alt="London, UK, September 2009."
-    width="200" height="150" /><br />
+    width="200" height="150"><br>
     London, UK, September 2009.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
       <li><a href="/files/cv/combefis-CV-full-EN.pdf">Download CV <img
-      src="/images/pdf.png" width="16" height="16" alt="PDF" /></a></li>
+      src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
   </div>
 </div>

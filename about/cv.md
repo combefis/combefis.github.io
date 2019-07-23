@@ -515,6 +515,7 @@ language: en
       writing. It also explains how the internet works and provides an
       introduction to HTML, CSS and JavaScript and shows how to develop a
       simple website with the CherryPy web framework.</small></li>
+
       <li><b>B2160 – Projet informatique</b>, <i>Second year bachelor students
       in electronics and in computer science engineering</i>. <small>(2015–now,
       5 years)</small><br>
@@ -526,6 +527,7 @@ language: en
       trees, search algorithms and backtracking for artificial intelligence.
       Finally, it introduces to numerical methods with the Scipy ecosystem
       (Numpy, Scipy, Matplotlib and SymPy libraries).</small></li>
+
       <li><b>E3010 – Électronique numérique</b>, <i>Third year bachelor
       students in electronics and in computer science engineering</i>.
       <small>(2017–now, 2 years)</small><br>
@@ -534,6 +536,7 @@ language: en
       learn to program PIC microcontrollers and how to control timers,
       interruptions, etc. They are also introduced to Boolean algebra and how
       to minimise a logical function.</small></li>
+
       <li><b>E3040 – Projet informatique</b>, <i>Third year bachelor students
       in electronics and in computer science engineering</i>. <small>(2018–now,
       2 years)</small><br>
@@ -543,6 +546,7 @@ language: en
       the main ones and how to use them (stack, queue, deque, vector, list,
       sequence, tree, priority queue, map, hashtable and graph). The project
       has to be realised completely in English.</small></li>
+
       <li><b>I4020 – Architecture logicielle</b>, <i>First year master students
       in computer science engineering</i>. <small>(2014–now,
       5 years)</small><br>
@@ -551,6 +555,7 @@ language: en
       the organisation of software components. It also teaches all the steps
       required to develop a large software with a particular attention to
       versioning, automated testing, and deployment.</small></li>
+
       <li><b>I4030 – Technologie des ordinateurs et systèmes
       d'exploitation</b>, <i>First year master students in electronics and in
       computer science engineering</i>. <small>(2014–now, 5 years)</small><br>
@@ -559,6 +564,7 @@ language: en
       also presents how it can be operated with an operating system and its
       components (processes and threads, scheduling, deadlock, memory
       management, filesystem, mass storage, security...).</small></li>
+
       <li><b>I4040 – Base de données avancées</b>, <i>First year master
       students in computer science engineering</i>. <small>(2016–now,
       3 years)</small><br>
@@ -567,6 +573,7 @@ language: en
       also introduces to NoSQL and in particular to document-based databases
       and how to combine them with relational databases in
       applications.</small></li>
+
       <li><b>I4100 – Synthèse d'images</b>, <i>First year master students in
       computer science engineering</i>. <small>(2018–now, 2 years)</small><br>
       <small>This course presents parallel programming techniques that are used
@@ -574,6 +581,7 @@ language: en
       algorithm design and optimisation is also organised and students learn
       how to think about an innovating project and handle it with relevant
       algorithms.</small></li>
+
       <li><b>I5010 – Architecture distribuée</b>, <i>Second year master
       students in computer science engineering</i>. <small>(2018–now,
       2 years)</small><br>
@@ -581,6 +589,7 @@ language: en
       works. In particular, it covers three aspects of distributed
       architectures which are how to scale an application, how to virtualise
       one and finally how to manage databases clustering.</small></li>
+
       <li><b>I5020 – Sécurité des systèmes informatiques</b>, <i>Second year
       master students in computer science engineering</i>. <small>(2017–now,
       3 years)</small><br>
@@ -588,6 +597,7 @@ language: en
       at the hardware and the software levels. It also presents how to build
       and secure such systems and how to analyse and manage the risks that they
       are exposed to.</small></li>
+
       <li><b>O5040 – Séminaires professionnels</b>, <i>Second year master
       students in electronics and in computer science engineering</i>.
       <small>(2015–now, 5 years)</small><br>
@@ -596,6 +606,7 @@ language: en
       master thesis to share their experience. Students are also asked to
       attend external events they have to found by themselves and report about
       what they learned to the other students.</small></li>
+
       <li><b>I5080 – Artificial intelligence</b>, <i>Second year master
       students in electronics and in computer science engineering</i>.
       <small>(2018–now, 2 years)</small><br>
@@ -603,12 +614,14 @@ language: en
       particular it presents search and machine learning techniques and
       algorithms, and also presents how big data can be analysed to extract
       relevant information.</small></li>
+
       <li><b>21BA060 – Développement logiciel</b>, <i>First year master
       students in business analyst</i>. <small>(2018–now, 2 years)</small><br>
       <small>This course presents what is the object oriented (OO) programming
       paradigm and initiates students to it. The course focuses on the analysis
       of an OO design, to identify good practices and assess the quality of an
       OO architecture.</small></li>
+
       <li><b>22BA010 – Sécurité et architecture réseau</b>, <i>Second year
       master students in business analyst</i>. <small>(2018–now,
       1 year)</small><br>
@@ -616,26 +629,31 @@ language: en
       addition to network architecture, students are taught what are the main
       virtualisation techniques and how to secure an information system, on the
       hardware and software levels.</small></li>
+
       <li><b>B1070 – Projet intégrateur</b>, <i>First year bachelor students in
       engineering</i>. <small>(2016, 1 year)</small><br>
       <small>This course is a project where the students have to work on a
       multidisciplinary project by teams of six. For example, in 2016, they had
       to develop an automated distributor controlled by an Arduino and using an
       RFID tag.</small></li>
+
       <li><b>B1080 – Électricité et ses outils mathématiques</b>, <i>First year
       bachelor students in engineering</i>. <small>(2015, 1 year)</small><br>
       <small>This course is about electromagnetism and circuits theory. It also
       presents the necessary mathematical tools: functions with multiple
       variables, complex numbers, vectors, multiple integrals...</small></li>
+
       <li><b>E3020 – Électronique et programmation des systèmes embarqués</b>, 
       <i>Third year bachelor students in electronics and in computer science
       engineering</i>. <small>(2016–2019, 4 years)</small><br>
       <small>This course presents the three main components of an embedded
       system: energy management, an intelligent electronic unit and
       peripherals. The course presents how to build an embedded system through
-      the design and the construction of an IoT application, covering all the 
-      layers from the hardware to the cloud. In particular, it teaches how to
-      program embedded systems and connect them with other systems.</small></li>
+      the design and the construction of a robot application. In particular, it
+      teaches how to program embedded systems, namely the BeagleBone Black, and
+      the whole IoT chain around them, with high level programming languages
+      and cloud computing.</small></li>
+
       <li><b>M3090 – Techniques informatiques</b>, <i>Third year bachelor
       students in electromechanical engineering</i>. <small>(2014–2017,
       4 years)</small><br>
@@ -643,6 +661,7 @@ language: en
       application using modelisation (UML), simple databases and queries
       (Microsoft Access) and low level programming (C) and object oriented
       programming (C#).</small></li>
+
       <li><b>JA40I – Programmation distribuée</b>, <i>First year master
       students in electronics and in computer science engineering</i>.
       <small>(2015–2016, 2 years)</small><br>

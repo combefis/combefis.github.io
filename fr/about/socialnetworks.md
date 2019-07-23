@@ -21,8 +21,6 @@ language: fr
       <li><a href="https://www.twitter.com/scombefis">Twitter</a></li>
       <li><a href="https://www.linkedin.com/in/scombefis">
       LinkedIn</a></li>
-      <li><a href="https://plus.google.com/107874712274787517077">
-      Google+</a></li>
     </ul>
 
 
@@ -66,8 +64,8 @@ language: fr
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/eindhoven.jpg" alt="Eindhoven, Pays-Bas,
-    Novembre 2009." width="200" height="267" /><br />
-    Eindhoven, Pays-Bas,<br />
+    Novembre 2009." width="200" height="267"><br>
+    Eindhoven, Pays-Bas,<br>
     Novembre 2009.</p>
   </div>
 </div>

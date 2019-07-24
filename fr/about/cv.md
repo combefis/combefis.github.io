@@ -634,15 +634,16 @@ language: fr
       learning et des algorithmes et il explique également comment le big data
       peut être analysé pour extraire des informations pertinentes.</small></li>
 
-      <li><b>21BA060 – Développement logiciel</b>, <i>Première année de master 
-      business analyst</i>. <small>(2018–maintenant, 2 ans)</small><br>
+      <li><b>21BA060 – Conception et développement logiciel</b>, <i>Première
+      année de master  business analyst</i>. <small>(2018–maintenant,
+      2 ans)</small><br>
       <small>Ce cours présente ce qu'est le paradigme de programmation orienté
       objet (OO) et y initie les étudiants. Le cours met l'accent sur l'analyse
       d'un design OO, pour identifier les bonnes pratiques et déterminer la
       qualité d'une architecture OO.</small></li>
 
-      <li><b>22BA010 – Sécurité et architecture réseau</b>, <i>Deuxième année
-      de master business analyst</i>. <small>(2018–maintenant, 1 an)</small><br>
+      <li><b>22BA010 – Réseau et sécurité</b>, <i>Deuxième année de master
+      business analyst</i>. <small>(2018–maintenant, 1 an)</small><br>
       <small>Ce cours concerne les architectures des réseaux et la sécurité. En
       plus des architectures réseaux, les étudiants découvrent les principales
       techniques de virtualisation et comment sécuriser un système

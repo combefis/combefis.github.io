@@ -27,7 +27,7 @@ language: fr
       <li><a href="/files/ecam/nosql/ECAM-NoSQL4MIN-Information-Generale.pdf">
       Informations générales sur le cours <img src="/images/pdf.png"
       width="16" height="16" alt="PDF"></a></li>
-      <li>Grille de compétences à aquérir</li>
+      <li>Grille de compétences à acquérir</li>
     </ul>
 
 
@@ -74,7 +74,7 @@ language: fr
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small></li>
 
-      <li>Séance 9 : Mise en œuvre d'une base de données NoSQL
+      <li>Séance 9 : Déploiement d'une base de données NoSQL
       <small>(<a href="/files/ecam/nosql/ECAM-NoSQL4MIN-Cours9-Slides.pdf">
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small></li>
@@ -89,10 +89,10 @@ language: fr
     <h2>Pratique</h2>
 
     <ul>
-      <li>Travail : Mise en œuvre d'une base de données NoSQL
+      <li>Travail : Déploiement et utilisation d'une base de données NoSQL
       <small>(<a href="/files/ecam/nosql/ECAM-NoSQL4MIN-Travail.pdf">
       Énoncé <img src="/images/pdf.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      alt="PDF"></a> )</small></li>
     </ul>
 
 
@@ -144,10 +144,10 @@ language: fr
       <li>Rashid Zafar, Eiad Yafi, Megat F. Zuhairi et Hassan Dao. BigData: The
       NoSQL and RDBMS review. Dans <i>Actes de la 2016 International Conference
       on Information and Communication Technology</i> (ICICTM), 120-126, Kuala
-      Lumpur, Malaisie, Mai 2016</li>
+      Lumpur, Malaisie, Mai 2016.</li>
     </ul>
 
-    <h3>Recueil de moteurs de base de données NoSQL</h3>
+    <h3>Ressources en ligne</h3>
 
     <ul>
       <li><a href="http://nosql-database.org">NoSQL Databases: Your Ultimate
@@ -155,7 +155,7 @@ language: fr
       <li><a href="http://nosql.mypopescu.com/kb/nosql">NoSQL • myNoSQL</a>, 
       Alex Popescu et Ana-Maria Bacalu.</li>
       <li><a href="https://datafloq.com/big-data-open-source-tools/os-home/">
-      The Big Data Open Source Tools Landscape</a>, Datafloq, 30 septembre
+      The Big Data Open Source Tools Landscape</a>, Datafloq, 30 Septembre
       2014.</li>
     </ul>
   </div>
@@ -163,5 +163,15 @@ language: fr
     <p><img src="/images/torun.jpg" alt="Torún, Pologne, Juin
     2013." width="200" height="150"><br>
     Torún, Pologne, Juin 2013.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="/fr/teaching/ecam/algopti/">Algorithme et
+      optimisation</a></li>
+      <li><a href="/fr/teaching/ecam/nosql/">NoSQL</a></li>
+      <li><a href="/fr/teaching/ecam/c/">Programmation C</a></li>
+      <li><a href="/fr/teaching/ecam/python/">Programmation Python</a></li>
+      <li><a href="/fr/teaching/ecam/security/">Sécurité informatique</a></li>
+      <li><a href="/fr/teaching/ecam/virtualisation/">Virtualisation</a></li>
+    </ul>
   </div>
 </div>

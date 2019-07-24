@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computer Security
+title: Sécurité informatique
 permalink: /fr/teaching/ecam/security/
 path: /teaching/ecam/security/
 language: fr
@@ -26,75 +26,42 @@ language: fr
     <h2>Documents</h2>
 
     <ul>
-      <li><a href="/files/ecam/nosql/ECAM-Secu5MIN-Information-Generale.pdf">
-      Informations générales sur le cours <img src="/images/pdf.png"
-      width="16" height="16" alt="PDF"></a></li>
-      <li>Grille de compétences à aquérir</li>
+      <li>Informations générales sur le cours</li>
+      <li>Grille de compétences à acquérir</li>
     </ul>
 
 
     <h2>Théorie</h2>
 
     <ul>
-      <li>Séance 1 : Introduction à la sécurité informatique
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours1-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 1 : Introduction à la sécurité informatique</li>
 
-      <li>Séance 2 : Introduction à la cryptographie et chiffrement symétrique
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours2-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 2 : Introduction à la cryptographie et chiffrement
+      symétrique</li>
 
-      <li>Séance 3 : Fonction de hachage, chiffrement asymétrique et signature
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours3-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 3 : Fonction de hachage, chiffrement asymétrique et
+      signature</li>
 
-      <li>Séance 4 : Logiciel malveillant et protections
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours4-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 4 : Logiciel malveillant et protections</li>
 
-      <li>Séance 5 : Sécurité logicielle et des systèmes d'exploitation
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours5-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 5 : Sécurité logicielle et des systèmes d'exploitation</li>
 
-      <li>Séance 6 : Protection réseau : DoS, firewall et IDS
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours6-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 6 : Protection réseau : DoS, firewall et IDS</li>
 
-      <li>Séance 7 : Authentification et contrôle d'accès
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours7-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 7 : Authentification et contrôle d'accès</li>
 
-      <li>Séance 8 : Sécurité des bases de données, du cloud et de l'IoT
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours8-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 8 : Sécurité des bases de données, du cloud et de l'IoT</li>
 
-      <li>Séance 9 : Sécurité des réseaux
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours9-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 9 : Sécurité des réseaux</li>
 
-      <li>Séance 10 : Audit de sécurité
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Cours10-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li>Séance 10 : Audit de sécurité</li>
     </ul>
 
 
     <h2>Pratique</h2>
 
     <ul>
-      <li>Travail : Audit de sécurité d'un système informatique
-      <small>(<a href="/files/ecam/nosql/ECAM-Secu5MIN-Travail.pdf">
-      Énoncé <img src="/images/pdf.png" width="16" height="16"
-      alt="PDF"></a> )</small></li>
+      <li>Travail : Audit de sécurité d'un système informatique</li>
     </ul>
 
 
@@ -118,6 +85,9 @@ language: fr
       Security. Pearson. <small>(ISBN : 978-1-292-02540-7)</small></li>
       <li>Matt Bishop. (2018). Computer Security: Art and Science (2ème
       édition). Addison-Wesley. <small>(ISBN : 978-0-321-71233-2)</small></li>
+      <li>Douglas Stinson, Serge Vaudenay, Gildas Avoine et Pascal Junod.
+      (2003). Cryptographie : Théorie et pratique (2ème édition). Vuibert.
+      <small>(ISBN : 978-2-711-74800-6)</small></li>
       <li>Jonathan Katz et Yehuda Lindell. (2014). Introduction to Modern
       Cryptography (2ème édition). Chapman and Hall/CRC.
       <small>(ISBN : 978-1-466-57026-9)</small></li>
@@ -130,10 +100,10 @@ language: fr
       Protection, Access Control, Assurance and System Security. Dans
       <i>International Journal of Multimedia and Ubiquitous Engineering</i>,
       2(2):17-32, 2017.</li>
-      <li>Celia Paulsen et Robert Byers. Glossary of Key Information
-      Security Terms. Rapport technique NISTIR 7298, révision 3. NIST, Juillet
-      2019.</li>
-      <li>Butler W. Lampson. Computer Security in the Real World. Dans <i>Computer</i>, 37(6):37-46, 2004.</li>
+      <li>Celia Paulsen et Robert Byers. Glossary of Key Information Security
+      Terms. Rapport technique NISTIR 7298, révision 3. NIST, Juillet 2019.</li>
+      <li>Butler W. Lampson. Computer Security in the Real World. Dans
+      <i>Computer</i>, 37(6):37-46, 2004.</li>
     </ul>
 
     <h3>Ressources en ligne</h3>
@@ -151,5 +121,15 @@ language: fr
     <p><img src="/images/boston.jpg" alt="Boston, MA, USA, Juillet
     2019." width="200" height="150"><br>
     Boston, MA, USA, Juillet 2019.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="/fr/teaching/ecam/algopti/">Algorithme et
+      optimisation</a></li>
+      <li><a href="/fr/teaching/ecam/nosql/">NoSQL</a></li>
+      <li><a href="/fr/teaching/ecam/c/">Programmation C</a></li>
+      <li><a href="/fr/teaching/ecam/python/">Programmation Python</a></li>
+      <li><a href="/fr/teaching/ecam/security/">Sécurité informatique</a></li>
+      <li><a href="/fr/teaching/ecam/virtualisation/">Virtualisation</a></li>
+    </ul>
   </div>
 </div>

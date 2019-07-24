@@ -133,6 +133,7 @@ language: en
       <li><a href="/teaching/ecam/c/">C programming</a></li>
       <li><a href="/teaching/ecam/security/">Computer security</a></li>
       <li><a href="/teaching/ecam/nosql/">NoSQL</a></li>
+      <li><a href="/teaching/ecam/softarch/">Software architecture</a></li>
       <li><a href="/teaching/ecam/python/">Python programming</a></li>
       <li><a href="/teaching/ecam/virtualisation/">Virtualisation</a></li>
     </ul>

@@ -248,7 +248,8 @@ language: fr
       <tr>
         <td>2018–maintenant<br><small>(2 ans)</small></td>
         <td>
-          <b>Développement logiciel</b> <small>(6 ECTS, 70h)</small>
+          <b>21BA060 – Conception et développement logiciel</b> <small>(6 ECTS,
+          70h)</small>
           <ul>
             <li><small>Programmation orientée objet (42h)</small></li>
             <li><small>Qualité logicielle (14h)</small></li>
@@ -264,7 +265,7 @@ language: fr
       <tr>
         <td>2018–maintenant<br><small>(1 an)</small></td>
         <td>
-          <b>Sécurité et architecture réseau</b> <small>(6 ECTS, 72h)</small>
+          <b>22BA010 – Réseau et sécurité</b> <small>(6 ECTS, 72h)</small>
           <ul>
             <li><small>Virtualisation (7h)</small></li>
             <li><small>Sécurité physique et logicielle (7h)</small></li>

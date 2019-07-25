@@ -33,17 +33,17 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: Introduction to C programming</li>
+      <li>Session 1: Introduction to C Programming</li>
 
-      <li>Session 2: Data memory representation</li>
+      <li>Session 2: Data Memory Representation</li>
 
-      <li>Session 3: Memory structure and pointer manipulation</li>
+      <li>Session 3: Memory Structure and Pointer Manipulation</li>
 
-      <li>Session 4: Program structure and standard library</li>
+      <li>Session 4: Program Structure and Standard Library</li>
 
-      <li>Session 5: Structuring data</li>
+      <li>Session 5: Structuring Data</li>
 
-      <li>Session 6: Reading and writing files</li>
+      <li>Session 6: Reading and Writing Files</li>
     </ul>
 
 

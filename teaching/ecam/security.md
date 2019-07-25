@@ -33,25 +33,25 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: Introduction to computer security</li>
+      <li>Session 1: Introduction to Computer Security</li>
 
-      <li>Session 2: Introduction to cryptography and symmetric encryption</li>
+      <li>Session 2: Introduction to Cryptography and Symmetric Encryption</li>
 
-      <li>Session 3: Hash function, asymmetric encryption and signature</li>
+      <li>Session 3: Hash Function, Asymmetric Encryption and Signature</li>
 
-      <li>Session 4: Malware and protection</li>
+      <li>Session 4: Malware and Protection</li>
 
-      <li>Session 5: Software and operating systems security</li>
+      <li>Session 5: Software and Operating Systems Security</li>
 
-      <li>Session 6: Network protections: DoS, firewall and IDS</li>
+      <li>Session 6: Network Protections: DoS, Firewall and IDS</li>
 
-      <li>Session 7: Authentication et access control</li>
+      <li>Session 7: Authentication et Access Control</li>
 
-      <li>Session 8: Database, cloud and IoT security</li>
+      <li>Session 8: Database, Cloud and IoT Security</li>
 
-      <li>Session 9: Network security</li>
+      <li>Session 9: Network Security</li>
 
-      <li>Session 10: Security audit</li>
+      <li>Session 10: Security Audit</li>
     </ul>
 
 

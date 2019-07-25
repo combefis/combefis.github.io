@@ -42,9 +42,9 @@ language: en
 
       <li>Session 5: Document-Oriented Model: CouchDB, MongoDB</li>
 
-      <li>Session 6: Interfacing with a NoSQL engine</li>
+      <li>Session 6: Interfacing with a NoSQL Engine</li>
 
-      <li>Session 7: Data consistency</li>
+      <li>Session 7: Data Consistency</li>
 
       <li>Session 8: Operations on Data with NoSQL</li>
 
@@ -59,6 +59,7 @@ language: en
     <ul>
       <li>Work: Deploying and using a NoSQL database</li>
     </ul>
+
 
     <h2>Resources</h2>
 

@@ -369,8 +369,14 @@ language: fr
     Big Basin, CA, USA, Juillet 2011.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
+      <li><a href="/fr/teaching/ecam/algopti/">Algorithme et
+      optimisation</a></li>
+      <li><a href="/fr/teaching/ecam/softarch/">Architecture logicielle</a></li>
       <li><a href="/fr/teaching/ecam/nosql/">NoSQL</a></li>
-      <li><a href="/fr/teaching/ecam/python/">Python</a></li>
+      <li><a href="/fr/teaching/ecam/c/">Programmation C</a></li>
+      <li><a href="/fr/teaching/ecam/python/">Programmation Python</a></li>
+      <li><a href="/fr/teaching/ecam/security/">Sécurité informatique</a></li>
+      <li><a href="/fr/teaching/ecam/virtualisation/">Virtualisation</a></li>
     </ul>
   </div>
 </div>

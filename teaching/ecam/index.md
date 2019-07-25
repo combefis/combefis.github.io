@@ -354,8 +354,13 @@ language: en
     Big Basin, CA, USA, July 2011.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
+      <li><a href="/teaching/ecam/algopti/">Algorithm and optimisation</a></li>
+      <li><a href="/teaching/ecam/c/">C programming</a></li>
+      <li><a href="/teaching/ecam/security/">Computer security</a></li>
       <li><a href="/teaching/ecam/nosql/">NoSQL</a></li>
-      <li><a href="/teaching/ecam/python/">Python</a></li>
+      <li><a href="/teaching/ecam/softarch/">Software architecture</a></li>
+      <li><a href="/teaching/ecam/python/">Python programming</a></li>
+      <li><a href="/teaching/ecam/virtualisation/">Virtualisation</a></li>
     </ul>
   </div>
 </div>

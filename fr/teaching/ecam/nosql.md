@@ -98,6 +98,13 @@ language: fr
 
     <h2>Ressources</h2>
 
+    <h3>Livre officiel</h3>
+
+    <ul>
+      <li>Sébastien Combéfis. (à paraitre). Découvrir NoSQL et s'initier au big
+      data et à l'analyse de données. UKO Publication.</li>
+    </ul>
+
     <h3>Livres de référence</h3>
 
     <ul>

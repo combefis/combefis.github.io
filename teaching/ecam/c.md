@@ -56,13 +56,20 @@ language: en
 
     <h2>Resources</h2>
 
+    <h3>Official book</h3>
+
+    <ul>
+      <li>Sébastien Combéfis. (to be published). Bases de la programmation et
+      découverte du langage C. UKO Publication.</li>
+    </ul>
+
     <h3>Reference books</h3>
 
     <ul>
       <li>Brian W. Kernighan. (1988). The C Programming Language (2nd
-      edition). Prentice Hall. <small>(ISBN : 978-0-131-10362-7)</small></li>
+      edition). Prentice Hall. <small>(ISBN: 978-0-131-10362-7)</small></li>
       <li>Peter Fenwick. (2018). Introduction to Computer Data Representation.
-      Bentham Science Publishers. <small>(ISBN : 978-1-608-05883-9)</small></li>
+      Bentham Science Publishers. <small>(ISBN: 978-1-608-05883-9)</small></li>
     </ul>
 
     <h3>Other books</h3>
@@ -70,11 +77,11 @@ language: en
     <ul>
       <li>Mark Siegesmund. (2014). Embedded C Programming: Techniques and
       Applications of C and PIC MCUS. Newnes.
-      <small>(ISBN : 978-0-128-01314-4)</small></li>
+      <small>(ISBN: 978-0-128-01314-4)</small></li>
       <li>Steve Oualline. (1997). Practical C Programming (3rd edition).
-      O'Reilly. <small>(ISBN : 978-1-565-92306-5)</small></li>
+      O'Reilly. <small>(ISBN: 978-1-565-92306-5)</small></li>
       <li>Stephen G. Kochan. (2014). Programming in C (4th edition).
-      Addison-Wesley. <small>(ISBN : 978-0-321-77641-9)</small></li>
+      Addison-Wesley. <small>(ISBN: 978-0-321-77641-9)</small></li>
     </ul>
 
     <h3>Scientific references</h3>

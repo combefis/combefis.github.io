@@ -57,6 +57,13 @@ language: fr
 
     <h2>Ressources</h2>
 
+    <h3>Livre officiel</h3>
+
+    <ul>
+      <li>Sébastien Combéfis. (à paraitre). Bases de la programmation et
+      découverte du langage C. UKO Publication.</li>
+    </ul>
+
     <h3>Livres de référence</h3>
 
     <ul>

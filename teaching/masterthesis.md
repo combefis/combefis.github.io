@@ -22,6 +22,7 @@ language: en
     that time. Reports that are not confidential can be downloaded on this
     page.</p>
 
+
     <h2>ECAM</h2>
 
     <ol class="publications-start">
@@ -37,10 +38,14 @@ language: en
       d'aide à la création de questions d'examens par des algorithmes de
       machine learning. <i>Master Thesis</i>. ECAM Brussels Engineering School,
       Belgium, June 2019.
+      <a href="/files/publi/kessels-master-thesis-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <br><small>Advisor: Dr Sébastien Combéfis (EDITx, Etterbeek).</small></li>
       <li>Amaury Lekens. Système de prédiction des niveaux de compétence IT de
       programmeurs par machine learning. <i>Master Thesis</i>. ECAM Brussels
       Engineering School, Belgium, June 2019.
+      <a href="/files/publi/lekens-master-thesis-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <br><small>Advisor: Dr Sébastien Combéfis (EDITx, Etterbeek).</small></li>
       <li>Tom Selleslagh. Réalisation d'une architecture IoT distribuée
       autonome basée sur les concepts de micro-services. <i>Master

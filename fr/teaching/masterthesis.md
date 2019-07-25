@@ -21,6 +21,7 @@ language: fr
     sur lesquels je travaillais à ce moment. Les rapports qui ne sont pas
     confidentiels peuvent être téléchargés sur cette page.</p>
 
+
     <h2>ECAM</h2>
 
     <ol class="publications-start">
@@ -36,11 +37,15 @@ language: fr
       d'aide à la création de questions d'examens par des algorithmes de
       machine learning. <i>Mémoire de master</i>. ECAM Brussels Engineering
       School, Belgique, Juin 2019.
+      <a href="/files/publi/kessels-master-thesis-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <br><small>Promoteur : Dr Sébastien Combéfis (EDITx,
       Etterbeek).</small></li>
       <li>Amaury Lekens. Système de prédiction des niveaux de compétence IT de
       programmeurs par machine learning. <i>Mémoire de master</i>. ECAM Brussels
       Engineering School, Belgique, Juin 2019.
+      <a href="/files/publi/lekens-master-thesis-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <br><small>Promoteur : Dr Sébastien Combéfis (EDITx,
       Etterbeek).</small></li>
       <li>Tom Selleslagh. Réalisation d'une architecture IoT distribuée
@@ -88,6 +93,7 @@ language: fr
       Brussels Engineering School, Belgique, Juin 2016.<br>
       <small>Promoteur : Ir. Serge Wautier (eWon, Nivelles).</small></li>
     </ol>
+
 
     <h2>UCLouvain</h2>
 

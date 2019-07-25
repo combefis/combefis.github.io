@@ -40,65 +40,65 @@ language: en
     <h3>B103B Programmation</h3>
 
     <ul>
-      <li>Session 1: Introduction to Python programming</li>
+      <li>Session 1: Introduction to Python Programming</li>
 
-      <li>Session 2: Flow control</li>
+      <li>Session 2: Flow Control</li>
 
-      <li>Session 3: String and function</li>
+      <li>Session 3: String and Function</li>
 
-      <li>Session 4: Function and list</li>
+      <li>Session 4: Function and List</li>
 
-      <li>Session 5: Abstract data type and algorithm</li>
+      <li>Session 5: Abstract Data Type and Algorithm</li>
     </ul>
 
     <h3>B201A Concepts informatiques</h3>
 
     <ul>
-      <li>Session 1: Set, dictionary and database</li>
+      <li>Session 1: Set, Dictionary and Database</li>
 
-      <li>Session 2: Tuple and object</li>
+      <li>Session 2: Tuple and Object</li>
 
-      <li>Session 3: Class and object</li>
+      <li>Session 3: Class and Object</li>
 
-      <li>Session 4: Graphical interface and events</li>
+      <li>Session 4: Graphical Interface and Events</li>
 
-      <li>Session 5: Error handling and exception mechanism</li>
+      <li>Session 5: Error Handling and Exception Mechanism</li>
 
-      <li>Session 6: Reading and writing files</li>
+      <li>Session 6: Reading and Writing Files</li>
 
-      <li>Session 7: Web langages: HTML, CSS and JavaScript</li>
+      <li>Session 7: Web Langages: HTML, CSS and JavaScript</li>
 
-      <li>Session 8: How does the internet work?</li>
+      <li>Session 8: How does the Internet Work?</li>
 
-      <li>Session 9: Web development with Python</li>
+      <li>Session 9: Web Development with Python</li>
 
-      <li>Session 10: Code quality and coding convention</li>
+      <li>Session 10: Code Quality and Coding Convention</li>
     </ul>
 
     <h3>B216A Développement informatique</h3>
 
     <ul>
-      <li>Session 1: Project management, versioning, debugging, testing and
-      profiling</li>
+      <li>Session 1: Project Management, Versioning, Debugging, Testing and
+      Profiling</li>
 
-      <li>Session 2: String and regular expression</li>
+      <li>Session 2: String and Regular Expression</li>
 
-      <li>Session 3: Network programming</li>
+      <li>Session 3: Network Programming</li>
 
-      <li>Session 4: Concurrent programming</li>
+      <li>Session 4: Concurrent Programming</li>
 
-      <li>Session 5: Functional programming, decorator and generator</li>
+      <li>Session 5: Functional Programming, Decorator and Generator</li>
 
-      <li>Session 6: Asynchronous programming and coroutine</li>
+      <li>Session 6: Asynchronous Programming and Coroutine</li>
 
-      <li>Session 7: Manipulation of CSV, XML, PDF... documents</li>
+      <li>Session 7: Manipulation of CSV, XML, PDF... Documents</li>
 
-      <li>Session 8: Algorithmic I: Recursion and tree</li>
+      <li>Session 8: Algorithmic I: Recursion and Tree</li>
 
-      <li>Session 9: Algorithmic II : Search techniques in artificial 
-      intelligence</li>
+      <li>Session 9: Algorithmic II : Search Techniques in Artificial
+      Intelligence</li>
 
-      <li>Session 10: Effective programming and pythonic style</li>
+      <li>Session 10: Effective Programming and Pythonic Style</li>
     </ul>
 
 

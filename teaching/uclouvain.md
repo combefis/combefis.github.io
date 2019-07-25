@@ -26,11 +26,11 @@ language: en
 
     <table>
       <colgroup>
-        <col style="width: 15%;"/>
-        <col style="width: 85%;"/>
+        <col style="width: 15%;">
+        <col style="width: 85%;">
       </colgroup>
       <tr>
-        <td>2015–2016<br /><small>(1 year)</small></td>
+        <td>2015–2016<br><small>(1 year)</small></td>
         <td>
           <b>LINGI2255 – Software Engineering Project</b>
           <p><small><i>This course, taught to students in first year of master
@@ -42,7 +42,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2014–2015<br /><small>(1 year)</small></td>
+        <td>2014–2015<br><small>(1 year)</small></td>
         <td>
           <b>LFSAB1401 – Informatique 1 / LSINF1101 – Introduction à la
           programmation</b>
@@ -61,11 +61,11 @@ language: en
 
     <table>
       <colgroup>
-        <col style="width: 15%;"/>
-        <col style="width: 85%;"/>
+        <col style="width: 15%;">
+        <col style="width: 85%;">
       </colgroup>
       <tr>
-        <td>2004–2011<br /><small>(8 years)</small></td>
+        <td>2004–2011<br><small>(8 years)</small></td>
         <td>
           <b>LFSAB1401 – Informatique 1</b>
           <p><small><i>This course, taught to students in first year of bachelor
@@ -77,7 +77,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2007–2011<br /><small>(5 years)</small></td>
+        <td>2007–2011<br><small>(5 years)</small></td>
         <td>
           <b>LSINF1160 – Introduction à l'Algorithmique et Programmation,
           partie 1</b>
@@ -89,7 +89,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2008,<br />2010–2011<br /><small>(3 years)</small></td>
+        <td>2008,<br>2010–2011<br><small>(3 years)</small></td>
         <td>
           <b>LINGI2143 – Concurrent Systems: Models and Analysis</b>
           <p><small><i>This course, taught to students in first year of master
@@ -101,7 +101,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2008–2010<br /><small>(3 years)</small></td>
+        <td>2008–2010<br><small>(3 years)</small></td>
         <td>
           <b>LINGI2132 – Langages et Traducteurs</b>
           <p><small><i>This course, taught to students in first year of master
@@ -113,7 +113,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2007<br /><small>(1 year)</small></td>
+        <td>2007<br><small>(1 year)</small></td>
         <td>
           <b>LSINF1121 – Algorithmique et Structures de Données</b>
           <p><small><i>This course, taught to students in third year of
@@ -125,7 +125,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2007<br /><small>(1 year)</small></td>
+        <td>2007<br><small>(1 year)</small></td>
         <td>
           <b>LGBIO2010 – Bioinformatique</b>
           <p><small><i>This course, taught to students in first year of master
@@ -138,7 +138,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2012<br /><small>(1 year)</small></td>
+        <td>2012<br><small>(1 year)</small></td>
         <td>
           <b>LSINF1151 – Laboratoire; résolution informatique de problèmes</b>
           <p><small><i>This course, taught to students in first year of
@@ -151,7 +151,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2012<br /><small>(1 year)</small></td>
+        <td>2012<br><small>(1 year)</small></td>
         <td>
           <b>LSINF1101 – Introduction à la programmation</b>
           <p><small><i>This course, taught to students in first year of bachelor
@@ -163,7 +163,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2012<br /><small>(1 year)</small></td>
+        <td>2012<br><small>(1 year)</small></td>
         <td>
           <b>LSINF1102 – Résolution informatique de problèmes</b>
           <p><small><i>This course, taught to students in first year of bachelor
@@ -176,8 +176,8 @@ language: en
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/louvain-la-neuve.jpg" alt="Louvain-la-Neuve, Belgium,
-    September 2013." width="200" height="150" /><br />
-    Louvain-la-Neuve, Belgium,<br />
+    September 2013." width="200" height="150"><br>
+    Louvain-la-Neuve, Belgium,<br>
     September 2013.</p>
   </div>
 </div>

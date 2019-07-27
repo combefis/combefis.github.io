@@ -903,9 +903,13 @@ language: en
     <h3>Certifications</h3>
 
     <ul>
-      <li><b>Marketing Digital</b>, <i>Google</i>.
+      <li><b>Arduino Fundamentals</b>, <i>Arduino Education Team</i>.
+      <small>(Juil. 2019–now)</small>
+      <a href="/files/cv/combefis-arduino-fundamentals-2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><b>Fondamentaux du marketing numérique</b>, <i>Google</i>.
       <small>(Jul. 2017–now)</small>
-      <a href="/files/cv/combefis-google-atelier-digital-certificate-2017.pdf">
+      <a href="/files/cv/combefis-google-digital-marketing-2017.pdf">
       <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>DAT204x Introduction to R</b>, <i>edX</i>.
       <small>(Sep. 2015–now)</small>
@@ -995,7 +999,7 @@ language: en
     <ul>
       <li><b>Operating systems</b>, <i>macOS, Linux, Windows</i>.</li>
       <li><b>Programming</b>, <i>Java, C, Python, XHTML/CSS, Javascript, LaTeX,
-      Matlab, PHP, SQL, C#, R, Go, Shell, Visual Basic</i>.</li>
+      Matlab, PHP, SQL, C#, R, Go, Shell, Visual Basic, Arduino</i>.</li>
       <li><b>Libraries</b>, <i>jQuery, Node.js, MEAN.js</i>.</li>
       <li><b>Programming tools</b>, <i>Eclipse, Sublime Text,
       Gnuplot</i>.</li>

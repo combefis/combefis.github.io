@@ -15,7 +15,10 @@ language: fr
       TLCS: A Digital Library with Resources to Teach and Learn Computer
       Science. Dans <i>Olympiads in Informatics</i>, <b>13</b>:3-20, 2019.
       <a href="/files/publi/combefis-olympiads2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-olympiads2019-slides.pdf">
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
     </ol>
 
 

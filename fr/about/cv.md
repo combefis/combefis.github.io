@@ -355,6 +355,8 @@ language: fr
     <h3>Présentation à des conférences et workshops</h3>
 
     <ul>
+      <li><b>13ème IOI Conference</b>, Bakou, Azerbaïdjan.
+      <small>(6 Aout 2019)</small></li>
       <li><b>2ème Int'l Code Hunt Workshop on Educational Software
       Engineering</b> (CHESE 2016), Seattle, WA, USA. <small>(14 Nov.
       2016)</small></li>

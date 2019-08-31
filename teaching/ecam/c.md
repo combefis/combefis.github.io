@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C programming
+title: C Programming
 permalink: /teaching/ecam/c/
 path: /teaching/ecam/c/
 language: en
@@ -116,12 +116,16 @@ language: en
     Skopje, North Macedonia,<br>April 2019.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
-      <li><a href="/teaching/ecam/algopti/">Algorithm and optimisation</a></li>
-      <li><a href="/teaching/ecam/c/">C programming</a></li>
-      <li><a href="/teaching/ecam/security/">Computer security</a></li>
+      <li><a href="/teaching/ecam/algopti/">Algorithm and Optimisation</a></li>
+      <li><a href="/teaching/ecam/ai/">Artificial Intelligence</a></li>
+      <li><a href="/teaching/ecam/c/">C Programming</a></li>
+      <li><a href="/teaching/ecam/security/">Computer Security</a></li>
+      <li><a href="/teaching/ecam/datastruct/">Data Structure</a></li>
       <li><a href="/teaching/ecam/nosql/">NoSQL</a></li>
-      <li><a href="/teaching/ecam/softarch/">Software architecture</a></li>
-      <li><a href="/teaching/ecam/python/">Python programming</a></li>
+      <li><a href="/teaching/ecam/numcomp/">Numerical Computing</a></li>
+      <li><a href="/teaching/ecam/os/">Operating System</a></li>
+      <li><a href="/teaching/ecam/softarch/">Software Architecture</a></li>
+      <li><a href="/teaching/ecam/python/">Python Programming</a></li>
       <li><a href="/teaching/ecam/virtualisation/">Virtualisation</a></li>
     </ul>
   </div>

@@ -130,10 +130,14 @@ language: fr
       <li><a href="/fr/teaching/ecam/algopti/">Algorithme et
       optimisation</a></li>
       <li><a href="/fr/teaching/ecam/softarch/">Architecture logicielle</a></li>
+      <li><a href="/fr/teaching/ecam/numcomp/">Calcul numérique</a></li>
+      <li><a href="/fr/teaching/ecam/ai/">Intelligence artificielle</a></li>
       <li><a href="/fr/teaching/ecam/nosql/">NoSQL</a></li>
       <li><a href="/fr/teaching/ecam/c/">Programmation C</a></li>
       <li><a href="/fr/teaching/ecam/python/">Programmation Python</a></li>
       <li><a href="/fr/teaching/ecam/security/">Sécurité informatique</a></li>
+      <li><a href="/fr/teaching/ecam/datastruct/">Structure de donnée</a></li>
+      <li><a href="/fr/teaching/ecam/os/">Système d'exploitation</a></li>
       <li><a href="/fr/teaching/ecam/virtualisation/">Virtualisation</a></li>
     </ul>
   </div>

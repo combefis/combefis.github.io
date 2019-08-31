@@ -27,6 +27,10 @@ language: en
 
     <ul>
       <li>General information about the course</li>
+      <li>
+      <a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">
+      Competency Based Assessment <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
       <li>Grid of skills to acquire</li>
     </ul>
 

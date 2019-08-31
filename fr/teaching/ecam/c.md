@@ -18,7 +18,7 @@ language: fr
     base de programmation système.</p>
 
     <p>J'ai commencé à donner ce cours en 2017 et je suis actuellement en train
-    de le donner pour la troisième fois. Le cours est donné en français, mais
+    de le donner pour la troisième fois. Le cours est donné en anglais, mais
     tout le matériel est disponible en français et
     <a href="/teaching/ecam/c/">en anglais</a>.</p>
 
@@ -27,6 +27,10 @@ language: fr
 
     <ul>
       <li>Informations générales sur le cours</li>
+      <li>
+      <a href="/files/ecam/general/ECAM-Evaluation-Par-Competence-Slides.pdf">
+      Évaluation par les compétences <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
       <li>Grille de compétences à acquérir</li>
     </ul>
 

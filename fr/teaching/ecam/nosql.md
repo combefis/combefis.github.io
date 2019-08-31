@@ -27,6 +27,10 @@ language: fr
       <li><a href="/files/ecam/nosql/ECAM-NoSQL4MIN-Information-Generale.pdf">
       Informations générales sur le cours <img src="/images/pdf.png"
       width="16" height="16" alt="PDF"></a></li>
+      <li>
+      <a href="/files/ecam/general/ECAM-Evaluation-Par-Competence-Slides.pdf">
+      Évaluation par les compétences <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
       <li>Grille de compétences à acquérir</li>
     </ul>
 

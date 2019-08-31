@@ -17,7 +17,7 @@ language: en
     about system programming.</p>
 
     <p>I started to give this course in 2017 and I am currently giving it for
-    the third time. The course is taught in French, but all the material is
+    the third time. The course is taught in English, but all the material is
     available in English and <a href="/fr/teaching/ecam/c/">in
     French</a>.</p>
 
@@ -26,6 +26,10 @@ language: en
 
     <ul>
       <li>General information about the course</li>
+      <li>
+      <a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">
+      Competency Based Assessment <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
       <li>Grid of skills to acquire</li>
     </ul>
 

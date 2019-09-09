@@ -37,9 +37,15 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: Introduction to C Programming</li>
+      <li>Session 1: Introduction to C Programming
+      <small>(<a href="/files/ecam/c/ECAM-C3BE-Session1-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
-      <li>Session 2: Data Memory Representation</li>
+      <li>Session 2: Data Memory Representation
+      <small>(<a href="/files/ecam/c/ECAM-C3BE-Session2-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
       <li>Session 3: Memory Structure and Pointer Manipulation</li>
 

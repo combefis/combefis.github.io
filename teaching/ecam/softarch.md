@@ -38,15 +38,30 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: Architecture Models of Software Systems</li>
+      <li>Session 1: Architecture Models of Software Systems
+      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session1-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
-      <li>Session 2: Object-Oriented Design Patterns Application</li>
+      <li>Session 2: Object-Oriented Design Patterns Application
+      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session2-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
-      <li>Session 3: Bad Smells Elimination</li>
+      <li>Session 3: Bad Smells Elimination
+      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session3-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
-      <li>Session 4: Metric and Code Evaluation</li>
+      <li>Session 4: Metric and Code Evaluation
+      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session4-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
-      <li>Session 5: Programming Paradigms</li>
+      <li>Session 5: Programming Paradigms
+      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session5-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
       <li>Session 6: Software Design Patterns</li>
 

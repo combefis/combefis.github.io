@@ -36,7 +36,10 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: NoSQL vs SQL: History and Evolution</li>
+      <li>Session 1: NoSQL vs SQL: History and Evolution
+      <small>(<a href="/files/ecam/nosql/ECAM-NoSQL4MIN-Session1-Slides.pdf">
+      Slides <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a> )</small></li>
 
       <li>Session 2: Key-Value Model: Riak, Memcached, Redis</li>
 

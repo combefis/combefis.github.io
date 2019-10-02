@@ -31,39 +31,41 @@ language: en
       <a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">
       Competency Based Assessment <img src="/images/pdf.png" width="16"
       height="16" alt="PDF"></a></li>
-      <li>Grid of skills to acquire</li>
+      <li>
+      <a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Competencies-List.pdf">
+      Grid of skills to acquire <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
     </ul>
 
 
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: Architecture Models of Software Systems
-      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session1-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session1-Slides.pdf">
+      Session 1: Architecture Models of Software Systems
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 2: Object-Oriented Design Patterns Application
-      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session2-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session2-Slides.pdf">
+      Session 2: Object-Oriented Design Patterns Application
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 3: Bad Smells Elimination
-      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session3-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session3-Slides.pdf">
+      Session 3: Bad Smells Elimination <img src="/images/slides.png"
+      width="16" height="16" alt="Slides"></a></li>
 
-      <li>Session 4: Metric and Code Evaluation
-      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session4-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session4-Slides.pdf">
+      Session 4: Metric and Code Evaluation <img src="/images/slides.png"
+      width="16" height="16" alt="Slides"></a></li>
 
-      <li>Session 5: Programming Paradigms
-      <small>(<a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session5-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session5-Slides.pdf">
+      Session 5: Programming Paradigms <img src="/images/slides.png" width="16"
+      height="16" alt="Slides"></a></li>
 
-      <li>Session 6: Software Design Patterns</li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session6-Slides.pdf">
+      Session 6: Software Design Patterns <img src="/images/slides.png"
+      width="16" height="16" alt="Slides"></a></li>
 
       <li>Session 7: Interaction-Oriented Architecture</li>
 
@@ -88,6 +90,9 @@ language: en
     <h2>Practice</h2>
 
     <ul>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Quizz1.pdf">Quizz 1:
+      Software architecture and quality <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
       <li>Work: Discovering and analysing a design pattern</li>
       <li>Work: Discovering and analysing the architecture of an open source
       project</li>

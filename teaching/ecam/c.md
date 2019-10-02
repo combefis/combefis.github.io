@@ -39,17 +39,17 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: Introduction to C Programming
-      <small>(<a href="/files/ecam/c/ECAM-C3BE-Session1-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li><a href="/files/ecam/c/ECAM-C3BE-Session1-Slides.pdf">Session 1:
+      Introduction to C Programming <img src="/images/slides.png" width="16"
+      height="16" alt="Slides"></a></li>
 
-      <li>Session 2: Data Memory Representation
-      <small>(<a href="/files/ecam/c/ECAM-C3BE-Session2-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+      <li><a href="/files/ecam/c/ECAM-C3BE-Session2-Slides.pdf">Session 2: Data
+      Memory Representation <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 3: Memory Structure and Pointer Manipulation</li>
+      <li><a href="/files/ecam/c/ECAM-C3BE-Session3-Slides.pdf">Session 3:
+      Memory Structure and Pointer Manipulation <img src="/images/slides.png"
+      width="16" height="16" alt="Slides"></a></li>
 
       <li>Session 4: Program Structure and Standard Library</li>
 
@@ -62,6 +62,12 @@ language: en
     <h2>Practice</h2>
 
     <ul>
+      <li><a href="/files/ecam/c/ECAM-C3BE-Quizz1.pdf">Quizz 1: Number
+      representation <img src="/images/pdf.png" width="16" height="16"
+      alt="PDF"></a></li>
+      <li><a href="/files/ecam/c/ECAM-C3BE-Coding1.pdf">Coding 1: Simple
+      console output pattern <img src="/images/pdf.png" width="16" height="16"
+      alt="PDF"></a></li>
       <li>Work: Creating a game in console mode with C</li>
     </ul>
 

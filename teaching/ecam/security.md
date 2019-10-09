@@ -37,7 +37,10 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: Introduction to Computer Security</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session1-Slides.pdf">
+      Session 1: Introduction to Computer Security
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
       <li>Session 2: Introduction to Cryptography and Symmetric Encryption</li>
 

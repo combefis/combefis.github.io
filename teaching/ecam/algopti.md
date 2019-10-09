@@ -37,9 +37,14 @@ language: en
     <h2>Theory</h2>
 
     <ul>
-      <li>Session 1: From Problem to Solution with Algorithm and Program</li>
+      <li><a href="/files/ecam/algopti/ECAM-AlgoOpti4MIN-Session1-Slides.pdf">
+      Session 1: From Problem to Solution with Algorithm and Program
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 2: Problem Modelling and Solving</li>
+      <li><a href="/files/ecam/algopti/ECAM-AlgoOpti4MIN-Session2-Slides.pdf">
+      Session 2: Problem Modelling and Solving <img src="/images/slides.png"
+      width="16" height="16" alt="Slides"></a></li>
 
       <li>Session 3: Algorithm Design Paradigms</li>
 

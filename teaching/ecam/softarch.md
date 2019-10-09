@@ -93,6 +93,9 @@ language: en
       <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Quizz1.pdf">Quizz 1:
       Software architecture and quality <img src="/images/pdf.png" width="16"
       height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Quizz2.pdf">Quizz 2:
+      Software metric <img src="/images/pdf.png" width="16" height="16"
+      alt="PDF"></a></li>
       <li>Work: Discovering and analysing a design pattern</li>
       <li>Work: Discovering and analysing the architecture of an open source
       project</li>

@@ -143,6 +143,11 @@ language: en
     <h3>Trainings</h3>
 
     <ul>
+      <li><b>Entrepreneur Coach Training</b>, <i>EDUCA</i>, Brussels,
+      Belgium. <small>(Fall 2019)</small><br>
+      <small>Ten half-days of training on entrepreneurial coaching, the
+      entrepreneur and the team, financial aspects, marketing and sales, and
+      business models.</small></li>
       <li><b>Security Fundamentals</b>, <i>Technobel</i>, Ciney, Belgium.
       <small>(6–7 Jun. 2016)</small><br>
       <small>Training about IT security to understand threats and
@@ -271,6 +276,11 @@ language: en
     <h3>Presentations</h3>
 
     <ul>
+      <li>Pablo Nicaise, François Wyngaerden, Hélène Garin, Sébastien d'Oreye de
+      Lantremange, Sébastien Combéfis, Vincent Lorant. Does the Structure of
+      the Personal Networks of Patients with Severe Mental Illness Differ from
+      the Common Types Found in the General Population?. At <i>4th European
+      Conference on Social Networks</i>, September 2019.</li>
       <li>Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Hélène Garin,
       François Wyngaerden, Pablo Nicaise, Vincent Lorant. A Generic and
       Flexible Analysis Framework to Categorise Social Support Networks. At
@@ -347,6 +357,8 @@ language: en
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>Ludovia#BE 2019</b>, Spa, Belgium.
+      <small>(29–31 Oct. 2019)</small></li>
       <li><b>13th IOI Conference</b>, Baku, Azerbaijan.
       <small>(6 Aug. 2019)</small></li>
       <li><b>2nd Int'l Code Hunt Workshop on Educational Software

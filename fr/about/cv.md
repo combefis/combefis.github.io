@@ -151,6 +151,11 @@ language: fr
     <h3>Formations</h3>
 
     <ul>
+      <li><b>Formation Coach d'entrepreneurs</b>, <i>EDUCA</i>, Bruxelles,
+      Belgique. <small>(Automne 2019)</small><br>
+      <small>Dix demi-journées de formation sur le coaching entrepreunerial,
+      l'entrepreneur et l'équipe, les aspects financiers, le marketing et la
+      vente et les modèles entrepreuneriaux.</small></li>
       <li><b>Security Fundamentals</b>, <i>Technobel</i>, Ciney, Belgique.
       <small>(6–7 Juin 2016)</small><br>
       <small>Formation sur la sécurité IT pour comprendre les menaces et
@@ -279,10 +284,15 @@ language: fr
     <h3>Présentations</h3>
 
     <ul>
+      <li>Pablo Nicaise, François Wyngaerden, Hélène Garin, Sébastien d'Oreye de
+      Lantremange, Sébastien Combéfis, Vincent Lorant. Does the Structure of
+      the Personal Networks of Patients with Severe Mental Illness Differ from
+      the Common Types Found in the General Population?. Lors de la <i>4th
+      European Conference on Social Networks</i>, Septembre 2019.</li>
       <li>Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Hélène Garin,
       François Wyngaerden, Pablo Nicaise, Vincent Lorant. A Generic and
       Flexible Analysis Framework to Categorise Social Support Networks. Lors
-      de la <i>XXXIX Sunbelt Social Networks Conference</i>, June 2019.</li>
+      de la <i>XXXIX Sunbelt Social Networks Conference</i>, Juin 2019.</li>
       <li>Sébastien Combéfis, Corentin Vande Kerckhove, Peter Van Roy.
       Transforming a University Course into a Two-public Sustainable MOOC. Lors
       du <i>HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies</i>,
@@ -355,6 +365,8 @@ language: fr
     <h3>Présentation à des conférences et workshops</h3>
 
     <ul>
+      <li><b>Ludovia#BE 2019</b>, Spa, Belgique.
+      <small>(29–31 Oct. 2019)</small></li>
       <li><b>13ème IOI Conference</b>, Bakou, Azerbaïdjan.
       <small>(6 Aout 2019)</small></li>
       <li><b>2ème Int'l Code Hunt Workshop on Educational Software

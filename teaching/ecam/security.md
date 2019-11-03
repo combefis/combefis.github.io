@@ -30,7 +30,9 @@ language: en
       <a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">
       Competency Based Assessment <img src="/images/pdf.png" width="16"
       height="16" alt="PDF"></a></li>
-      <li>Grid of skills to acquire</li>
+      <a href="/files/ecam/security/ECAM-Secu5MIN-Competencies-List.pdf">
+      Grid of skills to acquire <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
     </ul>
 
 
@@ -42,7 +44,10 @@ language: en
       <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a></li>
 
-      <li>Session 2: Introduction to Cryptography and Symmetric Encryption</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session2-Slides.pdf">
+      Session 2: Introduction to Cryptography and Symmetric Encryption
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
       <li>Session 3: Hash Function, Asymmetric Encryption and Signature</li>
 

@@ -71,6 +71,9 @@ language: en
       <li><a href="/files/ecam/c/ECAM-C3BE-Quizz3.pdf">Quizz 3: Memory and
       introduction to pointer <img src="/images/pdf.png" width="16" height="16"
       alt="PDF"></a></li>
+      <li><a href="/files/ecam/c/ECAM-C3BE-Quizz4.pdf">Quizz 4: Memory and
+      pointer arithmetic <img src="/images/pdf.png" width="16" height="16"
+      alt="PDF"></a></li>
       <li><a href="/files/ecam/c/ECAM-C3BE-Coding1.pdf">Coding 1: Simple
       console output pattern <img src="/images/pdf.png" width="16" height="16"
       alt="PDF"></a></li>

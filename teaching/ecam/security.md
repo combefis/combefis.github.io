@@ -30,7 +30,7 @@ language: en
       <a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">
       Competency Based Assessment <img src="/images/pdf.png" width="16"
       height="16" alt="PDF"></a></li>
-      <a href="/files/ecam/security/ECAM-Secu5MIN-Competencies-List.pdf">
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Competencies-List.pdf">
       Grid of skills to acquire <img src="/images/pdf.png" width="16"
       height="16" alt="PDF"></a></li>
     </ul>

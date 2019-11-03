@@ -41,9 +41,15 @@ language: en
       <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a></li>
 
-      <li>Session 2: Key-Value Model: Riak, Memcached, Redis</li>
+      <li><a href="/files/ecam/nosql/ECAM-NoSQL4MIN-Session2-Slides.pdf">
+      Session 2: Key-Value Model: Riak, Memcached, Redis
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 3: Column-Oriented Model: Cassandra, HBase</li>
+      <li><a href="/files/ecam/nosql/ECAM-NoSQL4MIN-Session3-Slides.pdf">
+      Session 3: Column-Oriented Model: Cassandra, HBase
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
       <li>Session 4: Graph-Oriented Model: Neo4j, OrientDB</li>
 

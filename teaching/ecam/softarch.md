@@ -67,9 +67,13 @@ language: en
       Session 6: Software Design Patterns <img src="/images/slides.png"
       width="16" height="16" alt="Slides"></a></li>
 
-      <li>Session 7: Interaction-Oriented Architecture</li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session7-Slides.pdf">
+      Session 7: Interaction-Oriented Architecture <img src="/images/slides.png"
+      width="16" height="16" alt="Slides"></a></li>
 
-      <li>Session 8: Distributed Architecture</li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Session8-Slides.pdf">
+      Session 8: Distributed Architecture <img src="/images/slides.png"
+      width="16" height="16" alt="Slides"></a></li>
 
       <li>Session 9: Service-Oriented Architecture</li>
 
@@ -95,6 +99,9 @@ language: en
       height="16" alt="PDF"></a></li>
       <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Quizz2.pdf">Quizz 2:
       Software metric <img src="/images/pdf.png" width="16" height="16"
+      alt="PDF"></a></li>
+      <li><a href="/files/ecam/softarch/ECAM-SoftArch4MIN-Quizz3.pdf">Quizz 3:
+      Metric and refactoring <img src="/images/pdf.png" width="16" height="16"
       alt="PDF"></a></li>
       <li>Work: Discovering and analysing a design pattern</li>
       <li>Work: Discovering and analysing the architecture of an open source

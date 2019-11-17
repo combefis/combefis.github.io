@@ -36,7 +36,9 @@ language: en
       <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>,
       Louvain-la-Neuve, Belgium. <small>(Sep. 2014 – Sep. 2016)</small><br>
       <small>Invited lecturer for the programming course for first year
-      bachelor students in engineering and in computer science.</small></li>
+      bachelor students in engineering and in computer science and for the
+      software engineering project for first year master students in computer
+      science engineering and computer science.</small></li>
       <li><b>Research Assistant</b>, <i>Université catholique de Louvain</i>,
       Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
       <small>Research assistant for the ICT, Electronics and Applied
@@ -212,6 +214,15 @@ language: en
     <h3>Conference papers (peer-reviewed)</h3>
 
     <ul>
+      <li>Sébastien Combéfis, Guillaume de Moffarts. Automated Generation of
+      Computer Generation of Computer Graded Unit Testing-Based Programming
+      Assessments for Education. In <i>Proceedings of the 6th International
+      Conference on Computer Science, Engineering and Information
+      Technology</i>, November 2019.</li>
+      <li>Sébastien Combéfis, Guillaume de Moffarts. Learning Computer Science
+      at a Fair with an Escape Game. In <i>Proceedings of the 12th International
+      Conference on Informatics in Schools: Situation, Evolution and
+      Perspectives</i>, November 2019.</li>
       <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
       Identification with Code Plagiarism-Based Clustering. In <i>Proceedings
       of the 2nd Int'l Code Hunt Workshop on Educational Software
@@ -357,6 +368,12 @@ language: en
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>6th International Conference on Computer Science, Engineering and
+      Information Technology</b> (CSEIT 2019), Zurich, Switzerland.
+      <small>(23–24 Nov. 2019)</small></li>
+      <li><b>12th International Conference on Informatics in Schools:
+      Situation, Evolution and Perspectives</b> (ISSEP 2019), Larnaca, Cyprus.
+      <small>(18–20 Nov. 2019)</small></li>
       <li><b>Ludovia#BE 2019</b>, Spa, Belgium.
       <small>(29–31 Oct. 2019)</small></li>
       <li><b>13th IOI Conference</b>, Baku, Azerbaijan.
@@ -978,13 +995,13 @@ language: en
     <h3>Other</h3>
 
     <ul>
-      <li><b>Alumni Ingénieurs Louvain (AILouvain)</b>, <i>Member</i>.
-      <small>(2007–now)</small></li>
-      <li><b>Mouvement Réformateur (MR)</b>, <i>Member</i>.
-      <small>(2014–now)</small></li>
       <li><b>Association des Habitants de Louvain-la-Neuve (AHLLN)</b>,
       <i>Member</i>.
       <small>(2018–now)</small></li>
+      <li><b>Mouvement Réformateur (MR)</b>, <i>Member</i>.
+      <small>(2014–now)</small></li>
+      <li><b>Alumni Ingénieurs Louvain (AILouvain)</b>, <i>Member</i>.
+      <small>(2007–now)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>,
       <i>Member</i>. <small>(2002)</small></li>
     </ul>

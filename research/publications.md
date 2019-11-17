@@ -11,6 +11,24 @@ language: en
     <h2>2019</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis, Guillaume de Moffarts. Automated Generation of
+      Computer Generation of Computer Graded Unit Testing-Based Programming
+      Assessments for Education. In <i>Proceedings of the 6th International
+      Conference on Computer Science, Engineering and Information
+      Technology</i>, 91-100, Zurich, Switzerland, November 2019.
+      <a href="/files/publi/combefis-cseit2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+
+      <li>Sébastien Combéfis, Guillaume de Moffarts. Learning Computer Science
+      at a Fair with an Escape Game. In <i>Proceedings of the 12th International
+      Conference on Informatics in Schools: Situation, Evolution and
+      Perspectives</i>, 93-95, Larnaca, Cyprus, November 2019.
+      <a href="/files/publi/combefis-issep2019.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-issep2019-poster.pdf">
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Poster"></a></li>
+
       <li>Sébastien Combéfis, Guillaume de Moffarts, Mile Jovanov.
       TLCS: A Digital Library with Resources to Teach and Learn Computer
       Science. In <i>Olympiads in Informatics</i>, <b>13</b>:3-20, 2019.

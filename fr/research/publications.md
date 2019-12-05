@@ -17,7 +17,10 @@ language: fr
       on Computer Science, Engineering and Information Technology</i>, 91-100,
       Zurich, Suisse, Novembre 2019.
       <a href="/files/publi/combefis-cseit2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-cseit2019-slides.pdf">
+      <img src="/images/slides.png" width="16" height="16" 
+      alt="Slides"></a></li>
 
       <li>Sébastien Combéfis, Guillaume de Moffarts. Learning Computer Science
       at a Fair with an Escape Game. Dans <i>Actes du 12ème International

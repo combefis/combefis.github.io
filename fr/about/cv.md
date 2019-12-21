@@ -229,7 +229,7 @@ language: fr
       on Computer Science, Engineering and Information Technology</i>, Novembre
       2019.</li>
       <li>Sébastien Combéfis, Guillaume de Moffarts. Learning Computer Science
-      at a Fair with an Escape Game. Dans <i>Actes du 12ème International
+      at a Fair with an Escape Game. Dans <i>Actes locaux du 12ème International
       Conference on Informatics in Schools: Situation, Evolution and
       Perspectives</i>, Novembre 2019.</li>
       <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
@@ -376,6 +376,8 @@ language: fr
     <h3>Présentation à des conférences et workshops</h3>
 
     <ul>
+      <li><b>1er Global Forum for Education and Learning</b> (GFEL 2019),
+      Dubaï, Émirats arabes unis. <small>(16–18 Déc. 2019)</small></li>
       <li><b>6ème International Conference on Computer Science, Engineering and
       Information Technology</b> (CSEIT 2019), Zurich, Suisse.
       <small>(23–24 Nov. 2019)</small></li>
@@ -942,6 +944,10 @@ language: fr
     <h2>Prix et reconnaissances</h2>
 
     <ul>
+      <li><b>Top 100 Leaders en Éducation</b>. <small>(2019)</small><br>
+      <small>Présenté à Sébastien Combéfis <i>« en reconnaissance de sa
+      contribution au domaine de l'éducation »</i> au 1er Global Forum for
+      Education and Learning (GFEL 2019).</small></li>
       <li><b>Lauréat des « Sésames d'Agoria 2018 »</b>.
       <small>(2018)</small><br>
       <small>Pour le projet <i>« Digitalent »</i> sur lequel j'ai travaillé

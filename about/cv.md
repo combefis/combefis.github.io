@@ -220,9 +220,9 @@ language: en
       Conference on Computer Science, Engineering and Information
       Technology</i>, November 2019.</li>
       <li>Sébastien Combéfis, Guillaume de Moffarts. Learning Computer Science
-      at a Fair with an Escape Game. In <i>Proceedings of the 12th International
-      Conference on Informatics in Schools: Situation, Evolution and
-      Perspectives</i>, November 2019.</li>
+      at a Fair with an Escape Game. In <i>local Proceedings of the 12th
+      International Conference on Informatics in Schools: Situation, Evolution
+      and Perspectives</i>, November 2019.</li>
       <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class
       Identification with Code Plagiarism-Based Clustering. In <i>Proceedings
       of the 2nd Int'l Code Hunt Workshop on Educational Software
@@ -368,6 +368,8 @@ language: en
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>1st Global Forum for Education and Learning</b> (GFEL 2019),
+      Dubai, United Arab Emirates. <small>(16–18 Dec. 2019)</small></li>
       <li><b>6th International Conference on Computer Science, Engineering and
       Information Technology</b> (CSEIT 2019), Zurich, Switzerland.
       <small>(23–24 Nov. 2019)</small></li>
@@ -917,6 +919,10 @@ language: en
     <h2>Awards and recognitions</h2>
 
     <ul>
+      <li><b>Top 100 Leaders in Education</b>. <small>(2019)</small><br>
+      <small>Presented to Sébastien Combéfis <i>« in recognition of his
+      contribution to the field of education »</i> at the 1st Global Forum for
+      Education and Learning (GFEL 2019).</small></li>
       <li><b>« Sésames d'Agoria 2018 » Laureate</b>. <small>(2018)</small><br>
       <small>For the <i>« Digitalent »</i> project I worked on for CERDECAM with
       the Proximus Foundation.</small></li>

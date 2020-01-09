@@ -28,8 +28,8 @@ language: en
       <li>General information about the course</li>
       <li>
       <a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">
-      Competency Based Assessment <img src="/images/pdf.png" width="16"
-      height="16" alt="PDF"></a></li>
+      Competency Based Assessment <img src="/images/slides.png" width="16"
+      height="16" alt="Slides"></a></li>
       <li><a href="/files/ecam/security/ECAM-Secu5MIN-Competencies-List.pdf">
       Grid of skills to acquire <img src="/images/pdf.png" width="16"
       height="16" alt="PDF"></a></li>
@@ -49,17 +49,35 @@ language: en
       <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a></li>
 
-      <li>Session 3: Hash Function, Asymmetric Encryption and Signature</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session3-Slides.pdf">
+      Session 3: Hash Function, Asymmetric Encryption and Signature
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 4: Malware and Protection</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session4-Slides.pdf">
+      Session 4: Malware and Protection
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 5: Software and Operating Systems Security</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session5-Slides.pdf">
+      Session 5: Software and Operating Systems Security
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 6: Network Protections: DoS, Firewall and IDS</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session6-Slides.pdf">
+      Session 6: Network Protections: DoS, Firewall and IDS
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 7: Authentication et Access Control</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session7-Slides.pdf">
+      Session 7: Authentication and Access Control
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
-      <li>Session 8: Database, Cloud and IoT Security</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Session8-Slides.pdf">
+      Session 8: Database, Cloud and IoT Security
+      <img src="/images/slides.png" width="16" height="16"
+      alt="Slides"></a></li>
 
       <li>Session 9: Network Security</li>
 
@@ -70,7 +88,54 @@ language: en
     <h2>Practice</h2>
 
     <ul>
-      <li>Work: Security audit of a computer system</li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Quizz1.pdf">Quizz 1:
+      Computer security principle <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Quizz2.pdf">Quizz 2:
+      Cryptography <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Quizz3.pdf">Quizz 3:
+      Security concepts and cryptographic tools <img src="/images/pdf.png"
+      width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Quizz4.pdf">Quizz 4:
+      Malware and protection <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Quizz5.pdf">Quizz 5:
+      Network protection <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Quizz6.pdf">Quizz 6:
+      User authentication <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Coding1.pdf">Coding 1:
+      HTTPS secure server <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Coding2.pdf">Coding 2:
+      Secure password storage <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Coding3.pdf">Coding 3:
+      Input validation <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Coding4.pdf">Coding 4:
+      SQL injection <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Coding5.pdf">Coding 5:
+      XSS attack <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Mission1.pdf">Mission 1:
+      Computer security principle <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Mission2.pdf">Mission 2:
+      Python cryptographic tools <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Mission3.pdf">Mission 3:
+      Bad website <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Mission4.pdf">Mission 4:
+      John the Ripper <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
+      <li><a href="/files/ecam/security/ECAM-Secu5MIN-Mission5.pdf">Mission 5:
+      Article news about IT security issue <img src="/images/pdf.png" width="16"
+      height="16" alt="PDF"></a></li>
     </ul>
 
 
@@ -118,12 +183,17 @@ language: en
     <h3>Online resources</h3>
 
     <ul>
-      <li><a href="https://haveibeenpwned.com/">Have I Been Pwned: Check if
+      <li><a href="https://haveibeenpwned.com">Have I Been Pwned: Check if
       your email has been compromised in a data breach</a>, Troy Hunt.</li>
-      <li><a href="https://www.sans.org/top25-software-errors/">CWE/SANS TOP 25
+      <li><a href="https://www.sans.org/top25-software-errors">CWE/SANS TOP 25
       Most Dangerous Software Errors</a>, SANS Institute, June 2011.</li>
       <li><a href="https://www.us-cert.gov/ncas/alerts">National Cyber
       Awareness System : Alerts</a>, CISA.</li>
+      <li><a href="https://cwe.mitre.org">Common Weakness Enumeration:
+      A Community-Developed List of Software Weakness Types</a>, Mitre.</li>
+      <li><a href="https://capec.mitre.org">Common Attack Pattern Enumeration
+      and Classification: A Community Resource for Identifying and
+      Understanding Attacks</a>, Mitre.</li>
     </ul>
   </div>
   <div class="page-col page-col-2">

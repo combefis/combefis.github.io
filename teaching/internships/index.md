@@ -34,7 +34,7 @@ language: en
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/paris.jpg" alt="Paris, France,
-    February 2017." width="200" height="267" /><br />
+    February 2017." width="200" height="267"><br>
     Paris, France, February 2017.</p>
     <h3>Navigation</h3>
     <ul class="navigation">

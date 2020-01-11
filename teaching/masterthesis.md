@@ -10,22 +10,26 @@ language: en
   <div class="page-col page-col-1">
     <p>The list hereafter contains all the <b>master thesis</b> that I
     supervised as part of my lecturer position at the
-    <a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels Engineering
-    School</a> (ECAM). Most of them are performed in a company outside the
-    school and are in the continuity of the
-    <a href="/teaching/internships/supervision/">work placement 
-    internship</a> that took place during the first semester. When I was a
-    researcher working as a teaching assistant at
-    <a href="https://www.uclouvain.be/en">Université catholique de
-    Louvain</a> (UCLouvain), I co-supervised several master thesis whose topics
-    were related to my own PhD thesis or to other projects I was working on at
-    that time. Reports that are not confidential can be downloaded on this
-    page.</p>
+    <a href="https://www.ecam.be">ECAM Brussels Engineering School</a> (ECAM).
+    Most of them are performed in a company outside the school and are in the
+    continuity of the <a href="/teaching/internships/supervision/">work
+    placement internship</a> that took place during the first semester. When I
+    was a researcher working as a teaching assistant at
+    <a href="https://www.uclouvain.be/en">Université catholique de Louvain</a>
+    (UCLouvain), I co-supervised several master thesis whose topics were
+    related to my own PhD thesis or to other projects I was working on at that
+    time. Reports that are not confidential can be downloaded on this page.</p>
 
 
     <h2>ECAM</h2>
 
     <ol class="publications-start">
+      <li>Saïkou Ahmadou Barry. Design, implémentation, benchmark et études
+      budgétaires d'une architecture pour l'ingestion de données IoT au sein de
+      la plateforme Shayp. <i>Master Thesis</i>. ECAM Brussels Engineering
+      School, Belgium, January 2020.
+      <br><small>Advisor: Ir. Grégoire de Hemptinne (Shayp,
+      Etterbeek).</small></li>
       <li>Gaétan Guru. Design and Implementation of a Social Networks Analysis
       Framework Combining the Neo4j Graph Database and the Python Programming
       Language. <i>Master Thesis</i>. ECAM Brussels Engineering School,
@@ -93,6 +97,7 @@ language: en
       Engineering School, Belgium, June 2016.<br><small>Advisor: Ir. Serge
       Wautier (eWon, Nivelles).</small></li>
     </ol>
+
 
     <h2>UCLouvain</h2>
 

@@ -9,21 +9,22 @@ language: en
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
     <p>I am working since 2011 as a <b>technical professor</b> for the
-    <a href="https://www.cardinalmercier-promotionsociale.be">Institut
-    Technique Supérieur Cardinal Mercier</a> (ITSCM), a higher education
-    institution in social advancement. I was involved in three courses of the
-    bachelor in informatics and systems and the bachelor in electronics from
-    the technology pole, and I am still active in one.</p>
+    <a href="https://www.itscm2.be">Institut Technique Supérieur Cardinal
+    Mercier</a> (ITSCM), a higher education institution in social advancement.
+    I was involved in three courses of the bachelor in informatics and systems
+    and the bachelor in electronics from the technology pole, and I am still
+    active in one.</p>
+
 
     <h2>Currently taught</h2>
 
     <table>
       <colgroup>
-        <col style="width: 15%;"/>
-        <col style="width: 85%;"/>
+        <col style="width: 15%;">
+        <col style="width: 85%;">
       </colgroup>
       <tr>
-        <td>2017–now<br /><small>(2 years)</small></td>
+        <td>2017–now<br><small>(3 years)</small></td>
         <td>
           <b>2261.11.U31.D1 – Transmission numérique</b>
           <p><small><i>This course, taught in French to students in third year
@@ -41,11 +42,11 @@ language: en
 
     <table>
       <colgroup>
-        <col style="width: 15%;"/>
-        <col style="width: 85%;"/>
+        <col style="width: 15%;">
+        <col style="width: 85%;">
       </colgroup>
       <tr>
-        <td>2013–2015<br /><small>(3 years)</small></td>
+        <td>2013–2015<br><small>(3 years)</small></td>
         <td>
           <b>2982.21.U31.D1 – Initiation aux bases de données</b>
           <p><small><i>This course, taught in French to students in first year
@@ -57,7 +58,7 @@ language: en
         </td>
       </tr>
       <tr>
-        <td>2011–2014<br /><small>(4 years)</small></td>
+        <td>2011–2014<br><small>(4 years)</small></td>
         <td>
           <b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
           technologies : Bases de la programmation</b>
@@ -72,8 +73,8 @@ language: en
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/sydney.jpg" alt="Sydney, NSW, Australia, July 2013."
-    width="200" height="150" /><br />
-    Sydney, NSW, Australia,<br />
+    width="200" height="150"><br>
+    Sydney, NSW, Australia,<br>
     July 2013.</p>
     <h3>Navigation</h3>
     <ul class="navigation">

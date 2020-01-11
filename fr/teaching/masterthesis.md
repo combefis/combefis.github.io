@@ -10,21 +10,27 @@ language: fr
   <div class="page-col page-col-1">
     <p>La liste ci-dessous reprend tous les <b>travaux de fin d'étude</b> que
     j'ai supervisé comme enseignant à
-    l'<a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels Engineering
-    School</a> (ECAM). La plupart de ces derniers sont réalisés dans une
-    entreprise en dehors de l'école et sont en continuation du
-    <a href="/fr/teaching/internships/supervision/">stage d'insertion
+    l'<a href="https://www.ecam.be">ECAM Brussels Engineering School</a>
+    (ECAM). La plupart de ces derniers sont réalisés dans une entreprise en
+    dehors de l'école et sont en continuation du
+    <a href="/fr/teaching/internships/supervision/">stage d'insertion 
     professionnelle</a> qui a lieu au premier quadrimestre. Lorsque j'étais à
-    l'<a href="https://www.uclouvain.be">Université catholique de
-    Louvain</a> (UCLouvain), j'ai co-supervisé plusieurs travaux de fin d'étude
-    dont les sujets étaient proches de ma thèse de doctorat ou d'autres projets
-    sur lesquels je travaillais à ce moment. Les rapports qui ne sont pas
+    l'<a href="https://www.uclouvain.be">Université catholique de Louvain</a>
+    (UCLouvain), j'ai co-supervisé plusieurs travaux de fin d'étude dont les
+    sujets étaient proches de ma thèse de doctorat ou d'autres projets sur
+    lesquels je travaillais à ce moment. Les rapports qui ne sont pas 
     confidentiels peuvent être téléchargés sur cette page.</p>
 
 
     <h2>ECAM</h2>
 
     <ol class="publications-start">
+      <li>Saïkou Ahmadou Barry. Design, implémentation, benchmark et études
+      budgétaires d'une architecture pour l'ingestion de données IoT au sein de
+      la plateforme Shayp. <i>Mémoire de master</i>. ECAM Brussels Engineering
+      School, Belgique, Janvier 2020.
+      <br><small>Promoteur: Ir. Grégoire de Hemptinne (Shayp, 
+      Etterbeek).</small></li>
       <li>Gaétan Guru. Design and Implementation of a Social Networks Analysis
       Framework Combining the Neo4j Graph Database and the Python Programming
       Language. <i>Mémoire de master</i>. ECAM Brussels Engineering School,

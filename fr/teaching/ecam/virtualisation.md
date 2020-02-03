@@ -59,14 +59,14 @@ language: fr
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small>
       <br><small>par Julien Beard et Ludovic Merel.</small></li>
-<!--
-      <li>XXX <small>[fr]</small>
+
+      <li>Unity <small>[fr]</small>
       <small>(
       <a href="/files/ecam/virtualisation/unity-el-abbassi-petit-2019.pdf">
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small>
       <br><small>par Ilias El-Abbassi et Adrien Petit.</small></li>
--->
+
       <li>La réalité augmentée en aéronautique <small>[fr]</small>
       <small>(
       <a href="/files/ecam/virtualisation/ar-acina-valery-2019.pdf">
@@ -94,14 +94,14 @@ language: fr
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small>
       <br><small>par Thomas Blot et Loïc Labeye.</small></li>
-<!--
-      <li>XXX <small>[fr]</small>
+
+      <li>Système d'information géographique <small>[fr]</small>
       <small>(
       <a href="/files/ecam/virtualisation/gis-petit-2019.pdf">
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small>
       <br><small>par Jonathan Petit.</small></li>
--->
+
       <li>Kubernetes <small>[fr]</small>
       <small>(
       <a href="/files/ecam/virtualisation/kubernetes-akharaze-mroue-2019.pdf">
@@ -115,14 +115,13 @@ language: fr
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small>
       <br><small>par Abdoulaye Kolawole.</small></li>
-<!--
-      <li>XXX <small>[fr]</small>
+
+      <li>Qube OS : La sécurité par l'isolement <small>[fr]</small>
       <small>(
       <a href="/files/ecam/virtualisation/qubesos-wery-2019.pdf">
       Slides <img src="/images/slides.png" width="16" height="16"
       alt="Slides"></a> )</small>
       <br><small>par Benoît Wéry.</small></li>
--->
     </ul>
 
 

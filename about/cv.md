@@ -11,10 +11,6 @@ language: en
     <h2>Professional experiences</h2>
 
     <ul>
-      <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i>,
-      Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – now)</small><br>
-      <small>Professor in an industrial higher education institution, in the
-      department of electrical and computer engineering.</small></li>
       <li><b>Senior Researcher</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
       Belgium. <small>(Mar. 2018 – now)</small><br>
       <small>Supervisor of a junior researcher in the frame of the Egonet
@@ -29,6 +25,10 @@ language: en
       <small>Professor in a higher education institution in social advancement
       for the bachelor in informatics and systems and the bachelor in
       electronics of the Technology Pole.</small></li>
+      <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i>,
+      Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – Apr. 2020)</small><br>
+      <small>Professor in an industrial higher education institution, in the
+      department of electrical and computer engineering.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
       Belgium. <small>(Sep. 2015 – Sep. 2019)</small><br>
       <small>Project Manager for the TeachEng project working on the
@@ -512,6 +512,10 @@ language: en
     <h3>Miscellaneous</h3>
 
     <ul>
+      <li><b>Program committee</b>, 7th International Conference on Computer
+      Science, Engineering and Information Technology (CSEIT 2020).</li>
+      <li><b>Program committee</b>, 9th International Conference on Advanced
+      Information Technologies and Applications (ICAITA 2020).</li>
       <li><b>Program co-chair</b>, 3nd Int'l Coding and Human aspects of
       Educational Software Engineering (CHESE 2017).</li>
       <li><b>Program committee</b>, 2nd Int'l Code Hunt Workshop on Educational
@@ -540,7 +544,7 @@ language: en
 
     <ul>
       <li><b>B2010 – Informatique</b>, <i>Second year bachelor students in
-      engineering</i>. <small>(2014–now, 5 years)</small><br>
+      engineering</i>. <small>(2014–2019, 6 years)</small><br>
       <small>This course is about programming in Python and teaches advanced
       data structures (set, dictionaries and tuples), object oriented
       programming basics, event-based programming and GUI development with
@@ -550,8 +554,8 @@ language: en
       simple website with the CherryPy web framework.</small></li>
 
       <li><b>B2160 – Projet informatique</b>, <i>Second year bachelor students
-      in electronics and in computer science engineering</i>. <small>(2015–now,
-      5 years)</small><br>
+      in electronics and in computer science engineering</i>. <small>(2015–2020,
+      6 years)</small><br>
       <small>This course presents advanced programming concepts with the Python
       language. It presents project management tools (Git, Travis, Heroku...),
       regular expressions, network programming (socket, TCP client/server, UDP
@@ -563,7 +567,7 @@ language: en
 
       <li><b>E3010 – Électronique numérique</b>, <i>Third year bachelor
       students in electronics and in computer science engineering</i>.
-      <small>(2017–now, 2 years)</small><br>
+      <small>(2017–2019, 3 years)</small><br>
       <small>This course presents how microcontrollers work and how to program
       them using assembly language or with the C programming language. Students
       learn to program PIC microcontrollers and how to control timers,
@@ -571,8 +575,8 @@ language: en
       to minimise a logical function.</small></li>
 
       <li><b>E3040 – Projet informatique</b>, <i>Third year bachelor students
-      in electronics and in computer science engineering</i>. <small>(2018–now,
-      2 years)</small><br>
+      in electronics and in computer science engineering</i>. <small>(2018–2020,
+      3 years)</small><br>
       <small>This course is a project where students have to develop a whole
       desktop application with C#, including a GUI and a database. For that
       project, students have to deal with data structures and they are taught
@@ -581,8 +585,8 @@ language: en
       has to be realised completely in English.</small></li>
 
       <li><b>I4020 – Architecture logicielle</b>, <i>First year master students
-      in computer science engineering</i>. <small>(2014–now,
-      5 years)</small><br>
+      in computer science engineering</i>. <small>(2014–2019,
+      6 years)</small><br>
       <small>This course presents the different possible architectures that a
       software can have at different levels from the structure of the code to
       the organisation of software components. It also teaches all the steps
@@ -591,7 +595,7 @@ language: en
 
       <li><b>I4030 – Technologie des ordinateurs et systèmes
       d'exploitation</b>, <i>First year master students in electronics and in
-      computer science engineering</i>. <small>(2014–now, 5 years)</small><br>
+      computer science engineering</i>. <small>(2014–2020, 6 years)</small><br>
       <small>This course presents how a computer works, from the very low
       hardware level to the very high level architecture and organisation. It
       also presents how it can be operated with an operating system and its
@@ -599,8 +603,8 @@ language: en
       management, filesystem, mass storage, security...).</small></li>
 
       <li><b>I4040 – Base de données avancées</b>, <i>First year master
-      students in computer science engineering</i>. <small>(2016–now,
-      3 years)</small><br>
+      students in computer science engineering</i>. <small>(2016–2019,
+      4 years)</small><br>
       <small>This course presents advanced concepts in databases and how to
       manage them (distributed databases, transactions, optimisation...). It
       also introduces to NoSQL and in particular to document-based databases
@@ -608,7 +612,7 @@ language: en
       applications.</small></li>
 
       <li><b>I4100 – Synthèse d'images</b>, <i>First year master students in
-      computer science engineering</i>. <small>(2018–now, 2 years)</small><br>
+      computer science engineering</i>. <small>(2018–2020, 3 years)</small><br>
       <small>This course presents parallel programming techniques that are used
       to generate images and 3D imaging techniques. For that, an activity about
       algorithm design and optimisation is also organised and students learn
@@ -616,15 +620,15 @@ language: en
       algorithms.</small></li>
 
       <li><b>I5010 – Architecture distribuée</b>, <i>Second year master
-      students in computer science engineering</i>. <small>(2018–now,
-      2 years)</small><br>
+      students in computer science engineering</i>. <small>(2018–2019,
+      3 years)</small><br>
       <small>This course presents what a distributed system is and how it
       works. In particular, it covers three aspects of distributed
       architectures which are how to scale an application, how to virtualise
       one and finally how to manage databases clustering.</small></li>
 
       <li><b>I5020 – Sécurité des systèmes informatiques</b>, <i>Second year
-      master students in computer science engineering</i>. <small>(2017–now,
+      master students in computer science engineering</i>. <small>(2017–2019,
       3 years)</small><br>
       <small>This course presents what is the security of an informatic system,
       at the hardware and the software levels. It also presents how to build
@@ -633,7 +637,7 @@ language: en
 
       <li><b>O5040 – Séminaires professionnels</b>, <i>Second year master
       students in electronics and in computer science engineering</i>.
-      <small>(2015–now, 5 years)</small><br>
+      <small>(2015–2020, 6 years)</small><br>
       <small>This course is a seminar where the students are asked to prepare
       and present, in English, a subject related to engineering or to their
       master thesis to share their experience. Students are also asked to
@@ -642,22 +646,22 @@ language: en
 
       <li><b>I5080 – Artificial intelligence</b>, <i>Second year master
       students in electronics and in computer science engineering</i>.
-      <small>(2018–now, 2 years)</small><br>
+      <small>(2018–2020, 3 years)</small><br>
       <small>This course presents what is artificial intelligence. In
       particular it presents search and machine learning techniques and
       algorithms, and also presents how big data can be analysed to extract
       relevant information.</small></li>
 
       <li><b>21BA060 – Conception et développement logiciel</b>, <i>First year
-      master students in business analyst</i>. <small>(2018–now,
-      2 years)</small><br>
+      master students in business analyst</i>. <small>(2018–2020,
+      3 years)</small><br>
       <small>This course presents what is the object oriented (OO) programming
       paradigm and initiates students to it. The course focuses on the analysis
       of an OO design, to identify good practices and assess the quality of an
       OO architecture.</small></li>
 
       <li><b>22BA010 – Réseau et sécurité</b>, <i>Second year master students
-      in business analyst</i>. <small>(2018–now, 1 year)</small><br>
+      in business analyst</i>. <small>(2018, 1 year)</small><br>
       <small>This course is about network architecture and security. In
       addition to network architecture, students are taught what are the main
       virtualisation techniques and how to secure an information system, on the
@@ -1050,6 +1054,11 @@ language: en
     <h2>Media coverage</h2>
 
     <ul>
+      <li>Interview by <i>GFEL 2019</i> for Top 100 Leaders in Education
+      2019 Award. <small>(18 Dec. 2019)</small>
+      <a href="https://www.youtube.com/watch?v=bsRslJZ0-4A">
+      <img src="/images/video.png" width="16" height="16"
+      alt="Video"></a></li>
       <li>Interview by <i>IOI 2013</i> Reporter during the IOI conference.
       <small>(11 Jul. 2013)</small>
       <a href="/files/media/combefis-IOI-reporter-july-2013.mp3">
@@ -1079,8 +1088,8 @@ language: en
     London, UK, September 2009.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
-      <li><a href="/files/cv/combefis-CV-full-EN.pdf">Download CV <img
-      src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/cv/combefis-CV-full-EN.pdf">Download full CV
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
   </div>
 </div>

@@ -11,11 +11,6 @@ language: fr
     <h2>Expériences professionnelles</h2>
 
     <ul>
-      <li><b>Enseignant</b>, <i>ECAM Brussels Engineering School</i>,
-      Woluwé-Saint-Lambert, Belgique. <small>(Sep. 2014 –
-      maintenant)</small><br>
-      <small>Enseignant dans un institut supérieur industriel, dans l'unité
-      de génie électrique et informatique.</small></li>
       <li><b>Chercheur senior</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
       Belgique. <small>(Mar. 2018 – maintenant)</small><br>
       <small>Superviseur d'un chercheur junior dans le cadre du projet
@@ -30,6 +25,10 @@ language: fr
       <small>Professeur dans une institution supérieure de promotion sociale
       dans le cadre des bacheliers en informatique et systèmes et en
       électronique du pôle technologique.</small></li>
+      <li><b>Enseignant</b>, <i>ECAM Brussels Engineering School</i>,
+      Woluwé-Saint-Lambert, Belgique. <small>(Sep. 2014 – Avr. 2020)</small><br>
+      <small>Enseignant dans un institut supérieur industriel, dans l'unité
+      de génie électrique et informatique.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
       Belgique. <small>(Sep. 2015 – Sep. 2019)</small><br>
       <small>Project Manager du projet TeachEng visant à développer
@@ -520,6 +519,10 @@ language: fr
     <h3>Divers</h3>
 
     <ul>
+      <li><b>Program committee</b>, 7ème International Conference on Computer
+      Science, Engineering and Information Technology (CSEIT 2020).</li>
+      <li><b>Program committee</b>, 9ème International Conference on Advanced
+      Information Technologies and Applications (ICAITA 2020).</li>
       <li><b>Program co-chair</b>, 3ème Int'l Coding and Human aspects of
       Educational Software Engineering (CHESE 2017).</li>
       <li><b>Program committee</b>, 2ème Int'l Code Hunt Workshop on Educational
@@ -548,7 +551,7 @@ language: fr
 
     <ul>
       <li><b>B2010 – Informatique</b>, <i>Deuxième année de bachelier en
-      sciences industrielles</i>. <small>(2014–maintenant, 5 ans)</small><br>
+      sciences industrielles</i>. <small>(2014–2019, 6 ans)</small><br>
       <small>Ce cours concerne la programmation en Python et présente des
       structures de données avancées (ensembles, dictionnaires et tuples), les
       bases de la programmation orientée objet, la programmation évènementielle
@@ -560,7 +563,7 @@ language: fr
 
       <li><b>B2160 – Projet informatique</b>, <i>Deuxième année de bachelier en
       sciences industrielles, pré-orientation électronique et informatique</i>.
-      <small>(2015–maintenant, 5 ans)</small><br>
+      <small>(2015–2020, 6 ans)</small><br>
       <small>Ce cours concerne des concepts avancés du langage Python. Il
       présente des outils de gestion de projet (Git, Travis, Heroku...), les
       expressions régulières, la programmation réseau (socket, client/serveur
@@ -573,7 +576,7 @@ language: fr
 
       <li><b>E3010 – Électronique numérique</b>, <i>Troisième année de
       bachelier en sciences industrielles, orientation électronique et
-      informatique</i>. <small>(2017–maintenant, 2 ans)</small><br>
+      informatique</i>. <small>(2017–2019, 3 ans)</small><br>
       <small>Ce cours concerne le fonctionnement des micro-contrôleurs et
       comment les programmer à l'aide d'un langage d'assemblage ou avec la
       programmation C. Les étudiants apprennent à programmer des
@@ -583,7 +586,7 @@ language: fr
 
       <li><b>E3040 – Projet informatique</b>, <i>Troisième année de
       bachelier en sciences industrielles, orientation électronique et
-      informatique</i>. <small>(2018–maintenant, 2 ans)</small><br>
+      informatique</i>. <small>(2018–2020, 3 ans)</small><br>
       <small>Ce cours est un projet où les étudiants doivent développer une
       application de bureau complète en C#, incluant une interface graphique et
       une base de données. Pour ce projet, les étudiants doivent manipuler des
@@ -593,8 +596,8 @@ language: fr
       anglais.</small></li>
 
       <li><b>I4020 – Architecture logicielle</b>, <i>Première année de master
-      ingénieur industriel en informatique</i>. <small>(2014–maintenant,
-      5 ans)</small><br>
+      ingénieur industriel en informatique</i>. <small>(2014–2019,
+      6 ans)</small><br>
       <small>Ce cours présente les différentes architectures possibles qu'un
       logiciel peut avoir à différents niveaux, depuis la structure du code
       jusqu'à l'organisation des composants logiciels. Il explique également
@@ -604,8 +607,8 @@ language: fr
 
       <li><b>I4030 – Technologie des ordinateurs et systèmes
       d'exploitation</b>, <i>Première année de master ingénieur industriel
-      en électronique et en informatique</i>. <small>(2014–maintenant,
-      5 ans)</small><br>
+      en électronique et en informatique</i>. <small>(2014–2020,
+      6 ans)</small><br>
       <small>Ce cours concerne le fonctionnement d'un ordinateur, depuis la
       couche hardware au très bas niveau jusqu'à l'architecture et
       l'organisation au très haut niveau. Il présente aussi comment il peut
@@ -614,8 +617,8 @@ language: fr
       système de fichiers, stockage de masse, sécurité...).</small></li>
 
       <li><b>I4040 – Base de données avancées</b>, <i>Première année de master
-      ingénieur industriel en informatique</i>. <small>(2016–maintenant,
-      3 ans)</small><br>
+      ingénieur industriel en informatique</i>. <small>(2016–2019,
+      4 ans)</small><br>
       <small>Ce cours concerne des concepts avancés de base de données et
       comment les gérer (base de données distribuées, transaction,
       optimisation...). Il introduit également à NoSQL, et en particulier aux
@@ -623,8 +626,8 @@ language: fr
       bases de données relationnelles dans une même application.</small></li>
 
       <li><b>I4100 – Synthèse d'images</b>, <i>Première année de master
-      ingénieur industriel en informatique</i>. <small>(2018–maintenant,
-      2 ans)</small><br>
+      ingénieur industriel en informatique</i>. <small>(2018–2020,
+      3 ans)</small><br>
       <small>Ce cours présente des techniques de programmation parallèle qui
       sont utilisées pour générer des images et des techniques d'imagerie 3D.
       Pour cela, une activité qui concerne le design d'algorithme et
@@ -633,8 +636,8 @@ language: fr
       algorithmes pertinents.</small></li>
 
       <li><b>I5010 – Architecture distribuée</b>, <i>Deuxième année de master
-      ingénieur industriel en informatique</i>. <small>(2018–maintenant,
-      2 ans)</small><br>
+      ingénieur industriel en informatique</i>. <small>(2018–2019,
+      3 ans)</small><br>
       <small>Ce cours présente ce qu'est un système distribué et comment il
       fonctionne. En particulier, il couvre trois aspects des architectures
       distribuées qui sont comment passer une application à l'échelle, comment
@@ -643,7 +646,7 @@ language: fr
 
       <li><b>I5020 – Sécurité des systèmes informatiques</b>, <i>Deuxième année
       de master ingénieur industriel en informatique</i>.
-      <small>(2017–maintenant, 3 ans)</small><br>
+      <small>(2017–2019, 3 ans)</small><br>
       <small>Ce cours présente ce qu'est la sécurité d'un système informatique,
       aux niveaux hardware et software. Il présente également comment
       construire et sécuriser de tels systèmes et comment analyser et gérer les
@@ -651,7 +654,7 @@ language: fr
 
       <li><b>O5040 – Séminaires professionnels</b>, <i>Deuxième année de master
       ingénieur industriel en électronique et en informatique</i>.
-      <small>(2015–maintenant, 5 ans)</small><br>
+      <small>(2015–2020, 6 ans)</small><br>
       <small>Ce cours est un séminaire où les étudiants doivent préparer et
       présenter, en anglais, un sujet en lien avec l'ingénierie ou avec leur
       travail de fin d'études, pour partager leur expérience. Les étudiants
@@ -661,22 +664,22 @@ language: fr
 
       <li><b>I5080 – Artificial intelligence</b>, <i>Deuxième année de master
       ingénieur industriel en électronique et en informatique</i>.
-      <small>(2018–maintenant, 2 ans)</small><br>
+      <small>(2018–2020, 3 ans)</small><br>
       <small>Ce cours présente ce qu'est l'intelligence artificielle. En
       particulier, il présente des techniques de recherche et de machine
       learning et des algorithmes et il explique également comment le big data
       peut être analysé pour extraire des informations pertinentes.</small></li>
 
       <li><b>21BA060 – Conception et développement logiciel</b>, <i>Première
-      année de master  business analyst</i>. <small>(2018–maintenant,
-      2 ans)</small><br>
+      année de master  business analyst</i>. <small>(2018–2020,
+      3 ans)</small><br>
       <small>Ce cours présente ce qu'est le paradigme de programmation orienté
       objet (OO) et y initie les étudiants. Le cours met l'accent sur l'analyse
       d'un design OO, pour identifier les bonnes pratiques et déterminer la
       qualité d'une architecture OO.</small></li>
 
       <li><b>22BA010 – Réseau et sécurité</b>, <i>Deuxième année de master
-      business analyst</i>. <small>(2018–maintenant, 1 an)</small><br>
+      business analyst</i>. <small>(2018, 1 an)</small><br>
       <small>Ce cours concerne les architectures des réseaux et la sécurité. En
       plus des architectures réseaux, les étudiants découvrent les principales
       techniques de virtualisation et comment sécuriser un système
@@ -1076,11 +1079,16 @@ language: fr
     <h2>Couverture média</h2>
 
     <ul>
+      <li>Interview par <i>GFEL 2019</i> pour le prix Top 100 Leaders in
+      Education 2019. <small>(18 Déc. 2019)</small>
+      <a href="https://www.youtube.com/watch?v=bsRslJZ0-4A">
+      <img src="/images/video.png" width="16" height="16"
+      alt="Vidéo"></a></li>
       <li>Interview par <i>IOI 2013</i> Reporter durant la conférence IOI.
       <small>(11 Juil. 2013)</small>
       <a href="/files/media/combefis-IOI-reporter-july-2013.mp3">
       <img src="/images/sound.png" width="16" height="16"
-      alt="Sound"></a></li>
+      alt="Son"></a></li>
       <li>Interview par le journal <i>Le Soir</i> pour CSITEd et le concours
       Bebras. <small>(17 Avr. 2013)</small>
       <a href="/files/media/combefis-le-soir-april-2013.pdf">
@@ -1104,8 +1112,8 @@ language: fr
     Londres, UK, Septembre 2009.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
-      <li><a href="/files/cv/combefis-CV-full-FR.pdf">Télécharger le CV <img
-      src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/cv/combefis-CV-full-FR.pdf">Télécharger le CV complet
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
   </div>
 </div>

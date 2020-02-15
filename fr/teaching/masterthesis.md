@@ -29,6 +29,8 @@ language: fr
       budgétaires d'une architecture pour l'ingestion de données IoT au sein de
       la plateforme Shayp. <i>Mémoire de master</i>. ECAM Brussels Engineering
       School, Belgique, Janvier 2020.
+      <a href="/files/publi/barry-master-thesis-2020.pdf">
+      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <br><small>Promoteur: Ir. Grégoire de Hemptinne (Shayp, 
       Etterbeek).</small></li>
       <li>Gaétan Guru. Design and Implementation of a Social Networks Analysis

@@ -9,11 +9,10 @@ language: fr
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
     <p>Je travaille comme <i>enseignant</i> à
-    l'<a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels Engineering
-    School</a> (ECAM) et également à
-    l'<a href="https://www.cardinalmercier-promotionsociale.be">Institut
-    Technique Supérieur Cardinal Mercier</a> (ITSCM), où je donne principalement
-    des <b>cours dans le domaine de l'informatique</b>.</p>
+    l'<a href="https://www.ecam.be">ECAM Brussels Engineering School</a> (ECAM)
+    et également à l'<a href="http://www.itscm2.be">Institut Technique
+    Supérieur Cardinal Mercier</a> (ITSCM), où je donne principalement des
+    <b>cours dans le domaine de l'informatique</b>.</p>
 
     <p>Avant mon poste actuel, j'ai travaillé comme <i>assistant</i> à
     l'<a href="https://www.uclouvain.be">Université catholique de
@@ -33,10 +32,23 @@ language: fr
     qui incluent le développement de dispositifs pédagogiques dont le but est
     d'améliorer le taux de réussite des étudiants en première année de
     bachelier.</p>
+
+
+    <h2>Prix et reconnaissance</h2>
+
+    <p>En 2019, j'ai eu l'honneur de recevoir le prix <b>« Top 100 Leaders in
+    Education »</b> en reconnaissance de ma contribution dans le domaine de
+    l'éducation, reçu lors de la conférence
+    <a href="https://www.gfel.world">GFEL 2019</a>, à Dubaï.</p>
+
+    <figure>
+      <img src="/images/top100-leaders-education-gfel2019-banner.jpg"
+      alt="GFEL 2019" width="650" height="340">
+    </figure>
   </div>
   <div class="page-col page-col-2">
     <p><img src="/images/niagara.jpg" alt="Niagara, Canada, Aout 2010"
-    width="200" height="150" /><br />
+    width="200" height="150"><br>
     Niagara, Canada, Aout 2010.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
@@ -44,6 +56,7 @@ language: fr
       <li><a href="/fr/teaching/masterthesis/">Travail de fin d'étude</a></li>
       <li><a href="/fr/teaching/internships/">Stages</a></li>
       <li><a href="/fr/teaching/trainings/">Formations</a></li>
+      <li><a href="/teaching/µcourses/">µCourses</a></li>
       <li><a href="/fr/teaching/projects/">Projets</a></li>
     </ul>
   </div>

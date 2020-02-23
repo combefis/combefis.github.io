@@ -16,26 +16,19 @@ language: fr
 
     <ul>
       <li><a href="https://about.me/sebastien.combefis">About.me</a></li>
-      <li><a href="https://www.facebook.com/sebastien.combefis">
-      Facebook</a></li>
       <li><a href="https://www.twitter.com/scombefis">Twitter</a></li>
-      <li><a href="https://www.linkedin.com/in/scombefis">
-      LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/scombefis">LinkedIn</a></li>
+      <li><a href="https://www.facebook.com/scombefis">Facebook</a></li>
     </ul>
 
 
     <h2>Recherche</h2>
 
     <ul>
-      <li><a href="http://scholar.google.be/citations?user=D676gFcAAAAJ">
-      Google Scholar</a></li>
-      <li><a href="https://www.mendeley.com/profiles/sebastien-combefis">
-      Mendeley</a></li>
-      <li><a href="http://www.citeulike.org/profile/combefis">Citeulike</a></li>
-      <li><a href="https://uclouvain.academia.edu/S%C3%A9bastienComb%C3%A9fis">
-      Academia</a></li>
-      <li><a href="https://www.researchgate.net/profile/Sebastien_Combefis">
-      ResearchGate</a></li>
+      <li><a href="http://scholar.google.be/citations?user=D676gFcAAAAJ">Google Scholar</a></li>
+      <li><a href="https://www.mendeley.com/profiles/sebastien-combefis">Mendeley</a></li>
+      <li><a href="https://uclouvain.academia.edu/S%C3%A9bastienComb%C3%A9fis">Academia</a></li>
+      <li><a href="https://www.researchgate.net/profile/Sebastien_Combefis">ResearchGate</a></li>
     </ul>
 
 
@@ -44,8 +37,7 @@ language: fr
     <ul>
       <li><a href="https://github.com/combefis">GitHub</a></li>
       <li><a href="https://bitbucket.org/combefis">Bitbucket</a></li>
-      <li><a href="https://stackoverflow.com/users/3592801/combefis">
-      Stackoverflow</a></li>
+      <li><a href="https://stackoverflow.com/users/3592801/combefis">Stackoverflow</a></li>
       <li><a href="https://coderwall.com/combefis">Coderwall</a></li>
     </ul>
 
@@ -58,8 +50,7 @@ language: fr
       <li><a href="https://www.reddit.com/user/combefis">Reddit</a></li>
       <li><a href="https://keybase.io/combefis">Keybase</a></li>
       <li><a href="https://www.vivino.com/users/combefis">Vivino</a></li>
-      <li><a href="https://www.amazon.fr/Sebastien-Combefis/e/B00JCUOJA6">
-      Amazon</a></li>
+      <li><a href="https://www.amazon.fr/Sebastien-Combefis/e/B00JCUOJA6">Amazon</a></li>
     </ul>
   </div>
   <div class="page-col page-col-2">

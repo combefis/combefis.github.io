@@ -1107,9 +1107,8 @@ language: fr
     </ul>
   </div>
   <div class="page-col page-col-2">
-    <p><img src="/images/ucl-london.jpg" alt="Londres, UK, Septembre 2009."
-    width="200" height="150"><br>
-    Londres, UK, Septembre 2009.</p>
+    <p><img src="/images/ucl-london.jpg" alt="Londres, UK, septembre 2009." width="200" height="150"><br>
+    Londres, UK, septembre 2009.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
       <li><a href="/files/cv/combefis-CV-full-FR.pdf">Télécharger le CV complet

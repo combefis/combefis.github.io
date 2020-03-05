@@ -17,16 +17,16 @@ language: en
 
     <ul>
       <li><a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">Competency Based Assessment <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Competencies-List.pdf">Grid of skills to acquire <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Competencies-List.pdf">Grid of skills to acquire <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
 
 
     <h2>Theory</h2>
 
     <ul>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Session1-Slides.pdf">Session 1: Variable, Control Flow and Data Structure <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Session1-Slides.pdf">Session 1: Variable, Control Flow and Data Structure <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Session2-Slides.pdf">Session 2: Structure, Method, Interface and Error Handling <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Session2-Slides.pdf">Session 2: Structure, Method, Interface and Error Handling <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
     </ul>
 
 
@@ -35,15 +35,15 @@ language: en
     <ul>
       <li>Quizz 1: Go programming</li>
       <li>Quizz 2: Go compiler errors</li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Coding1.pdf">Coding 1: My first Go program <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Coding2.pdf">Coding 2: Data manipulation <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Coding3.pdf">Coding 3: Contact book <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Coding4.pdf">Coding 4: Iterator design pattern <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Coding5.pdf">Coding 5: Command interpreter <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Mission1.pdf">Mission 1: Go Hello World <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Mission2.pdf">Mission 2: Compile-time errors <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Mission3.pdf">Mission 3: C to Go translation <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ecam/ucourses/golang/ECAM-IntroGo-Project1.pdf">Project 1: Simple command-line interface application <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Coding1.pdf">Coding 1: My first Go program <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Coding2.pdf">Coding 2: Data manipulation <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Coding3.pdf">Coding 3: Contact book <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Coding4.pdf">Coding 4: Iterator design pattern <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Coding5.pdf">Coding 5: Command interpreter <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Mission1.pdf">Mission 1: Go Hello World <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Mission2.pdf">Mission 2: Compile-time errors <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Mission3.pdf">Mission 3: C to Go translation <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Project1.pdf">Project 1: Simple command-line interface application <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ul>
 
 

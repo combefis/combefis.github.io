@@ -33,8 +33,8 @@ language: en
     <h2>Practice</h2>
 
     <ul>
-      <li>Quizz 1: Go programming</li>
-      <li>Quizz 2: Go compiler errors</li>
+      <li><a href="/files/ucourses/golang/IntroGo-Quizz1.pdf">Quizz 1: Go programming <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li><a href="/files/ucourses/golang/IntroGo-Quizz2.pdf">Quizz 2: Go compiler errors <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><a href="/files/ucourses/golang/IntroGo-Coding1.pdf">Coding 1: My first Go program <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><a href="/files/ucourses/golang/IntroGo-Coding2.pdf">Coding 2: Data manipulation <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><a href="/files/ucourses/golang/IntroGo-Coding3.pdf">Coding 3: Contact book <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
@@ -69,10 +69,13 @@ language: en
     <h3>Navigation</h3>
     <ul class="navigation">
       <li><a href="/teaching/ucourses/blockchain/">Blockchain</a></li>
+      <li><a href="/teaching/ucourses/csp/">Constraint Satisfaction Problem</a></li>
       <li><a href="/teaching/ucourses/designthinking/">Design Thinking</a></li>
+      <li><a href="/teaching/ucourses/geneticalgorithm/">Genetic Algorithm</a></li>
       <li><a href="/teaching/ucourses/golang/">Go Programming</a></li>
       <li><a href="/teaching/ucourses/ngram/">N-Gram</a></li>
       <li><a href="/teaching/ucourses/nodered/">Node-RED</a></li>
+      <li><a href="/teaching/ucourses/numcomp/">Numerical Computing</a></li>
       <li><a href="/teaching/ucourses/osdesign/">OS Internal Design</a></li>
       <li><a href="/teaching/ucourses/pythonopti/">Python Optimisation</a></li>
       <li><a href="/teaching/ucourses/quantumcomputing/">Quantum Computing</a></li>

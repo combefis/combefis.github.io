@@ -72,7 +72,7 @@ language: en
       <li><a href="/teaching/ucourses/designthinking/">Design Thinking</a></li>
       <li><a href="/teaching/ucourses/geneticalgorithm/">Genetic Algorithm</a></li>
       <li><a href="/teaching/ucourses/golang/">Go Programming</a></li>
-      <li><a href="/teaching/ucourses/ngram/">N-Gram</a></li>
+      <li><a href="/teaching/ucourses/ngrams/">N-Grams</a></li>
       <li><a href="/teaching/ucourses/nodered/">Node-RED</a></li>
       <li><a href="/teaching/ucourses/numcomp/">Numerical Computing</a></li>
       <li><a href="/teaching/ucourses/osdesign/">OS Internal Design</a></li>

@@ -27,6 +27,19 @@ Le 12 février 2020, j'ai remis ma **démission** de l'_ECAM Brussels Engineerin
 
 J'ai donc pu travailler sur de nombreux projets, qui m'ont procuré beaucoup de satisfaction personnelle et m'ont motivé durant ces six années comme enseignant à l'ECAM, et qui m'ont permis d'exploiter au maximum mes compétences et d'en développer des nouvelles, au delà des compétences techniques en informatique mobilisées dans le cadre de mes cours.
 
+<div class="slideshow">
+  <div><img src="/images/blog/ecam-building-mar-2020.jpg" width="800" height="450" alt="ECAM"><br>Le bâtiment principal de l'ECAM, connu sous le nom de Vinci 2 (mars 2020).</div>
+  <div><img src="/images/blog/researcher-day-nov-2019.jpg" width="800" height="450" alt="Journée des chercheurs"><br>À la journée des chercheurs en Haute-École de SynHERA (novembre 2019).</div> 
+  <div><img src="/images/blog/scratch-training-jul-2019.jpg" width="800" height="450" alt="Formation Scratch"><br>Jeune fille en pleine formation à la programmation en Scratch (juillet 2019).</div>
+  <div><img src="/images/blog/industrial-seminar-apr-2019.jpg" width="800" height="450" alt="Séminaire industriel"><br>Groupe d'étudiants de master en pleine discussion en anglais lors du séminaire industriel (avril 2019).</div>
+  <div><img src="/images/blog/hack2start-mar-2019.jpg" width="800" height="450" alt="Challenge Hack2Start"><br>Défense orale d'un groupe d'étudiants lors de la première édition du challenge Hack2Start (mars 2019).</div>
+  <div><img src="/images/blog/written-exam-jan-2019.jpg" width="800" height="450" alt="Examen écrit"><br>Un examen écrit, comme tant d'autres, avec les étudiants de master en informatique (janvier 2019).</div>
+  <div><img src="/images/blog/proximus-digitalent-may-2018.jpg" width="800" height="450" alt="Proximus Digitalent"><br>Présentation finale du projet de lunette connectée d'un groupe d'étudiants de la formation Proximus Digitalent (mai 2018).</div>
+  <div><img src="/images/blog/itscm-presentation-may-2017.jpg" width="800" height="450" alt="Défense ITSCM"><br>Présentation du travail du laboratoire de transmission numérique des étudiants ITSCM (mai 2017).</div>
+  <div><img src="/images/blog/python-book-oct-2016.jpg" width="800" height="450" alt="Livre Python"><br>Avec mon collègue Quentin Lurkin et notre livre pour apprendre à programmer avec Python (octobre 2016).</div>
+  <div><img src="/images/blog/ecam-office-oct-2014.jpg" width="800" height="450" alt="Bureau"><br>Au bureau, à l'ECAM, à mes tous débuts (octobre 2014).</div>
+</div>
+
 ## Difficultés
 
 Fin de l'année passée, après cinq ans à l'ECAM et suite à un conflit avec un autre enseignant, j'ai commencé à me poser des questions par rapport à ma place à l'ECAM et à mes **perspectives d'évolution de carrière** au sein de cette école. Après plusieurs entretiens avec mes supérieurs, des pistes de résolution du conflit ainsi que des perspectives pour l'année académique 2019–2020 s'étant dessinées, je me suis laissé convaincre par une nouvelle année de défis à l'ECAM. Aujourd'hui, un peu moins d'un an après ces entretiens, force m'est de constater que rien n'a malheureusement vraiment changé, ou n'est sur la voie de quelque changement que ce soit.

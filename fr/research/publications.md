@@ -8,7 +8,7 @@ language: fr
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <h2>2019</h2>
+    <h2 id="2019-ref">2019</h2>
 
     <ol class="publications-start">
       <li>Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. Keynote présentée au <i>1st Global Forum for Education and Learning</i> (GFEL 2019), Dubaï, Émirats arabes unis, décembre 2019.
@@ -35,7 +35,7 @@ language: fr
     </ol>
 
 
-    <h2>2017</h2>
+    <h2 id="2017-ref">2017</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe, Mathieu David, Guillaume de Moffarts, Hadrien Hachez, et Julien Kessels. Learning and Teaching Algorithm Design and Optimisation Using Contests Tasks. Dans <i>Olympiads in Informatics</i>, <b>11</b>:19-28, 2017.
@@ -50,7 +50,7 @@ language: fr
     </ol>
 
 
-    <h2>2016</h2>
+    <h2 id="2016-ref">2016</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, et Arnaud Schils. Automatic Programming Error Class Identification with Code Plagiarism-Based Clustering. Dans <i>Actes du 2ème Int'l Code Hunt Workshop on Educational Software Engineering</i> (CHESE 2016), 1-6, Seattle, WA, USA, novembre 2016.
@@ -69,7 +69,7 @@ language: fr
     </ol>
 
 
-    <h2>2015</h2>
+    <h2 id="2015-ref">2015</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, Corentin Vande Kerckhove, et Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. Présenté au <i>HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies</i> (HybridEd 2015), Toledo, Espagne, septembre 2015.
@@ -96,7 +96,7 @@ language: fr
     </ol>
 
 
-    <h2>2014</h2>
+    <h2 id="2014-ref">2014</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, et Jérémy Wautelet. Programming Trainings and Informatics Teaching Through Online Contests. Dans <i>Olympiads in Informatics</i>, <b>8</b>:21-34, 2014.
@@ -124,7 +124,7 @@ language: fr
     </ol>
 
 
-    <h2>2013</h2>
+    <h2 id="2013-ref">2013</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, et Jean-François Rees. The LouvainX Courses: Selection, Support and On-campus Activities. Poster présenté au <i>edX Consortium Meeting</i>, Boston, MA, USA, novembre 2013.
@@ -144,7 +144,7 @@ language: fr
     </ol>
 
 
-    <h2>2012</h2>
+    <h2 id="2012-ref">2012</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, et Vianney le Clément de Saint-Marcq. Teaching Programming and Algorithm Design with Pythia, a Web-Based Learning Platform. Dans <i>Olympiads in Informatics</i>, <b>6</b>:31-43, 2012.
@@ -160,7 +160,7 @@ language: fr
     </ol>
 
 
-    <h2>2011</h2>
+    <h2 id="2011-ref">2011</h2>
     
     <ol class="publications-continue">
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Peter Mehlitz. A JavaPathfinder Extension to Analyse Human-Machine Interactions. Dans <i>Actes du Java Pathfinder Workshop 2011</i> (JPF Workshop 2011), Lawrence, KA, USA, novembre 2011.
@@ -181,7 +181,7 @@ language: fr
     </ol>
 
 
-    <h2>2009</h2>
+    <h2 id="2009-ref">2009</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, et Charles Pecheur. LTS-Based Analysis of Interactive Systems. Poster présenté au <i>MoVES Annual Meeting</i>, Louvain-la-Neuve, Belgique, décembre 2009.
@@ -197,7 +197,7 @@ language: fr
     </ol>
 
 
-    <h2>2008</h2>
+    <h2 id="2008-ref">2008</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. Dans <i>Actes du 8ème International Summer School on MOdelling and VErifying parallel Processes</i> (MOVEP 2008), Orléans, France, juin 2008.
@@ -206,7 +206,7 @@ language: fr
     </ol>
 
 
-    <h2>2007</h2>
+    <h2 id="2007-ref">2007</h2>
 
     <ol class="publications-continue">
       <li>Sébastien Combéfis, et Jean Miller. Viral Marketing and Community Detection Algorithm. <i>Mémoire de master</i>. Université catholique de Louvain (UCLouvain), Belgique, juin 2007.
@@ -216,5 +216,19 @@ language: fr
   <div class="page-col page-col-2">
     <p><img src="/images/uppsala.jpg" alt="Uppsala, Suède, avril 2015" width="200" height="150"><br>
     Uppsala, Suède, avril 2015.</p>
+    <h3>Navigation</h3>
+    <ul class="navigation">
+      <li><a href="#2019-ref">2019</a></li>
+      <li><a href="#2017-ref">2017</a></li>
+      <li><a href="#2016-ref">2016</a></li>
+      <li><a href="#2015-ref">2015</a></li>
+      <li><a href="#2014-ref">2014</a></li>
+      <li><a href="#2013-ref">2013</a></li>
+      <li><a href="#2012-ref">2012</a></li>
+      <li><a href="#2011-ref">2011</a></li>
+      <li><a href="#2009-ref">2009</a></li>
+      <li><a href="#2008-ref">2008</a></li>
+      <li><a href="#2007-ref">2007</a></li>
+    </ul>
   </div>
 </div>

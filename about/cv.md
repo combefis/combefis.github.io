@@ -11,58 +11,30 @@ language: en
     <h2>Professional experiences</h2>
 
     <ul>
-      <li><b>Senior Researcher</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Mar. 2018 – now)</small><br>
-      <small>Supervisor of a junior researcher in the frame of the Egonet
-      project, in partnership with UCLouvain and IPL.</small></li>
-      <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgium.
-      <small>(Jul. 2017 – now)</small><br>
-      <small>Responsible of academic relationships and coordination of the 
-      IT challenges themes and jurys.</small></li>
-      <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i>
-      (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015,
-      Jan. 2017 – now)</small><br>
-      <small>Professor in a higher education institution in social advancement
-      for the bachelor in informatics and systems and the bachelor in
-      electronics of the Technology Pole.</small></li>
-      <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i>,
-      Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – Apr. 2020)</small><br>
-      <small>Professor in an industrial higher education institution, in the
-      department of electrical and computer engineering.</small></li>
-      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
-      Belgium. <small>(Sep. 2015 – Sep. 2019)</small><br>
-      <small>Project Manager for the TeachEng project working on the
-      development and deployment of a MOOC platform for engineers.</small></li>
-      <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2014 – Sep. 2016)</small><br>
-      <small>Invited lecturer for the programming course for first year
-      bachelor students in engineering and in computer science and for the
-      software engineering project for first year master students in computer
-      science engineering and computer science.</small></li>
-      <li><b>Research Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
-      <small>Research assistant for the ICT, Electronics and Applied
-      Mathematics Institute (ICTEAM), attached to the Computer Science
-      Engineering Department (INGI).</small></li>
-      <li><b>Educational Advisor</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
-      <small>Educational Advisor for the Louvain School of Engineering
-      (EPL).</small></li>
-      <li><b>Associate</b>, <i>Binnovart</i>, Waterloo, Belgium.
-      <small>(Oct. 2013 – May 2014)</small><br>
-      <small>Founder and Associate at Binnovart SPRL, a company developing a
-      platform where young artists can meet art investors to catch up and sell
-      and promote their artworks.</small></li>
-      <li><b>Teaching Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Sep. 2013)</small><br>
-      <small>Teaching assistant for the Louvain School of Engineering (EPL),
-      attached to the Computer Science Engineering Department
-      (INGI).</small></li>
-      <li><b>Student Monitor</b>, <i>Louvain School of Engineering</i>,
-      Louvain-la-Neuve, Belgium. <small>(2004 – 2006)</small><br>
-      <small>Student monitor (tutor) for the <i>« Introduction to
-      Programming »</i> course taught to first year bachelors in
-      engineering.</small></li>
+      <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Brussels, Belgium. <small>May 2020 – now)</small><br>
+      <small>In charge of academic subjects and the management of exams and tests supported by ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.</small></li>
+      <li><b>Senior Researcher</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert, Belgium. <small>(Mar. 2018 – now)</small><br>
+      <small>Supervisor of a junior researcher in the frame of the Egonet project, in partnership with UCLouvain and IPL.</small></li>
+      <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgium. <small>(Jul. 2017 – now)</small><br>
+      <small>Responsible of academic relationships and coordination of the  IT challenges themes and jurys.</small></li>
+      <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015, Jan. 2017 – now)</small><br>
+      <small>Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.</small></li>
+      <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i>, Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – Apr. 2020)</small><br>
+      <small>Professor in an industrial higher education institution, in the department of electrical and computer engineering.</small></li>
+      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2015 – Sep. 2019)</small><br>
+      <small>Project Manager for the TeachEng project working on the development and deployment of a MOOC platform for engineers.</small></li>
+      <li><b>Invited Lecturer</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgium. <small>(Sep. 2014 – Sep. 2016)</small><br>
+      <small>Invited lecturer for the programming course for first year bachelor students in engineering and in computer science and for the software engineering project for first year master students in computer science engineering and computer science.</small></li>
+      <li><b>Research Assistant</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
+      <small>Research assistant for the ICT, Electronics and Applied Mathematics Institute (ICTEAM), attached to the Computer Science Engineering Department (INGI).</small></li>
+      <li><b>Educational Advisor</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
+      <small>Educational Advisor for the Louvain School of Engineering (EPL).</small></li>
+      <li><b>Associate</b>, <i>Binnovart</i>, Waterloo, Belgium. <small>(Oct. 2013 – May 2014)</small><br>
+      <small>Founder and Associate at Binnovart SPRL, a company developing a platform where young artists can meet art investors to catch up and sell and promote their artworks.</small></li>
+      <li><b>Teaching Assistant</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgium. <small>(Sep. 2007 – Sep. 2013)</small><br>
+      <small>Teaching assistant for the Louvain School of Engineering (EPL), attached to the Computer Science Engineering Department (INGI).</small></li>
+      <li><b>Student Monitor</b>, <i>Louvain School of Engineering</i>, Louvain-la-Neuve, Belgium. <small>(2004 – 2006)</small><br>
+      <small>Student monitor (tutor) for the <i>« Introduction to Programming »</i> course taught to first year bachelors in engineering.</small></li>
     </ul>
 
     <h3>Nonprofit organisations</h3>

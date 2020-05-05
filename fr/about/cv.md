@@ -11,61 +11,30 @@ language: fr
     <h2>Expériences professionnelles</h2>
 
     <ul>
-      <li><b>Chercheur senior</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert,
-      Belgique. <small>(Mar. 2018 – maintenant)</small><br>
-      <small>Superviseur d'un chercheur junior dans le cadre du projet
-      Egonet, en partenariat avec l'UCLouvain et l'IPL.</small></li>
-      <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgique.
-      <small>(Juil. 2017 – maintenant)</small><br>
-      <small>Responsable des relations académiques et coordination des thèmes
-      et jurys des challenges IT.</small></li>
-      <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal
-      Mercier</i> (ITSCM), Schaerbeek, Belgique. <small>(Sep. 2011 – Juin 2015,
-      Jan. 2017 – maintenant)</small><br>
-      <small>Professeur dans une institution supérieure de promotion sociale
-      dans le cadre des bacheliers en informatique et systèmes et en
-      électronique du pôle technologique.</small></li>
-      <li><b>Enseignant</b>, <i>ECAM Brussels Engineering School</i>,
-      Woluwé-Saint-Lambert, Belgique. <small>(Sep. 2014 – Avr. 2020)</small><br>
-      <small>Enseignant dans un institut supérieur industriel, dans l'unité
-      de génie électrique et informatique.</small></li>
-      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert,
-      Belgique. <small>(Sep. 2015 – Sep. 2019)</small><br>
-      <small>Project Manager du projet TeachEng visant à développer
-      et déployer une plateforme de MOOC pour ingénieurs.</small></li>
-      <li><b>Chargé de cours invité</b>, <i>Université catholique de
-      Louvain</i>, Louvain-la-Neuve, Belgique.
-      <small>(Sep. 2014 – Sep. 2016)</small><br>
-      <small>Chargé de cours invité pour le cours de programmation des
-      étudiants en première année de bachelier ingénieur civil et en sciences
-      informatique et du projet de software engineering des étudiants de
-      première année de master ingénieur civil en informatique et sciences
-      informatique.</small></li>
-      <li><b>Assistant de recherche</b>, <i>Université catholique de
-      Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2013 – Mai
-      2014)</small><br>
-      <small>Assistant de recherche pour l'institut de recherche ICT,
-      Electronics and Applied Mathematics Institute (ICTEAM), rattaché au
-      département d'ingénierie informatique (INGI).</small></li>
-      <li><b>Conseiller pédagogique</b>, <i>Université catholique de
-      Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2013 – Mai
-      2014)</small><br>
-      <small>Conseiller pédagogique pour l'École Polytechnique de Louvain
-      (EPL).</small></li>
-      <li><b>Associé</b>, <i>Binnovart</i>, Waterloo, Belgique.
-      <small>(Oct. 2013 – Mai 2014)</small><br>
-      <small>Fondateur et associé de Binnovart SPRL, une société qui développe
-      une plateforme où les jeunes artistes peuvent rencontrer des
-      investisseurs en art pour vendre et promouvoir leurs œuvres.</small></li>
-      <li><b>Assistant</b>, <i>Université catholique de Louvain</i>,
-      Louvain-la-Neuve, Belgique. <small>(Sep. 2007 – Sep. 2013)</small><br>
-      <small>Assistant à l'École Polytechnique de Louvain (EPL), rattaché au
-      département d'ingénierie informatique (INGI).</small></li>
-      <li><b>Étudiant moniteur</b>, <i>École Polytechnique de Louvain</i>,
-      Louvain-la-Neuve, Belgique. <small>(2004 – 2006)</small><br>
-      <small>Étudiant moniteur (tuteur) pour le cours d'<i>« Introduction à la
-      programmation »</i> enseigné aux étudiants en première année de bachelier
-      ingénieur civil.</small></li>
+      <li><b>Attaché référent</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Bruxelles, Belgique. <small>Mai 2020 – maintenant)</small><br>
+      <small>En charge des matières académiques et de la gestion des examens et des tests pris en charge par l'ARES, notamment l'examen d'entrée en médecine et dentisterie et le test d'orientation du secteur de la santé.</small></li>
+      <li><b>Chercheur senior</b>, <i>CERDECAM</i>, Woluwé-Saint-Lambert, Belgique. <small>(Mar. 2018 – maintenant)</small><br>
+      <small>Superviseur d'un chercheur junior dans le cadre du projet Egonet, en partenariat avec l'UCLouvain et l'IPL.</small></li>
+      <li><b>Head Advisory Board</b>, <i>EDITx</i>, Etterbeek, Belgique. <small>(Juil. 2017 – maintenant)</small><br>
+      <small>Responsable des relations académiques et coordination des thèmes et jurys des challenges IT.</small></li>
+      <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Schaerbeek, Belgique. <small>(Sep. 2011 – Juin 2015, Jan. 2017 – maintenant)</small><br>
+      <small>Professeur dans une institution supérieure de promotion sociale dans le cadre des bacheliers en informatique et systèmes et en électronique du pôle technologique.</small></li>
+      <li><b>Enseignant</b>, <i>ECAM Brussels Engineering School</i>, Woluwé-Saint-Lambert, Belgique. <small>(Sep. 2014 – Avr. 2020)</small><br>
+      <small>Enseignant dans un institut supérieur industriel, dans l'unité de génie électrique et informatique.</small></li>
+      <li><b>Project Manager</b>, <i>TeachEng</i>, Woluwé-Saint-Lambert, Belgique. <small>(Sep. 2015 – Sep. 2019)</small><br>
+      <small>Project Manager du projet TeachEng visant à développer et déployer une plateforme de MOOC pour ingénieurs.</small></li>
+      <li><b>Chargé de cours invité</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2014 – Sep. 2016)</small><br>
+      <small>Chargé de cours invité pour le cours de programmation des étudiants en première année de bachelier ingénieur civil et en sciences informatique et du projet de software engineering des étudiants de première année de master ingénieur civil en informatique et sciences informatique.</small></li>
+      <li><b>Assistant de recherche</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2013 – Mai 2014)</small><br>
+      <small>Assistant de recherche pour l'institut de recherche ICT, Electronics and Applied Mathematics Institute (ICTEAM), rattaché au département d'ingénierie informatique (INGI).</small></li>
+      <li><b>Conseiller pédagogique</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2013 – Mai 2014)</small><br>
+      <small>Conseiller pédagogique pour l'École Polytechnique de Louvain (EPL).</small></li>
+      <li><b>Associé</b>, <i>Binnovart</i>, Waterloo, Belgique. <small>(Oct. 2013 – Mai 2014)</small><br>
+      <small>Fondateur et associé de Binnovart SPRL, une société qui développe une plateforme où les jeunes artistes peuvent rencontrer des investisseurs en art pour vendre et promouvoir leurs œuvres.</small></li>
+      <li><b>Assistant</b>, <i>Université catholique de Louvain</i>, Louvain-la-Neuve, Belgique. <small>(Sep. 2007 – Sep. 2013)</small><br>
+      <small>Assistant à l'École Polytechnique de Louvain (EPL), rattaché au département d'ingénierie informatique (INGI).</small></li>
+      <li><b>Étudiant moniteur</b>, <i>École Polytechnique de Louvain</i>, Louvain-la-Neuve, Belgique. <small>(2004 – 2006)</small><br>
+      <small>Étudiant moniteur (tuteur) pour le cours d'<i>« Introduction à la programmation »</i> enseigné aux étudiants en première année de bachelier ingénieur civil.</small></li>
     </ul>
 
     <h3>Associations sans but lucratif</h3>

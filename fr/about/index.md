@@ -16,12 +16,22 @@ language: fr
 
     <h2>Académie de Recherche et d'Enseignement Supérieur</h2>
 
-    <p><i>Attaché référent (Affaires académiques)</i><br>
+    <p><i>Attaché référent</i><br>
     Rue Royale 180<br>
     1000 Bruxelles<br>
     Belgique</p>
 
     <p>E-mail: <a href="mailto:sebastien.combefis@ares-ac.be">sebastien.combefis@ares-ac.be</a></p>
+
+
+    <h2>CERDECAM</h2>
+
+    <p><i>Chercheur senior</i><br>
+    Promenade de l'Alma 50<br>
+    1200 Woluwé-Saint-Lambert<br>
+    Belgique</p>
+
+    <p>Email: <a href="mailto:s.combefis@ecam.be">s.combefis@ecam.be</a></p>
 
 
     <h2>Institut Technique Supérieur Cardinal Mercier</h2>
@@ -49,6 +59,7 @@ language: fr
     <ul>
       <li><i>Président</i>, Computer Science and IT in Education ASBL (CSITEd), 2018-2022.</li>
       <li><i>Administrateur</i>, Maison du Développement Durable ASBL (MDD), 2019-2025.</li>
+      <li><i>Administrateur</i>, Bebras Community, 2020-2023.</li>
     </ul>
   </div>
   <div class="page-col page-col-2">
@@ -58,7 +69,6 @@ language: fr
     <ul class="navigation">
       <li><a href="/fr/about/cv/">Curriculum Vitae</a></li>
       <li><a href="/fr/about/socialnetworks/">Réseaux sociaux</a></li>
-      <li><a href="/fr/about/books/">Livres</a></li>
     </ul>
   </div>
 </div>

@@ -8,7 +8,7 @@ language: fr
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>Cette page rassemble plusieurs réseaux sociaux sur lesquels je suis présent.</p>
+    <p>Cette page reprend les principaux réseaux sociaux sur lesquels je suis présent, présentés par ordre alphabétique.</p>
 
 
     <h2>Général</h2>
@@ -24,19 +24,17 @@ language: fr
     <h2>Recherche</h2>
 
     <ul>
-      <li><a href="https://uclouvain.academia.edu/S%C3%A9bastienComb%C3%A9fis">Academia</a></li>
       <li><a href="https://scholar.google.be/citations?user=D676gFcAAAAJ">Google Scholar</a></li>
       <li><a href="https://www.mendeley.com/profiles/sebastien-combefis">Mendeley</a></li>
       <li><a href="https://www.researchgate.net/profile/Sebastien_Combefis">ResearchGate</a></li>
     </ul>
 
 
-    <h2>Développement</h2>
+    <h2>Programmation</h2>
 
     <ul>
-      <li><a href="https://bitbucket.org/combefis">Bitbucket</a></li>
+      <li><a href="https://bitbucket.org/scombefis">Bitbucket</a></li>
       <li><a href="https://www.codementor.io/@combefis">Codementor</a></li>
-      <li><a href="https://coderwall.com/combefis">Coderwall</a></li>
       <li><a href="https://github.com/combefis">GitHub</a></li>
       <li><a href="https://stackoverflow.com/users/3592801/combefis">Stackoverflow</a></li>
     </ul>

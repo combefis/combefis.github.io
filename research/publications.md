@@ -8,9 +8,17 @@ language: en
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <h2 id="2019-ref">2019</h2>
+    <h2 id="2020-ref">2020</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis, and Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. To be presented at <i>Frontiers in Education 2020</i> (FIE 2020), Uppsala, Sweden, October 2020.</li>
+      <li>Guillaume de Moffarts, and Sébastien Combéfis. Challengr, a Classroom Response System for Competency Based Assessment and Real-Time Feedback with Micro-Contests. To be presented at <i>Frontiers in Education 2020</i> (FIE 2020), Uppsala, Sweden, October 2020.</li>
+    </ol>
+
+
+    <h2 id="2019-ref">2019</h2>
+
+    <ol class="publications-continue">
       <li>Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. Keynote presented at <i>1st Global Forum for Education and Learning</i> (GFEL 2019), Dubai, United Arab Emirates, December 2019.
       <a href="/files/publi/combefis-gfel2019.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-gfel2019-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
@@ -218,6 +226,7 @@ language: en
     Uppsala, Sweden, April 2015.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
+      <li><a href="#2020-ref">2020</a></li>
       <li><a href="#2019-ref">2019</a></li>
       <li><a href="#2017-ref">2017</a></li>
       <li><a href="#2016-ref">2016</a></li>

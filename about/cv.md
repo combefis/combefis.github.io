@@ -13,12 +13,14 @@ language: en
     <ul>
       <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Full-Time, Brussels, Belgium. <small>(May 2020 – now)</small><br>
       <small>In charge of academic subjects and the management of exams and tests supported by ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.</small></li>
-      <li><b>Senior Researcher</b>, <i>Centre de Recherche et de Développement de l'ECAM</i> (CERDECAM), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(Mar. 2018 – now)</small><br>
-      <small>Supervisor of a junior researcher in the frame of the Egonet project, in partnership with UCLouvain and IPL.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Part-Time, Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015, Jan. 2017 – now)</small><br>
       <small>Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.</small></li>
+      <li><b>Lecturer</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(nov. 2020 – now)</small><br>
+      <small>Professor in a higher education institution in social advancement for the new short training in Cybersecurity.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Part-Time, Etterbeek, Belgium. <small>(Jul. 2017 – now)</small><br>
       <small>Responsible of academic relationships and coordination of the  IT challenges themes and jurys.</small></li>
+      <li><b>Senior Researcher</b>, <i>Centre de Recherche et de Développement de l'ECAM</i> (CERDECAM), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(Mar. 2018 – Sep. 2020)</small><br>
+      <small>Supervisor of a junior researcher in the frame of the Egonet project, in partnership with UCLouvain and IPL.</small></li>
       <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i> (ECAM), Full-Time, Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – Apr. 2020)</small><br>
       <small>Professor in an industrial higher education institution, in the department of electrical and computer engineering.</small></li>
       <li><b>Project Manager</b>, <i>TeachEng</i>, Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2015 – Sep. 2019)</small><br>
@@ -42,10 +44,12 @@ language: en
     <h3>Nonprofit organisations</h3>
 
     <ul>
+      <li><b>President</b>, <i>Association des Habitants de Louvain-la-Neuve</i> (AH LLN), Part-Time, Louvain-la-Neuve, Belgium. <small>(jul. 2020 – now)</small><br>
+      <small>The Association des Habitants de Louvain-la-Neuve is a nonprofit organisation open to people living, working or studying in Louvain-la-Neuve which aims at defending and promoting the quality of life, in a broad sense, in Louvain-la-Neuve.</small></li>
       <li><b>Board member</b>, <i>Bebras Community</i>, Part-Time, International. <small>(May 2020 – now)</small><br>
       <small>The Bebras community is in charge of the development of the Bebras contest, an international initiative aiming at promoting computer science and computational thinking among end of primary and secondary school pupils.</small></li>
       <li><b>Board member</b>, <i>Maison du Développement Durable ASBL</i> (MDD), Part-Time, Louvain-la-Neuve, Belgium. <small>(Dec. 2019 – now)</small><br>
-      <small>MDD is a nonprofit organisation whose goal is to provide a place to support the transition to a greener, more fair, more user-friendly society, locally and globally.</small></li>
+      <small>The Maison du Développement Durable is a nonprofit organisation whose goal is to provide a place to support the transition to a greener, more fair, more user-friendly society, locally and globally.</small></li>
       <li><b>Founder and President</b>, <i>Computer Science and IT in Education ASBL</i> (CSITEd), Part-Time, Louvain-la-Neuve, Belgium. <small>(Jul. 2012 – now)</small><br>
       <small>CSITEd is a nonprofit organisation whose goal is to promote computer science at large, especially towards pupils from secondary schools and in the education field.</small></li>
       <li><b>Task Handling Committee member</b>, <i>Bebras Community</i>, Part-Time, International. <small>(May 2019 – May 2020)</small><br>
@@ -136,6 +140,7 @@ language: en
 
     <ul>
       <li>Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. At <i>1st Global Forum for Education and Learning</i>, December 2019.</li>
+      <li>Sébastien Combéfis. Enseignement de l'informatique et enseignement numérique : État de l'art. At <i>Ludovia#BE 2019</i>, October 2019.</li>
       <li>Pablo Nicaise, François Wyngaerden, Hélène Garin, Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Vincent Lorant. Does the Structure of the Personal Networks of Patients with Severe Mental Illness Differ from the Common Types Found in the General Population?. At <i>4th European Conference on Social Networks</i>, September 2019.</li>
       <li>Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Hélène Garin, François Wyngaerden, Pablo Nicaise, Vincent Lorant. A Generic and Flexible Analysis Framework to Categorise Social Support Networks. At <i>XXXIX Sunbelt Social Networks Conference</i>, June 2019.</li>
       <li>Sébastien Combéfis, Corentin Vande Kerckhove, Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. At <i>HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies</i>, September 2015.</li>
@@ -271,6 +276,18 @@ language: en
 
     <h2>Teaching</h2>
 
+    <h3>Courses Taught at ITSCM</h3>
+
+    <ul>
+      <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Third year bachelor students in informatics and systems and in electronics</i>. <small>(2017–now, 4 years)</small><br>
+      <small>This course presents how to identify and analyse digital transmission with the specific circuits and needed protocols. Students have an opportunity to design and develop a complete sensor-based system with data transmission during the laboratory.</small></li>
+      <li><b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
+      technologies : Bases de la programmation</b>, <i>Second year bachelor students in informatics and systems</i>. <small>(2011–2014, 4 years)</small><br>
+      <small>This course teaches basic programming concepts: multidimensional arrays, embedded loops, boolean and characters, decomposition in procedures and functions, file manipulation...</small></li>
+      <li><b>2982.21.U31.D1 – Initiation aux bases de données</b>, <i>First year bachelor students in informatics and systems and in electronics</i>. <small>(2013–2015, 3 years)</small><br>
+      <small>This course is an introduction to databases and presents DataBase Management System (DBMS), relational databases, Structured Query Language (SQL), primary keys and views, table joins, data importation and exportation...</small></li>
+    </ul>
+
     <h3>Courses Taught at ECAM</h3>
 
     <ul>
@@ -312,18 +329,6 @@ language: en
       <small>This course presents how to analyse and develop a computer application using modelisation (UML), simple databases and queries (Microsoft Access) and low level programming (C) and object oriented programming (C#).</small></li>
       <li><b>JA40I – Programmation distribuée</b>, <i>First year master students in electronics and in computer science engineering</i>. <small>(2015–2016, 2 years)</small><br>
       <small>This course is a project where the students have to develop a 3-tiers home automation application to manage a concrete model of a house. They also have an activity about object oriented programming with Java.</small></li>
-    </ul>
-
-    <h3>Courses Taught at ITSCM</h3>
-
-    <ul>
-      <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Third year bachelor students in informatics and systems and in electronics</i>. <small>(2017–now, 3 years)</small><br>
-      <small>This course presents how to identify and analyse digital transmission with the specific circuits and needed protocols. Students have an opportunity to design and develop a complete sensor-based system with data transmission during the laboratory.</small></li>
-      <li><b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
-      technologies : Bases de la programmation</b>, <i>Second year bachelor students in informatics and systems</i>. <small>(2011–2014, 4 years)</small><br>
-      <small>This course teaches basic programming concepts: multidimensional arrays, embedded loops, boolean and characters, decomposition in procedures and functions, file manipulation...</small></li>
-      <li><b>2982.21.U31.D1 – Initiation aux bases de données</b>, <i>First year bachelor students in informatics and systems and in electronics</i>. <small>(2013–2015, 3 years)</small><br>
-      <small>This course is an introduction to databases and presents DataBase Management System (DBMS), relational databases, Structured Query Language (SQL), primary keys and views, table joins, data importation and exportation...</small></li>
     </ul>
 
     <h3>Courses Trained at UCLouvain</h3>
@@ -499,6 +504,8 @@ language: en
     <h2>Media coverage</h2>
 
     <ul>
+      <li>Interview by the regional newspaper <i>Vers l'Avenir Brabant Wallon</i> for taking office as President of the Association des Habitants de Louvain-la-Neuve. <small>(24 sep. 2020)</small>
+      <a href="/files/media/combefis-vers-l-avenir-september-2020.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li>Interview by <i>GFEL 2019</i> for Top 100 Leaders in Education 2019 Award. <small>(18 Dec. 2019)</small>
       <a href="https://www.youtube.com/watch?v=bsRslJZ0-4A"><img src="/images/video.png" width="16" height="16" alt="Video"></a></li>
       <li>Interview by <i>IOI 2013</i> Reporter during the IOI conference. <small>(11 Jul. 2013)</small>

@@ -24,16 +24,6 @@ language: en
     <p>Email: <a href="mailto:sebastien.combefis@ares-ac.be">sebastien.combefis@ares-ac.be</a></p>
 
 
-    <h2>CERDECAM</h2>
-
-    <p><i>Senior Researcher</i><br>
-    Promenade de l'Alma 50<br>
-    1200 Woluwé-Saint-Lambert<br>
-    Belgium</p>
-
-    <p>Email: <a href="mailto:s.combefis@ecam.be">s.combefis@ecam.be</a></p>
-
-
     <h2>Higher Technical Institute Cardinal Mercier</h2>
 
     <p><i>Technical Professor</i><br>
@@ -42,6 +32,16 @@ language: en
     Belgium</p>
 
     <p>Email: <a href="mailto:combefis.sebastien@itscm.be">combefis.sebastien@itscm.be</a></p>
+
+
+    <h2>EPHEC Promotion Sociale</h2>
+
+    <p><i>Lecturer</i><br>
+    Avenue Konrad Adenauer 3<br>
+    1200 Woluwé-Saint-Lambert<br>
+    Belgium</p>
+
+    <p>E-mail : <a href="mailto:s.combefis@ephec.be">s.combefis@ephec.be</a></p>
 
 
     <h2>EDITx</h2>
@@ -57,9 +57,10 @@ language: en
     <h2>Mandates</h2>
 
     <ul>
-      <li><i>President</i>, Computer Science and IT in Education ASBL (CSITEd), 2018-2022.</li>
+      <li><i>President</i>, Association des Habitants de Louvain-la-Neuve (AH LLN), 2020-2022.</li>
       <li><i>Board member</i>, Maison du Développement Durable ASBL (MDD), 2019-2025.</li>
       <li><i>Board member</i>, Bebras Community, 2020-2023.</li>
+      <li><i>President</i>, Computer Science and IT in Education ASBL (CSITEd), 2018-2022.</li>
     </ul>
   </div>
   <div class="page-col page-col-2">

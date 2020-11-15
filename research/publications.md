@@ -11,7 +11,9 @@ language: en
     <h2 id="2020-ref">2020</h2>
 
     <ol class="publications-start">
-      <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. To be presented at <i>the 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i> (ISSEP 2020), Tallinn, Estonia, November 2020.</li>
+      <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. In <i>Proceedings of the 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i> (ISSEP 2020), Tallinn, Estonia, November 2020.
+      <a href="/files/publi/combefis-issep2020.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-issep2020-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
       <li>Sébastien Combéfis, and Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. In <i>Proceedings of Frontiers in Education 2020</i> (FIE 2020), Uppsala, Sweden, October 2020.
       <a href="/files/publi/combefis-fie2020-1.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>

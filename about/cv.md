@@ -11,7 +11,7 @@ language: en
     <h2>Professional experiences</h2>
 
     <ul>
-      <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Full-Time, Brussels, Belgium. <small>(May 2020 – now)</small><br>
+      <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Full-Time, Brussels, Belgium. <small>(May 2020 – Dec. 2020)</small><br>
       <small>In charge of academic subjects and the management of exams and tests supported by ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Part-Time, Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015, Jan. 2017 – now)</small><br>
       <small>Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.</small></li>
@@ -101,38 +101,41 @@ language: en
     <h3>Journal papers</h3>
 
     <ul>
-      <li>Sébastien Combéfis, Guillaume de Moffarts, Mile Jovanov. TLCS: A Digital Library with Resources to Teach and Learn Computer Science. In <i>Olympiads in Informatics</i>, August 2019.</li>
-      <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe, Mathieu David, Guillaume de Moffarts, Hadrien Hachez, Julien Kessels. Learning and Teaching Algorithm Design and Optimisation Using Contests Tasks. In <i>Olympiads in Informatics</i>, July 2017.</li>
-      <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, Franco Raimondi, Neha Rungta. Formal Analysis of Multiple Coordinated HMI Systems. In <i>The Handbook of Formal Methods in Human-Computer Interaction</i>, 2017.</li>
-      <li>Guillaume Maudoux, Charles Pecheur, Sébastien Combéfis. Learning Safe Interactions and Full-Control. In <i>The Handbook of Formal Methods in Human-Computer Interaction</i>, 2017.</li>
-      <li>Sébastien Combéfis, Gytautas Beresnevičius, Valentina Dagienė. Learning Programming through Games and Contests: Overview, Characterisation and Discussion. In <i>Olympiads in Informatics</i>, August 2016.</li>
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur. Automatic Detection of Potential Automation Surprises for ADEPT Models. In <i>IEEE Transactions on Human-Machine Systems</i>, 2016.</li>
-      <li>Sébastien Combéfis, Alexis Paques. Organising National Olympiads in Informatics: a Review of Selection Processes, Trainings and Promotion Activities. In <i>Olympiads in Informatics</i>, July 2015.</li>
-      <li>Sébastien Combéfis, Jérémy Wautelet. Programming Trainings and Informatics Teaching Through Online Contests. In <i>Olympiads in Informatics</i>, July 2014.</li>
-      <li>Sébastien Combéfis, Virginie Van den Schrieck, Alexis Nootens. Growing Algorithmic Thinking Through Interactive Problems to Encourage Learning Programming. In <i>Olympiads in Informatics</i>, July 2013.</li>
-      <li>Sébastien Combéfis, Vianney le Clément de Saint-Marcq. Teaching Programming and Algorithm Design with Pythia, a Web-Based Learning Platform. In <i>Olympiads in Informatics</i>, September 2012.</li>
-      <li>Sébastien Combéfis, Damien Leroy. Belgian Olympiads in Informatics: The Story of Launching a National Contest. In <i>Olympiads in Informatics</i>, July 2011.</li>
+      <li>Sébastien Combéfis, Guillaume de Moffarts, and Mile Jovanov. TLCS: A Digital Library with Resources to Teach and Learn Computer Science. In <i>Olympiads in Informatics</i>, August 2019.</li>
+      <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe, Mathieu David, Guillaume de Moffarts, Hadrien Hachez, and Julien Kessels. Learning and Teaching Algorithm Design and Optimisation Using Contests Tasks. In <i>Olympiads in Informatics</i>, July 2017.</li>
+      <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, Franco Raimondi, and Neha Rungta. Formal Analysis of Multiple Coordinated HMI Systems. In <i>The Handbook of Formal Methods in Human-Computer Interaction</i>, 2017.</li>
+      <li>Guillaume Maudoux, Charles Pecheur, and Sébastien Combéfis. Learning Safe Interactions and Full-Control. In <i>The Handbook of Formal Methods in Human-Computer Interaction</i>, 2017.</li>
+      <li>Sébastien Combéfis, Gytautas Beresnevičius, and Valentina Dagienė. Learning Programming through Games and Contests: Overview, Characterisation and Discussion. In <i>Olympiads in Informatics</i>, August 2016.</li>
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, and Charles Pecheur. Automatic Detection of Potential Automation Surprises for ADEPT Models. In <i>IEEE Transactions on Human-Machine Systems</i>, 2016.</li>
+      <li>Sébastien Combéfis, and Alexis Paques. Organising National Olympiads in Informatics: a Review of Selection Processes, Trainings and Promotion Activities. In <i>Olympiads in Informatics</i>, July 2015.</li>
+      <li>Sébastien Combéfis, and Jérémy Wautelet. Programming Trainings and Informatics Teaching Through Online Contests. In <i>Olympiads in Informatics</i>, July 2014.</li>
+      <li>Sébastien Combéfis, Virginie Van den Schrieck, and Alexis Nootens. Growing Algorithmic Thinking Through Interactive Problems to Encourage Learning Programming. In <i>Olympiads in Informatics</i>, July 2013.</li>
+      <li>Sébastien Combéfis, and Vianney le Clément de Saint-Marcq. Teaching Programming and Algorithm Design with Pythia, a Web-Based Learning Platform. In <i>Olympiads in Informatics</i>, September 2012.</li>
+      <li>Sébastien Combéfis, and Damien Leroy. Belgian Olympiads in Informatics: The Story of Launching a National Contest. In <i>Olympiads in Informatics</i>, July 2011.</li>
     </ul>
 
     <h3>Conference papers (peer-reviewed)</h3>
 
     <ul>
-      <li>Sébastien Combéfis, Guillaume de Moffarts. Automated Generation of Computer Generation of Computer Graded Unit Testing-Based Programming Assessments for Education. In <i>Proceedings of the 6th International Conference on Computer Science, Engineering and Information Technology</i>, November 2019.</li>
-      <li>Sébastien Combéfis, Arnaud Schils. Automatic Programming Error Class Identification with Code Plagiarism-Based Clustering. In <i>Proceedings of the 2nd Int'l Code Hunt Workshop on Educational Software Engineering</i>, November 2016.</li>
-      <li>Sébastien Combéfis, Chantal Poncin. Web Platform to Support Teaching Programming with Snap! and Manage Pupils' Learning. In <i>Proceedings of the Scratch Conference 2015</i>, August 2015.</li>
-      <li>Sébastien Combéfis, Alexis Paques. Pythia reloaded: an Intelligent Unit Testing-Based Code Grader for Education. In <i>Proceedings of the 1st Int'l Code Hunt Workshop on Educational Software Engineering</i>, July 2015.</li>
-      <li>Guillaume Maudoux, Sébastien Combéfis, Charles Pecheur. Tasks Decomposition of System Models for Human-Machine Interaction Analysis. In <i>Proceedings of the Workshop on Formal Methods in Human Computer Interaction</i>, June 2015.</li>
-      <li>Sébastien Combéfis, Peter Van Roy. Three-Step Transformation of a Traditional University Course into a MOOC: a LouvainX Experience. In <i>Proceedings of the European MOOCs Stakeholders Summit 2015</i>, May 2015.</li>
-      <li>Sébastien Combéfis, Fabien Duchêne, Virginie Van Den Schrieck. APP0, ou la découverte du monde universitaire par des compétences techniques au service de l'intégration sociale. In <i>Proceedings of the 28th Congrès de l'Association Internationale de Pédagogie Universitaire</i>, May 2014.</li>
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur. State Event Models for the Formal Analysis of Human-Machine Interactions. In <i>Proceedings of the Formal Verification and Modeling in Human-Machine Systems AAAI Spring Symposium 2014</i>, March 2014.</li>
-      <li>Sébastien Combéfis, Adrien Bibal, Peter Van Roy. Recasting a Traditional Course into a MOOC by Means of a SPOC. In <i>Proceedings of the European MOOCs Stakeholders Summit 2014</i>, February 2014.</li>
-      <li>Sébastien Combéfis, Charles Pecheur. Automatic Generation of Full-Control System Abstraction for Human-Machine Interaction. In <i>Proceedings of the Workshop on Formal Methods in Human-Machine Interaction</i>, May 2012.</li>
-      <li>Jim Plumat, Chantal Poncin, Delphine Ducarme, Sébastien Combéfis. Passer d'un « Service d'Aide à la Réussite » à des « Ateliers de Formation Professionnelle » ou comment passer d'un SAR, une béquille ? – à un AFP, un piolet !. In <i>Proceedings of the 27th Congrès de l'Association Internationale de Pédagogie Universitaire</i>, May 2012.</li>
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, Peter Mehlitz. A JavaPathfinder Extension to Analyse Human-Machine Interactions. In <i>Proceedings of the Java Pathfinder Workshop 2011</i>, November 2011.</li>
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, Michael Feary. Learning System Abstractions for Human Operators. In
+      <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. In <i>Proceedings of the 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i>, November 2020.</li>
+      <li>Sébastien Combéfis, and Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. In <i>Proceedings of Frontiers in Education 2020</i>, October 2020.</li>
+      <li>Guillaume de Moffarts, and Sébastien Combéfis. Challengr, a Classroom Response System for Competency Based Assessment and Real-Time Feedback with Micro-Contests. In <i>Proceedings of Frontiers in Education 2020</i>, October 2020.</li>
+      <li>Sébastien Combéfis, and Guillaume de Moffarts. Automated Generation of Computer Generation of Computer Graded Unit Testing-Based Programming Assessments for Education. In <i>Proceedings of the 6th International Conference on Computer Science, Engineering and Information Technology</i>, November 2019.</li>
+      <li>Sébastien Combéfis, and Arnaud Schils. Automatic Programming Error Class Identification with Code Plagiarism-Based Clustering. In <i>Proceedings of the 2nd Int'l Code Hunt Workshop on Educational Software Engineering</i>, November 2016.</li>
+      <li>Sébastien Combéfis, and Chantal Poncin. Web Platform to Support Teaching Programming with Snap! and Manage Pupils' Learning. In <i>Proceedings of the Scratch Conference 2015</i>, August 2015.</li>
+      <li>Sébastien Combéfis, and Alexis Paques. Pythia reloaded: an Intelligent Unit Testing-Based Code Grader for Education. In <i>Proceedings of the 1st Int'l Code Hunt Workshop on Educational Software Engineering</i>, July 2015.</li>
+      <li>Guillaume Maudoux, Sébastien Combéfis, and Charles Pecheur. Tasks Decomposition of System Models for Human-Machine Interaction Analysis. In <i>Proceedings of the Workshop on Formal Methods in Human Computer Interaction</i>, June 2015.</li>
+      <li>Sébastien Combéfis, and Peter Van Roy. Three-Step Transformation of a Traditional University Course into a MOOC: a LouvainX Experience. In <i>Proceedings of the European MOOCs Stakeholders Summit 2015</i>, May 2015.</li>
+      <li>Sébastien Combéfis, Fabien Duchêne, and Virginie Van Den Schrieck. APP0, ou la découverte du monde universitaire par des compétences techniques au service de l'intégration sociale. In <i>Proceedings of the 28th Congrès de l'Association Internationale de Pédagogie Universitaire</i>, May 2014.</li>
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, and Charles Pecheur. State Event Models for the Formal Analysis of Human-Machine Interactions. In <i>Proceedings of the Formal Verification and Modeling in Human-Machine Systems AAAI Spring Symposium 2014</i>, March 2014.</li>
+      <li>Sébastien Combéfis, Adrien Bibal, and Peter Van Roy. Recasting a Traditional Course into a MOOC by Means of a SPOC. In <i>Proceedings of the European MOOCs Stakeholders Summit 2014</i>, February 2014.</li>
+      <li>Sébastien Combéfis, and Charles Pecheur. Automatic Generation of Full-Control System Abstraction for Human-Machine Interaction. In <i>Proceedings of the Workshop on Formal Methods in Human-Machine Interaction</i>, May 2012.</li>
+      <li>Jim Plumat, Chantal Poncin, Delphine Ducarme, and Sébastien Combéfis. Passer d'un « Service d'Aide à la Réussite » à des « Ateliers de Formation Professionnelle » ou comment passer d'un SAR, une béquille ? – à un AFP, un piolet !. In <i>Proceedings of the 27th Congrès de l'Association Internationale de Pédagogie Universitaire</i>, May 2012.</li>
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, and Peter Mehlitz. A JavaPathfinder Extension to Analyse Human-Machine Interactions. In <i>Proceedings of the Java Pathfinder Workshop 2011</i>, November 2011.</li>
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, and Michael Feary. Learning System Abstractions for Human Operators. In
       <i>Proceedings of the 2011 International Workshop on Machine Learning Technologies in Software Engineering</i>, November 2011.</li>
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, Michael Feary. A Formal Framework for Design and Analysis of Human-Machine Interaction. In <i>Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics</i>, October 2011.</li>
-      <li>Sébastien Combéfis, Charles Pecheur. A Bisimulation-Based Approach to the Analysis of Human-Computer Interaction. In <i>Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems</i>, July 2009.</li>
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, and Michael Feary. A Formal Framework for Design and Analysis of Human-Machine Interaction. In <i>Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics</i>, October 2011.</li>
+      <li>Sébastien Combéfis, and Charles Pecheur. A Bisimulation-Based Approach to the Analysis of Human-Computer Interaction. In <i>Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems</i>, July 2009.</li>
       <li>Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. In <i>Proceedings of the 8th International Summer School on MOdelling and VErifying parallel Processes</i>, June 2008.</li>
     </ul>
 
@@ -141,31 +144,31 @@ language: en
     <ul>
       <li>Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. At <i>1st Global Forum for Education and Learning</i>, December 2019.</li>
       <li>Sébastien Combéfis. Enseignement de l'informatique et enseignement numérique : État de l'art. At <i>Ludovia#BE 2019</i>, October 2019.</li>
-      <li>Pablo Nicaise, François Wyngaerden, Hélène Garin, Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Vincent Lorant. Does the Structure of the Personal Networks of Patients with Severe Mental Illness Differ from the Common Types Found in the General Population?. At <i>4th European Conference on Social Networks</i>, September 2019.</li>
-      <li>Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Hélène Garin, François Wyngaerden, Pablo Nicaise, Vincent Lorant. A Generic and Flexible Analysis Framework to Categorise Social Support Networks. At <i>XXXIX Sunbelt Social Networks Conference</i>, June 2019.</li>
-      <li>Sébastien Combéfis, Corentin Vande Kerckhove, Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. At <i>HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies</i>, September 2015.</li>
-      <li>Sebastien Combéfis, Chantal Poncin. Intégration d'un service d'aide à la réussite dans un programme d'étude, ou comment passer d'un SAR à un cours dans un programme, en passant par un atelier de formation professionnelle. At <i>the 28th Congrès de l'Association Internationale de Pédagogie Universitaire</i>, May 2014.</li>
+      <li>Pablo Nicaise, François Wyngaerden, Hélène Garin, Sébastien d'Oreye de Lantremange, Sébastien Combéfis, and Vincent Lorant. Does the Structure of the Personal Networks of Patients with Severe Mental Illness Differ from the Common Types Found in the General Population?. At <i>4th European Conference on Social Networks</i>, September 2019.</li>
+      <li>Sébastien d'Oreye de Lantremange, Sébastien Combéfis, Hélène Garin, François Wyngaerden, Pablo Nicaise, and Vincent Lorant. A Generic and Flexible Analysis Framework to Categorise Social Support Networks. At <i>XXXIX Sunbelt Social Networks Conference</i>, June 2019.</li>
+      <li>Sébastien Combéfis, Corentin Vande Kerckhove, and Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. At <i>HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies</i>, September 2015.</li>
+      <li>Sebastien Combéfis, and Chantal Poncin. Intégration d'un service d'aide à la réussite dans un programme d'étude, ou comment passer d'un SAR à un cours dans un programme, en passant par un atelier de formation professionnelle. At <i>the 28th Congrès de l'Association Internationale de Pédagogie Universitaire</i>, May 2014.</li>
       <li>Sébastien Combéfis. Operational Model: Integrating User Tasks and Environment Information with System Model. At <i>the 3rd International Workshop on Formal Methods for Interactive Systems</i>, November 2009.</li>
     </ul>
 
     <h3>Posters</h3>
 
     <ul>
-      <li>Sébastien Combéfis, Guillaume de Moffarts. Learning Computer Science at a Fair with an Escape Game. Presented at <i>the 12th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</i>, November 2019.</li>
-      <li>Sébastien Combéfis, Marie-Françoise Lefebvre, Quentin Lurkin, Cédric Marchand et Philippe Melotte. TeachEng, a Multi-Paradigm MOOCs Provider Platform to Teach Future Engineers. Presented at <i>the European MOOCs Stakeholders Summit 2016</i>, February 2016.</li>
-      <li>Sébastien Combéfis, Jean-François Rees. The LouvainX Courses: Selection, Support and On-campus Activities. Presented at <i>the edX Consortium Meeting</i>, November 2013.</li>
-      <li>Sébastien Combéfis, Adrien Bibal, Peter Van Roy. Recasting a Traditional Course into a MOOC by Means of a SPOC. Presented at <i>the edX Consortium Meeting</i>, November 2013.</li>
-      <li>Sébastien Combéfis, Charles Pecheur. LTS-Based Analysis of Interactive Systems. Presented at <i>the MoVES Annual Meeting</i>, December 2009.</li>
+      <li>Sébastien Combéfis, and Guillaume de Moffarts. Learning Computer Science at a Fair with an Escape Game. Presented at <i>the 12th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</i>, November 2019.</li>
+      <li>Sébastien Combéfis, Marie-Françoise Lefebvre, Quentin Lurkin, Cédric Marchand, and Philippe Melotte. TeachEng, a Multi-Paradigm MOOCs Provider Platform to Teach Future Engineers. Presented at <i>the European MOOCs Stakeholders Summit 2016</i>, February 2016.</li>
+      <li>Sébastien Combéfis, and Jean-François Rees. The LouvainX Courses: Selection, Support and On-campus Activities. Presented at <i>the edX Consortium Meeting</i>, November 2013.</li>
+      <li>Sébastien Combéfis, Adrien Bibal, and Peter Van Roy. Recasting a Traditional Course into a MOOC by Means of a SPOC. Presented at <i>the edX Consortium Meeting</i>, November 2013.</li>
+      <li>Sébastien Combéfis, and Charles Pecheur. LTS-Based Analysis of Interactive Systems. Presented at <i>the MoVES Annual Meeting</i>, December 2009.</li>
     </ul>
 
     <h3>Books</h3>
 
     <ul>
-      <li>Sébastien Combéfis, Quentin Lurkin. Apprendre Python et s'initier à la programmation, September 2016.</li>
-      <li>Sébastien Combéfis, Alexis Nootens. Bases des mathématiques et préparation à l'enseignement supérieur : Formules et concepts, July 2016.</li>
-      <li>Sébastien Combéfis, Georges-Henri Leclercq, Loïc Fortemps de Loneux, Adrien Bibal, Virginie Van den Schrieck (Eds). Bebras Belgium : Recueil de questions édition 2013, July 2016.</li>
+      <li>Sébastien Combéfis, and Quentin Lurkin. Apprendre Python et s'initier à la programmation, September 2016.</li>
+      <li>Sébastien Combéfis, and Alexis Nootens. Bases des mathématiques et préparation à l'enseignement supérieur : Formules et concepts, July 2016.</li>
+      <li>Sébastien Combéfis, Georges-Henri Leclercq, Loïc Fortemps de Loneux, Adrien Bibal, and Virginie Van den Schrieck (Eds). Bebras Belgium : Recueil de questions édition 2013, July 2016.</li>
       <li>Sébastien Combéfis. LaTeX HowTo : Le Guide Pratique (2ème édition), October 2014.</li>
-      <li>Sébastien Combéfis, Jérémy Wautelet, Georges-Henri Leclercq, Adrien Bibal, Virginie Van den Schrieck (Eds). Bebras Belgium : Recueil de questions édition 2012, November 2013.</li>
+      <li>Sébastien Combéfis, Jérémy Wautelet, Georges-Henri Leclercq, Adrien Bibal, and Virginie Van den Schrieck (Eds). Bebras Belgium : Recueil de questions édition 2012, November 2013.</li>
       <li>Sébastien Combéfis. LaTeX HowTo, December 2010.</li>
     </ul>
 
@@ -183,6 +186,9 @@ language: en
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>13th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2020), Tallinn, Estonia 
+      (remotely). <small>(16–18 Nov. 2020)</small></li>
+      <li><b>Frontiers in Education 2020</b> (FIE 2020), Uppsala, Sweden (remotely). <small>(21–24 Oct. 2020)</small></li>
       <li><b>1st Global Forum for Education and Learning</b> (GFEL 2019), Dubai, United Arab Emirates. <small>(16–18 Dec. 2019)</small></li>
       <li><b>6th International Conference on Computer Science, Engineering and Information Technology</b> (CSEIT 2019), Zurich, Switzerland. <small>(23–24 Nov. 2019)</small></li>
       <li><b>12th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2019), Larnaca, Cyprus. <small>(18–20 Nov. 2019)</small></li>

@@ -11,7 +11,9 @@ language: fr
     <h2 id="2020-ref">2020</h2>
 
     <ol class="publications-start">
-      <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. À être présenté au <i>13ème International Conference on Informatics in School: Situation, Evaluation, Problems</i> (ISSEP 2020), Tallinn, Estonie, Novembre 2020.</li>
+      <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans <i>Actes de la 13ème International Conference on Informatics in School: Situation, Evaluation, Problems</i> (ISSEP 2020), Tallinn, Estonie, Novembre 2020.
+      <a href="/files/publi/combefis-issep2020.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-issep2020-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
       <li>Sébastien Combéfis, et Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. Dans <i>Actes de Frontiers in Education 2020</i> (FIE 2020), Uppsala, Suède, Octobre 2020.
       <a href="/files/publi/combefis-fie2020-1.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
@@ -30,11 +32,11 @@ language: fr
       <a href="/files/publi/combefis-gfel2019.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-gfel2019-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li>Sébastien Combéfis, et Guillaume de Moffarts. Automated Generation of Computer Generation of Computer Graded Unit Testing-Based Programming Assessments for Education. Dans <i>Actes du 6ème International Conference on Computer Science, Engineering and Information Technology</i> (CSEIT 2019), 91-100, Zurich, Suisse, novembre 2019.
+      <li>Sébastien Combéfis, et Guillaume de Moffarts. Automated Generation of Computer Generation of Computer Graded Unit Testing-Based Programming Assessments for Education. Dans <i>Actes de la 6ème International Conference on Computer Science, Engineering and Information Technology</i> (CSEIT 2019), 91-100, Zurich, Suisse, novembre 2019.
       <a href="/files/publi/combefis-cseit2019.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-cseit2019-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li>Sébastien Combéfis, et Guillaume de Moffarts. Learning Computer Science at a Fair with an Escape Game. Dans <i>Actes locaux du 12ème International Conference on Informatics in Schools: Situation, Evolution and Perspectives</i> (ISSEP 2019), 93-95, Larnaca, Chypre, novembre 2019.
+      <li>Sébastien Combéfis, et Guillaume de Moffarts. Learning Computer Science at a Fair with an Escape Game. Dans <i>Actes locaux de la 12ème International Conference on Informatics in Schools: Situation, Evolution and Perspectives</i> (ISSEP 2019), 93-95, Larnaca, Chypre, novembre 2019.
       <a href="/files/publi/combefis-issep2019.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-issep2019-poster.pdf"><img src="/images/slides.png" width="16" height="16" alt="Poster"></a></li>
 
@@ -186,7 +188,7 @@ language: fr
       <a href="/files/publi/combefis-malets2011.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-malets2011-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Michael Feary. A Formal Framework for Design and Analysis of Human-Machine Interaction. Dans <i>Actes du 2011 IEEE International Conference on Systems, Man, and Cybernetics</i> (SMC 2011), 1801-1808, Anchorage, AK, USA, octobre 2011.
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Michael Feary. A Formal Framework for Design and Analysis of Human-Machine Interaction. Dans <i>Actes de la 2011 IEEE International Conference on Systems, Man, and Cybernetics</i> (SMC 2011), 1801-1808, Anchorage, AK, USA, octobre 2011.
       <a href="/files/publi/combefis-smc2011.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-smc2011-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
@@ -215,7 +217,7 @@ language: fr
     <h2 id="2008-ref">2008</h2>
 
     <ol class="publications-continue">
-      <li>Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. Dans <i>Actes du 8ème International Summer School on MOdelling and VErifying parallel Processes</i> (MOVEP 2008), Orléans, France, juin 2008.
+      <li>Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. Dans <i>Actes de la 8ème International Summer School on MOdelling and VErifying parallel Processes</i> (MOVEP 2008), Orléans, France, juin 2008.
       <a href="/files/publi/combefis-movep2008.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-movep2008-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
     </ol>

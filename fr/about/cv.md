@@ -11,7 +11,7 @@ language: fr
     <h2>Expériences professionnelles</h2>
 
     <ul>
-      <li><b>Attaché référent</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Temps plein, Bruxelles, Belgique. <small>(mai 2020 – maintenant)</small><br>
+      <li><b>Attaché référent</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Temps plein, Bruxelles, Belgique. <small>(mai 2020 – déc. 2020)</small><br>
       <small>En charge des matières académiques et de la gestion des examens et des tests pris en charge par l'ARES, notamment l'examen d'entrée en médecine et dentisterie et le test d'orientation du secteur de la santé.</small></li>
       <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Temps partiel, Schaerbeek, Belgique. <small>(sep. 2011 – suin 2015, jan. 2017 – maintenant)</small><br>
       <small>Professeur dans une institution supérieure de promotion sociale dans le cadre des bacheliers en informatique et systèmes et en électronique du pôle technologique.</small></li>
@@ -115,7 +115,10 @@ language: fr
     <h3>Articles de conférence (peer-reviewed)</h3>
 
     <ul>
-      <li>Sébastien Combéfis, et Guillaume de Moffarts. Automated Generation of Computer Generation of Computer Graded Unit Testing-Based Programming Assessments for Education. Dans <i>Actes du 6ème International Conference on Computer Science, Engineering and Information Technology</i>, novembre 2019.</li>
+      <li>Sébastien Combéfis, et Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans <i>Actes de la 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i>, novembre 2020.</li>
+      <li>Sébastien Combéfis, et Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. Dans <i>Actes de Frontiers in Education 2020</i>, octobre 2020.</li>
+      <li>Guillaume de Moffarts, et Sébastien Combéfis. Challengr, a Classroom Response System for Competency Based Assessment and Real-Time Feedback with Micro-Contests. Dans <i>Actes de Frontiers in Education 2020</i>, octobre 2020.</li>
+      <li>Sébastien Combéfis, et Guillaume de Moffarts. Automated Generation of Computer Generation of Computer Graded Unit Testing-Based Programming Assessments for Education. Dans <i>Actes de la 6ème International Conference on Computer Science, Engineering and Information Technology</i>, novembre 2019.</li>
       <li>Sébastien Combéfis, et Arnaud Schils. Automatic Programming Error Class Identification with Code Plagiarism-Based Clustering. Dans <i>Actes du 2ème Int'l Code Hunt Workshop on Educational Software Engineering</i>, novembre 2016.</li>
       <li>Sébastien Combéfis, et Chantal Poncin. Web Platform to Support Teaching Programming with Snap! and Manage Pupils' Learning. Dans <i>Actes de la Scratch Conference 2015</i>, aout 2015.</li>
       <li>Sébastien Combéfis, et Alexis Paques. Pythia reloaded: an Intelligent Unit Testing-Based Code Grader for Education. Dans <i>Actes du 1er Int'l Code Hunt Workshop on Educational Software Engineering</i>, juillet 2015.</li>
@@ -128,9 +131,9 @@ language: fr
       <li>Jim Plumat, Chantal Poncin, Delphine Ducarme, et Sébastien Combéfis. Passer d'un « Service d'Aide à la Réussite » à des « Ateliers de Formation Professionnelle » ou comment passer d'un SAR, une béquille ? – à un AFP, un piolet !. Dans <i>Actes du 27ème Congrès de l'Association Internationale de Pédagogie Universitaire</i>, mai 2012.</li>
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Peter Mehlitz. A JavaPathfinder Extension to Analyse Human-Machine Interactions. Dans <i>Actes du Java Pathfinder Workshop 2011</i>, novembre 2011.</li>
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Michael Feary. Learning System Abstractions for Human Operators. Dans <i>Actes du 2011 International Workshop on Machine Learning Technologies in Software Engineering</i>, novembre 2011.</li>
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Michael Feary. A Formal Framework for Design and Analysis of Human-Machine Interaction. Dans <i>Actes du IEEE International Conference on Systems, Man, and Cybernetics</i>, octobre 2011.</li>
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Michael Feary. A Formal Framework for Design and Analysis of Human-Machine Interaction. Dans <i>Actes de la IEEE International Conference on Systems, Man, and Cybernetics</i>, octobre 2011.</li>
       <li>Sébastien Combéfis, et Charles Pecheur. A Bisimulation-Based Approach to the Analysis of Human-Computer Interaction. Dans <i>Actes du ACM SIGCHI Symposium on Engineering Interactive Computing Systems</i>, juillet 2009.</li>
-      <li>Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. Dans <i>Actes du 8ème International Summer School on MOdelling and VErifying parallel Processes</i>, juin 2008.</li>
+      <li>Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. Dans <i>Actes de la 8ème International Summer School on MOdelling and VErifying parallel Processes</i>, juin 2008.</li>
     </ul>
 
     <h3>Présentations</h3>
@@ -180,6 +183,9 @@ language: fr
     <h3>Présentation à des conférences et workshops</h3>
 
     <ul>
+      <li><b>13th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2020), Tallinn, Estonie 
+      (à distance). <small>(16–18 nov. 2020)</small></li>
+      <li><b>Frontiers in Education 2020</b> (FIE 2020), Uppsala, Suède (à distance). <small>(21–24 oct. 2020)</small></li>
       <li><b>1er Global Forum for Education and Learning</b> (GFEL 2019), Dubaï, Émirats arabes unis. <small>(16–18 déc. 2019)</small></li>
       <li><b>6ème International Conference on Computer Science, Engineering and Information Technology</b> (CSEIT 2019), Zurich, Suisse. <small>(23–24 nov. 2019)</small></li>
       <li><b>12ème International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2019), Larnaca, Chypre. <small>(18–20 nov. 2019)</small></li>

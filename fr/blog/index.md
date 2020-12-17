@@ -44,6 +44,8 @@ language: fr
     San Francisco, CA, USA 2014.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
+      <li><a href="#2020-ref">2020</a></li>
+      <li><a href="#2019-ref">2019</a></li>
       <li><a href="#2018-ref">2018</a></li>
       <li><a href="#2017-ref">2017</a></li>
       <li><a href="#2016-ref">2016</a></li>

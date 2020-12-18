@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Évaluation par compétences, un premier bilan après un quadrimestre"
-date: 2020-01-31 21:25:44 +0200
+title: "Évaluation par compétences, une expérience pédagogique à l'ECAM"
+date: 2019-10-25 21:17:14 +0200
 categories: enseignement, pédagogie
 permalink: /fr/blog/:year/:month/:day/:title/
 language: fr

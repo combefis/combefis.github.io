@@ -33,6 +33,7 @@ Les cinq cours que j'avais à assurer durant ce premier quadrimestre ont tous é
 
 - Le fait de pouvoir contrôler son progrès et de ne plus devoir **subir la pression** d'un examen à un point précis dans le temps qui, s'il est raté, reporte la prochaine tentative de démontrer ses compétences à la session d'aout a été apprécié par les étudiant(e)s.
 - Pouvoir **choisir les travaux** à faire et les évaluations présentées, et ne pas être limité à un unique choix arbitraire défini par l'enseignant, est un des points forts du dispositif, selon les étudiant(e)s et permet à l'enseignant de personnaliser l'apprentissage de ces dernier(e)s.
+- Les étudiant(e)s ont également apprécié ne pas devoir étudier la matière bêtement par cœur, mais devoir **la comprendre** pour pouvoir se défendre lors des présentations des travaux réalisés, tout en pouvant avoir son matériel avec soi (slide, livre de référence, accès à internet, etc.)
 - Enfin, ce dispositif aura permis à l'enseignant de mieux **suivre les étudiant(e)s** au cours de l'année, de pouvoir monitorer leur progrès et de pouvoir leur fournir des feedbacks plus réguliers et directs lors de chaque évaluation.
 
 ## Perspectives

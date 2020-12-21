@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pourquoi j'ai démissioné de l'ECAM ?"
+title: "Pourquoi j'ai démissionné de l'ECAM ?"
 date: 2020-02-17 19:11:34 +0200
 categories: enseignement, travail
 permalink: /fr/blog/:year/:month/:day/:title/

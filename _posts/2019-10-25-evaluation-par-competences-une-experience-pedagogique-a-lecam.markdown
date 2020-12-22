@@ -11,7 +11,7 @@ Cette année académique, je me suis lancé dans une toute nouvelle expérience 
 
 ## Enquête évaluation
 
-Afin d'avoir une meilleure idée de la perception des étudiant(e)s par rapport aux **évaluations**, une brève enquête a été conduite auprès des étudiant(e)s de master des sections informatique et électronique. Elle concernait précisément leurs perceptions par rapport à toutes les évaluations qu'ils et elles ont eues depuis leur première année de bachelier. Voici une sélection des [résultats complets obtenus](/files/ecam/general/ECAM-Evaluations-Survey-2019-results.pdf) (_n = 38_ ou _n = 39_), sur une échelle de Likert à cinq valeurs (0 = rouge = pas du tout d'accord, 4 = vert = tout à fait d'accord) :
+Afin d'avoir une meilleure idée de la perception des étudiant(e)s par rapport aux **évaluations**, une brève enquête a été conduite auprès des étudiant(e)s de master des sections informatique et électronique. Elle concernait précisément leurs perceptions par rapport à toutes les évaluations qu'ils ou elles ont eues depuis leur première année de bachelier. Voici une sélection des [résultats complets obtenus](/files/ecam/general/ECAM-Evaluations-Survey-2019-results.pdf) (_n = 38_ ou _n = 39_), sur une échelle de Likert à cinq valeurs (0 = rouge = pas du tout d'accord, 4 = vert = tout à fait d'accord) :
 
 | Je reçois suffisamment de retours par rapport à mes performances aux évaluations continues (travaux, projets...) | <img src="/images/blog/evaluations-survey-2019-qA4.png" width="187" height="19" alt="Question A4"> |
 | Je n'aime pas les évaluations continues | <img src="/images/blog/evaluations-survey-2019-qA5.png" width="188" height="19" alt="Question A5"> |
@@ -26,7 +26,7 @@ Premier constat, les étudiant(e)s ne sont pas contre les **évaluations continu
 
 ## Méthode proposée
 
-Mais quelle est donc la nouvelle méthode proposée et testée cette année ? En deux mots, les étudiant(e)s reçoivent la **liste complète des compétences** à acquérir pour chacun des cours (certaines étant transversales à plusieurs cours) et vont devoir venir prouver, tout au long de l'année, qu'ils et elles les ont acquises, en passant des petits tests, des quizzes, des courts entretiens oraux et en présentant les résultats intermédiaires d'un projet en cours, etc. durant les séances d'exercices. Tout le suivi des étudiant(e)s se fait à l'aide d'une **plateforme en ligne**, où ils et elles peuvent suivre leur progrès et ont accès très vite aux scans des tests, et aux feedbacks des entretiens oraux [2].
+Mais quelle est donc la nouvelle méthode proposée et testée cette année ? En deux mots, les étudiant(e)s reçoivent la **liste complète des compétences** à acquérir pour chacun des cours (certaines étant transversales à plusieurs cours) et vont devoir venir prouver, tout au long de l'année, qu'ils ou elles les ont acquises, en passant des petits tests, des quizzes, des courts entretiens oraux et en présentant les résultats intermédiaires d'un projet en cours, etc. durant les séances d'exercices. Tout le suivi des étudiant(e)s se fait à l'aide d'une **plateforme en ligne**, où ils ou elles peuvent suivre leur progrès et ont accès très vite aux scans des tests, et aux feedbacks des entretiens oraux [2].
 
 <figure>
   <img src="/images/blog/stars-system-platform.png" width="800" height="481" alt="Plateforme de suivi du progrès des étudiant(e)s">

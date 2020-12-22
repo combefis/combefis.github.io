@@ -11,14 +11,14 @@ language: fr
     <h2>Expériences professionnelles</h2>
 
     <ul>
-      <li><b>Attaché référent</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Temps plein, Bruxelles, Belgique. <small>(mai 2020 – déc. 2020)</small><br>
-      <small>En charge des matières académiques et de la gestion des examens et des tests pris en charge par l'ARES, notamment l'examen d'entrée en médecine et dentisterie et le test d'orientation du secteur de la santé.</small></li>
       <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Temps partiel, Schaerbeek, Belgique. <small>(sep. 2011 – suin 2015, jan. 2017 – maintenant)</small><br>
       <small>Professeur dans une institution supérieure de promotion sociale dans le cadre des bacheliers en informatique et systèmes et en électronique du pôle technologique.</small></li>
       <li><b>Chargé de cours</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Temps partiel, Woluwé-Saint-Lambert, Belgique. <small>(nov. 2020 – maintenant)</small><br>
       <small>Professeur dans une institution supérieure de promotion sociale dans le cadre de la nouvelle formation courte en Cybersécurité.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Temps partiel, Etterbeek, Belgique. <small>(juil. 2017 – maintenant)</small><br>
       <small>Responsable des relations académiques et coordination des thèmes et jurys des challenges IT.</small></li>
+      <li><b>Attaché référent</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Temps plein, Bruxelles, Belgique. <small>(mai 2020 – déc. 2020)</small><br>
+      <small>En charge des matières académiques et de la gestion des examens et des tests pris en charge par l'ARES, notamment l'examen d'entrée en médecine et dentisterie et le test d'orientation du secteur de la santé.</small></li>
       <li><b>Chercheur senior</b>, <i>Centre de Recherche et de Développement de l'ECAM</i> (CERDECAM), Temps partiel, Woluwé-Saint-Lambert, Belgique. <small>(mar. 2018 – sep. 2020)</small><br>
       <small>Superviseur d'un chercheur junior dans le cadre du projet Egonet, en partenariat avec l'UCLouvain et l'IPL.</small></li>
       <li><b>Enseignant</b>, <i>ECAM Brussels Engineering School</i> (ECAM), Temps plein, Woluwé-Saint-Lambert, Belgique. <small>(sep. 2014 – avr. 2020)</small><br>

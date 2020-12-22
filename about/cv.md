@@ -11,14 +11,14 @@ language: en
     <h2>Professional experiences</h2>
 
     <ul>
-      <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Full-Time, Brussels, Belgium. <small>(May 2020 – Dec. 2020)</small><br>
-      <small>In charge of academic subjects and the management of exams and tests supported by ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Part-Time, Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015, Jan. 2017 – now)</small><br>
       <small>Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.</small></li>
       <li><b>Lecturer</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(nov. 2020 – now)</small><br>
       <small>Professor in a higher education institution in social advancement for the new short training in Cybersecurity.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Part-Time, Etterbeek, Belgium. <small>(Jul. 2017 – now)</small><br>
       <small>Responsible of academic relationships and coordination of the  IT challenges themes and jurys.</small></li>
+      <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Full-Time, Brussels, Belgium. <small>(May 2020 – Dec. 2020)</small><br>
+      <small>In charge of academic subjects and the management of exams and tests supported by ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.</small></li>
       <li><b>Senior Researcher</b>, <i>Centre de Recherche et de Développement de l'ECAM</i> (CERDECAM), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(Mar. 2018 – Sep. 2020)</small><br>
       <small>Supervisor of a junior researcher in the frame of the Egonet project, in partnership with UCLouvain and IPL.</small></li>
       <li><b>Lecturer</b>, <i>ECAM Brussels Engineering School</i> (ECAM), Full-Time, Woluwé-Saint-Lambert, Belgium. <small>(Sep. 2014 – Apr. 2020)</small><br>

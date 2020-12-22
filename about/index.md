@@ -14,16 +14,6 @@ language: en
     <p><a href="https://www.linkedin.com/in/scombefis"><img src="/images/btn_liprofile_blue_80x15.gif" alt="LinkedIn" width="80" height="15"></a></p>
 
 
-    <h2>Académie de Recherche et d'Enseignement Supérieur</h2>
-
-    <p><i>Referent attaché</i><br>
-    Rue Royale 180<br>
-    1000 Brussels<br>
-    Belgium</p>
-
-    <p>Email: <a href="mailto:sebastien.combefis@ares-ac.be">sebastien.combefis@ares-ac.be</a></p>
-
-
     <h2>Higher Technical Institute Cardinal Mercier</h2>
 
     <p><i>Technical Professor</i><br>

@@ -52,7 +52,7 @@ La prochaine grosse étape en lien avec cette nouvelle approche pédagogique ser
 
 ## Références
 
-[1] [Évaluation par les compétences](/files/ecam/general/ECAM-Evaluation-Par-Competence-Slides.pdf), information générale, ECAM Brussels Engineering School, 2019-2020.<br>
+[1] [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM), institut supérieur industriel de la Fédération Wallonie-Bruxelles.<br>
 [2] [Coding 1: Image transformation](/files/ucourses/numcomp/NumCompScipy-Coding1.pdf), NC301µ Introduction to Numerical Computing with SciPy, ECAM, Winter 2020.<br>
 [3] [Coding 2: Presenting data](/files/ucourses/numcomp/NumCompScipy-Coding2.pdf), NC301µ Introduction to Numerical Computing with SciPy, ECAM, Winter 2020.<br>
 [4] [The Belgian Open Data Initiative](https://data.gov.be/en), la plateforme fédérale d'accès aux données belges disponibles en Open Data.

@@ -44,5 +44,5 @@ Le dispositif proposé, toujours en cours de **co-construction**, avec les étud
 
 ## Références
 
-[1] [Évaluation par les compétences](/files/ecam/general/ECAM-Evaluation-Par-Competence-Slides.pdf), information générale, ECAM Brussels Engineering School, 2019-2020.<br>
+[1] [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM), institut supérieur industriel de la Fédération Wallonie-Bruxelles.<br>
 [2] Voorhees, R.A. (2001). _Competency‐Based Learning Models: A Necessary Future_, New Directions for Institutional Research, 2011: 5-13. [https://doi.org/10.1002/ir.7](https://doi.org/10.1002/ir.7)

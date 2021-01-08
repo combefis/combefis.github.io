@@ -14,6 +14,16 @@ language: fr
     <p><a href="https://www.linkedin.com/in/scombefis"><img src="/images/btn_liprofile_blue_80x15.gif" alt="LinkedIn" width="80" height="15"></a></p>
 
 
+    <h2>Fédération Wallonie-Bruxelles</h2>
+
+    <p><i>Attaché</i><br>
+    Boulevard Léopold II 44<br>
+    1080 Molenbeek-Saint-Jean<br>
+    Belgique</p>
+
+    <p>E-mail: <a href="sebastien.combefis@cfwb.be">sebastien.combefis@cfwb.be</a></p>
+
+
     <h2>Institut Technique Supérieur Cardinal Mercier</h2>
 
     <p><i>Professeur technique</i><br>

@@ -11,7 +11,9 @@ language: fr
     <h2>Expériences professionnelles</h2>
 
     <ul>
-      <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Temps partiel, Schaerbeek, Belgique. <small>(sep. 2011 – suin 2015, jan. 2017 – maintenant)</small><br>
+      <li><b>Attaché</b>, <i>Fédération Wallonie-Bruxelles</i> (FWB), Temps plein, Molenbeek-Saint-Jean, Belgique. <small>(jan. 2021 – maintenant)</small><br>
+      <small>En charge de l'analyse et de la description de processus pour des développements informatiques pour les membres des personnels de l'enseignement.</small></li>
+      <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Temps partiel, Schaerbeek, Belgique. <small>(sep. 2011 – juin 2015, jan. 2017 – maintenant)</small><br>
       <small>Professeur dans une institution supérieure de promotion sociale dans le cadre des bacheliers en informatique et systèmes et en électronique du pôle technologique.</small></li>
       <li><b>Chargé de cours</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Temps partiel, Woluwé-Saint-Lambert, Belgique. <small>(nov. 2020 – maintenant)</small><br>
       <small>Professeur dans une institution supérieure de promotion sociale dans le cadre de la nouvelle formation courte en Cybersécurité.</small></li>

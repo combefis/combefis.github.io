@@ -11,6 +11,8 @@ language: en
     <h2>Professional experiences</h2>
 
     <ul>
+      <li><b>Attaché</b>, <i>Fédération Wallonie-Bruxelles</i> (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. <small>(Jan. 2021 – now)</small><br>
+      <small>In charge of analysing and describing processes for IT developments for members of teaching staff.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Part-Time, Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015, Jan. 2017 – now)</small><br>
       <small>Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.</small></li>
       <li><b>Lecturer</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(nov. 2020 – now)</small><br>

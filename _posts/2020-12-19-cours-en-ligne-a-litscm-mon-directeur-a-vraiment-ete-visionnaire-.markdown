@@ -37,7 +37,11 @@ Concernant la découpe du contenu du cours en plusieurs **micro-cours**, dont le
 
 Au niveau des **outils numériques** pour l'enseignement, l'un des objectifs du cours étant aussi de permettre aux étudiant(e)s d'être confrontés à plusieurs de ces outils, les supports de cours sont mis à disposition sur la plateforme Canvas, les cours et entretiens sont donnés par Microsoft Teams, les séances d'exercices, de consultance et de questions/réponses se font via Discord, qui permet une communication asynchrone très facile, et la plateforme TLCA supporte le dispositif d'évaluation par compétences.
 
-Enfin, ce dispositif permet également d'établir, malgré tout, des liens forts entre l'enseignant(e) et les étudiant(e)s, à l'occasion des **entretiens individuels** lors desquels les travaux sont présentés à l'enseignant(e) pour valider les compétences acquises et gagner des étoiles. Ces entretiens sont l'occasion de feedback sur les apprentissages, mais également l'occasion de maintenir le moral et la motivation des étudiant(e)s à flot !
+## Conclusion
+
+Envisager tout un cursus à distance n'est évidemment pas envisageable. L'être humain reste avant tout un être social et la **relation enseignant(e)–étudiant(e)** qui se crée en classe est et reste très importante. Néanmoins, dans le futur, maintenir un tel cours à 100% en ligne au sein d'un cursus est souhaitable. En effet, cela permet aux étudiant(e)s de développer des **soft skills** qui leur seront utiles dans leur vie professionnelle future, où ils se retrouveront à devoir suivre des formations ou réunions à distance, avec une série d'outils numériques. Aussi, cela permet aux écoles de proposer à leurs étudiant(e)s des cours donnés par des enseignant(e)s qui ne sauraient pas forcément se déplacer physiquement dans leurs locaux. Enfin, l'impact sur l'environnement est certes positif de par l'absence de déplacements, mais négatif dû à la consommation numérique engendrée.
+
+Pour conclure, le dispositif mis en place permet d'établir, malgré tout, des liens forts entre l'enseignant(e) et les étudiant(e)s, à l'occasion des **entretiens individuels** lors desquels les travaux sont présentés par les étudiant(e)s aux enseignant(e)s pour valider les compétences acquises et gagner des étoiles. Ces entretiens sont l'occasion de feedback sur les apprentissages, mais également l'occasion de maintenir le moral et la motivation des étudiant(e)s à flot, action très importante dans le cadre de la promotion sociale et d'autant plus en cette année de pandémie !
 
 ## Références
 

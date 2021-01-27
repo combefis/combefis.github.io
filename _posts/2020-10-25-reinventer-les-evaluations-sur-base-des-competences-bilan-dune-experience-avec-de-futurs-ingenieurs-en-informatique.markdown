@@ -30,13 +30,24 @@ L'article présenté fut également l'occasion de faire **un bilan** plus détai
 
 On constate que **le dispositif a été apprécié** dans son ensemble par les étudiant(e)s, malgré le sentiment d'avoir dû travailler plus et de ne pas forcément s'être senti plus accompagné. Évidemment, le dispositif a été partiellement perturbé suite au confinement soudain, imposé par le Gouvernement suite à la crise du COVID-19. Et encore... ce dispositif pédagogique s'est en fait montré assez efficace pour dispenser un cours entièrement à distance, ce qui s'observe encore avec le cours dont j'ai la charge en ce moment et qui a été dès le départ donné à 100% en distanciel.
 
-## Présentation
+## Conférence
 
-Lors de la conférence, à 100% en distanciel cette année, les articles courts étaient présentés par une **vidéo pré-enregistrée** de 5 minutes suivie d'une séance de questions/réponses en live. Vous trouverez la vidéo présentant cet article sur [ma chaine Youtube](https://www.youtube.com/c/SébastienCombéfis), et ci-dessous.
+Cette conférence était également la première organisée à **100% en ligne** à laquelle j'ai pu participer, bien qu'elle était initialement planifiée pour avoir lieu en présentiel ou de manière hybride. Les organisateurs ont fait le choix de la [plateforme Hopin](https://hopin.com) tant pour les séances plénières que pour les plus petites sessions parallèles. Mon expérience avec cette plateforme a été très bonne, à la seule exception que je n'ai pas pu récupérer le contenu des messages échangés par le chat avec d'autres participants, après la conférence, perdant ainsi quelques références intéressantes... Enfin, j'ai également pu utiliser la plateforme comme **modérateur**, ayant été mobilisé comme bénévole pour deux sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/su1lCCqORbU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="slideshow">
+  <div><img src="/images/blog/FIE2020-plenary.png" width="600" height="305" alt="Séance plénière"><br>Les séances plénières donnaient des informations aux participants, introduisaient les orateurs invités et animaient les séances de question/réponse avec ces derniers.</div>
+  <div><img src="/images/blog/FIE2020-moderator.png" width="600" height="327" alt="Session en tant que modérateur"><br>En pleine animation et modération d'une des sessions parallèle le vendredi 23 octobre 2020.</div>
+</div>
 
 Depuis la rédaction de cet article, le dispositif a encore été grandement **amélioré**, tout comme la plateforme l'accompagnant, notamment grâce à l'expérience de la première année test à l'ECAM et aussi déjà grâce aux premiers retours de [l'expérience menée à l'EPHEC](/fr/blog/2020/09/06/les-etoiles-de-competence-sinvitent-a-lephec-cette-annee/) par Virginie Van den Schrieck, première enseignante autre que moi-même à avoir conçu un cours suivant le dispositif que j'ai conçu. Ceci permettra d'autres évaluations, notamment du point de vue de l'enseignant(e), pour continuer le développement et l'amélioration du dispositif.
+
+## Présentation
+
+Concernant les articles courts, comme le mien qui a été accepté, ils étaient présentés par une **vidéo pré-enregistrée** de 5 minutes suivie d'une séance de questions/réponses en live. Vous trouverez la vidéo présentant cet article sur [ma chaine Youtube](https://www.youtube.com/c/SébastienCombéfis), et ci-dessous.
+
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/su1lCCqORbU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Références
 

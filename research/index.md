@@ -8,7 +8,7 @@ language: en
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <p>I currently work as a part-time <em>senior researcher</em> at the <a href="https://cerdecam.jimdofree.com">CERDECAM</a>, the research center associated to the <a href="https://www.ecam.be">ECAM Brussels Engineering School</a> (ECAM), where I am working on <b>data analysis</b>.</p>
+    <p>I worked a little over two and a half year as a part-time <em>senior researcher</em> at the <a href="https://cerdecam.jimdofree.com">CERDECAM</a>, the research center associated to the <a href="https://www.ecam.be">ECAM Brussels Engineering School</a> (ECAM), where I mainly worked on <b>data analysis</b> in the frame of the Egonet project.</p>
 
     <p>I got my PhD in November 2013 from the <a href="https://www.uclouvain.be/en/">Université catholique de Louvain</a> (UCLouvain), where I worked under the supervision of Prof. Charles Pecheur. My PhD thesis is about the analysis of <em>human-machine interaction using formal methods</em>. More precisely, by modelling systems using enriched Labelled Transition Systems, we generate abstractions of these systems, called mental models, to allow their operators to control them in a proper way.</p>
 

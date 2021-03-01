@@ -134,8 +134,7 @@ language: en
       <li>Sébastien Combéfis, and Charles Pecheur. Automatic Generation of Full-Control System Abstraction for Human-Machine Interaction. In <i>Proceedings of the Workshop on Formal Methods in Human-Machine Interaction</i>, May 2012.</li>
       <li>Jim Plumat, Chantal Poncin, Delphine Ducarme, and Sébastien Combéfis. Passer d'un « Service d'Aide à la Réussite » à des « Ateliers de Formation Professionnelle » ou comment passer d'un SAR, une béquille ? – à un AFP, un piolet !. In <i>Proceedings of the 27th Congrès de l'Association Internationale de Pédagogie Universitaire</i>, May 2012.</li>
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, and Peter Mehlitz. A JavaPathfinder Extension to Analyse Human-Machine Interactions. In <i>Proceedings of the Java Pathfinder Workshop 2011</i>, November 2011.</li>
-      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, and Michael Feary. Learning System Abstractions for Human Operators. In
-      <i>Proceedings of the 2011 International Workshop on Machine Learning Technologies in Software Engineering</i>, November 2011.</li>
+      <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, and Michael Feary. Learning System Abstractions for Human Operators. In <i>Proceedings of the 2011 International Workshop on Machine Learning Technologies in Software Engineering</i>, November 2011.</li>
       <li>Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, and Michael Feary. A Formal Framework for Design and Analysis of Human-Machine Interaction. In <i>Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics</i>, October 2011.</li>
       <li>Sébastien Combéfis, and Charles Pecheur. A Bisimulation-Based Approach to the Analysis of Human-Computer Interaction. In <i>Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems</i>, July 2009.</li>
       <li>Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. In <i>Proceedings of the 8th International Summer School on MOdelling and VErifying parallel Processes</i>, June 2008.</li>
@@ -144,6 +143,7 @@ language: en
     <h3>Presentations</h3>
 
     <ul>
+      <li>Sébastien Combéfis. Conception d'un cours entièrement à distance avec une évaluation par compétences. At the <i>7ème Printemps Numérique International</i>, February 2021.</li>
       <li>Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. At <i>1st Global Forum for Education and Learning</i>, December 2019.</li>
       <li>Sébastien Combéfis. Enseignement de l'informatique et enseignement numérique : État de l'art. At <i>Ludovia#BE 2019</i>, October 2019.</li>
       <li>Pablo Nicaise, François Wyngaerden, Hélène Garin, Sébastien d'Oreye de Lantremange, Sébastien Combéfis, and Vincent Lorant. Does the Structure of the Personal Networks of Patients with Severe Mental Illness Differ from the Common Types Found in the General Population?. At <i>4th European Conference on Social Networks</i>, September 2019.</li>
@@ -188,6 +188,7 @@ language: en
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>7ème Printemps Numérique International</b> (PNI 7), Turkey (remotely). <small>(26–27 Feb. 2021)</small></li>
       <li><b>13th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2020), Tallinn, Estonia 
       (remotely). <small>(16–18 Nov. 2020)</small></li>
       <li><b>Frontiers in Education 2020</b> (FIE 2020), Uppsala, Sweden (remotely). <small>(21–24 Oct. 2020)</small></li>
@@ -289,8 +290,7 @@ language: en
     <ul>
       <li><b>2261.11.U31.D1 – Transmission numérique</b>, <i>Third year bachelor students in informatics and systems and in electronics</i>. <small>(2017–now, 4 years)</small><br>
       <small>This course presents how to identify and analyse digital transmission with the specific circuits and needed protocols. Students have an opportunity to design and develop a complete sensor-based system with data transmission during the laboratory.</small></li>
-      <li><b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
-      technologies : Bases de la programmation</b>, <i>Second year bachelor students in informatics and systems</i>. <small>(2011–2014, 4 years)</small><br>
+      <li><b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux technologies : Bases de la programmation</b>, <i>Second year bachelor students in informatics and systems</i>. <small>(2011–2014, 4 years)</small><br>
       <small>This course teaches basic programming concepts: multidimensional arrays, embedded loops, boolean and characters, decomposition in procedures and functions, file manipulation...</small></li>
       <li><b>2982.21.U31.D1 – Initiation aux bases de données</b>, <i>First year bachelor students in informatics and systems and in electronics</i>. <small>(2013–2015, 3 years)</small><br>
       <small>This course is an introduction to databases and presents DataBase Management System (DBMS), relational databases, Structured Query Language (SQL), primary keys and views, table joins, data importation and exportation...</small></li>
@@ -512,6 +512,18 @@ language: en
     <h2>Media coverage</h2>
 
     <ul>
+      <li>Interview by the newspaper <i>La DH</i> for the Lake White House of Louvain-la-Neuve. <small>(27–28 Feb. 2021)</small>
+      <a href="/files/media/combefis-la-dh-february-2021.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li>Interview by the <i>RTBF</i> for the Lake White House of Louvain-la-Neuve. <small>(23 Feb. 2021)</small>
+      <a href="/files/media/combefis-rtbf-february-2021.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li>Interview by the local television channel <i>TVCom</i> for the special edition celebrating the 50 years of Louvain-la-Neuve. <small>(2 Feb. 2021)</small>
+      <a href="/files/media/combefis-tvcom-february-2021.mp4"><img src="/images/video.png" width="16" height="16" alt="Video"></a></li>
+      <li>Interview by the radio channel <i>Vivacité</i> in the show: Brabant-Wallon matin spéciale 50 ans de Louvain-la-Neuve. <small>(2 Feb. 2021)</small>
+      <a href="/files/media/combefis-Vivacite-february-2021.mp3"><img src="/images/sound.png" width="16" height="16" alt="Sound"></a></li>
+      <li>Interview by the newspaper <i>Le Soir</i> for a special report for the 50th anniversary of Louvain-la-Neuve. <small>(30–31 Jan. 2021)</small>
+      <a href="/files/media/combefis-le-soir-january-2021.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li>Interview by the television channel <i>RTBF</i> for the noon TV news about the COVID-19 situation in Louvain-la-Neuve. <small>(12 Oct. 2020)</small>
+      <a href="/files/media/combefis-rtbf-october-2020.mp4"><img src="/images/video.png" width="16" height="16" alt="Video"></a></li>
       <li>Interview by the regional newspaper <i>Vers l'Avenir Brabant Wallon</i> for taking office as President of the Association des Habitants de Louvain-la-Neuve. <small>(24 sep. 2020)</small>
       <a href="/files/media/combefis-vers-l-avenir-september-2020.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li>Interview by <i>GFEL 2019</i> for Top 100 Leaders in Education 2019 Award. <small>(18 Dec. 2019)</small>

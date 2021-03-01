@@ -54,6 +54,8 @@ language: fr
       <small>La Maison du Développement Durable est une ASBL dont le but est de proposer un lieu pour faire vivre la transition vers une société plus écologique, plus équitable, plus conviviale, localement et globalement.</small></li>
       <li><b>Fondateur et Président</b>, <i>Computer Science and IT in Education ASBL</i> (CSITEd), Temps partiel, Louvain-la-Neuve, Belgique. <small>(juil. 2012 – maintenant)</small><br>
       <small>CSITEd est une ASBL dont le but est la promotion de l'informatique au sens large, en particulier auprès des élèves du primaire et du secondaire et dans le domaine de l'éducation.</small></li>
+      <li><b>Task Handling Committee member</b>, <i>Bebras Community</i>, Temps partiel, International. <small>(mai 2019 – mai 2020)</small><br>
+      <small>Le Bebras Task Handling Committee est en charge de la gestion de tout le processus en lien avec les tâches Bebras pour préparer le workshop annuel (processus du pre-workshop, appel à tâches, processus de review, préparation des groupes de travail, etc.).</small></li>
       <li><b>Président</b>, <i>Corps Scientifique de l'Université catholique de Louvain</i> (CORSCI), Temps partiel, Louvain-la-Neuve, Belgique. <small>(sep. 2013 – mai 2014)</small><br>
       <small>Le Corps Scientifique de l'Université rassemble tous les chercheurs qui ne sont pas des professeurs. Le rôle du Président est de représenter ces chercheurs dans différents organes de l'université, certains étant des organes de décision.</small></li>
       <li><b>Trésorier</b>, <i>UCLouvain ACM Student Chapter ASBL</i>, Temps partiel, Louvain-la-Neuve, Belgique. <small>(sep. 2011 – sep. 2013)</small></li>
@@ -141,6 +143,7 @@ language: fr
     <h3>Présentations</h3>
 
     <ul>
+      <li>Sébastien Combéfis. Conception d'un cours entièrement à distance avec une évaluation par compétences. Lors du <i>7ème Printemps Numérique International</i>, février 2021.</li>
       <li>Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. Lors du <i>1er Global Forum for Education and Learning</i>, décembre 2019.</li>
       <li>Sébastien Combéfis. Enseignement de l'informatique et enseignement numérique : État de l'art. Lors de <i>Ludovia#BE 2019</i>, octobre 2019.</li>
       <li>Pablo Nicaise, François Wyngaerden, Hélène Garin, Sébastien d'Oreye de Lantremange, Sébastien Combéfis, et Vincent Lorant. Does the Structure of the Personal Networks of Patients with Severe Mental Illness Differ from the Common Types Found in the General Population?. Lors de la <i>4ème European Conference on Social Networks</i>, septembre 2019.</li>
@@ -185,6 +188,7 @@ language: fr
     <h3>Présentation à des conférences et workshops</h3>
 
     <ul>
+      <li><b>7ème Printemps Numérique International</b> (PNI 7), Turquie (à distance). <small>(26–27 fév. 2021)</small></li>
       <li><b>13th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2020), Tallinn, Estonie 
       (à distance). <small>(16–18 nov. 2020)</small></li>
       <li><b>Frontiers in Education 2020</b> (FIE 2020), Uppsala, Suède (à distance). <small>(21–24 oct. 2020)</small></li>
@@ -508,6 +512,18 @@ language: fr
     <h2>Couverture média</h2>
 
     <ul>
+      <li>Interview par le journal <i>La DH</i> pour la Maison Blanche du Lac de Louvain-la-Neuve. <small>(27–28 fév. 2021)</small>
+      <a href="/files/media/combefis-la-dh-february-2021.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li>Interview par la <i>RTBF</i> pour la Maison Blanche du Lac de Louvain-la-Neuve. <small>(23 fév. 2021)</small>
+      <a href="/files/media/combefis-rtbf-february-2021.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li>Interview par la chaine de télévision locale <i>TVCom</i> pour l'édition spéciale 50 ans de Louvain-la-Neuve. <small>(2 fév. 2021)</small>
+      <a href="/files/media/combefis-tvcom-february-2021.mp4"><img src="/images/video.png" width="16" height="16" alt="Vidéo"></a></li>
+      <li>Interview par la chaine de radio <i>Vivacité</i> dans l'émission Brabant-Wallon matin spéciale 50 ans de Louvain-la-Neuve. <small>(2 fév. 2021)</small>
+      <a href="/files/media/combefis-Vivacite-february-2021.mp3"><img src="/images/sound.png" width="16" height="16" alt="Son"></a></li>
+      <li>Interview par le journal <i>Le Soir</i> pour un reportage spécial Louvain-la-Neuve à l'occasion de ses 50 ans. <small>(30–31 jan. 2021)</small>
+      <a href="/files/media/combefis-le-soir-january-2021.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+      <li>Interview par la chaine de télévision <i>RTBF</i> pour le journal télévisé de 13h par rapport à la situation COVID-19 à Louvain-la-Neuve. <small>(12 oct. 2020)</small>
+      <a href="/files/media/combefis-rtbf-october-2020.mp4"><img src="/images/video.png" width="16" height="16" alt="Vidéo"></a></li>
       <li>Interview par le journal régional <i>Vers l'Avenir Brabant Wallon</i> pour la prise de fonction comme Président de l'Association des Habitants de Louvain-la-Neuve. <small>(24 sep. 2020)</small>
       <a href="/files/media/combefis-vers-l-avenir-september-2020.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li>Interview par <i>GFEL 2019</i> pour le prix Top 100 Leaders in Education 2019. <small>(18 déc. 2019)</small>

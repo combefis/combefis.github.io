@@ -8,9 +8,18 @@ language: en
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <h2 id="2020-ref">2020</h2>
+    <h2 id="2021-ref">2021</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis, and Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. To appear in <i>Proceedings of Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, October 2021.</li>
+
+      <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. To appear in <i>Proceedings of Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, October 2021.</li>
+    </ol>
+
+
+    <h2 id="2020-ref">2020</h2>
+
+    <ol class="publications-continue">
       <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. In <i>Proceedings of the 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i> (ISSEP 2020), Tallinn, Estonia, November 2020.
       <a href="/files/publi/combefis-issep2020.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-issep2020-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
@@ -235,6 +244,7 @@ language: en
     Uppsala, Sweden, April 2015.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
+      <li><a href="#2021-ref">2021</a></li>
       <li><a href="#2020-ref">2020</a></li>
       <li><a href="#2019-ref">2019</a></li>
       <li><a href="#2017-ref">2017</a></li>

@@ -11,24 +11,28 @@ language: fr
     <h2 id="2021-ref">2021</h2>
 
     <ol class="publications-start">
-      <li>Sébastien Combéfis, et Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. À paraitre dans les <i>Actes de Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, octobre 2021.</li>
+      <li>Sébastien Combéfis, et Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. Dans <i>Actes de Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, octobre 2021.
+      <a href="/files/publi/combefis-fie2021-1.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-fie2021-1-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. À paraitre dans les <i>Actes de Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, octobre 2021.</li>
+      <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. Dans <i>Actes de Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, octobre 2021.
+      <a href="/files/publi/combefis-fie2021-2.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-fie2021-2-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
     </ol>
 
 
     <h2 id="2020-ref">2020</h2>
 
     <ol class="publications-continue">
-      <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans <i>Actes de la 13ème International Conference on Informatics in School: Situation, Evaluation, Problems</i> (ISSEP 2020), Tallinn, Estonie, Novembre 2020.
+      <li>Sébastien Combéfis, et Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans <i>Actes de la 13ème International Conference on Informatics in School: Situation, Evaluation, Problems</i> (ISSEP 2020), Tallinn, Estonie, Novembre 2020.
       <a href="/files/publi/combefis-issep2020.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-issep2020-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li>Sébastien Combéfis, et Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. Dans <i>Actes de Frontiers in Education 2020</i> (FIE 2020), Uppsala, Suède, Octobre 2020.
+      <li>Sébastien Combéfis, et Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. Dans <i>Actes de Frontiers in Education 2020</i> (FIE 2020), Uppsala, Suède, octobre 2020.
       <a href="/files/publi/combefis-fie2020-1.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-fie2020-1-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li>Guillaume de Moffarts, et Sébastien Combéfis. Challengr, a Classroom Response System for Competency Based Assessment and Real-Time Feedback with Micro-Contests. Dans <i>Actes de Frontiers in Education 2020</i> (FIE 2020), Uppsala, Suède, Octobre 2020.
+      <li>Guillaume de Moffarts, et Sébastien Combéfis. Challengr, a Classroom Response System for Competency Based Assessment and Real-Time Feedback with Micro-Contests. Dans <i>Actes de Frontiers in Education 2020</i> (FIE 2020), Uppsala, Suède, octobre 2020.
       <a href="/files/publi/combefis-fie2020-2.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-fie2020-2-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
     </ol>

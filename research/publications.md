@@ -11,9 +11,13 @@ language: en
     <h2 id="2021-ref">2021</h2>
 
     <ol class="publications-start">
-      <li>Sébastien Combéfis, and Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. To appear in <i>Proceedings of Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, October 2021.</li>
+      <li>Sébastien Combéfis, and Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. In <i>Proceedings of Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, October 2021.
+      <a href="/files/publi/combefis-fie2021-1.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-fie2021-1-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
 
-      <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. To appear in <i>Proceedings of Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, October 2021.</li>
+      <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. In <i>Proceedings of Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, October 2021.
+      <a href="/files/publi/combefis-fie2021-2.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
+      <a href="/files/publi/combefis-fie2021-2-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
     </ol>
 
 

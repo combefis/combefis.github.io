@@ -12,11 +12,13 @@ language: en
 
     <ul>
       <li><b>Attaché</b>, <i>Fédération Wallonie-Bruxelles</i> (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. <small>(Jan. 2021 – now)</small><br>
-      <small>In charge of analysing and describing processes for IT developments for members of teaching staff.</small></li>
+      <small>In charge of business analysis and process description for IT developments of management applications for members of teaching staff.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Part-Time, Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015, Jan. 2017 – now)</small><br>
       <small>Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.</small></li>
       <li><b>Lecturer</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(nov. 2020 – now)</small><br>
-      <small>Professor in a higher education institution in social advancement for the new short training in Cybersecurity.</small></li>
+      <small>Professor in a higher education institution in social advancement for the short training in cybersecurity.</small></li>
+      <li><b>Lecturer</b>, <i>Haute École Provinciale de Hainaut - Condorcet</i> (HEPH-Condorcet), Part-Time, Tournai, Belgium. <small>(sep. 2021 – now)</small><br>
+      <small>Professor in a higher education institution for the specialisation bachelor in network and computer systems security.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Part-Time, Etterbeek, Belgium. <small>(Jul. 2017 – now)</small><br>
       <small>Responsible of academic relationships and coordination of the  IT challenges themes and jurys.</small></li>
       <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Full-Time, Brussels, Belgium. <small>(May 2020 – Dec. 2020)</small><br>
@@ -119,6 +121,8 @@ language: en
     <h3>Conference papers (peer-reviewed)</h3>
 
     <ul>
+      <li>Sébastien Combéfis, and Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. In <i>Proceedings of Frontiers in Education 2021</i>, October 2021.</li>
+      <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. In <i>Proceedings of Frontiers in Education 2021</i>, October 2021.</li>
       <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. In <i>Proceedings of the 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i>, November 2020.</li>
       <li>Sébastien Combéfis, and Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. In <i>Proceedings of Frontiers in Education 2020</i>, October 2020.</li>
       <li>Guillaume de Moffarts, and Sébastien Combéfis. Challengr, a Classroom Response System for Competency Based Assessment and Real-Time Feedback with Micro-Contests. In <i>Proceedings of Frontiers in Education 2020</i>, October 2020.</li>
@@ -188,6 +192,7 @@ language: en
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>Frontiers in Education 2021</b> (FIE 2021), Lincoln, NE, USA (remotely). <small>(13–16 Oct. 2021)</small></li>
       <li><b>7ème Printemps Numérique International</b> (PNI 7), Turkey (remotely). <small>(26–27 Feb. 2021)</small></li>
       <li><b>13th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2020), Tallinn, Estonia 
       (remotely). <small>(16–18 Nov. 2020)</small></li>
@@ -242,14 +247,15 @@ language: en
     <h3>Participation (conference, workshop, tutorial...)</h3>
 
     <ul>
-      <li><b>16th International Bebras Task Workshop</b>, Daejeon, South Korea (remotely). <small>(18–22 May 2019)</small></li>
+      <li><b>17th International Bebras Task Workshop</b>, Druskininkai, Lithuania (remotely). <small>(17–21 May 2021)</small></li>
+      <li><b>16th International Bebras Task Workshop</b>, Daejeon, South Korea (remotely). <small>(18–22 May 2020)</small></li>
       <li><b>15th International Bebras Task Workshop</b>, Balatonkenese, Hungary. <small>(13–17 May 2019)</small></li>
       <li><b>XXXVIII Sunbelt Conference</b> (Sunbelt 2018), Utrecht, The Netherlands. <small>(26 Jun.–1 Jul. 2018)</small></li>
       <li><b>Google Hash Code 2018</b>, <i>Online Qualification Round</i>, Woluwé-Saint-Lambert, Belgium. <small>(1 Mar. 2018)</small></li>
       <li><b>13th International Bebras Task Workshop</b>, Brescia, Italy. <small>(29 May–2 Jun. 2017)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>Online Qualification Round</i>, Woluwé-Saint-Lambert, Belgium. <small>(23 Feb. 2017)</small></li>
       <li><b>11th International Bebras Task Workshop</b>, Sankt-Pölten, Austria. <small>(25–29 May 2015)</small></li>
-      <li><b>IOI Workshop 2015</b>, Bitola, Republic of Macedonia. <small>(19–24 Apr. 2015)</small></li>
+      <li><b>IOI Workshop 2015</b>, Bitola, North Macedonia. <small>(19–24 Apr. 2015)</small></li>
       <li><b>edX Consortium Meeting</b>, Boston, MA, USA. <small>(24–26 Nov. 2013)</small></li>
       <li><b>Euraxess Conference: Raising Researchers' Voices – Opinions on Job Careers and Rights</b>, Brussels, Belgium. <small>(21–22 Nov. 2013)</small></li>
       <li><b>9th International Bebras Task Workshop</b>, Toruń, Poland. <small>(28–30 Jun. 2013)</small></li>
@@ -478,8 +484,8 @@ language: en
 
     <ul>
       <li><b>Association des Habitants de Louvain-la-Neuve</b> (AHLLN), <i>Member</i>. <small>(2018–now)</small></li>
-      <li><b>Mouvement Réformateur</b> (MR), <i>Member</i>. <small>(2014–now)</small></li>
       <li><b>Alumni Ingénieurs Louvain</b> (AILouvain), <i>Member</i>. <small>(2007–now)</small></li>
+      <li><b>Mouvement Réformateur</b> (MR), <i>Member</i>. <small>(2014–2020)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>, <i>Member</i>. <small>(2002)</small></li>
     </ul>
 

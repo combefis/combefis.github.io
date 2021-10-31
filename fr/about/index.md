@@ -44,6 +44,16 @@ language: fr
     <p>E-mail : <a href="mailto:s.combefis@ephec.be">s.combefis@ephec.be</a></p>
 
 
+    <h2>Haute École Provinciale de Hainaut - Condorcet</h2>
+
+    <p><i>Enseignant</i><br>
+    Digue de Cuesmes 29<br>
+    7000 Mons<br>
+    Belgique</p>
+
+    <p>E-mail : <a href="mailto:sebastien.combefis@condorcet.be">sebastien.combefis@condorcet.be</a></p>
+
+
     <h2>EDITx</h2>
 
     <p><i>Head Advisory Board</i><br>

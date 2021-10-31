@@ -12,11 +12,13 @@ language: fr
 
     <ul>
       <li><b>Attaché</b>, <i>Fédération Wallonie-Bruxelles</i> (FWB), Temps plein, Molenbeek-Saint-Jean, Belgique. <small>(jan. 2021 – maintenant)</small><br>
-      <small>En charge de l'analyse et de la description de processus pour des développements informatiques pour les membres des personnels de l'enseignement.</small></li>
+      <small>En charge d'analyses métier et de la description de processus dans le cadre de développements informatiques d'applications de gestion des membres des personnels de l'enseignement.</small></li>
       <li><b>Professeur</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Temps partiel, Schaerbeek, Belgique. <small>(sep. 2011 – juin 2015, jan. 2017 – maintenant)</small><br>
-      <small>Professeur dans une institution supérieure de promotion sociale dans le cadre des bacheliers en informatique et systèmes et en électronique du pôle technologique.</small></li>
+      <small>Professeur dans un établissement d'enseignement supérieur de promotion sociale dans le cadre des bacheliers en informatique et systèmes et en électronique du pôle technologique.</small></li>
       <li><b>Chargé de cours</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Temps partiel, Woluwé-Saint-Lambert, Belgique. <small>(nov. 2020 – maintenant)</small><br>
-      <small>Professeur dans une institution supérieure de promotion sociale dans le cadre de la nouvelle formation courte en Cybersécurité.</small></li>
+      <small>Professeur dans un établissement d'enseignement supérieur de promotion sociale dans le cadre de la formation courte en cybersécurité.</small></li>
+      <li><b>Enseignant</b>, <i>Haute École Provinciale de Hainaut - Condorcet</i> (HEPH-Condorcet), Temps partiel, Tournai, Belgique. <small>(sep. 2021 – maintenant)</small><br>
+      <small>Professeur dans un établissement d'enseignement supérieur dans le cadre du bachelier de spécialisation en sécurité des réseaux et systèmes informatiques.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Temps partiel, Etterbeek, Belgique. <small>(juil. 2017 – maintenant)</small><br>
       <small>Responsable des relations académiques et coordination des thèmes et jurys des challenges IT.</small></li>
       <li><b>Attaché référent</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Temps plein, Bruxelles, Belgique. <small>(mai 2020 – déc. 2020)</small><br>
@@ -119,6 +121,8 @@ language: fr
     <h3>Articles de conférence (peer-reviewed)</h3>
 
     <ul>
+      <li>Sébastien Combéfis, et Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. Dans <i>Actes de Frontiers in Education 2021</i>, octobre 2021.</li>
+      <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. Dans <i>Actes de Frontiers in Education 2021</i>, octobre 2021.</li>
       <li>Sébastien Combéfis, et Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans <i>Actes de la 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i>, novembre 2020.</li>
       <li>Sébastien Combéfis, et Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. Dans <i>Actes de Frontiers in Education 2020</i>, octobre 2020.</li>
       <li>Guillaume de Moffarts, et Sébastien Combéfis. Challengr, a Classroom Response System for Competency Based Assessment and Real-Time Feedback with Micro-Contests. Dans <i>Actes de Frontiers in Education 2020</i>, octobre 2020.</li>
@@ -188,6 +192,7 @@ language: fr
     <h3>Présentation à des conférences et workshops</h3>
 
     <ul>
+      <li><b>Frontiers in Education 2021</b> (FIE 2021), Lincoln, NE, USA (à distance). <small>(13–16 oct. 2021)</small></li>
       <li><b>7ème Printemps Numérique International</b> (PNI 7), Turquie (à distance). <small>(26–27 fév. 2021)</small></li>
       <li><b>13th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2020), Tallinn, Estonie 
       (à distance). <small>(16–18 nov. 2020)</small></li>
@@ -242,6 +247,7 @@ language: fr
     <h3>Participation (conférence, workshop, tutoriel...)</h3>
 
     <ul>
+      <li><b>17ème International Bebras Task Workshop</b>, Druskininkai, Lituanie (à distance). <small>(17–21 mai 2021)</small></li>
       <li><b>16ème International Bebras Task Workshop</b>, Daejeon, Corée du Sud (à distance). <small>(18–22 mai 2020)</small></li>
       <li><b>15ème International Bebras Task Workshop</b>, Balatonkenese, Hongrie. <small>(13–17 mai 2019)</small></li>
       <li><b>XXXVIII Sunbelt Conference</b> (Sunbelt 2018), Utrecht, Pays-Bas. <small>(26 juin–1 juil. 2018)</small></li>
@@ -249,11 +255,11 @@ language: fr
       <li><b>13ème International Bebras Task Workshop</b>, Brescia, Italie. <small>(29 mai–2 juin 2017)</small></li>
       <li><b>Google Hash Code 2017</b>, <i>Phase de qualification en ligne</i>, Woluwé-Saint-Lambert, Belgique. <small>(23 fév. 2017)</small></li>
       <li><b>11ème International Bebras Task Workshop</b>, Sankt-Pölten, Autriche. <small>(25–29 mai 2015)</small></li>
-      <li><b>IOI Workshop 2015</b>, Bitola, République de Macédoine. <small>(19–24 avr. 2015)</small></li>
+      <li><b>IOI Workshop 2015</b>, Bitola, Macédoine du Nord. <small>(19–24 avr. 2015)</small></li>
       <li><b>edX Consortium Meeting</b>, Boston, MA, USA. <small>(24–26 nov. 2013)</small></li>
       <li><b>Euraxess Conference: Raising Researchers' Voices – Opinions on Job Careers and Rights</b>, Bruxelles, Belgique. <small>(21–22 nov. 2013)</small></li>
       <li><b>9ème International Bebras Task Workshop</b>, Toruń, Pologne. <small>(28–30 juin 2013)</small></li>
-      <li><b>8ème International Bebras Task Workshop</b>, Druskininkai, Lithuanie. <small>(29 mai 2012–3 juin 2012)</small></li>
+      <li><b>8ème International Bebras Task Workshop</b>, Druskininkai, Lituanie. <small>(29 mai 2012–3 juin 2012)</small></li>
       <li><b>2011 IEEE International Conference on Systems, Man, and Cybernetics</b> (SMC 2011), Anchorage, AK, USA. <small>(9 oct. 2011)</small></li>
       <li><b>5ème GASICS Meeting</b>, Mons, Belgique. <small>(5–6 mai 2011)</small></li>
       <li><b>25ème IEEE/ACM International Conference on Automated Software Engineering</b> (ASE 2010), Anvers, Belgique. <small>(20–24 sep. 2010)</small></li>
@@ -478,8 +484,8 @@ language: fr
 
     <ul>
       <li><b>Association des Habitants de Louvain-la-Neuve</b> (AHLLN), <i>Membre</i>. <small>(2018–maintenant)</small></li>
-      <li><b>Mouvement Réformateur</b> (MR), <i>Membre</i>. <small>(2014–maintenant)</small></li>
       <li><b>Alumni Ingénieurs Louvain</b> (AILouvain), <i>Membre</i>. <small>(2007–maintenant)</small></li>
+      <li><b>Mouvement Réformateur</b> (MR), <i>Membre</i>. <small>(2014–2020)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>, <i>Membre</i>. <small>(2002)</small></li>
     </ul>
 

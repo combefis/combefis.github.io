@@ -41,7 +41,17 @@ language: en
     1200 Woluwé-Saint-Lambert<br>
     Belgium</p>
 
-    <p>E-mail : <a href="mailto:s.combefis@ephec.be">s.combefis@ephec.be</a></p>
+    <p>Email : <a href="mailto:s.combefis@ephec.be">s.combefis@ephec.be</a></p>
+
+
+    <h2>Haute École Provinciale de Hainaut - Condorcet</h2>
+
+    <p><i>Lecturer</i><br>
+    Digue de Cuesmes 29<br>
+    7000 Mons<br>
+    Belgium</p>
+
+    <p>Email : <a href="mailto:sebastien.combefis@condorcet.be">sebastien.combefis@condorcet.be</a></p>
 
 
     <h2>EDITx</h2>

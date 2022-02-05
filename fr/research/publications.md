@@ -8,9 +8,16 @@ language: fr
 
 <div class="page-col-wrapper">
   <div class="page-col page-col-1">
-    <h2 id="2021-ref">2021</h2>
+    <h2 id="2022-ref">2022</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis. Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools. À paraitre dans <i>Software</i>, 2022.</li>
+    </ol>
+
+
+    <h2 id="2021-ref">2021</h2>
+
+    <ol class="publications-continue">
       <li>Sébastien Combéfis, et Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. Dans <i>Actes de Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, octobre 2021.
       <a href="/files/publi/combefis-fie2021-1.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-fie2021-1-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
@@ -248,6 +255,7 @@ language: fr
     Uppsala, Suède, avril 2015.</p>
     <h3>Navigation</h3>
     <ul class="navigation">
+      <li><a href="#2022-ref">2022</a></li>
       <li><a href="#2021-ref">2021</a></li>
       <li><a href="#2020-ref">2020</a></li>
       <li><a href="#2019-ref">2019</a></li>

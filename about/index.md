@@ -34,7 +34,7 @@ language: en
     <p>Email: <a href="mailto:combefis.sebastien@itscm.be">combefis.sebastien@itscm.be</a></p>
 
 
-    <h2>EPHEC Promotion Sociale</h2>
+    <h2>EPHEC</h2>
 
     <p><i>Lecturer</i><br>
     Avenue Konrad Adenauer 3<br>
@@ -44,7 +44,7 @@ language: en
     <p>Email : <a href="mailto:s.combefis@ephec.be">s.combefis@ephec.be</a></p>
 
 
-    <h2>Haute École Provinciale de Hainaut - Condorcet</h2>
+    <h2>Haute École Provinciale de Hainaut – Condorcet</h2>
 
     <p><i>Lecturer</i><br>
     Digue de Cuesmes 29<br>
@@ -67,10 +67,11 @@ language: en
     <h2>Mandates</h2>
 
     <ul>
-      <li><i>President</i>, Association des Habitants de Louvain-la-Neuve (AH LLN), 2020-2022.</li>
-      <li><i>Board member</i>, Maison du Développement Durable ASBL (MDD), 2019-2025.</li>
-      <li><i>Board member</i>, Bebras Community, 2020-2023.</li>
-      <li><i>President</i>, Computer Science and IT in Education ASBL (CSITEd), 2018-2022.</li>
+      <li><i>Animator</i>, Conseil Consultatif du Numérique de la Ville d'Ottignies-Louvain-la-Neuve (CCN OLLN), 2022–2023.</li>
+      <li><i>President</i>, Association des Habitants de Louvain-la-Neuve (AH LLN), 2020–2022.</li>
+      <li><i>Board member</i>, Maison du Développement Durable ASBL (MDD), 2019–2025.</li>
+      <li><i>Board member</i>, Bebras Community, 2020–2023.</li>
+      <li><i>President</i>, Computer Science and IT in Education ASBL (CSITEd), 2018–2022.</li>
     </ul>
   </div>
   <div class="page-col page-col-2">

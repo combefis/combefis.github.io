@@ -11,7 +11,8 @@ language: en
     <h2 id="2022-ref">2022</h2>
 
     <ol class="publications-start">
-      <li>Sébastien Combéfis. Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools. To be published in <i>Software</i>, 2022.</li>
+      <li>Sébastien Combéfis. Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools. <i>Software</i>, <b>1</b>(1):3-30, 2022.
+      <a href="/files/publi/combefis-software2022.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ol>
 
 

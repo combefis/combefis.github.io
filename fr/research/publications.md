@@ -11,6 +11,8 @@ language: fr
     <h2 id="2022-ref">2022</h2>
 
     <ol class="publications-start">
+      <li>Sébastien Combéfis, et Virginie Van den Schrieck. Continuous Competency-Based Assessment: Impact of Regular Student Involvement on their Performances and Success. À paraitre dans <i>Actes de Frontiers in Education 2022</i> (FIE 2022), Uppsala, Suède, octobre 2022.</li>
+
       <li>Sébastien Combéfis. Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools. <i>Software</i>, <b>1</b>(1):3-30, 2022.
       <a href="/files/publi/combefis-software2022.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
     </ol>
@@ -19,6 +21,9 @@ language: fr
     <h2 id="2021-ref">2021</h2>
 
     <ol class="publications-continue">
+      <li>Sébastien Combéfis. Conception d'un cours entièrement dispensé à distance combinant les concepts de microcours et d'évaluations par compétences. <i>Synergies Turquie</i>, <b>14</b>:103-117, 2021.
+      <a href="/files/publi/combefis-synergiesturquie2021.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
+
       <li>Sébastien Combéfis, et Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. Dans <i>Actes de Frontiers in Education 2021</i> (FIE 2021), Lincoln, NE, USA, octobre 2021.
       <a href="/files/publi/combefis-fie2021-1.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>
       <a href="/files/publi/combefis-fie2021-1-slides.pdf"><img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>

@@ -11,8 +11,8 @@ language: en
     <h2>Professional experiences</h2>
 
     <ul>
-      <li><b>Attaché</b>, <i>Fédération Wallonie-Bruxelles</i> (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. <small>(Jan. 2021 – now)</small><br>
-      <small>In charge of business analysis and process description for IT developments of management applications for members of teaching staff.</small></li>
+      <li><b>Attaché</b>, <i>Fédération Wallonie-Bruxelles</i> (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. <small>(Feb. 2022 – now)</small><br>
+      <small>In charge of budget and statistical data analysis related to the management of the members of teaching staff.</small></li>
       <li><b>Professor</b>, <i>Institut Technique Supérieur Cardinal Mercier</i> (ITSCM), Part-Time, Schaerbeek, Belgium. <small>(Sep. 2011 – Jun. 2015, Jan. 2017 – now)</small><br>
       <small>Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.</small></li>
       <li><b>Lecturer</b>, <i>EPHEC Promotion Sociale</i> (EPHEC), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(nov. 2020 – now)</small><br>
@@ -21,6 +21,8 @@ language: en
       <small>Professor in a higher education institution for the specialisation bachelor in network and computer systems security.</small></li>
       <li><b>Head Advisory Board</b>, <i>EDITx</i>, Part-Time, Etterbeek, Belgium. <small>(Jul. 2017 – now)</small><br>
       <small>Responsible of academic relationships and coordination of the  IT challenges themes and jurys.</small></li>
+      <li><b>Attaché</b>, <i>Fédération Wallonie-Bruxelles</i> (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. <small>(Jan. 2021 – Jan. 2022)</small><br>
+      <small>In charge of business analysis and process description for IT developments of management applications for members of teaching staff.</small></li>
       <li><b>Referent attaché</b>, <i>Académie de Recherche et d'Enseignement Supérieur</i> (ARES), Full-Time, Brussels, Belgium. <small>(May 2020 – Dec. 2020)</small><br>
       <small>In charge of academic subjects and the management of exams and tests supported by ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.</small></li>
       <li><b>Senior Researcher</b>, <i>Centre de Recherche et de Développement de l'ECAM</i> (CERDECAM), Part-Time, Woluwé-Saint-Lambert, Belgium. <small>(Mar. 2018 – Sep. 2020)</small><br>
@@ -48,23 +50,50 @@ language: en
     <h3>Nonprofit organisations</h3>
 
     <ul>
-      <li><b>President</b>, <i>Association des Habitants de Louvain-la-Neuve</i> (AH LLN), Part-Time, Louvain-la-Neuve, Belgium. <small>(jul. 2020 – now)</small><br>
-      <small>The Association des Habitants de Louvain-la-Neuve is a nonprofit organisation open to people living, working or studying in Louvain-la-Neuve which aims at defending and promoting the quality of life, in a broad sense, in Louvain-la-Neuve.</small></li>
-      <li><b>Board member</b>, <i>Bebras Community</i>, Part-Time, International. <small>(May 2020 – now)</small><br>
-      <small>The Bebras community is in charge of the development of the Bebras contest, an international initiative aiming at promoting computer science and computational thinking among end of primary and secondary school pupils.</small></li>
+      <li><b>Treasurer</b>, <i>AILouvain</i>, Part-Time, Louvain-la-Neuve. <small>(Jun. 2022 – now)</small><br>
+      <small>The AILouvain is the alumni association of the Louvain School of Engineering (EPL) faculty of the Université catholique de Louvain (UCLouvain), working to grow the network of engineers graduated from this faculty.</small></li>
       <li><b>Board member</b>, <i>Maison du Développement Durable ASBL</i> (MDD), Part-Time, Louvain-la-Neuve, Belgium. <small>(Dec. 2019 – now)</small><br>
       <small>The Maison du Développement Durable is a nonprofit organisation whose goal is to provide a place to support the transition to a greener, more fair, more user-friendly society, locally and globally.</small></li>
       <li><b>Founder and President</b>, <i>Computer Science and IT in Education ASBL</i> (CSITEd), Part-Time, Louvain-la-Neuve, Belgium. <small>(Jul. 2012 – now)</small><br>
       <small>CSITEd is a nonprofit organisation whose goal is to promote computer science at large, especially towards pupils from secondary schools and in the education field.</small></li>
+      <li><b>President</b>, <i>Association des Habitants de Louvain-la-Neuve</i> (AH LLN), Part-Time, Louvain-la-Neuve, Belgium. <small>(jul. 2020 – jul. 2022)</small><br>
+      <small>The Association des Habitants de Louvain-la-Neuve is a nonprofit organisation open to people living, working or studying in Louvain-la-Neuve which aims at defending and promoting the quality of life, in a broad sense, in Louvain-la-Neuve.</small></li>
+      <li><b>Treasurer</b>, <i>UCLouvain ACM Student Chapter ASBL</i>, Part-Time, Louvain-la-Neuve, Belgium. <small>(Sep. 2011 – Sep. 2013)</small></li>
+      <li><b>Founder and President</b>, <i>UCLouvain ACM Student Chapter ASBL</i>, Part-Time, Louvain-la-Neuve, Belgium. <small>(Sep. 2009 – Sep. 2011)</small><br>
+      <small>The UCLouvain ACM Student Chapter is the local chapter of the Association for Computing Machinery (ACM), an international organisation whose goal is to promote computer science.</small></li>
+    </ul>
+
+    <h3>Other organisations</h3>
+
+    <ul>
+      <li><b>Board member</b>, <i>Bebras Community</i>, Part-Time, International. <small>(May 2020 – now)</small><br>
+      <small>The Bebras community is in charge of the development of the Bebras contest, an international initiative aiming at promoting computer science and computational thinking among end of primary and secondary school pupils.</small></li>
       <li><b>Task Handling Committee member</b>, <i>Bebras Community</i>, Part-Time, International. <small>(May 2019 – May 2020)</small><br>
       <small>The Bebras Task Handling Committee is in charge of handling the whole process in relation with Bebras tasks to prepare the annual workshop (pre-workshop process, call for tasks, review process, working group preparation, etc.).</small></li>
       <li><b>President</b>, <i>Corps Scientifique de l'Université catholique de Louvain</i> (CORSCI), Part-Time, Louvain-la-Neuve, Belgium. <small>(Sep. 2013 – May 2014)</small><br>
       <small>The <i>« Corps Scientifique de l'UCL »</i> (Scientific Body) of the university gathers all the researchers that are not professors. The role of the president is to be the representative of the body in several organs of the university, some of them being decision organs.</small></li>
-      <li><b>Treasurer</b>, <i>UCLouvain ACM Student Chapter ASBL</i>, Part-Time, Louvain-la-Neuve, Belgium. <small>(Sep. 2011 – Sep. 2013)</small></li>
       <li><b>Founder and Co-organiser</b>, <i>Belgian Olympiad in Informatics</i>, Part-Time, Belgium. <small>(Editions 2010 and 2011)</small><br>
       <small>The Belgian Olympiad in Informatics (be-OI) is a programming and algorithmic thinking contest whose goal is to select the Belgian delegation to be sent to the International Olympiad in Informatics (IOI).</small></li>
-      <li><b>Founder and President</b>, <i>UCLouvain ACM Student Chapter ASBL</i>, Part-Time, Louvain-la-Neuve, Belgium. <small>(Sep. 2009 – Sep. 2011)</small><br>
-      <small>The UCLouvain ACM Student Chapter is the local chapter of the Association for Computing Machinery (ACM), an international organisation whose goal is to promote computer science.</small></li>
+    </ul>
+
+
+    <h2>Service to society and representation</h2>
+
+    <ul>
+      <li><b>Animator</b>, <i>Conseil Consultatif du Numérique</i>, Part-Time, Ottignies-Louvain-la-Neuve. <small>(Dec. 2021 – now)</small><br>
+      <small>The Conseil Consultatif du Numérique is an advisory council made up of citizens of the City of Ottignies-Louvain-la-Neuve whose mission is to bring the voices of citizens to the municipal College and to animate debates around questions related to digital issues.</small></li>
+      <li><b>Representative of Belgium for the Bebras Contest</b>.<br>
+      <small>Coordinator for the Bebras contest in Belgium and representative for Belgium at the international level (namely participating to the annual International Bebras Task Workshop), as a member of the International Bebras Committee (IBC).</small></li>
+      <li><b>Team Leader</b>, <i>1st International Balkan University Olympiad in Informatics (IBUOI 2019)</i>, Skopje, North Macedonia.<br>
+      <small>Representative for Belgium at the International Balkan University Olympiad in Informatics, that is, accompanying the four Belgian contestants.</small></li>
+      <li><b>Representative for the Scientific Staff of the Université catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgium.<br>
+      <small>- 2012–2013 (1 year), Vice-President for the Science and Technology Sector of the Scientific Staff of the Université catholique de Louvain (CORSCI).<br>
+      - 2010–2013 (3 years), President and 2013–2014 (1 year), Member of the Association of the scientific staff of the Louvain School of Engineering (ACSEP).<br>
+      - 2010–2012 (2 years), Vice-President for External Matters and 2012–2013 (1 year), President and 2013–2014 (1 year), Vice-President for Internal Matters of the Association of the Scientific staff of the ICT, Electronics and Applied Mathematics Institute (AsCII).</small></li>
+      <li><b>Member of the MOOCs@UCLouvain Steering Committee</b>, Louvain-la-Neuve, Belgium.<br>
+      <small>Member of the committee which is steering the MOOC phenomenon at Université catholique de Louvain and coordinating the LouvainX initiative (UCLouvain courses on the edX platform).</small></li>
+      <li><b>Deputy Leader</b>, <i>22nd International Olympiad in Informatics (IOI 2010)</i>, Waterloo, ON, Canada.<br>
+      <small>Representative for Belgium at the International Olympiad in Informatics, that is, accompanying the four Belgian contestants.</small></li>
     </ul>
 
 
@@ -105,6 +134,8 @@ language: en
     <h3>Journal papers</h3>
 
     <ul>
+      <li>Sébastien Combéfis. Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools. In <i>Software</i>, 2022.</li>
+      <li>Sébastien Combéfis. Conception d'un cours entièrement dispensé à distance combinant les concepts de microcours et d'évaluations par compétences. In <i>Synergies Turquie</i>, 2021.</li>
       <li>Sébastien Combéfis, Guillaume de Moffarts, and Mile Jovanov. TLCS: A Digital Library with Resources to Teach and Learn Computer Science. In <i>Olympiads in Informatics</i>, August 2019.</li>
       <li>Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe, Mathieu David, Guillaume de Moffarts, Hadrien Hachez, and Julien Kessels. Learning and Teaching Algorithm Design and Optimisation Using Contests Tasks. In <i>Olympiads in Informatics</i>, July 2017.</li>
       <li>Guillaume Brat, Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, Franco Raimondi, and Neha Rungta. Formal Analysis of Multiple Coordinated HMI Systems. In <i>The Handbook of Formal Methods in Human-Computer Interaction</i>, 2017.</li>
@@ -121,6 +152,7 @@ language: en
     <h3>Conference papers (peer-reviewed)</h3>
 
     <ul>
+      <li>Sébastien Combéfis, and Virginie Van den Schrieck. Continuous Competency-Based Assessment: Impact of Regular Student Involvement on their Performances and Success. In <i>Proceedings of Frontiers in Education 2022</i>, October 2022.</li>
       <li>Sébastien Combéfis, and Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. In <i>Proceedings of Frontiers in Education 2021</i>, October 2021.</li>
       <li>Sébastien Combéfis. A COVID-19 Teaching Experiment: Combining Competency-Based Assessment and Micro-Courses to Teach Technical and Non-Technical Skills. In <i>Proceedings of Frontiers in Education 2021</i>, October 2021.</li>
       <li>Sébastien Combéfis, and Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. In <i>Proceedings of the 13th International Conference on Informatics in School: Situation, Evaluation, Problems</i>, November 2020.</li>
@@ -192,6 +224,7 @@ language: en
     <h3>Presentation at conferences and workshops</h3>
 
     <ul>
+      <li><b>Frontiers in Education 2022</b> (FIE 2022), Uppsala, Sweden. <small>(8–11 Oct. 2022)</small></li>
       <li><b>Frontiers in Education 2021</b> (FIE 2021), Lincoln, NE, USA (remotely). <small>(13–16 Oct. 2021)</small></li>
       <li><b>7ème Printemps Numérique International</b> (PNI 7), Turkey (remotely). <small>(26–27 Feb. 2021)</small></li>
       <li><b>13th International Conference on Informatics in Schools: Situation, Evolution and Perspectives</b> (ISSEP 2020), Tallinn, Estonia 
@@ -377,24 +410,6 @@ language: en
     </ul>
 
 
-    <h2>Service to society and representation</h2>
-
-    <ul>
-      <li><b>Representative of Belgium for the Bebras Contest</b>.<br>
-      <small>Coordinator for the Bebras contest in Belgium and representative for Belgium at the international level (namely participating to the annual International Bebras Task Workshop), as a member of the International Bebras Committee (IBC).</small></li>
-      <li><b>Team Leader</b>, <i>1st International Balkan University Olympiad in Informatics (IBUOI 2019)</i>, Skopje, North Macedonia.<br>
-      <small>Representative for Belgium at the International Balkan University Olympiad in Informatics, that is, accompanying the four Belgian contestants.</small></li>
-      <li><b>Representative for the Scientific Staff of the Université catholique de Louvain</b> (CORSCI), Louvain-la-Neuve, Belgium.<br>
-      <small>- 2012–2013 (1 year), Vice-President for the Science and Technology Sector of the Scientific Staff of the Université catholique de Louvain (CORSCI).<br>
-      - 2010–2013 (3 years), President and 2013–2014 (1 year), Member of the Association of the scientific staff of the Louvain School of Engineering (ACSEP).<br>
-      - 2010–2012 (2 years), Vice-President for External Matters and 2012–2013 (1 year), President and 2013–2014 (1 year), Vice-President for Internal Matters of the Association of the Scientific staff of the ICT, Electronics and Applied Mathematics Institute (AsCII).</small></li>
-      <li><b>Member of the MOOCs@UCLouvain Steering Committee</b>, Louvain-la-Neuve, Belgium.<br>
-      <small>Member of the committee which is steering the MOOC phenomenon at Université catholique de Louvain and coordinating the LouvainX initiative (UCLouvain courses on the edX platform).</small></li>
-      <li><b>Deputy Leader</b>, <i>22nd International Olympiad in Informatics (IOI 2010)</i>, Waterloo, ON, Canada.<br>
-      <small>Representative for Belgium at the International Olympiad in Informatics, that is, accompanying the four Belgian contestants.</small></li>
-    </ul>
-
-
     <h2>Other activities</h2>
 
     <ul>
@@ -447,6 +462,8 @@ language: en
     <h3>Certifications</h3>
 
     <ul>
+      <li><b>SPF Stratégie et Appui BOSA</b>, <i>Brevet Connectoo</i>. <small>(Sep. 2022–now)</small>
+      <a href="/files/cv/combefis-connectoo-2022.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Arduino Fundamentals</b>, <i>Arduino Education Team</i>. <small>(Juil. 2019–now)</small>
       <a href="/files/cv/combefis-arduino-fundamentals-2019.pdf"><img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
       <li><b>Fondamentaux du marketing numérique</b>, <i>Google</i>. <small>(Jul. 2017–now)</small>
@@ -485,6 +502,7 @@ language: en
     <ul>
       <li><b>Association des Habitants de Louvain-la-Neuve</b> (AHLLN), <i>Member</i>. <small>(2018–now)</small></li>
       <li><b>Alumni Ingénieurs Louvain</b> (AILouvain), <i>Member</i>. <small>(2007–now)</small></li>
+      <li><b>Centre Démocrate Humaniste</b> (CDH), <i>Member</i>. <small>(2021)</small></li>
       <li><b>Mouvement Réformateur</b> (MR), <i>Member</i>. <small>(2014–2020)</small></li>
       <li><b>Association des Anciens Élèves du Lycée de Berlaymont</b>, <i>Member</i>. <small>(2002)</small></li>
     </ul>
@@ -506,7 +524,7 @@ language: en
 
     <ul>
       <li><b>Operating systems</b>, <i>macOS, Linux, Windows</i>.</li>
-      <li><b>Programming</b>, <i>Java, C, Python, XHTML/CSS, Javascript, LaTeX, Matlab, PHP, SQL, C#, R, Go, Shell, Visual Basic, Arduino</i>.</li>
+      <li><b>Programming</b>, <i>Java, C, Python, XHTML/CSS, JavaScript, LaTeX, Matlab, PHP, SQL, C#, R, Go, Shell, Visual Basic, Arduino</i>.</li>
       <li><b>Libraries</b>, <i>jQuery, Node.js, MEAN.js</i>.</li>
       <li><b>Programming tools</b>, <i>Eclipse, Sublime Text, Gnuplot</i>.</li>
       <li><b>Office</b>, <i>OpenOffice, Microsoft Office (Word, Excel, PowerPoint, Access)</i>.</li>

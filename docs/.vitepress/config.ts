@@ -5,6 +5,9 @@ import small from 'markdown-it-small'
 export default defineConfig({
   title: 'Sébastien Combéfis',
   description: 'The personal website of Sébastien Combéfis contains information about his research and teaching activities, and other personal information.',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/public/favicon.png'}],
+  ],
   locales: {
     root: {
       label: 'English',
@@ -12,7 +15,7 @@ export default defineConfig({
       themeConfig: {
         footer: {
           message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" width="100" style="display: inline-block" /></a>',
-          copyright: 'CC BY-NC-ND 2009–2023 – Sébastien Combéfis.',
+          copyright: '<a href="/about/license/">Creative Commons BY-NC-ND</a> 2009–2023 – Sébastien Combéfis.',
         },
         nav: [
           { text: 'Administration', link: '/administration/', activeMatch: '/administration/' },
@@ -68,6 +71,13 @@ export default defineConfig({
                 {
                   text: 'PhD thesis',
                   link: '/research/phdthesis/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: 'Manuscript',
+                      link: '/research/phdthesis/manuscript/'
+                    },
+                  ],
                 },
                 {
                   text: 'Master thesis',
@@ -225,7 +235,7 @@ export default defineConfig({
                       text: 'TLCA',
                       link: '/teaching/projects/tlca/'
                     },
-                  ]
+                  ],
                 },
                 {
                   text: 'Books',
@@ -346,6 +356,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
+    logo: 'images/sebastien-combefis-logo.png',
     socialLinks: [
       { icon: 'facebook', link: 'https://www.facebook.com/scombefis' },
       { icon: 'github', link: 'https://github.com/combefis/combefis.github.io' },

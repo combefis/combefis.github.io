@@ -1,3 +1,23 @@
 :root {
-  --vp-c-brand: #ff0000;
+  --vp-c-brand: #1155ac;
+  --vp-c-brand-light: #346bb2;
+  --vp-c-brand-lighter: #5685c2;
+  --vp-c-brand-dark: #0a4187;
+  --vp-c-brand-darker: #07326a;
+}
+
+header {
+  border-top: 5px solid #424242;
+}
+
+.content li {
+  text-align: justify;
+}
+
+.content img {
+  display: inline-block;
+}
+
+.content p {
+  text-align: justify;
 }

@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Sébastien Combéfis, PhD
+  name: Ir. Sébastien Combéfis, PhD
   text: 
   tagline: Welcome on my personal website!
   image:
@@ -34,6 +34,6 @@ div.image img {
   margin-top: 40px;
 }
 h1.name {
-  font-size: 47px!important;
+  font-size: 43px!important;
 }
 </style>

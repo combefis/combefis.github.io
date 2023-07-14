@@ -6,7 +6,7 @@ export default defineConfig({
   title: 'Sébastien Combéfis',
   description: 'The personal website of Sébastien Combéfis contains information about his research and teaching activities, and other personal information.',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/public/favicon.png'}],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png'}],
   ],
   locales: {
     root: {
@@ -14,7 +14,7 @@ export default defineConfig({
       lang: 'en',
       themeConfig: {
         footer: {
-          message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" width="100" style="display: inline-block" /></a>',
+          message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" width="100" alt="CC BY NC ND" style="display: inline-block" /></a>',
           copyright: '<a href="/about/license/">Creative Commons BY-NC-ND</a> 2009–2023 – Sébastien Combéfis.',
         },
         nav: [
@@ -110,11 +110,11 @@ export default defineConfig({
                           link: '/teaching/itscm/transmission/',
                         },
                         {
-                          text: 'Initiation to databases',
+                          text: 'Databases',
                           link: '/teaching/itscm/database/',
                         },
                         {
-                          text: 'Programming basics',
+                          text: 'Programming',
                           link: '/teaching/itscm/programming/',
                         },
                       ],
@@ -325,6 +325,10 @@ export default defineConfig({
       label: 'French',
       lang: 'fr',
       themeConfig: {
+        footer: {
+          message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" alt="CC BY NC ND" width="100" style="display: inline-block" /></a>',
+          copyright: '<a href="/about/license/">Creative Commons BY-NC-ND</a> 2009–2023 – Sébastien Combéfis.',
+        },
         nav: [
           { text: 'Administration', link: '/fr/administration/' },
           { text: 'Enseignement', link: '/fr/teaching/' },
@@ -341,12 +345,287 @@ export default defineConfig({
               link: '/fr/about/',
               items: [
                 {
-                  text: 'Curriculum vitaæ',
+                  text: 'Curriculum Vitæ',
                   link: '/fr/about/cv/',
                 },
                 {
                   text: 'Réseaux sociaux',
                   link: '/fr/about/socialnetworks/',
+                },
+                {
+                  text: 'Licence',
+                  link: '/fr/about/license/',
+                },
+              ],
+            },
+          ],
+          '/fr/politics/': [
+            {
+              text: 'Politics',
+              link: '/fr/politics/',
+              items: [
+                {
+                  text: 'Élections 2018',
+                  link: '/fr/politics/elections2018/',
+                },
+              ],
+            },
+          ],
+          '/fr/research/': [
+            {
+              text: 'Recherche',
+              link: '/fr/research/',
+              items: [
+                {
+                  text: 'Publications',
+                  link: '/fr/research/publications/',
+                },
+                {
+                  text: 'Thèse de doctorat',
+                  link: '/fr/research/phdthesis/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: 'Manuscrit',
+                      link: '/fr/research/phdthesis/manuscript/'
+                    },
+                  ],
+                },
+                {
+                  text: 'Travaux de fin d\'étude',
+                  link: '/fr/research/masterthesis/',
+                },
+                {
+                  text: 'Projets',
+                  link: '/fr/research/projects/',
+                },
+              ],
+            },
+          ],
+          '/fr/teaching/': [
+            {
+              text: 'Enseignement',
+              link: '/fr/teaching/',
+              items: [
+                {
+                  text: 'Écoles',
+                  link: '/fr/teaching/schools/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: 'ITSCM',
+                      link: '/fr/teaching/itscm/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: 'Transmission numérique',
+                          link: '/fr/teaching/itscm/transmission/',
+                        },
+                        {
+                          text: 'Bases de données',
+                          link: '/fr/teaching/itscm/database/',
+                        },
+                        {
+                          text: 'Programmation',
+                          link: '/fr/teaching/itscm/programming/',
+                        },
+                      ],
+                    },
+                    {
+                      text: 'EPHEC',
+                      link: '/fr/teaching/ephec/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: 'Host security',
+                          link: '/fr/teaching/ephec/hostsecurity/',
+                        },
+                        {
+                          text: 'Software security',
+                          link: '/fr/teaching/ephec/softwaresecurity/',
+                        },
+                        {
+                          text: 'Statistics basics',
+                          link: '/fr/teaching/ephec/statistics/',
+                        },
+                      ],
+                    },
+                    {
+                      text: 'HEPH-Condorcet',
+                      link: '/fr/teaching/condorcet/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: 'Cryptography',
+                          link: '/fr/teaching/condorcet/cryptography/',
+                        },
+                      ],
+                    },
+                    {
+                      text: 'ECAM',
+                      link: '/fr/teaching/ecam/',
+                      collapsed: true,
+                      items: [
+                        {
+                          text: 'Algorithm and optimisation',
+                          link: '/fr/teaching/ecam/algopti/',
+                        },
+                        {
+                          text: 'Artificial intelligence',
+                          link: '/fr/teaching/ecam/ai/',
+                        },
+                        {
+                          text: 'C',
+                          link: '/fr/teaching/ecam/c/',
+                        },
+                        {
+                          text: 'Computer security',
+                          link: '/fr/teaching/ecam/security/',
+                        },
+                        {
+                          text: 'Data structure',
+                          link: '/fr/teaching/ecam/datastruct/',
+                        },
+                        {
+                          text: 'NoSQL',
+                          link: '/fr/teaching/ecam/nosql/',
+                        },
+                        {
+                          text: 'Numerical computing',
+                          link: '/fr/teaching/ecam/numcomp/',
+                        },
+                        {
+                          text: 'Operating system',
+                          link: '/fr/teaching/ecam/os/',
+                        },
+                        {
+                          text: 'Python programming',
+                          link: '/fr/teaching/ecam/python/',
+                        },
+                        {
+                          text: 'Software architecture',
+                          link: '/fr/teaching/ecam/softarch/',
+                        },
+                        {
+                          text: 'Virtualisation',
+                          link: '/fr/teaching/ecam/virtualisation/',
+                        },
+                      ],
+                    },
+                    {
+                      text: 'UCLouvain',
+                      link: '/fr/teaching/uclouvain/',
+                    },
+                  ],
+                },
+                {
+                  text: 'Formations',
+                  link: '/fr/teaching/trainings/',
+                },
+                {
+                  text: 'Projets',
+                  link: '/fr/teaching/projects/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: 'APP0',
+                      link: '/fr/teaching/projects/app0/'
+                    },
+                    {
+                      text: 'Digitalent',
+                      link: '/fr/teaching/projects/digitalent/'
+                    },
+                    {
+                      text: 'LADO',
+                      link: '/fr/teaching/projects/lado/'
+                    },
+                    {
+                      text: 'SAlt',
+                      link: '/fr/teaching/projects/salt/'
+                    },
+                    {
+                      text: 'TLCA',
+                      link: '/fr/teaching/projects/tlca/'
+                    },
+                  ],
+                },
+                {
+                  text: 'Livres',
+                  link: '/fr/teaching/books/',
+                },
+                {
+                  text: 'µCourses',
+                  link: '/fr/teaching/ucourses/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: 'Blockchain',
+                      link: '/fr/teaching/ucourses/blockchain/',
+                    },
+                    {
+                      text: 'Constraint satisfaction problem',
+                      link: '/fr/teaching/ucourses/csp/',
+                    },
+                    {
+                      text: 'Design thinking',
+                      link: '/fr/teaching/ucourses/designthinking/',
+                    },
+                    {
+                      text: 'Genetic algorithm',
+                      link: '/fr/teaching/ucourses/geneticalgorithm/',
+                    },
+                    {
+                      text: 'Go programming',
+                      link: '/fr/teaching/ucourses/golang/',
+                    },
+                    {
+                      text: 'N-Grams',
+                      link: '/fr/teaching/ucourses/ngrams/',
+                    },
+                    {
+                      text: 'Node-RED',
+                      link: '/fr/teaching/ucourses/nodered/',
+                    },
+                    {
+                      text: 'Numerical computing',
+                      link: '/fr/teaching/ucourses/numcomp/',
+                    },
+                    {
+                      text: 'OS internal design',
+                      link: '/fr/teaching/ucourses/osdesign/',
+                    },
+                    {
+                      text: 'Python optimisation',
+                      link: '/fr/teaching/ucourses/pythonopti/',
+                    },
+                    {
+                      text: 'Quantum computing',
+                      link: '/fr/teaching/ucourses/quantumcomputing/',
+                    },
+                    {
+                      text: 'Rainbow table',
+                      link: '/fr/teaching/ucourses/rainbowtable/',
+                    },
+                  ],
+                },
+                {
+                  text: 'Travaux de fin d\'étude',
+                  link: '/fr/teaching/masterthesis/',
+                },
+                {
+                  text: 'Stages',
+                  link: '/fr/teaching/internships/',
+                  collapsed: true,
+                  items: [
+                    {
+                      text: 'Supervision',
+                      link: '/fr/teaching/internships/supervision/'
+                    },
+                    {
+                      text: 'Projets',
+                      link: '/fr/teaching/internships/projects/'
+                    },
+                  ]
                 },
               ],
             },

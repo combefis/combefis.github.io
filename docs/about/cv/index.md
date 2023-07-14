@@ -11,38 +11,48 @@ This page shows my most up-to-date curriculum vitae (CV), updated on July 2023. 
 
 ## Professional experiences
 
-- **Service manager attaché**, _Fédération Wallonie-Bruxelles_ (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. --(Dec. 2022 – now)--  
---Ad interim service manager of the service in charge of managing accidents at work of the members of teaching staff.--
-- **Attaché**, _Fédération Wallonie-Bruxelles_ (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. --(Feb. 2022 – now)--  
---In charge of budget and statistical data analysis related to the management of the members of teaching staff.--
-- **Professor**, _Institut Technique Supérieur Cardinal Mercier_ (ITSCM), Part-Time, Schaerbeek, Belgium. --(Sep. 2011 – Jun. 2015, Jan. 2017 – now)--  
---Professor in a higher education institution in social advancement for the bachelor in informatics and systems and the bachelor in electronics of the Technology Pole.--
-- **Lecturer**, _EPHEC Promotion Sociale_ (EPHEC), Part-Time, Woluwé-Saint-Lambert, Belgium. --(nov. 2020 – now)--  
---Professor in a higher education institution in social advancement for the short training in cybersecurity.--
-- **Lecturer**, _Haute École Provinciale de Hainaut - Condorcet_ (HEPH-Condorcet), Part-Time, Tournai, Belgium. --(sep. 2021 – now)--  
---Professor in a higher education institution for the specialisation bachelor in network and computer systems security.--
+- **Service manager attaché** (ad interim), _Ministère de la Fédération Wallonie-Bruxelles_ (MFWB), Part-Time, Molenbeek-Saint-Jean, Belgium. --(Dec. 2022 – now)--  
+--In charge of the management of the service composed of 10 agents who are managing files for accidents at work occurred to members of teaching staff.--
+- **Attaché**, _Ministère de la Fédération Wallonie-Bruxelles_ (MFWB), Full-Time, Molenbeek-Saint-Jean, Belgium. --(Feb. 2022 – now)--  
+--In charge of analyses of budget and statistical data related to the management of the members of teaching staff, for monitoring, evaluation and to help the FWB Government for their new political projects.--
+- **Project manager**, _Ministère de la Fédération Wallonie-Bruxelles_ (MFWB), Part-Time, Molenbeek-Saint-Jean, Belgium. --(Jul. 2021 – now)--  
+--Business project manager and product owner for the development of the ACCITRAV application to be used by the service in charge of managing accidents at work occurred to members of the teaching staff.--
+- **Trainer**, _Ministère de la Fédération Wallonie-Bruxelles_ (MFWB), Part-Time, Molenbeek-Saint-Jean, Belgium. --(May 2021 – now)--  
+--Internal trainer for the internal training about web writing, contributing to improve colleagues' competencies on how to write for the web (web writing, web tree, web accessibility, web SEO, etc.).--
+- **Trainer**, _École d'Administration Publique Wallonie-Bruxelles_ (EAP), Part-Time, Namur, Belgium. --(Dec. 2022 – now)--  
+--Trainer for the internal trainings about time management, pitching ideas and introduction to collective intelligence, offered to civil servant from Wallonia and Brussels administrations.--
+- **Lecturer**, _Haute École Provinciale de Hainaut - Condorcet_ (HEPH-Condorcet), Part-Time, Tournai, Belgium. --(Sep. 2021 – now)--  
+--Professor in a higher education institution for a cryptography basics course in the specialisation bachelor in network and computer systems security.--
+- **Cooperator**, _Poll'n coop_, Part-Time, Louvain-la-Neuve, Belgium. --(Jul. 2021 – now)--  
+--Cooperator in a small cooperative and participative grocery proposing organic and local products to students and residents of Louvain-la-Neuve at affordable prices.--
+- **Lecturer**, _Haute École EPHEC_ (EPHEC), Part-Time, Woluwé-Saint-Lambert, Belgium. --(Nov. 2020 – now)--  
+--Professor in a higher further education institution for software and host security courses in the short cybersecurity training and for a statistics basics course in the human resource management bachelor.--
 - **Partner**, _EDITx_, Part-Time, Etterbeek, Belgium. --(Jul. 2017 – now)--  
 --In charge of academic relationships and coordination of IT challenges themes, jurys and questions.--
-- **Attaché**, _Fédération Wallonie-Bruxelles_ (FWB), Full-Time, Molenbeek-Saint-Jean, Belgium. --(Jan. 2021 – Jan. 2022)--  
---In charge of business analysis and process description for IT developments of management applications for the members of teaching staff.--
+- **Professor**, _Institut Technique Supérieur Cardinal Mercier_ (ITSCM), Part-Time, Schaerbeek, Belgium. --(Jan. 2017 – now)--  
+--Professor in a higher further education institution for a digital transmission course and laboratory in the bachelor in informatics and systems and the bachelor in electronics.--
+- **Attaché**, _Ministère de la Fédération Wallonie-Bruxelles_ (MFWB), Full-Time, Molenbeek-Saint-Jean, Belgium. --(Jan. 2021 – Jan. 2022)--  
+--In charge of the business analyses and of the processes description for IT development projects targeted to the  management of members of the teaching staff.--
 - **Referent attaché**, _Académie de Recherche et d'Enseignement Supérieur_ (ARES), Full-Time, Brussels, Belgium. --(May 2020 – Dec. 2020)--  
---In charge of academic subjects and the management of exams and tests supported by ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.--
+--In charge of academic subjects and the management of exams and tests supported by the ARES, in particular the admission exam in medicine and dentistry and the orientation test of the health sector.--
 - **Senior Researcher**, _Centre de Recherche et de Développement de l'ECAM_ (CERDECAM), Part-Time, Woluwé-Saint-Lambert, Belgium. --(Mar. 2018 – Sep. 2020)--  
 --Supervisor of a junior researcher in the frame of the Egonet project, in partnership with UCLouvain and HE Vinci (IPL).--
 - **Lecturer**, _ECAM Brussels Engineering School_ (ECAM), Full-Time, Woluwé-Saint-Lambert, Belgium. --(Sep. 2014 – Apr. 2020)--  
---Professor in an industrial higher education institution, in the department of electrical and computer engineering.--
-- **Project Manager**, _TeachEng_, Part-Time, Woluwé-Saint-Lambert, Belgium. --(Sep. 2015 – Sep. 2019)--  
---Project Manager for the TeachEng project working on the development and deployment of a MOOC platform for professional and student engineers.--
+--Professor in an industrial higher education institution, in the department of electrical and computer engineering, mainly for computer science courses for students in the master in computer science.--
+- **Project Manager**, _ECAM Brussels Engineering School_ (ECAM), Part-Time, Woluwé-Saint-Lambert, Belgium. --(Sep. 2015 – Sep. 2019)--  
+--In charge of the TeachEng project which consists in the development and deployment of a MOOC platform for professional and student engineers.--
 - **Invited Lecturer**, _Université catholique de Louvain_ (UCLouvain), Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2014 – Sep. 2016)--  
 --Invited lecturer for the programming course for first year bachelor students in engineering and in computer science and for the software engineering project for first year master students in computer science engineering and computer science.--
 - **Attaché**, _Université catholique de Louvain_ (UCLouvain), Part-Time, Louvain-la-Neuve, Belgium. --(Oct. 2015 – Dec. 2015)--  
---Accompanying repeating students in the frame of the SAlt project, as part of the academic achievement support program.--
-- **Research Assistant**, _Université catholique de Louvain_ (UCLouvain), Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2013 – May 2014)--  
---Research assistant for the ICT, Electronics and Applied Mathematics Institute (ICTEAM), attached to the Computer Science Engineering Department (INGI).--
-- **Educational Advisor**, _Université catholique de Louvain_ (UCLouvain), Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2013 – May 2014)--  
---Educational Advisor for the Louvain School of Engineering (EPL).--
+--Accompanying repeating students in the frame of the SAlt project, a success support service developed as part of the academic achievement support program.--
+- **Professor**, _Institut Technique Supérieur Cardinal Mercier_ (ITSCM), Part-Time, Schaerbeek, Belgium. --(Sep. 2011 – Jun. 2015)--  
+--Professor in a higher further education institution for a programming basics and an introduction to database courses in the bachelor in informatics and systems and the bachelor in electronics.--
 - **Partner**, _Binnovart_, Part-Time, Waterloo, Belgium. --(Oct. 2013 – May 2014)--  
 --Founder and Associate at Binnovart SPRL, a company developing a platform where young artists can meet art investors to catch up and sell and promote their artworks.--
+- **Research Assistant**, _Université catholique de Louvain_ (UCLouvain), Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2013 – May 2014)--  
+--Research assistant for the ICT, Electronics and Applied Mathematics Institute (ICTEAM), attached to the Computer Science Engineering Department (INGI) working on an automated code assessment tool.--
+- **Educational Advisor**, _Université catholique de Louvain_ (UCLouvain), Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2013 – May 2014)--  
+--Educational Advisor for the Louvain School of Engineering (EPL), contributing to the coordination and evaluation of the various programs of the faculty.--
 - **Teaching Assistant**, _Université catholique de Louvain_ (UCLouvain), Full-Time, Louvain-la-Neuve, Belgium. --(Sep. 2007 – Sep. 2013)--  
 --Teaching assistant for the Louvain School of Engineering (EPL), attached to the Computer Science Engineering Department (INGI).--
 - **Student Monitor**, _Louvain School of Engineering_ (EPL), Part-Time, Louvain-la-Neuve, Belgium. --(2004 – 2006)--  
@@ -51,13 +61,13 @@ This page shows my most up-to-date curriculum vitae (CV), updated on July 2023. 
 ### Nonprofit organisations
 
 - **Treasurer**, _Association des Ingénieurs civils sortis de l'Université catholique de Louvain ASBL_ (AILouvain), Part-Time, Louvain-la-Neuve. --(Jun. 2022 – now)--  
---The AILouvain is the alumni association of the Louvain School of Engineering (EPL) faculty of the Université catholique de Louvain (UCLouvain), working to grow the network of engineers graduated from this faculty.--
+--I am serving as a board member and treasurer of the AILouvain, the alumni association of the Louvain School of Engineering (EPL) faculty from which I am graduated, working to grow the network of engineers graduated from this faculty.--
 - **Board member**, _Maison du Développement Durable ASBL_ (MDD), Part-Time, Louvain-la-Neuve, Belgium. --(Dec. 2019 – now)--  
---The Maison du Développement Durable is a nonprofit organisation whose goal is to provide a place to support the transition to a greener, more fair, more user-friendly society, locally and globally.--
+--I am serving as a board member of the MDD, a nonprofit organisation whose goal is to provide a place to support the transition to a greener, more fair, more user-friendly society, locally and globally.--
 - **Founder and President**, _Computer Science and IT in Education ASBL_ (CSITEd), Part-Time, Louvain-la-Neuve, Belgium. --(Jul. 2012 – now)--  
---CSITEd is a nonprofit organisation whose goal is to promote computer science at large, especially towards pupils from secondary schools and in the education field.--
+--I founded and am serving as a board member and president of the CSITEd, a nonprofit organisation whose goal is to promote computer science at large, especially towards pupils from secondary schools and in the education field.--
 - **President**, _Association des Habitants de Louvain-la-Neuve ASBL_ (AH LLN), Part-Time, Louvain-la-Neuve, Belgium. --(jul. 2020 – jul. 2022)--  
---The Association des Habitants de Louvain-la-Neuve is a nonprofit organisation open to people living, working or studying in Louvain-la-Neuve which aims at defending and promoting the quality of life, in a broad sense, in Louvain-la-Neuve.--
+--I served as a board member and president of the AH LLN, a nonprofit organisation open to people living, working or studying in Louvain-la-Neuve which aims at defending and promoting the quality of life, in a broad sense, in Louvain-la-Neuve.--
 - **Treasurer**, _UCLouvain ACM Student Chapter ASBL_, Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2011 – Sep. 2013)--  
 - **Founder and President**, _UCLouvain ACM Student Chapter ASBL_, Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2009 – Sep. 2011)--  
 --The UCLouvain ACM Student Chapter is the local chapter of the Association for Computing Machinery (ACM), an international organisation whose goal is to promote computer science.--
@@ -70,12 +80,12 @@ This page shows my most up-to-date curriculum vitae (CV), updated on July 2023. 
 --The Bebras Task Handling Committee is in charge of handling the whole process in relation with Bebras tasks to prepare the annual workshop (pre-workshop process, call for tasks, review process, working group preparation, etc.).--
 - **President**, _Corps Scientifique de l'Université catholique de Louvain_ (CORSCI), Part-Time, Louvain-la-Neuve, Belgium. --(Sep. 2013 – May 2014)--  
 --The _« Corps Scientifique de l'UCL »_ (Scientific Body) of the university gathers all the researchers that are not professors. The role of the president is to be the representative of the body in several organs of the university, some of them being decision organs.--  
-- **Founder and Co-organiser**, _Belgian Olympiad in Informatics_, Part-Time, Belgium. --(Editions 2010 and 2011)--
+- **Founder and Co-organiser**, _Belgian Olympiad in Informatics_ (be-OI), Part-Time, Belgium. --(Editions 2010 and 2011)--  
 --The Belgian Olympiad in Informatics (be-OI) is a programming and algorithmic thinking contest whose goal is to select the Belgian delegation to be sent to the International Olympiad in Informatics (IOI).--
 
 ## Service to society and representation
 
-- **Animator**, _Conseil Consultatif du Numérique_, Part-Time, Ottignies-Louvain-la-Neuve. --(Dec. 2021 – now)--  
+- **Animator**, _Conseil Consultatif du Numérique de la Ville d'Ottignies-Louvain-la-Neuve_ (CCN OLLN), Part-Time, Ottignies-Louvain-la-Neuve. --(Dec. 2021 – now)--  
 --The Conseil Consultatif du Numérique is an advisory council made up of citizens of the City of Ottignies-Louvain-la-Neuve whose mission is to bring the voices of citizens to the municipal College and to animate debates around questions related to digital issues.--
 - **Belgium representative in the Bebras Community**. --(2012 – now)--  
 --Coordinator for the Bebras contest in Belgium and representative for Belgium at the international level (namely participating to the annual International Bebras Task Workshop), as a member of the International Bebras Committee (IBC).--

@@ -7,18 +7,19 @@ caption: Bangkok, Thailand, July 2011
 
 # About
 
-Ir. Sébastien Combéfis, Ph.D.  
+I am currently **working** as an manager attaché at the [Ministry of the Wallonia-Brussels Federation](https://www.federation-wallonie-bruxelles.be/a-propos-de-la-federation/le-ministere) (MFWB), an institution which implements Government policy, after approval by Parliament. Within the _Service général des Affaires Transversales_, I am serving as a manager both for an IT development project and for the accident at work of the members of teaching staff service. I am also lecturing in several higher education institutions.
+
+Regarding my **education**, I got a _PhD in Engineering_ in November 2013 from the [Université catholique de Louvain](https://uclouvain.be/en) (UCLouvain). My thesis is about applying formal method techniques to the analysis of human-machine interactions. I also got a **Master in Computer Science Engineering** degree from the [Louvain School of Engineering](https://uclouvain.be/en/faculties/epl) (EPL) and an _Advanced Master in Pedagogy in Higher Education_, both from the same university.
+
+Moreover, I am interested in the **Computer Science Education** field, in particular to better teach computer science and to integrate IT technologies in education. I am the _founder_ and **President** of the [Computer Science and IT in Education ASBL](https://www.csited.be/home) (CSITEd), a nonprofit organisation whose main goal is to promote informatics as a science, in particular for primary and secondary schools pupils. It is also on behalf of this organisation that I am the _official Belgian representative_ in the [Bebras community](https://www.bebras.org).
+
+Finally, I am also a **partner** of [EDITx](https://www.editx.eu/en), a private company proposing IT related challenges connecting educators and professionals with students.
+
+::: info Ir. Sébastien Combéfis, Ph.D.  
 Email: [sebastien@combefis.be](mailto:sebastien@combefis.be)
 
-I am currently working as an attaché at the Ministry of the Fédération Wallonie-Bruxelles (FWB), an institution which implements, after approval by Parliament, Government policy. Within the Direction d'Appui à la Gestion Administrative et Pécuniaire, I am in charge of analysing and describing processes for IT developments for members of teaching staff.
-
-Regarding my education, I got a PhD in Engineering in November 2013 from the Université catholique de Louvain (UCLouvain). My thesis is about applying formal method techniques to the analysis of human-machine interactions. I also got a Master in Computer Science Engineering degree from the Louvain School of Engineering (EPL) and an Advanced Master in Pedagogy in Higher Education, both from the same university.
-
-Moreover, I am interested in the Computer Science Education field, in particular to better teach computer science and to integrate IT technologies in education. I am the founder and President of the Computer Science and IT in Education ASBL (CSITEd), a nonprofit organisation whose main goal is to promote informatics as a science, in particular for primary and secondary schools pupils. It is also on behalf of this organisation that I am the official Belgian representative in the Bebras community.
-
-Finally, I am also the Head Advisory Board of EDITx, a company proposing IT related challenges connecting educators and professionals with students.
-
 [![LinkedIn logo](/images/LinkedIn-Blue-14@2x.png)](https://www.linkedin.com/in/scombefis)
+:::
 
 ## Current jobs
 
@@ -69,6 +70,8 @@ Email: [scombefis@editx.eu](mailto:scombefis@editx.eu)
 
 ## Mandates
 
+Due to the various positions that I currently hold, I have been appointed or elected for several **representative mandates**:
+
 - **Animator**, 2022–2023  
   _Conseil Consultatif du Numérique de la Ville d'Ottignies-Louvain-la-Neuve_ (CCN OLLN)
 - **Board member**, 2023–2025  
@@ -79,3 +82,11 @@ Email: [scombefis@editx.eu](mailto:scombefis@editx.eu)
   _Maison du Développement Durable ASBL_ (MDD)
 - **Board member** (president), 2023–2027  
    _Computer Science and IT in Education ASBL_ (CSITEd)
+
+## Awards
+
+Here is the only **award** that I was granted so far:
+
+<div style="text-align: center">
+  <img src="/images/top100-leaders-education-gfel2019.png" alt="GFEL 2019" />
+</div>

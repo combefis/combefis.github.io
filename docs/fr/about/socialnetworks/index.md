@@ -2,7 +2,7 @@
 prev: false
 next: false
 image: eindhoven.jpg
-caption: Eindhoven, Pays-Bas, Novembre 2009
+caption: Eindhoven, Pays-Bas, novembre 2009
 ---
 
 # Réseaux sociaux

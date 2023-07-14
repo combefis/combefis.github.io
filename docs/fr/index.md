@@ -1,30 +1,39 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: Sébastien Combéfis
-  text: "FR FR FR"
-  tagline: My great project tagline
+  name: Dr Ir. Sébastien Combéfis
+  text: 
+  tagline: Bienvenue sur mon site web personnel !
+  image:
+    src: /images/sebastien-combefis.jpg
+    alt: Sébastien Combéfis
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Curriculum Vitæ
+      link: /about/cv/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Blog
+      link: /blog/
 
 features:
-  - title: Work
-    details: I am currently working as an attaché at the Ministry of the Fédération Wallonie-Bruxelles (MFWB), an institution which implements Government policy, after approval by Parliament. I am also lecturing in several higher education institutions.
-  - title: Education
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Other
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: ⚒
+    title: Travail
+    details: Je travaille actuellement comme attaché au Ministère de la Fédération Wallonie-Bruxelles (MFWB). Je suis également chargé de cours dans différents établissements de l'enseignement supérieur.
+  - icon: 🎓
+    title: Éducation
+    details: J'ai obtenu un doctorat en sciences de l'ingénieur de l'UCLouvain et j'y ai aussi obtenu un master ingénieur civil en informatique et un master complémentaire en pédagogie universitaire et de l'enseignement supérieur.
+  - icon: 👐
+    title: Autre
+    details: J'ai fondé l'ASBL Computer Science and IT in Education et y travaille comme bénévole. Je suis également un associé d'EDITx, une entreprise qui propose des challenges IT.
 ---
 
 <style>
-p.details {
-  text-align: justify;
+div.image img {
+  border-radius: 10px;
+  margin-top: 40px;
+}
+h1.name {
+  font-size: 43px!important;
 }
 </style>

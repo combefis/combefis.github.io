@@ -81,7 +81,7 @@ caption: Uppsala, Sweden, April 2015
 
 ## 2015
 
-23. Sébastien Combéfis, Corentin Vande Kerckhove, and Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. Presented at _the HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies_ (HybridEd 2015), Toledo, Spain, September 2015.
+23. Sébastien Combéfis, Corentin Vande Kerckhove, and Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. Presented at the _HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies_ (HybridEd 2015), Toledo, Spain, September 2015.
 [![PDF](/images/pdf.png)](/files/publi/combefis-hybrided2015.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-hybrided2015-slides.pdf){target=_blank}
 1. Sébastien Combéfis, and Chantal Poncin. Web Platform to Support Teaching Programming with Snap! and Manage Pupils' Learning. In _Proceedings of the Scratch Conference 2015_ (Scratch2015AMS), Amsterdam, The Netherlands, August 2015.
@@ -106,10 +106,10 @@ caption: Uppsala, Sweden, April 2015
 1. Sébastien Combéfis. Enseigner des outils méthodologiques et former une attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en place et évaluation d’un dispositif d’aide à la réussite. _Advanced Master Thesis_. Université catholique de Louvain (UCLouvain), Belgium, June 2014.
 [![PDF](/images/pdf.png)](/files/publi/combefis-advanced-master-thesis.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-advanced-master-thesis-slides.pdf){target=_blank}
-1. Sébastien Combéfis, Fabien Duchêne, and Virginie Van den Schrieck. APP0, ou la découverte du monde universitaire par des compétences techniques au service de l'intégration sociale. Presented at _the 28th Congrès de l'Association Internationale de Pédagogie Universitaire_ (AIPU 2014), Mons, Belgium, May 2014.
+1. Sébastien Combéfis, Fabien Duchêne, and Virginie Van den Schrieck. APP0, ou la découverte du monde universitaire par des compétences techniques au service de l'intégration sociale. Presented at the _28th Congrès de l'Association Internationale de Pédagogie Universitaire_ (AIPU 2014), Mons, Belgium, May 2014.
 [![PDF](/images/pdf.png)](/files/publi/combefis-aipu2014.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-aipu2014-1-slides.pdf){target=_blank}
-1. Sébastien Combéfis, and Chantal Poncin. Intégration d'un service d'aide à la réussite dans un programme d'études, ou comment passer d'un SAR à un cours dans un programme, en passant par un atelier de formation professionnelle. Presented at _the 28th Congrès de l'Association Internationale de Pédagogie Universitaire_ (AIPU 2014), Mons, Belgium, May 2014.
+1. Sébastien Combéfis, and Chantal Poncin. Intégration d'un service d'aide à la réussite dans un programme d'études, ou comment passer d'un SAR à un cours dans un programme, en passant par un atelier de formation professionnelle. Presented at the _28th Congrès de l'Association Internationale de Pédagogie Universitaire_ (AIPU 2014), Mons, Belgium, May 2014.
 [![Slides](/images/slides.png)](/files/publi/combefis-aipu2014-2-slides.pdf){target=_blank}
 1. Sébastien Combéfis, Dimitra Giannakopoulou, and Charles Pecheur. State Event Models for the Formal Analysis of Human-Machine Interactions. In _Proceedings of the Formal Verification and Modeling in Human-Machine Systems AAAI Spring Symposium_ (FVHMS 2014), 15-20, Palo Alto, CA, USA, March 2014.
 [![PDF](/images/pdf.png)](/files/publi/combefis-fvhms2014.pdf){target=_blank}
@@ -120,9 +120,9 @@ caption: Uppsala, Sweden, April 2015
 
 ## 2013
 
-35. Sébastien Combéfis, and Jean-François Rees. The LouvainX Courses: Selection, Support and On-campus Activities. Poster presented at _the edX Consortium Meeting_, Boston, MA, USA, November 2013.
+35. Sébastien Combéfis, and Jean-François Rees. The LouvainX Courses: Selection, Support and On-campus Activities. Poster presented at the _edX Consortium Meeting_, Boston, MA, USA, November 2013.
 [![Poster](/images/slides.png)](/files/publi/combefis-edx-consortium-1-2013.pdf){target=_blank}
-1. Sébastien Combéfis, Adrien Bibal, and Peter Van Roy. Recasting a Traditional Course into a MOOC by Means of a SPOC. Poster presented at _the edX Consortium Meeting_, Boston, MA, USA, November 2013.
+1. Sébastien Combéfis, Adrien Bibal, and Peter Van Roy. Recasting a Traditional Course into a MOOC by Means of a SPOC. Poster presented at the _edX Consortium Meeting_, Boston, MA, USA, November 2013.
 [![Poster](/images/slides.png)](/files/publi/combefis-edx-consortium-2-2013.pdf){target=_blank}
 1. Sébastien Combéfis. A Formal Framework for the Analysis of Human-Machine Interactions. _PhD Thesis_. Université catholique de Louvain (UCLouvain), Belgium, November 2013.
 [![PDF](/images/pdf.png)](/files/publi/combefis-PhD-Thesis.pdf){target=_blank}
@@ -160,7 +160,7 @@ caption: Uppsala, Sweden, April 2015
 
 ## 2009
 
-46. Sébastien Combéfis, and Charles Pecheur. LTS-Based Analysis of Interactive Systems. Poster presented at _the MoVES Annual Meeting_, Louvain-la-Neuve, Belgium, December 2009.
+46. Sébastien Combéfis, and Charles Pecheur. LTS-Based Analysis of Interactive Systems. Poster presented at the _MoVES Annual Meeting_, Louvain-la-Neuve, Belgium, December 2009.
 [![Poster](/images/slides.png)](/files/publi/combefis-moves-annual-meeting2009.pdf){target=_blank}
 1. Sébastien Combéfis. Operational Model: Integrating User Tasks and Environment Information with System Model. Presented at the _3rd International Workshop on Formal Methods for Interactive Systems_ (FMIS 2009), Eindhoven, The Netherlands, November 2009.
 [![PDF](/images/pdf.png)](/files/publi/combefis-fmis2009.pdf){target=_blank}

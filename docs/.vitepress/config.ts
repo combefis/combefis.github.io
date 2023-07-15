@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 
+import mathjax3 from 'markdown-it-mathjax3'
 import small from 'markdown-it-small'
 
 export default defineConfig({
@@ -646,6 +647,7 @@ export default defineConfig({
   },
   markdown: {
     config: (md) => {
+      md.use(mathjax3)
       md.use(small)
     }
   },

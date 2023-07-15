@@ -9,6 +9,7 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
     "vue3-carousel": "^0.3.1"
   }
 }

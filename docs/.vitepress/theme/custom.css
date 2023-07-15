@@ -21,3 +21,10 @@ header {
 .content p {
   text-align: justify;
 }
+
+.content mjx-container {
+  display: inline-flex;
+}
+.content mjx-container > svg {
+  margin: auto;
+}

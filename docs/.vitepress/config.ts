@@ -636,7 +636,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: 'images/sebastien-combefis-logo.png',
+    logo: '/images/sebastien-combefis-logo.png',
     socialLinks: [
       { icon: 'facebook', link: 'https://www.facebook.com/scombefis' },
       { icon: 'github', link: 'https://github.com/combefis/combefis.github.io' },

@@ -1,6 +1,6 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-import { useData } from 'vitepress'
+import { useData, withBase } from 'vitepress'
 
 const { Layout } = DefaultTheme
 const { frontmatter } = useData()
@@ -11,7 +11,7 @@ const { frontmatter } = useData()
     <template #aside-outline-before>
       <div v-if="frontmatter.image" id="rightimg">
         <figure>
-          <img :src="`/images/pics/${frontmatter.image}`" :alt="frontmatter.caption" /> 
+          <img :src="withBase(`/images/pics/${frontmatter.image}`)" :alt="frontmatter.caption" /> 
           <figcaption>{{ frontmatter.caption }}</figcaption>
         </figure>
       </div>

@@ -15,13 +15,15 @@ Moreover, I am interested in the **Computer Science Education** field, in partic
 
 Finally, I am also a **partner** of [EDITx](https://www.editx.eu/en), a private company proposing IT related challenges connecting educators and professionals with students.
 
-::: info Ir. Sébastien Combéfis, Ph.D.  
+::: info Ir. Sébastien Combéfis, _Ph.D._  
 Email: [sebastien@combefis.be](mailto:sebastien@combefis.be)
 
 [![LinkedIn logo](/images/LinkedIn-Blue-14@2x.png)](https://www.linkedin.com/in/scombefis)
 :::
 
 ## Current jobs
+
+Below are my **professional contact details** for the different jobs I currently hold.
 
 ::: info Wallonia-Brussels Federation
 _Civil servant – service manager attaché_  
@@ -70,7 +72,7 @@ Email: [scombefis@editx.eu](mailto:scombefis@editx.eu)
 
 ## Mandates
 
-Due to the various positions that I currently hold, I have been appointed or elected for several **representative mandates**:
+Below are the **representative mandates** I have been appointed or elected for due to the various positions that I currently hold.
 
 - **Animator**, 2022–2023  
   _Conseil Consultatif du Numérique de la Ville d'Ottignies-Louvain-la-Neuve_ (CCN OLLN)
@@ -85,7 +87,7 @@ Due to the various positions that I currently hold, I have been appointed or ele
 
 ## Awards
 
-Here is the only **award** that I was granted so far:
+Below is the only **award** that I was granted so far.
 
 <div style="text-align: center">
   <img src="/images/top100-leaders-education-gfel2019.png" alt="GFEL 2019" />

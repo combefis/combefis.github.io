@@ -7,14 +7,14 @@ caption: Eindhoven, Pays-Bas, novembre 2009
 
 # Réseaux sociaux
 
-Cette page reprend les principaux réseaux sociaux sur lesquels je suis présent, organisés par catégories et, au sein de chacune, par ordre alphabétique.
+Cette page reprend les principaux **réseaux sociaux** sur lesquels je suis présent, organisés par catégories et, au sein de chacune, par ordre alphabétique.
 
 ## Général
 
 - [About.me](https://about.me/sebastien.combefis)
-- [LinkedIn](https://www.linkedin.com/in/scombefis)
 - [Facebook](https://www.facebook.com/scombefis)
 - [Instagram](https://www.instagram.com/scombefis)
+- [LinkedIn](https://www.linkedin.com/in/scombefis)
 - [Twitter](https://www.twitter.com/scombefis)
 
 ## Recherche

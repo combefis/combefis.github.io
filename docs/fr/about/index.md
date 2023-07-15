@@ -23,6 +23,8 @@ E-mail: [sebastien@combefis.be](mailto:sebastien@combefis.be)
 
 ## Jobs actuels
 
+Ci-dessous se trouvent mes **coordonnées professionnelles** pour les différents jobs que j'exerce actuellement.
+
 ::: info Fédération Wallonie-Bruxelles
 _Fonctionnaire – attaché responsable de service_  
 Boulevard Léopold II 44  
@@ -70,7 +72,7 @@ Email: [scombefis@editx.eu](mailto:scombefis@editx.eu)
 
 ## Mandats
 
-De par les différentes fonctions que j'occupe actuellement, j'ai été nommé ou élu pour plusieurs **mandats de représentation** :
+Ci-dessous se trouvent les **mandats de représentation** pour lesquels j'ai été nommé ou élu de par les différentes fonctions que j'occupe actuellement.
 
 - **Animateur**, 2022–2023  
   _Conseil Consultatif du Numérique de la Ville d'Ottignies-Louvain-la-Neuve_ (CCN OLLN)
@@ -85,7 +87,7 @@ De par les différentes fonctions que j'occupe actuellement, j'ai été nommé o
 
 ## Récompenses
 
-Voici la seule **récompense** qui m'a été accordée jusqu'à présent :
+Ci-dessous se trouve la seule **récompense** qui m'a été accordée jusqu'à présent.
 
 <div style="text-align: center">
   <img src="/images/top100-leaders-education-gfel2019.png" alt="GFEL 2019" />

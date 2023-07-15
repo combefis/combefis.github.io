@@ -7,14 +7,14 @@ caption: Eindhoven, The Netherlands, November 2009
 
 # Social Networks
 
-This page shows the main social networks on which I am present, organised by categories and, in each of them, in alphabetical order.
+This page shows the main **social networks** on which I am present, organised by categories and, in each of them, in alphabetical order.
 
 ## General
 
 - [About.me](https://about.me/sebastien.combefis)
-- [LinkedIn](https://www.linkedin.com/in/scombefis)
 - [Facebook](https://www.facebook.com/scombefis)
 - [Instagram](https://www.instagram.com/scombefis)
+- [LinkedIn](https://www.linkedin.com/in/scombefis)
 - [Twitter](https://www.twitter.com/scombefis)
 
 ## Research

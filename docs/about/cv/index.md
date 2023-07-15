@@ -7,7 +7,7 @@ caption: London, UK, September 2009
 
 # Curriculum Vitae
 
-This page shows my most up-to-date curriculum vitae (CV), updated on July 2023. You can download a [PDF version of this CV](/files/cv/combefis-CV-full-EN.pdf).
+This page shows my most up-to-date **curriculum vitae** (CV), updated on July 2023. You can download a [PDF version of this CV](/files/cv/combefis-CV-full-EN.pdf).
 
 ## Professional experiences
 
@@ -92,11 +92,9 @@ This page shows my most up-to-date curriculum vitae (CV), updated on July 2023. 
 - **Team Leader**, _1st International Balkan University Olympiad in Informatics_ (IBUOI 2019), Skopje, North Macedonia. --(2019)--  
 --Representative for Belgium at the International Balkan University Olympiad in Informatics, that is, accompanying the four Belgian contestants.--
 - **Representative**, _Scientific Staff of the Université catholique de Louvain_ (CORSCI), Louvain-la-Neuve, Belgium.  --(2010 – 2013)--
-
     - --2012–2013 (1 year), Vice-President for the Science and Technology Sector of the Scientific Staff of the Université catholique de Louvain (CORSCI).--
     - --2010–2013 (3 years), President and 2013–2014 (1 year), Member of the Association of the scientific staff of the Louvain School of Engineering (ACSEP).--
     - --2010–2012 (2 years), Vice-President for External Matters and 2012–2013 (1 year), President and 2013–2014 (1 year), Vice-President for Internal Matters of the Association of the Scientific staff of the ICT, Electronics and Applied Mathematics Institute (AsCII).--
-
 - **Member**, _MOOCs@UCLouvain Steering Committee_, Louvain-la-Neuve, Belgium. --(2013)--  
 --Member of the committee which is steering the MOOC phenomenon at Université catholique de Louvain and coordinating the LouvainX initiative (UCLouvain courses on the edX platform).--
 - __Deputy Leader__, _22nd International Olympiad in Informatics_ (IOI 2010), Waterloo, ON, Canada. --(2010)--  
@@ -105,32 +103,23 @@ This page shows my most up-to-date curriculum vitae (CV), updated on July 2023. 
 ## Education and trainings
 
 - **Higher Education Teaching Certificate**, _Université catholique de Louvain_ (UCLouvain), Louvain-la-Neuve, Belgium. --(Jan. 2016 - Jun. 2018)--
-
     - --Subject: _« Enseigner l'informatique à de futurs ingénieurs : Mise en place d'un cours de programmation informatique en deuxième année de bachelier en sciences de l'ingénieur »_--
-
 - **Advanced Master in Pedagogy in Higher Education**, _Université catholique de Louvain_ (UCLouvain), Louvain-la-Neuve, Belgium, Cum laude. --(Sep. 2010 – Jun. 2014)--
-
     - --Subject: _« Enseigner des outils méthodologiques et former une attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en place et évaluation d‘un dispositif d'aide à la réussite »_--
     - --Supervisor: _Prof. Mariane Frenay and co-supervisor: Dr. Mireille Houart_.--
-
 - **PhD in Engineering**, _Université catholique de Louvain_ (UCLouvain), Louvain-la-Neuve, Belgium. --(Sep. 2007 – Nov. 2013)--
-
     - --Subject: _« A Formal Framework for the Analysis of Human-Machine Interactions »_--
     - --Examining Board: _Prof. Charles Pecheur, supervisor (UCLouvain/ICTM, Belgium), Prof. Jean Vanderdonckt, secretary (UCLouvain/ILSM, Belgium), Prof. Thierry Massart (ULB, Belgium), Dr Dimitra Giannakopoulou (NASA/ARC, USA), Prof. Philippe Palanque (UPS/IRIT, France) and Prof. Peter Van Roy, chair (UCLouvain/ICTM, Belgium)_.--
-
 - **Master in Computer Science Engineering**, _Université catholique de Louvain_ (UCLouvain), Louvain-la-Neuve, Belgium, Magna cum laude. --(Sep. 2002 – Jun. 2007)--
-
     - --Subject: _« Viral Marketing and Community Detection Algorithm »_--
     - --Supervisor: _Prof. Pierre Dupont_.--
-
 - **General Secondary Education**, _Lycée de Berlaymont_, Waterloo, Belgium, 85%. --(Sep. 1996 – Jun. 2002)--  
 --Mathematics/Science option.--
-
 - **Primary Education**, _École fondamentale libre Notre-Dame_, La Hulpe, Belgium. --(Sep. 1990 – Jun. 1996)--
 
 ### Trainings
 
-- **FoCoMan – Basic Training for Field Managers**, _École d'Administration Publique_ (EAP), Namur, Belgium. --(2023 – 2024 cycle)--  
+- **FoCoMan – Basic Training for Field Managers**, _École d'Administration Publique Wallonie-Bruxelles_ (EAP), Namur, Belgium. --(2023 – 2024 cycle)--  
 --Twenty days of training for managers targeted to the public sector.--
 - **Entrepreneur Coach**, _EDUCA_, Brussels, Belgium. --(Fall 2019)--  
 --Ten half-days of training on entrepreneurial coaching, the entrepreneur and the team, financial aspects, marketing and sales, and business models.--
@@ -395,9 +384,9 @@ This page shows my most up-to-date curriculum vitae (CV), updated on July 2023. 
 
 ### Trainings
 
-- **Trainer**, _École d'Administration Publique_ (EAP), Namur, Belgium. --(2023–now, 1 year)--  
+- **Trainer**, _École d'Administration Publique Wallonie-Bruxelles_ (EAP), Namur, Belgium. --(2023–now, 1 year)--  
 --Trainer for the “internal trainings” about time management, pitching ideas and introduction to collective intelligence.--
-- **Trainer**, _Service Compétences et Conseil Carrière_ (SCCC), Molenbeek-Saint-Jean, Belgium. --(2021–now, 3 years)--  
+- **Trainer**, _Ministère de la Fédération Wallonie-Bruxelles_ (MFWB), Molenbeek-Saint-Jean, Belgium. --(2021–now, 3 years)--  
 --Internal trainer for the “internal training” about web writing, contributing to improve colleagues' competencies on how to write for the web (web writing, web tree, web accessibility, web SEO, etc.).--
 - **Trainer**, _Computer Science and IT in Education ASBL_ (CSITEd), Woluwé-Saint-Lambert, Belgium. --(Summer 2019, 1 session)--  
 --Trainer for technological trainings introducing the fundamentals of visual programming with Scratch, textual programming with Python and Arduino electronic board programming.--

@@ -33,6 +33,11 @@ div.image img {
   border-radius: 10px;
   margin-top: 40px;
 }
+@media only screen and (max-width: 650px) {
+  div.image img {
+    margin-top: 0px;
+  }
+}
 h1.name {
   font-size: 43px!important;
 }

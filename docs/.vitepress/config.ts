@@ -7,7 +7,12 @@ export default defineConfig({
   title: 'Sébastien Combéfis',
   description: 'The personal website of Sébastien Combéfis contains information about his research and teaching activities, and other personal information.',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png'}],
+    [ 'script', {
+      async: '',
+      src: 'https://www.googletagmanager.com/gtag/js?id=G-BE9E4MK9Y3',
+    } ],
+    [ 'script', {}, `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);};gtag('js', new Date());gtag('config', 'G-BE9E4MK9Y3');` ],
+    [ 'link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png'} ],
   ],
   locales: {
     root: {

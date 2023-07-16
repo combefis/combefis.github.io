@@ -5,121 +5,60 @@ image: kyoto.jpg
 caption: Kyoto, Japon, avril 2017
 ---
 
-# Supervision de stages
+# Supervision de stage
 
-XXX
+Cette page liste toutes les **supervisions de stage** que j'ai effectuée pour des étudiant(e)s de l'ECAM, avec l'entreprise où le stage a eu lieu. Les stages de 3ème année de bachelier sont des stages d'immersion tandis que ceux de 2ème année de master sont des stages d'insertion professionnelle. Les rapports qui ne sont pas confidentiels peuvent être téléchargés depuis cette page.
 
-    <p>La liste ci-dessous contient toutes les <b>supervisions de stage</b> que
-    j'ai effectuées pour des étudiants ECAM, avec l'entreprise où le stage a eu
-    lieu. Les stages de 3ème bachelier sont des stages d'immersion tandis que
-    les stages de 2ème master sont des stages d'insertion professionnelle. Les
-    stages sont classés par année et par date de début. Les rapports qui ne sont
-    pas confidentiels peuvent être téléchargés sur cette page.</p>
+## 2019
 
+1. Saïkou Ahmadou Barry. Shayp, Tackling water loss. _2ème master_. **Shayp**, Etterbeek. --(2 septembre-11 octobre)-- 
+[![PDF](/images/pdf.png)](/files/publi/barry-master-internship-2019.pdf){target=_blank}
+1. Louis de Cockborne. Conception et construction d'un point de vente automatisé. _2ème master_. **CERDECAM**, Woluwé-Saint-Lambert. --(17 septembre-30 octobre)-- 
+[![PDF](/images/pdf.png)](/files/publi/de-cockborne-master-internship-2019.pdf){target=_blank}
+1. Jean Vanneste. _2ème master_. **Fullup**, Jambes. --(17 septembre-29 octobre)--
+1. Théo Ducoulombier. _3ème bachelier_. **Spentys**, Forest. --(8 avril-17 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/ducoulombier-bachelor-internship-2019.pdf){target=_blank}
+1. Yassine El Bakkoury. _3ème bachelier_. **Shayp**, Etterbeek. --(8 avril-21 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/el-bakkoury-bachelor-internship-2019.pdf){target=_blank}
+1. Julien Kirstein. _3ème bachelier_. **Gembloux Agro-Bio Tech**, Gembloux. --(8 avril-21 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/kirstein-bachelor-internship-2019.pdf){target=_blank}
 
-    <h2>2019</h2>
+## 2018
 
-    <ol class="publications-start">
-      <li>Saïkou Ahmadou Barry, 2ème master, <b>Shayp</b>, Etterbeek.
-      <small>(2 septembre-11 octobre)</small>
-      <a href="/files/publi/barry-master-internship-2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Louis de Cockborne, 2ème master, <b>CERDECAM</b>,
-      Woluwé-Saint-Lambert. <small>(17 septembre-30 octobre)</small>
-      <a href="/files/publi/de-cockborne-master-internship-2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Jean Vanneste, 2ème master, <b>Fullup</b>, Jambes.
-      <small>(17 septembre-29 octobre)</small>
-      <!--<a href="/files/publi/vanneste-master-internship-2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a>--></li>
-      <li>Théo Ducoulombier, 3ème bachelier, <b>Spentys</b>, Forest.
-      <small>(8 avril-17 mai)</small>
-      <a href="/files/publi/ducoulombier-bachelor-internship-2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Yassine El Bakkoury, 3ème bachelier, <b>Shayp</b>, Etterbeek.
-      <small>(8 avril-17 mai)</small>
-      <a href="/files/publi/el-bakkoury-bachelor-internship-2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Julien Kirstein, 3ème bachelier, <b>Gembloux Agro-Bio Tech</b>,
-      Gembloux. <small>(8 avril-21 mai)</small>
-      <a href="/files/publi/kirstein-bachelor-internship-2019.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-    </ol>
+7. Tom Selleslagh. _2ème master_. **CETIC**, Charleroi. --(17 septembre-26 octobre)-- 
+[![PDF](/images/pdf.png)](/files/publi/selleslagh-master-internship-2018.pdf){target=_blank}
+1. Hadrien Hachez. Automatic data quality management. _2ème master_. **Avanade**, Bruxelles. --(1 aout-26 octobre)-- 
+[![PDF](/images/pdf.png)](/files/publi/hachez-master-internship-2018.pdf){target=_blank}
+1. Christophe Simon. _3ème bachelier_. **Ingestic**, Louvain-la-Neuve. --(2 avril-11 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/simon-bachelor-internship-2018.pdf){target=_blank}
 
+## 2017
 
-    <h2>2018</h2>
+10. Antoine Vander Meiren. Développement du firmware d'une smart-card réalisant des opérations cryptographiques. _2ème master_. **Thales**, Tubize. --(11 septembre-27 octobre)-- 
+[![PDF](/images/pdf.png)](/files/publi/vander-meiren-master-internship-2017.pdf){target=_blank}
+1. Charles Vandevoorde. _2ème master_. **Thales**, Tubize. --(11 septembre-27 octobre)--
+1. Alexis Nootens. _3ème bachelier_. **Macq**, Bruxelles. --(17 avril-26 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/nootens-bachelor-internship-2017.pdf){target=_blank}
+1. Mathieu David. _3ème bachelier_. _Telemis_, Louvain-la-Neuve. --(3 avril-12 mai)--
+1. Hadrien Hachez. _3ème bachelier_. **Euroclear**, Bruxelles. --(3 avril-12 mai)--
 
-    <ol class="publications-continue">
-      <li>Tom Selleslagh, 2ème master, <b>CETIC</b>, Charleroi.
-      <small>(17 septembre-26 octobre)</small>
-      <a href="/files/publi/selleslagh-master-internship-2018.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Hadrien Hachez, 2ème master, <b>Avanade</b>, Bruxelles.
-      <small>(1 aout-26 octobre)</small>
-      <a href="/files/publi/hachez-master-internship-2018.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Christophe Simon, 3ème bachelier, <b>Ingestic</b>, Louvain-la-Neuve.
-      <small>(2 avril-11 mai)</small>
-      <a href="/files/publi/simon-bachelor-internship-2018.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-    </ol>
+## 2016
 
+15. Benoit de Patoul. _2ème master_. **SMDW**, Bruxelles. --(22 septembre-3 novembre)-- 
+[![PDF](/images/pdf.png)](/files/publi/de-patoul-master-internship-2016.pdf){target=_blank}
+1. Gaetano Giordano. _3ème bachelier_. **Icon Security International**, Bruxelles. --(29 mars-6 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/giordano-bachelor-internship-2016.pdf){target=_blank}
+1. Sylvain Alonso. Étude de faisabilité d'une plateforme stress test dans le cadre du projet DICE. _3ème bachelier_. **Infrabel**, Bruxelles. --(28 mars-9 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/alonso-bachelor-internship-2016.pdf){target=_blank}
+1. Omer Seuwa Ndomjou. _3ème bachelier_. **Icon Security International**, Bruxelles. --(28 mars-6 mai)--
+1. Antoine Vander Meiren, Étude de faisabilité d'une plateforme stress test dans le cadre du projet DICE. _3ème bachelier_. **Infrabel**, Bruxelles. --(28 mars-9 mai)-- 
+[![PDF](/images/pdf.png)](/files/publi/vander-meiren-bachelor-internship-2016.pdf){target=_blank}
 
-    <h2>2017</h2>
+## 2015
 
-    <ol class="publications-continue">
-      <li>Antoine Vander Meiren, 2ème master, <b>Thales</b>, Tubize.
-      <small>(11 septembre-27 octobre)</small>
-      <a href="/files/publi/vandermeiren-master-internship-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Charles Vandevoorde, 2ème master, <b>Thales</b>, Tubize.
-      <small>(11 septembre-27 octobre)</small></li>
-      <li>Alexis Nootens, 3ème bachelier, <b>Macq</b>, Bruxelles.
-      <small>(17 avril-26 mai)</small>
-      <a href="/files/publi/nootens-bachelor-internship-2017.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Mathieu David, 3ème bachelier, <b>Telemis</b>, Louvain-la-Neuve.
-      <small>(3 avril-12 mai)</small></li>
-      <li>Hadrien Hachez, 3ème bachelier, <b>Euroclear</b>, Bruxelles.
-      <small>(3 avril-12 mai)</small></li>
-    </ol>
-
-
-    <h2>2016</h2>
-
-    <ol class="publications-continue">
-      <li>Benoit de Patoul, 2ème master, <b>SMDW</b>, Bruxelles.
-      <small>(22 septembre-3 novembre)</small>
-      <a href="/files/publi/depatoul-master-internship-2016.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Gaetano Giordano, 3ème bachelier, <b>Icon Security International</b>,
-      Bruxelles.
-      <small>(29 mars-6 mai)</small>
-      <a href="/files/publi/giordano-bachelor-internship-2016.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Sylvain Alonso, 3ème bachelier, <b>Infrabel</b>, Bruxelles.
-      <small>(28 mars-9 mai)</small>
-      <a href="/files/publi/alonso-bachelor-internship-2016.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li>Omer Seuwa Ndomjou, 3ème bachelier, <b>Icon Security
-      International</b>, Bruxelles.
-      <small>(28 mars-6 mai</small>)</li>
-      <li>Antoine Vander Meiren, 3ème bachelier, <b>Infrabel</b>, Bruxelles.
-      <small>(28 mars-9 mai)</small>
-      <a href="/files/publi/vandermeiren-bachelor-internship-2016.pdf">
-      <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-    </ol>
-
-
-    <h2>2015</h2>
-
-    <ol class="publications-continue">
-      <li>Lionel Gosselin, 2ème master, <b>Vigo Universal</b>, Namur.
-      <small>(15 septembre-30 octobre</small>)</li>
-      <li>David Helaers, 2ème master, <b>Cliniques Universitaires Saint-Luc</b>,
-      Bruxelles.</li>
-      <li>Damien Vanhove, 2ème master, <b>eWon</b>, Nivelles.</li>
-      <li>Sofian Bouzarioh, 3ème bachelier, <b>Kumpen</b>, Hasselt.</li>
-      <li>Gaël Mavangui, 3ème bachelier, <b>MAKE IT</b>, Jambes.</li>
-      <li>Ghislain Munyaneza, 3ème bachelier, <b>Slanted Media</b>, Uccle.</li>
-    </ol>
+20. Lionel Gosselin. _2ème master_. **Vigo Universal**, Namur. --(15 septembre-30 octobre)--
+1. David Helaers. _2ème master_. **Cliniques Universitaires Saint-Luc**, Brussels.
+1. Damien Vanhove. _2ème master_. **eWon**, Nivelles.
+1. Sofian Bouzarioh. _3ème bachelier_. **Kumpen**, Hasselt.
+1. Gaël Mavangui. _3ème bachelier_. **MAKE IT**, Jambes.
+1. Ghislain Munyaneza. _3ème bachelier_. **Slanted Media**, Uccle.

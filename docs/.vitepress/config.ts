@@ -11,7 +11,7 @@ export default defineConfig({
       async: '',
       src: 'https://www.googletagmanager.com/gtag/js?id=G-BE9E4MK9Y3',
     } ],
-    [ 'script', {}, `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);};gtag('js', new Date());gtag('config', 'G-BE9E4MK9Y3');` ],
+    [ 'script', {}, `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);};gtag('js', new Date());gtag('config', 'G-BE9E4MK9Y3', { send_page_view: false });` ],
     [ 'link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon.png'} ],
   ],
   locales: {

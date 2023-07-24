@@ -7,7 +7,7 @@ caption: Louvain-la-Neuve, Belgium, September 2013
 
 # UCLouvain
 
-I worked from 2007 to 2013 as a **teaching assistant** at the [Université catholique de Louvain](https://www.uclouvain.be/en) (UCLouvain). My role was to prepare and supervise practical lab sessions for several courses, followed by bachelor and master students and either taught in French or in English. I started to be involved in the _“Informatique 1”_ course in 2004 as a teaching monitor (tutor) while I was still studying.
+I worked from 2007 to 2013 as a **teaching assistant** at the [Université catholique de Louvain](https://www.uclouvain.be/en) (UCLouvain). My role was to prepare and supervise practical lab sessions for several courses, followed by bachelor and master students and either taught in French and in English. I started to be involved in the _“Informatique 1”_ course in 2004 as a teaching monitor (tutor) while I was still myself studying.
 
 After I got my PhD, I was also responsible for two courses as an **invited lecturer**, from 2014 to 2015. I taught the _“Informatique 1”_ course to more than 400 first year bachelor students and the _“Software Engineering Project”_ course targeted to master students.
 

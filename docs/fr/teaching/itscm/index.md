@@ -7,69 +7,18 @@ caption: Sydney, NSW, Australie, juillet 2013
 
 # ITSCM
 
-XXX
+Je travaille depuis 2011 comme **professeur de cours technique** à l'[Institut Technique Supérieur Cardinal Mercier](https://www.itscm.be) (ITSCM), un établissement d'enseignement supérieur de promotion sociale. Mon rôle actuel dans cette école est d'enseigner un cours aux étudiant(e)s du bachelier en informatique et systèmes et du bachelier en électronique. Le cours est donné en français, mais certaines ressources ne sont fournies qu'en anglais.
 
-    <p>Je travaille depuis 2011 comme <b>professeur technique</b> pour
-    l'<a href="https://www.itscm2.be">Institut Technique Supérieur Cardinal
-    Mercier</a> (ITSCM), une institution d'enseignement supérieur en promotion
-    sociale. J'étais impliqué dans trois cours du bachelier en informatique et
-    systèmes et du bachelier en électronique du pôle technologique, et je suis
-    aujourd'hui encore impliqué dans un des trois cours.</p>
+Précédemment, j'ai été en charge de deux autres cours durant quelques années, pour les étudiant(e)s des mêmes deux bacheliers.
 
+## Actuellement enseigné
 
-    <h2>Actuellement enseigné</h2>
+- [**2261.11.U31.D1 – Transmission numérique**](./transmission/), 2017–maintenant --(7 ans)--  
+  --_Ce cours, enseigné aux étudiant(e)s en troisième année du bachelier en informatique et systèmes et du bachelier en électronique, présente comment identifier et analyser des transmissions numériques. Les étudiant(e)s ont l'opportunité de concevoir et développer un système complet basé sur des senseurs et de la transmission de données, durant le laboratoire._--
 
-    <table>
-      <colgroup>
-        <col style="width: 15%;">
-        <col style="width: 85%;">
-      </colgroup>
-      <tr>
-        <td>2017–maintenant<br><small>(3 ans)</small></td>
-        <td>
-          <b>2261.11.U31.D1 – Transmission numérique</b>
-          <p><small><i>Ce cours, destiné aux étudiants en troisième année de
-          bachelier en informatique et systèmes et en électronique, présente
-          comment identifier et analyser des transmissions numériques avec les
-          circuits spécifiques et les protocoles appropriés. Les étudiants ont
-          l'opportunité de concevoir et développer un système complet basé sur
-          des senseurs et de la transmission de données durant le
-          laboratoire.</i></small></p>
-        </td>
-      </tr>
-    </table>
+## Précédemment enseigné
 
-
-    <h2>Précédemment enseigné</h2>
-
-    <table>
-      <colgroup>
-        <col style="width: 15%;">
-        <col style="width: 85%;">
-      </colgroup>
-      <tr>
-        <td>2013–2015<br><small>(3 ans)</small></td>
-        <td>
-          <b>2982.21.U31.D1 – Initiation aux bases de données</b>
-          <p><small><i>Ce cours, destiné aux étudiants en première année de
-          bachelier en informatique et systèmes et en électronique, est un
-          cours d'introduction aux bases de données qui présente les Systèmes
-          de Gestion de Bases de Données (SGBD), les bases de données
-          relationnelles, le Structured Query Language (SQL), les clés primaires
-          et les vues, les jointures, l'importation et l'exportation de
-          données, etc.</i></small></p>
-        </td>
-      </tr>
-      <tr>
-        <td>2011–2014<br><small>(4 ans)</small></td>
-        <td>
-          <b>7560.42.U31.D1 – Informatique appliquée aux sciences et aux
-          technologies : Bases de la programmation</b>
-          <p><small><i>Ce cours, destiné aux étudiants en deuxième année de
-          bachelier en informatique et systèmes, concerne les concepts de base
-          de la programmation : tableaux à plusieurs dimensions, boucles
-          imbriquées, booléens et caractères, décomposition en procédures et
-          fonctions, manipulation de fichiers, etc.</i></small></p>
-        </td>
-      </tr>
-    </table>
+- [**2982.21.U31.D1 – Initiation aux bases de données**](./database/), 2013–2015 --(3 ans)--  
+  --_Ce cours, enseigné aux étudiant(e)s en première année du bachelier en informatique et systèmes et du bachelier en électronique, présente une introduction aux bases de données. Plus précisément, il couvre les SGBD, les bases de données relationnelles, SQL, les clés primaires, les vues, les jointures, l'importation et l'exportation de données, etc._--
+- [**7560.42.U31.D1 – Informatique appliquée aux sciences et aux technologies : Bases de la programmation**](./programming/), 2011–2014 --(4 ans)--  
+  --_Ce cours, enseigné aux étudiant(e)s en deuxième année du bachelier en informatique et systèmes, présente les concepts de base de la programmation : tableaux multidimensionnels, boucles imbriquées, booléens et caractères, décomposition en procédures et fonctions, manipulation de fichiers, etc._--

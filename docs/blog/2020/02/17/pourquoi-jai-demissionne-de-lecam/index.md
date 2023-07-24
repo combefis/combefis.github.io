@@ -1,11 +1,116 @@
 ---
-layout: post
-title: "Pourquoi j'ai démissionné de l'ECAM ?"
 date: 2020-02-17 19:11:34 +0200
 categories: enseignement, travail
-permalink: /fr/blog/:year/:month/:day/:title/
 language: fr
 ---
+
+<script setup>
+import PicturesCarousel from '/.vitepress/components/PicturesCarousel.vue'
+
+const images = [
+  {
+    image: {
+      src: '/images/blog/ecam-building-mar-2020.jpg',
+      width: 800,
+      height: 450,
+      alt: 'ECAM',
+    },
+    caption: 'Le bâtiment principal de l\'ECAM, connu sous le nom de Vinci 2 (mars 2020).',
+  },
+  {
+    image: {
+      src: '/images/blog/researcher-day-nov-2019.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Journée des chercheurs 2019',
+    },
+    caption: 'À la journée des chercheurs en Haute-École de SynHERA (novembre 2019).',
+  },
+  {
+    image: {
+      src: '/images/blog/scratch-training-jul-2019.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Formation Scratch',
+    },
+    caption: 'Jeune fille en pleine formation à la programmation en Scratch (juillet 2019).',
+  },
+  {
+    image: {
+      src: '/images/blog/computer-science-day-may-2019.jpg',
+      width: 800,
+      height: 450,
+      alt: 'CSDay 2019',
+    },
+    caption: 'La fine équipe du Computer Science Day 2019 organisé par la CSITEd ASBL à l\'ECAM (mai 2019).',
+  },
+  {
+    image: {
+      src: '/images/blog/industrial-seminar-apr-2019.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Séminaire industriel',
+    },
+    caption: 'Groupe d\'étudiants de master en pleine discussion en anglais lors du séminaire industriel (avril 2019).',
+  },
+  {
+    image: {
+      src: '/images/blog/hack2start-mar-2019.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Challenge Hack2Start',
+    },
+    caption: 'Défense orale d\'un groupe d\'étudiants lors de la première édition du challenge Hack2Start (mars 2019).',
+  },
+  {
+    image: {
+      src: '/images/blog/written-exam-jan-2019.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Examen écrit',
+    },
+    caption: 'Un examen écrit, comme tant d\'autres, avec les étudiants de master en informatique (janvier 2019).',
+  },
+  {
+    image: {
+      src: '/images/blog/proximus-digitalent-may-2018.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Proximus Digitalent',
+    },
+    caption: 'Présentation finale du projet de lunette connectée d\'un groupe d\'étudiants de la formation Proximus Digitalent (mai 2018).',
+  },
+  {
+    image: {
+      src: '/images/blog/itscm-presentation-may-2017.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Défense ITSCM',
+    },
+    caption: 'Présentation du travail du laboratoire de transmission numérique des étudiants ITSCM (mai 2017).',
+  },
+  {
+    image: {
+      src: '/images/blog/python-book-oct-2016.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Livre Python',
+    },
+    caption: 'Avec mon collègue Quentin Lurkin et notre livre pour apprendre à programmer avec Python (octobre 2016).',
+  },
+  {
+    image: {
+      src: '/images/blog/ecam-office-oct-2014.jpg',
+      width: 800,
+      height: 450,
+      alt: 'Bureau',
+    },
+    caption: 'Au bureau, à l\'ECAM, à mes tous débuts (octobre 2014).',
+  },
+]
+</script>
+
+# Pourquoi j'ai démissionné de l'ECAM ?
 
 Le 12 février 2020, j'ai remis ma **démission** de l'_ECAM Brussels Engineering School_ (ECAM) [1], institution au sein de laquelle j'ai été enseignant d'informatique pendant six ans, de septembre 2014 à aujourd'hui. Mais pourquoi cette décision ? Tous ceux qui me connaissent savent à quel point j'adore enseigner, et ce choix peut donc interpeller. Pour couper court à toute rumeur, et pour vous expliquer ma démarche, j'ai aujourd'hui écrit cet article, retraçant mon parcours au sein de l'ECAM, les difficultés que j'ai éprouvées et le **cheminement** qui m'a amené à cette démission.
 
@@ -27,19 +132,7 @@ Le 12 février 2020, j'ai remis ma **démission** de l'_ECAM Brussels Engineerin
 
 J'ai donc pu travailler sur de nombreux projets, qui m'ont procuré beaucoup de satisfaction personnelle et m'ont motivé durant ces six années comme enseignant à l'ECAM, et qui m'ont permis d'exploiter au maximum mes compétences et d'en développer des nouvelles, au delà des compétences techniques en informatique mobilisées dans le cadre de mes cours.
 
-<div class="slideshow">
-  <div><img src="/images/blog/ecam-building-mar-2020.jpg" width="800" height="450" alt="ECAM"><br>Le bâtiment principal de l'ECAM, connu sous le nom de Vinci 2 (mars 2020).</div>
-  <div><img src="/images/blog/researcher-day-nov-2019.jpg" width="800" height="450" alt="Journée des chercheurs"><br>À la journée des chercheurs en Haute-École de SynHERA (novembre 2019).</div>
-  <div><img src="/images/blog/scratch-training-jul-2019.jpg" width="800" height="450" alt="Formation Scratch"><br>Jeune fille en pleine formation à la programmation en Scratch (juillet 2019).</div>
-  <div><img src="/images/blog/computer-science-day-may-2019.jpg" width="800" height="450" alt="CSDay 2019"><br>La fine équipe du Computer Science Day 2019 organisé par la CSITEd ASBL à l'ECAM (mai 2019).</div>
-  <div><img src="/images/blog/industrial-seminar-apr-2019.jpg" width="800" height="450" alt="Séminaire industriel"><br>Groupe d'étudiants de master en pleine discussion en anglais lors du séminaire industriel (avril 2019).</div>
-  <div><img src="/images/blog/hack2start-mar-2019.jpg" width="800" height="450" alt="Challenge Hack2Start"><br>Défense orale d'un groupe d'étudiants lors de la première édition du challenge Hack2Start (mars 2019).</div>
-  <div><img src="/images/blog/written-exam-jan-2019.jpg" width="800" height="450" alt="Examen écrit"><br>Un examen écrit, comme tant d'autres, avec les étudiants de master en informatique (janvier 2019).</div>
-  <div><img src="/images/blog/proximus-digitalent-may-2018.jpg" width="800" height="450" alt="Proximus Digitalent"><br>Présentation finale du projet de lunette connectée d'un groupe d'étudiants de la formation Proximus Digitalent (mai 2018).</div>
-  <div><img src="/images/blog/itscm-presentation-may-2017.jpg" width="800" height="450" alt="Défense ITSCM"><br>Présentation du travail du laboratoire de transmission numérique des étudiants ITSCM (mai 2017).</div>
-  <div><img src="/images/blog/python-book-oct-2016.jpg" width="800" height="450" alt="Livre Python"><br>Avec mon collègue Quentin Lurkin et notre livre pour apprendre à programmer avec Python (octobre 2016).</div>
-  <div><img src="/images/blog/ecam-office-oct-2014.jpg" width="800" height="450" alt="Bureau"><br>Au bureau, à l'ECAM, à mes tous débuts (octobre 2014).</div>
-</div>
+<pictures-carousel :images="images" />
 
 ## Difficultés
 

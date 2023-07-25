@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Laboratoire de transmission numérique en promotion sociale"
 date: 2017-01-14 19:27:12 +0200
 categories: enseignement, pédagogie
-permalink: /fr/blog/:year/:month/:day/:title/
 language: fr
 ---
+
+# Laboratoire de transmission numérique en promotion sociale
 
 Aujourd'hui, je rejoins de nouveau l'équipe des enseignants de l'<a
 href="http://www.cardinalmercier-promotionsociale.be/spip2012/index.php">

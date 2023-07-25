@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "Initiation à l'intelligence artificielle à l'ECAM"
 date: 2016-03-28 14:16:36 +0200
 categories: enseignement
-permalink: /fr/blog/:year/:month/:day/:title/
 language: fr
 ---
+
+# Initiation à l'intelligence artificielle à l'ECAM
 
 Vous avez très certainement entendu qu'une nouvelle étape a été récemment
 franchie par _Google_ dans le domaine de l'**intelligence artificielle**. La

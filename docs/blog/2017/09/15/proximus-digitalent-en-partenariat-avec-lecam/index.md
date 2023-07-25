@@ -1,12 +1,10 @@
 ---
-layout: post
-title: "Proximus Digitalent en partenariat avec l'ECAM"
 date: 2017-09-15 20:29:31 +0200
 categories: enseignement, pédagogie, électronique
-permalink: /fr/blog/:year/:month/:day/:title/
-ref: 2017-09-15-proximus-digitalent
 language: fr
 ---
+
+# Proximus Digitalent en partenariat avec l'ECAM
 
 Cette année, le **CERDECAM** (centre de recherche et de développement de l'ECAM)
 a signé un partenariat avec la **Proximus Foundation** dans le cadre de leur

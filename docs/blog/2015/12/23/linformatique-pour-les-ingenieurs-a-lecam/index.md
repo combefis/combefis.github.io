@@ -1,11 +1,10 @@
 ---
-layout: post
-title: "L'informatique pour les ingénieurs à l'ECAM"
 date: 2015-12-23 15:21:51 +0200
 categories: enseignement, pédagogie, informatique
-permalink: /fr/blog/:year/:month/:day/:title/
 language: fr
 ---
+
+# L'informatique pour les ingénieurs à l'ECAM
 
 Les étudiants à l'ECAM ont tous un **cours général d'informatique** en première
 et en deuxième année de bachelier. Lors de l'élaboration des nouveaux

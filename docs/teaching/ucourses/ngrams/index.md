@@ -7,56 +7,42 @@ caption: Tokyo, Japan, April 2017
 
 # Word Prediction with N-Grams Model Using Python
 
-XXX
+The “AI611µ Word Prediction with N-Grams Model using Python” micro-course is about how to perform **word prediction** with artificial intelligence techniques. More precisely, it presents how to use **N-Grams model** to predict words based on a corpus and builds a small example with Python.
 
-    <p>The <i>« AI611µ Word Prediction with N-Grams Model using Python »</i> micro-course is about how to perform <b>word prediction</b> with artificial intelligence techniques. It presents how to use <b>N-Grams model</b> to predict words based on a corpus and builds a small example with Python.</p>
+I gave this micro-course in 2020, once, at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM) as a part of the [“I4110 – Artificial intelligence” course](../../ecam/ai/). The course is taught in French, but all the material is available in English and in French.
 
-    <p>I gave this micro-course once at the <a href="https://www.ecam.be">ECAM Brussels Engineering School</a> (ECAM), in 2020, as a part of the artificial intelligence course. The course is taught in French, but all the material is available in English and <a href="/fr/teaching/ucourses/ngram/">in French</a>.</p>
+## Documents
 
+- General information about the micro-course
+- [Competency Based Assessment ![PDF](/images/pdf.png)](/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf){target=_blank}
+- [Grid of skills to acquire ![PDF](/images/pdf.png)](/files/ucourses/ngrams/NGramsModel-Competencies-List.pdf){target=_blank}
 
-    <h2>Documents</h2>
+## Theory
 
-    <ul>
-      <li><a href="/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf">Competency Based Assessment <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Competencies-List.pdf">Grid of skills to acquire <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-    </ul>
+- [Session 1: Word Prediction Problem and N-Grams Model ![Slides](/images/slides.png)](/files/ucourses/ngrams/NGramsModel-Session1-Slides.pdf){target=_blank}
+- [Session 2: N-Grams Model Training and Model Evaluation ![Slides](/images/slides.png)](/files/ucourses/ngrams/NGramsModel-Session2-Slides.pdf){target=_blank}
 
+## Practice
 
-    <h2>Theory</h2>
+- [Quizz 1: N-Grams model ![PDF](/images/pdf.png)](/files/ucourses/ngrams/NGramsModel-Quizz1.pdf){target=_blank}
+- Quizz 2: Bigram model training
+- Quizz 3: N-Grams model training and evaluation
+- [Coding 1: Corpus statistics ![PDF](/images/pdf.png)](/files/ucourses/ngrams/NGramsModel-Coding1.pdf){target=_blank}
+- [Coding 2: Training a bigram model ![PDF](/images/pdf.png)](/files/ucourses/ngrams/NGramsModel-Coding2.pdf){target=_blank}
+- [Mission 1: N-Grams model applications ![PDF](/images/pdf.png)](/files/ucourses/ngrams/NGramsModel-Mission1.pdf){target=_blank}
+- [Mission 2: Bigram model training with nltk ![PDF](/images/pdf.png)](/files/ucourses/ngrams/NGramsModel-Mission2.pdf){target=_blank}
+- [Project 1: Simple word prediction application ![PDF](/images/pdf.png)](/files/ucourses/ngrams/NGramsModel-Project1.pdf){target=_blank}
 
-    <ul>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Session1-Slides.pdf">Session 1: Word Prediction Problem and N-Grams Model <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
+## Resources
 
-      <li><a href="/files/ucourses/ngram/NGramsModel-Session2-Slides.pdf">Session 2: N-Grams Model Training and Model Evaluation <img src="/images/slides.png" width="16" height="16" alt="Slides"></a></li>
-    </ul>
+This section gathers **resources** that have been used to create this micro-course. These latter can be used to learn more about N-Grams.
 
+### Reference books
 
-    <h2>Practice</h2>
+- Daniel Jurafsky and James H. Martin (2008). Speech and Language Processing (Second Edition). Pearson. --(ISBN: 978-0-135-04196-3)--
 
-    <ul>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Quizz1.pdf">Quizz 1: N-Grams model <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Quizz2.pdf">Quizz 2: Bigram model training <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Quizz3.pdf">Quizz 3: N-Grams model training and evaluation <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Coding1.pdf">Coding 1: Corpus statistics <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Coding2.pdf">Coding 2: Training a bigram model <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Mission1.pdf">Mission 1: N-Grams model applications <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Mission2.pdf">Mission 2: Bigram model training with nltk <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-      <li><a href="/files/ucourses/ngram/NGramsModel-Project1.pdf">Project 1: Simple word prediction application <img src="/images/pdf.png" width="16" height="16" alt="PDF"></a></li>
-    </ul>
+### Online resources
 
-
-    <h2>Resources</h2>
-
-    <h3>Reference books</h3>
-
-    <ul>
-      <li>Daniel Jurafsky and James H. Martin. (2008). Speech and Language Processing (Second Edition). Pearson. <small>(ISBN: 978-0-135-04196-3)</small></li>
-    </ul>
-
-    <h3>Online resources</h3>
-
-    <ul>
-      <li><a href="http://guidetodatamining.com/ngramAnalyzer">Online NGram Analyzer</a> to perform simple statistics on texts.</li>
-      <li><a href="https://books.google.com/ngrams">Google Ngram Viewer</a> with data collected from Google Books.</li>
-      <li><a href="https://www.nltk.org">Official website</a> of the Natural Language Toolkit (NLTK) Python module.</li>
-    </ul>
+- [Online NGram Analyzer](http://guidetodatamining.com/ngramAnalyzer) to perform simple statistics on texts.
+- [Google Ngram Viewer](https://books.google.com/ngrams) with data collected from Google Books.
+- Official website of the [Natural Language Toolkit (NLTK) Python module](https://www.nltk.org).

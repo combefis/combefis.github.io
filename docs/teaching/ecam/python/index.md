@@ -28,125 +28,71 @@ XXX
     <a href="/fr/teaching/ecam/python/">in French</a>.</p>
 
 
-    <h2>Documents</h2>
+## Documents
 
-    <ul>
-      <li>General information about the course</li>
-      <li>Grid of skills to acquire</li>
-    </ul>
+- General information about the course
 
+## Theory
 
-    <h2>Theory</h2>
+### B103B Programmation
 
-    <h3>B103B Programmation</h3>
+- Session 1: Introduction to Python Programming
+- Session 2: Flow Control
+- Session 3: String and Function
+- Session 4: Function and List
+- Session 5: Abstract Data Type and Algorithm
 
-    <ul>
-      <li>Session 1: Introduction to Python Programming</li>
+### B201A Concepts informatiques
 
-      <li>Session 2: Flow Control</li>
+- Session 1: Set, Dictionary and Database
+- Session 2: Tuple and Object
+- Session 3: Class and Object
+- Session 4: Graphical Interface and Events
+- Session 5: Error Handling and Exception Mechanism
+- Session 6: Reading and Writing Files
+- Session 7: Web Langages: HTML, CSS and JavaScript
+- Session 8: How does the Internet Work?
+- Session 9: Web Development with Python
+- Session 10: Code Quality and Coding Convention
 
-      <li>Session 3: String and Function</li>
+### B216A Développement informatique
 
-      <li>Session 4: Function and List</li>
+- Session 1: Project Management, Versioning, Debugging, Testing and Profiling
+- Session 2: String and Regular Expression
+- Session 3: Network Programming
+- Session 4: Concurrent Programming
+- Session 5: Functional Programming, Decorator and Generator
+- Session 6: Asynchronous Programming and Coroutine
+- Session 7: Manipulation of CSV, XML, PDF... Documents
+- Session 8: Algorithmic I: Recursion and Tree
+- Session 9: Algorithmic II : Search Techniques in Artificial Intelligence
+- Session 10: Effective Programming and Pythonic Style
 
-      <li>Session 5: Abstract Data Type and Algorithm</li>
-    </ul>
+## Practice
 
-    <h3>B201A Concepts informatiques</h3>
+- Work: Creating a website with CherryPy
+- Work: Creating a game with a graphical user interface with Kivy
+- Work: Creating an artificial intelligence for a board game
 
-    <ul>
-      <li>Session 1: Set, Dictionary and Database</li>
+## Resources
 
-      <li>Session 2: Tuple and Object</li>
+This section gathers **resources** that have been used to create these courses. These latter can be used to learn more about Python programming.
 
-      <li>Session 3: Class and Object</li>
+### Official book
 
-      <li>Session 4: Graphical Interface and Events</li>
+- Sébastien Combéfis and Quentin Lurkin. (2016). Apprendre Python et s'initier à la programmation. UKO Publication. --(ISBN: 978-1-326-76710-5)--
+- Sébastien Combéfis. (to be published). Python avancé : Techniques de programmation. UKO Publication.
 
-      <li>Session 5: Error Handling and Exception Mechanism</li>
+### Reference books
 
-      <li>Session 6: Reading and Writing Files</li>
+- Mark Summerfield. (2009). NoSQL Distilled: Programming in Python 3: A Complete Introduction to the Python Language (2nd edition). Addison-Wesley. --(ISBN: 978-0-321-68056-3)--
+- Gérard Swinnen. (2012). Apprendre à programmer avec Python 3 (3rd edition). Eyrolles. --(ISBN: 978-2-212-13434-6)--
 
-      <li>Session 7: Web Langages: HTML, CSS and JavaScript</li>
+### Other books
 
-      <li>Session 8: How does the Internet Work?</li>
+- Eric S. Roberts. (1986). Thinking Recursively. John Wiley & Sons. --(ISBN: 978-0-471-81652-2)--
+- Brett Slatkin. (2015). Effective Python: 59 Specific Ways to Write Better Python. Addison-Wesley. --(ISBN: 978-0-134-03428-7)--
 
-      <li>Session 9: Web Development with Python</li>
+### Online resources
 
-      <li>Session 10: Code Quality and Coding Convention</li>
-    </ul>
-
-    <h3>B216A Développement informatique</h3>
-
-    <ul>
-      <li>Session 1: Project Management, Versioning, Debugging, Testing and
-      Profiling</li>
-
-      <li>Session 2: String and Regular Expression</li>
-
-      <li>Session 3: Network Programming</li>
-
-      <li>Session 4: Concurrent Programming</li>
-
-      <li>Session 5: Functional Programming, Decorator and Generator</li>
-
-      <li>Session 6: Asynchronous Programming and Coroutine</li>
-
-      <li>Session 7: Manipulation of CSV, XML, PDF... Documents</li>
-
-      <li>Session 8: Algorithmic I: Recursion and Tree</li>
-
-      <li>Session 9: Algorithmic II : Search Techniques in Artificial
-      Intelligence</li>
-
-      <li>Session 10: Effective Programming and Pythonic Style</li>
-    </ul>
-
-
-    <h2>Practice</h2>
-
-    <ul>
-      <li>Work: Creating a website with CherryPy</li>
-      <li>Work: Creating a game with a graphical user interface with Kivy</li>
-      <li>Work: Creating an artificial intelligence for a board game</li>
-    </ul>
-
-
-    <h2>Resources</h2>
-
-    <h3>Official book</h3>
-
-    <ul>
-      <li>Sébastien Combéfis and Quentin Lurkin. (2016). Apprendre Python et
-      s'initier à la programmation. UKO Publication.
-      <small>(ISBN : 978-1-326-76710-5)</small></li>
-      <li>Sébastien Combéfis. (to be published). Python avancé : Techniques de
-      programmation. UKO Publication.</li>
-    </ul>
-
-    <h3>Reference books</h3>
-
-    <ul>
-      <li>Mark Summerfield. (2009). Programming in Python 3: A Complete
-      Introduction to the Python Language (2ème édition). Addison-Wesley.
-      <small>(ISBN : 978-0-321-68056-3)</small></li>
-      <li>Gérard Swinnen. (2012). Apprendre à programmer avec Python 3 (3ème 
-      édition). Eyrolles. <small>(ISBN : 978-2-212-13434-6)</small></li>
-    </ul>
-
-    <h3>Other books</h3>
-
-    <ul>
-      <li>Eric S. Roberts. (1986). Thinking Recursively. John Wiley & Sons.
-      <small>(ISBN : 978-0-471-81652-2)</small></li>
-      <li>Brett Slatkin. (2015). Effective Python: 59 Specific Ways to Write
-      Better Python. Addison-Wesley.
-      <small>(ISBN : 978-0-134-03428-7)</small></li>
-    </ul>
-
-    <h3>Online resources</h3>
-
-    <ul>
-      <li><a href="https://docs.python.org/3/library/">The Python Standard
-      Library documentation</a>, Python Software Foundation, 2019.</li>
-    </ul>
+- [The Python Standard Library documentation](https://docs.python.org/3/library/), Python Software Foundation, 2019.

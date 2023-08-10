@@ -7,13 +7,13 @@ caption: Torún, Pologne, juin 2013
 
 # NoSQL
 
-L'activité « I404C NoSQL » fait partie du cours « I4040 – Database Management System » enseigné aux étudiants en première année de master ingénieur industriel en informatique à l'[ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). Cette activité concerne les **modèles et bases de données NoSQL** et, en plus de présenter les quatre principaux modèles, elle couvre les caractéristiques et propriétés spécifiques au NoSQL.
+L'activité « I404C NoSQL » fait partie du cours « I4040 – Database Management System » enseigné aux étudiant(e)s en première année de master ingénieur industriel en informatique à l'[ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). Cette activité concerne les **modèles et bases de données NoSQL** et, en plus de présenter les quatre principaux modèles, elle couvre les caractéristiques et propriétés spécifiques au NoSQL.
 
 ## Organisation du cours
 
 J'ai donné cette activité de 2016 à 2019, quatre fois. L'activité était donné en français, mais le matériel créé pour cette dernière est soit en français, ou [en anglais](/teaching/ecam/nosql/).
 
-Au départ, l'activité était donnée de manière traditionnelle avec des cours magistraux et un petit projet sur lequel les étudiants devaient travailler. En 2019, j'ai initié la transformation de l'activité selon l'[approche d'évaluation par compétences](/teaching/projects/tlca/) que j'ai commencé à développer cette année là.
+Au départ, l'activité était donnée de manière traditionnelle avec des cours magistraux et un petit projet sur lequel les étudiant(e)s devaient travailler. En 2019, j'ai initié la transformation de l'activité selon l'[approche d'évaluation par compétences](/teaching/projects/tlca/) que j'ai commencé à développer cette année là.
 
 ## Documents
 

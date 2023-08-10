@@ -7,11 +7,13 @@ caption: Big Basin, CA, USA, July 2011
 
 # ECAM
 
-    <p>I worked as a full-time <b>lecturer</b> at the <a href="https://www.ecam.be">ECAM Brussels Engineering School</a> (ECAM), an higher education institution, for six years (2014–2020). I was involved in several courses targeted to bachelor and master students, in particular for future engineers in computer science. Since 2018, I also gave some courses to business analyst master students, an course program co-organised with the <a href="https://www.ichec.be/?kb_lang=english">ICHEC Brussels Management School</a> (ICHEC).</p>
+I worked from 2014 to 2020 as a full-time **lecturer** at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM), a higher education institution. My role in this school was to teach several bachelor and master courses, in particular for students in industrial computer science engineering. Since 2018, I also taught some courses to master students in business analysis, a work-study program co-organised with the [ICHEC Brussels Management School](https://www.ichec.be/en) (ICHEC).
 
-    <p>Many courses at ECAM are managed by a team of teachers, and only those in which I was involved are mentioned hereafter. More details with resources for some courses are available on subsequent pages.</p>
+At ECAM, courses are usually split into activities and managed by a team of teachers. Only the courses for which I was involved in at least one activity are mentioned on this page. More details with resources are available for some courses on dedicated pages.
 
 ## Taught courses
+
+This section lists the courses for which I was in charge of the **lectures** of some of their activities, and of the lab sessions if they were any associated with these latter.
 
 - [**B2010 – Informatique**](./python/) (4 ECTS, 43h), 2014–2019 --(6 years)--  
   --_This course, taught to students in second year of bachelor in engineering, is about programming in Python and teaches advanced data structures (set, dictionaries and tuples), object oriented programming basics, event-based programming and GUI development with Kivy, error handling and exceptions, text and binary files reading and writing. It also explains how the internet work and provides an introduction to HTML, CSS and JavaScript and shows how to develop a simple website with the CherryPy web framework._--
@@ -23,8 +25,6 @@ caption: Big Basin, CA, USA, July 2011
   --_This course, taught to students in first year of master in electronics and in computer science engineering, presents how a computer works, from the very low hardware level to the very high level architecture and organisation. It also presents how it can be operated with an operating system and its components (processes and threads, scheduling, deadlock, memory management, filesystem, mass storage, security...)._--
 - **I5030 – Seminars** (4 ECTS, 45h), 2015–2020 --(6 years)--  
   --_This course, taught to students in second year of master in electronics and in computer science engineering, is a seminar where the students are asked to prepare and present, in English, a subject related to engineering or to their master thesis to share their experience. Students are also asked to attend external events they have to found by themselves and report about what they learned to the other students._--
-- **M3090 – Conception et développement informatique** (4 ECTS, 43h), 2014–2017, 2020 --(5 years)--  
-  --_This course, taught to students in third year of bachelor in electromechanical engineering, presents how to analyse and develop a computer application using modelisation (UML), simple databases and queries (Microsoft Access) and low level programming (C) and object oriented programming (C#)._--
 - **E3020 – Embedded Systems** (4 ECTS, 45.5h), 2016–2019 --(4 years)--  
   --_This course, taught to students in third year of bachelor in electronics and in computer science engineering, presents the three main components of an embedded system: energy management, an intelligent electronic unit and peripherals. The course presents how to build an embedded system through the design and the construction of a robot application. In particular, it teaches how to program embedded systems, namely the BeagleBone Black, and the whole IoT chain around them, with high level programming languages and cloud computing._--
 - [**I4040 – Database Management System**](./nosql/) (3 ECTS, 43h), 2016–2019 --(4 years)--  
@@ -45,9 +45,16 @@ caption: Big Basin, CA, USA, July 2011
   --_This course, taught to students in first year of the business analyst master, presents what is the object oriented (OO) programming paradigm and initiates students to it. The course focuses on the analysis of an OO design, to identify good practices and assess the quality of an OO architecture._--
 - **JA40I – Programmation distribuée** (4 ECTS, 45h), 2015–2016 --(2 years)--  
   --_This course, taught to students in first year of master in electronics and in computer science engineering, is a project where the students have to develop a 3-tiers home automation application to manage a concrete model of a house. They also have an activity about object oriented programming with Java._--
+- **22BA010 – Réseau et sécurité** (6 ECTS, 72h), 2018 --(1 year)--  
+  --_This course, taught to students in second year of the business analyst master, is about network architecture and security. In addition to network architecture, students are taught what are the main virtualisation techniques and how to secure an information system, on the hardware and software levels._--
+
+## Supervised courses
+
+This section lists the courses for which I was only in charge of the **lab sessions** of some of their activities.
+
+- **M3090 – Conception et développement informatique** (4 ECTS, 43h), 2014–2017, 2020 --(5 years)--  
+  --_This course, taught to students in third year of bachelor in electromechanical engineering, presents how to analyse and develop a computer application using modelisation (UML), simple databases and queries (Microsoft Access) and low level programming (C) and object oriented programming (C#)._--
 - **B1070 – Projet intégrateur** (6 ECTS, 70.5h), 2016 --(1 year)--  
   --_This course, taught to students in first year of bachelor in engineering, is a project where the students have to work on a multidisciplinary project by teams of six. For example, in 2016, they had to develop an automated distributor controlled by an Arduino and using an RFID tag._--
 - **B1080 – Électricité et outils mathématiques** (7 ECTS, 81h), 2015 --(1 year)--  
   --_This course, taught to students in first year of bachelor in engineering, is about electromagnetism and circuits theory. It also presents the necessary mathematical tools: functions with multiple variables, complex numbers, vectors, multiple integrals..._--
-- **22BA010 – Réseau et sécurité** (6 ECTS, 72h), 2018 --(1 year)--  
-  --_This course, taught to students in second year of the business analyst master, is about network architecture and security. In addition to network architecture, students are taught what are the main virtualisation techniques and how to secure an information system, on the hardware and software levels._--

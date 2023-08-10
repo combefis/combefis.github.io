@@ -7,19 +7,19 @@ caption: Torún, Poland, June 2013
 
 # NoSQL
 
-The “I404C NoSQL” activity, which is part of the “I4040 – Database Management System” course taught to students of first year master in computer science industrial engineer at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM), is about **NoSQL models and databases**. In addition to presenting the four main models, the course covers NoSQL specific characteristics and properties.
+The “I404C NoSQL” activity is part of the “I4040 – Database Management System” course taught to students of first year master in computer science industrial engineer at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). This activity is about **NoSQL models and databases** and, in addition to presenting the four main models, it covers NoSQL specific characteristics and properties.
 
 ## Course organisation
 
-Originally, the course was given in a traditional way with lecture sessions and a small project. The last time, I gave the course following the [competency based assessment approach](../../projects/tlca/) that I started to develop in 2019.
+I gave this activity from 2016 to 2019, for four times. The activity was taught in French, but the material created for it are either in English or [in French](/fr/teaching/ecam/nosql/).
 
-I gave this course from 2016 to 2019, for four times. The course was taught in English, but the resources created for it are either in English or in French.
+Originally, the activity was given in a traditional way with ten lecture sessions and a small project students had to work on. In 2019, I began transforming the activity following the [competency based assessment approach](/teaching/projects/tlca/) that I started to develop that year.
 
 ## Documents
 
-- General information about the course
+- General information about the activity
 - [Competency Based Assessment ![PDF](/images/pdf.png)](/files/ecam/general/ECAM-Competency-Based-Assessment-Slides.pdf){target=_blank}
-- Grid of skills to acquire
+- Grid of competencies to acquire
 
 ## Theory
 
@@ -40,7 +40,7 @@ I gave this course from 2016 to 2019, for four times. The course was taught in E
 
 ## Resources
 
-This section gathers **resources** that have been used to create this course. These latter can be used to learn more about NoSQL databases.
+This section gathers **resources** that have been used to create this activity. These latter can be used to learn more about NoSQL databases.
 
 ### Official book
 

@@ -7,13 +7,13 @@ caption: Schaerbeek, Belgium, December 2018
 
 # Virtualisation
 
-The _“I501B Virtualisation”_ activity, which is part of the _“I5010 – Distributed Systems”_ course taught to students of second year master in computer science industrial engineer at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM), is original in the sense that the course and its content are created by the students themselves!
+The _“I501B – Virtualisation”_ activity is part of the _“I5010 – Distributed Systems”_ course taught to students of second year master in computer science industrial engineer at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). This activity is original in the sense that the activity and its content are created by the students themselves!
 
 ## Course organisation
 
-Students work alone or by pairs and **select a subject** they would like to deepen. The subjects are validated by the professor to have a coherent and relevant agenda for the whole course. Students are **coached** for the design of their presentation, as much for the pedagogical aspects as for the technical content itself. Finally, after all the presentations have been done with all the students, they have to pass a **written exam** created by the professor on-the-fly as he discovers the covered topics, just like all the students.
+Students work alone or by pairs and **select a subject** they would like to deepen. The subjects are validated by the professor to have a coherent and relevant agenda for the whole activity. Students are **coached** for the design of their presentation, as much for the pedagogical aspects as for the technical content itself. Finally, after all the presentations have been done with all the students, they have to pass a **written exam** created by the professor on-the-fly as he discovers the covered topics, just like all the students.
 
-I gave this course from 2018 to 2019, for three times. This page gathers the presentations created by the students, which are either in English or in French as they were free to choose the used language.
+I gave this activity from 2018 to 2019, for three times. This page gathers the presentations created by the students, which are either in English or in French as they were free to choose the used language.
 
 ## Fall 2019
 

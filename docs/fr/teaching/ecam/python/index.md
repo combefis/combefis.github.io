@@ -7,216 +7,79 @@ caption: Brisbane, QLD, Australie, juillet 2013
 
 # Programmation Python
 
-XXX
+L'activité _« B103B – Programmation »_ fait partie du cours _“B2010 – Informatique”_ enseigné aux étudiant(e)s en première année du bachelier en sciences industrielles à l'[ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). Le cours _« B2010 – Informatique »_ est enseigné aux étudiant(e)s en deuxième année du bachelier en sciences industrielles et le cours _« B2160 – Projet informatique »_ est enseigné aux étudiant(e)s en deuxième année du bachelier en sciences industrielles, pré-orientation électronique et informatique, tous les deux dans la même école. Tous les trois concernent la **programmation Python**. En plus d'apprendre le langage, des concepts informatiques avancés sont abordés, tels que la manipulation du système de fichier, le fonctionnement d'internet, le développement web, la gestion de projet, l'intelligence artificielle et la manipulation de documents.
 
-    <p>L'activité <i>« B103B Programmation »</i>, destinée aux étudiants en
-    première année de bachelier en sciences industrielles, l'activité
-    <i>« B201A Concepts informatiques »</i>, destiné aux étudiants en deuxième
-    année de bachelier en sciences industrielles et l'activité <i>« B216A
-    Développement informatique »</i>, destinée aux étudiants en deuxième année
-    de bachelier en sciences industrielles, pré-orientation électronique et
-    informatique à l'<a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels
-    Engineering School</a> (ECAM), concernent la <b>programmation Python</b>.
-    En plus d'apprendre le langage, ces cours introduisent à des concepts informatiques tels que le système de fichier, le fonctionnement d'internet,
-    le développement web, la gestion de projet, l'intelligence artificielle et
-    la manipulation de documents.</p>
+## Organisation du cours
 
-    <p>J'ai commencé à donner ce cours en 2014 avec mon collègue Quentin Lurkin,
-    jusqu'en 2017, c'est-à-dire pendant quatre ans. Depuis 2018, j'encadre
-    encore quelques séances de laboratoire, pour la deuxième fois. Le cours est
-    donné en français, mais tout le matériel est disponible en français et
-    <a href="/teaching/ecam/python/">en anglais</a>.</p>
+J'ai conçu ces cours en 2014 avec mon collègue Quentin Lurkin et j'ai été impliqué dans certaines de leurs activités de 2014 à 2019, six fois. Les activités étaient données en français, mais le matériel créé pour ces derniers est soit en français, ou [en anglais](/teaching/ecam/python/).
 
+Les cours étaient donnés de manière traditionnelle avec des cours magistraux, des séances pratiques et des petits projets sur lesquels les étudiant(e)s devaient travailler.
 
-    <h2>Documents</h2>
+## Documents
 
-    <ul>
-      <li>Informations générales sur les cours</li>
-      <li>Grille de compétences à acquérir</li>
-    </ul>
+- Informations générales sur les cours
 
+## Théorie
 
-    <h2>Théorie</h2>
+### B103B Programmation
 
-    <h3>B103B Programmation</h3>
+- [Séance 1 : Introduction à la programmation Python ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python1BA-Cours1-Slides.pdf){target=_blank}
+- [Séance 2 : Contrôle de flux ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python1BA-Cours2-Slides.pdf){target=_blank}
+- [Séance 3 : Chaine de caractères et fonction ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python1BA-Cours3-Slides.pdf){target=_blank}
+- [Séance 4 : Fonction et liste ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python1BA-Cours4-Slides.pdf){target=_blank}
+- [Séance 5 : Type abstrait de données et algorithme ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python1BA-Cours5-Slides.pdf){target=_blank}
 
-    <ul>
-      <li>Séance 1 : Introduction à la programmation Python
-      <small>(<a href="/files/ecam/python/ECAM-Python1BA-Cours1-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+### B201A Concepts informatiques
 
-      <li>Séance 2 : Contrôle de flux
-      <small>(<a href="/files/ecam/python/ECAM-Python1BA-Cours2-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+- [Séance 1 : Ensemble, dictionnaire et base de données ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours1-Slides.pdf){target=_blank}
+- [Séance 2 : Tuple et objet ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours2-Slides.pdf){target=_blank}
+- [Séance 3 : Classe et objet ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours3-Slides.pdf){target=_blank}
+- [Séance 4 : Interface graphique et évènements ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours4-Slides.pdf){target=_blank}
+- [Séance 5 : Gestion d'erreurs et mécanisme d'exception ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours5-Slides.pdf){target=_blank}
+- [Séance 6 : Lecture et écriture de fichiers ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours6-Slides.pdf){target=_blank}
+- [Séance 7 : Langages du Web : HTML, CSS et JavaScript ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours7-Slides.pdf){target=_blank}
+- [Séance 8 : Comment Internet fonctionne-t-il ? ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours8-Slides.pdf){target=_blank}
+- [Séance 9 : Développement Web avec Python ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours9-Slides.pdf){target=_blank}
+- [Séance 10 : Qualité de code et convention de codage ![Slides](/images/slides.png)](/files/ecam/python/ECAM-Python2BA-Cours10-Slides.pdf){target=_blank}
 
-      <li>Séance 3 : Chaine de caractères et fonction
-      <small>(<a href="/files/ecam/python/ECAM-Python1BA-Cours3-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+### B216A Développement informatique
 
-      <li>Séance 4 : Fonction et liste
-      <small>(<a href="/files/ecam/python/ECAM-Python1BA-Cours4-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+- [Séance 1 : Gestion de projet, versioning, debugging, testing et profiling ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours1-Slides.pdf){target=_blank}
+- [Séance 2 : Chaine de caractères et expression régulière ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours2-Slides.pdf){target=_blank}
+- [Séance 3 : Programmation réseau ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours3-Slides.pdf){target=_blank}
+- [Séance 4 : Programmation concurrente ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours4-Slides.pdf){target=_blank}
+- [Séance 5 : Programmation fonctionnelle, décorateur et générateur ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours5-Slides.pdf){target=_blank}
+- Séance 6 : Programmation asynchrone et coroutine
+- [Séance 7 : Manipulation de documents CSV, XML, PDF... ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours7-Slides.pdf){target=_blank}
+- [Séance 8 : Algorithmique I : Récursion et arbre ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours8-Slides.pdf){target=_blank}
+- [Séance 9 : Algorithmique II : Techniques de recherche en intelligence artificielle ![Slides](/images/slides.png)](/files/ecam/python/ECAM-PythonAdv2BA-Cours9-Slides.pdf){target=_blank}
+- Séance 10 : Programmation efficace et style pythonique
 
-      <li>Séance 5 : Type abstrait de données et algorithme
-      <small>(<a href="/files/ecam/python/ECAM-Python1BA-Cours5-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-    </ul>
+## Pratique
 
-    <h3>B201A Concepts informatiques</h3>
+- Travail : Créer un site web avec CherryPy
+- Travail : Créer un jeu avec interface graphique avec Kivy
+- Travail : Créer une intelligence artificelle pour un jeu de plateau
 
-    <ul>
-      <li>Séance 1 : Ensemble, dictionnaire et base de données
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours1-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+## Ressources
 
-      <li>Séance 2 : Tuple et objet
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours2-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+Cette section rassemble les **ressources** qui ont été utilisées pour créer cette activité. Ces dernières peuvent être utilisées pour en apprendre davantage sur la programmation Python.
 
-      <li>Séance 3 : Classe et objet
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours3-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+### Livres officiels
 
-      <li>Séance 4 : Interface graphique et évènements
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours4-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+- Sébastien Combéfis et Quentin Lurkin. (2016). Apprendre Python et s'initier à la programmation. UKO Publication. --(ISBN: 978-1-326-76710-5)--
+- Sébastien Combéfis. (à paraitre). Python avancé : Techniques de programmation. UKO Publication.
 
-      <li>Séance 5 : Gestion d'erreurs et mécanisme d'exception
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours5-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+### Livres de référence
 
-      <li>Séance 6 : Lecture et écriture de fichiers
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours6-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+- Mark Summerfield. (2009). NoSQL Distilled: Programming in Python 3: A Complete Introduction to the Python Language (2ème édition). Addison-Wesley. --(ISBN: 978-0-321-68056-3)--
+- Gérard Swinnen. (2012). Apprendre à programmer avec Python 3 (3ème édition). Eyrolles. --(ISBN: 978-2-212-13434-6)--
 
-      <li>Séance 7 : Langages du Web : HTML, CSS et JavaScript
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours7-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+### Autres livres
 
-      <li>Séance 8 : Comment Internet fonctionne-t-il ?
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours8-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+- Eric S. Roberts. (1986). Thinking Recursively. John Wiley & Sons. --(ISBN: 978-0-471-81652-2)--
+- Brett Slatkin. (2015). Effective Python: 59 Specific Ways to Write Better Python. Addison-Wesley. --(ISBN: 978-0-134-03428-7)--
 
-      <li>Séance 9 : Développement Web avec Python
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours9-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
+### Ressources en ligne
 
-      <li>Séance 10 : Qualité de code et convention de codage
-      <small>(<a href="/files/ecam/python/ECAM-Python2BA-Cours10-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-    </ul>
-
-    <h3>B216A Développement informatique</h3>
-
-    <ul>
-      <li>Séance 1 : Gestion de projet, versioning, debugging, testing et
-      profiling
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours1-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 2 : Chaine de caractères et expression régulière
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours2-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 3 : Programmation réseau
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours3-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 4 : Programmation concurrente
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours4-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 5 : Programmation fonctionnelle, décorateur et générateur
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours5-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 6 : Programmation asynchrone et coroutine</li>
-
-      <li>Séance 7 : Manipulation de documents CSV, XML, PDF...
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours7-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 8 : Algorithmique I : Récursion et arbre
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours8-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 9 : Algorithmique II : Techniques de recherche en intelligence
-      artificielle
-      <small>(<a href="/files/ecam/python/ECAM-PythonAdv2BA-Cours9-Slides.pdf">
-      Slides <img src="/images/slides.png" width="16" height="16"
-      alt="Slides"></a> )</small></li>
-
-      <li>Séance 10 : Programmation efficace et style pythonique</li>
-    </ul>
-
-
-    <h2>Pratique</h2>
-
-    <ul>
-      <li>Travail : Créer un site web avec CherryPy</li>
-      <li>Travail : Créer un jeu avec interface graphique avec Kivy</li>
-      <li>Travail : Créer une intelligence artificelle pour un jeu de 
-      plateau</li>
-    </ul>
-
-
-    <h2>Ressources</h2>
-
-    <h3>Livres officiels</h3>
-
-    <ul>
-      <li>Sébastien Combéfis et Quentin Lurkin. (2016). Apprendre Python et
-      s'initier à la programmation. UKO Publication.
-      <small>(ISBN : 978-1-326-76710-5)</small></li>
-      <li>Sébastien Combéfis. (à paraitre). Python avancé : Techniques de
-      programmation. UKO Publication.</li>
-    </ul>
-
-    <h3>Livres de référence</h3>
-
-    <ul>
-      <li>Mark Summerfield. (2009). Programming in Python 3: A Complete
-      Introduction to the Python Language (2ème édition). Addison-Wesley.
-      <small>(ISBN : 978-0-321-68056-3)</small></li>
-      <li>Gérard Swinnen. (2012). Apprendre à programmer avec Python 3 (3ème 
-      édition). Eyrolles. <small>(ISBN : 978-2-212-13434-6)</small></li>
-    </ul>
-
-    <h3>Autres livres</h3>
-
-    <ul>
-      <li>Eric S. Roberts. (1986). Thinking Recursively. John Wiley & Sons.
-      <small>(ISBN : 978-0-471-81652-2)</small></li>
-      <li>Brett Slatkin. (2015). Effective Python: 59 Specific Ways to Write
-      Better Python. Addison-Wesley.
-      <small>(ISBN : 978-0-134-03428-7)</small></li>
-    </ul>
-
-    <h3>Ressources en ligne</h3>
-
-    <ul>
-      <li><a href="https://docs.python.org/3/library/">The Python Standard
-      Library documentation</a>, Python Software Foundation, 2019.</li>
-    </ul>
+- [The Python Standard Library documentation](https://docs.python.org/3/library/), Python Software Foundation, 2019.

@@ -7,30 +7,17 @@ caption: Brisbane, QLD, Australia, July 2013
 
 # Python Programming
 
-XXX
+The _“B103B – Programmation”_ activity is part of the _“B2010 – Informatique”_ course taught to first year bachelor students in engineering at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). The _“B2010 – Informatique”_ course is taught to second year bachelor students in engineering and the _“B2160 – Projet informatique”_ course is taught to second year of bachelor in electronics and computer science engineering, both in the same school. All the three are about **Python programming**. In addition to the programming language, advanced computer science concepts are covered, such as file system manipulation, the operation of internet, web development, project management, artificial intelligence and the manipulation of documents.
 
-    <p>The <i>« B103B Programmation »</i> activity, taught to first year
-    bachelor students in engineering, the <i>« B201A Concepts
-    informatiques »</i>, taught to second year bachelor students in engineering
-    and the <i>« B216A Développement informatique »</i> activity, taught to
-    students in second year of bachelor in electronics and computer science
-    engineering at the <a href="https://www.vinci.be/fr-be/ecam">ECAM Brussels
-    Engineering School</a> (ECAM), is about <b>Python programming</b>. In
-    addition to the programming language, the course introduces to computer
-    science concepts such as the file system, the operation of internet, the
-    web development, the project management, the artificial intelligence and
-    the manipulation of documents.</p>
+## Course organisation
 
-    <p>I started to give this course in 2014 with my colleague Quentin Lurkin,
-    until 2017, that is for four years. Since 2018, I still manage a few
-    laboratory sessions, for the second time. The course is taught in French,
-    but all the material is available in English and
-    <a href="/fr/teaching/ecam/python/">in French</a>.</p>
+I designed these courses in 2014 with my colleague Quentin Lurkin and was involved in some of their activities from 2014 to 2019, for six times. The activities are taught in French, but the material created for them are either in English or [in French](/fr/teaching/ecam/python/).
 
+The courses were given in a traditional way with lecture sessions, lab sessions and small projects students had to work on.
 
 ## Documents
 
-- General information about the course
+- General information about the courses
 
 ## Theory
 
@@ -78,7 +65,7 @@ XXX
 
 This section gathers **resources** that have been used to create these courses. These latter can be used to learn more about Python programming.
 
-### Official book
+### Official books
 
 - Sébastien Combéfis and Quentin Lurkin. (2016). Apprendre Python et s'initier à la programmation. UKO Publication. --(ISBN: 978-1-326-76710-5)--
 - Sébastien Combéfis. (to be published). Python avancé : Techniques de programmation. UKO Publication.

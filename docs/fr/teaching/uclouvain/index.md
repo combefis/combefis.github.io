@@ -7,7 +7,7 @@ caption: Louvain-la-Neuve, Belgique, septembre 2013
 
 # UCLouvain
 
-J'ai travaillé de 2007 à 2013 comme **assistant** à l'[Université catholique de Louvain](https://www.uclouvain.be/fr) (UCLouvain). Mon rôle était de préparer et donner les séances de travaux pratiques à des étudiant(e)s de bachelier et de master, pour plusieurs cours, en français et en anglais. J'ai commencé à m'impliquer pour le cours d'_« Informatique »_ en 2004 comme étudiant moniteur (tuteur) alors que j'étais moi-même encore étudiant.
+J'ai travaillé de 2007 à 2013 comme **assistant** à l'[Université catholique de Louvain](https://www.uclouvain.be/fr) (UCLouvain), une université. Mon rôle était de préparer et donner les séances de travaux pratiques à des étudiant(e)s de bachelier et de master, pour plusieurs cours, en français et en anglais. J'ai commencé à m'impliquer pour le cours d'_« Informatique »_ en 2004 comme étudiant moniteur (tuteur) alors que j'étais moi-même encore étudiant.
 
 Après avoir obtenu mon doctorat, j'ai été responsable de deux cours comme **chargé de cours invité**, de 2014 à 2015. J'ai donné le cours _« Informatique 1 »_ à plus de 400 étudiant(e)s en première année de bachelier et le cours _« Software Engineering Project »_ à des étudiant(e)s de master.
 

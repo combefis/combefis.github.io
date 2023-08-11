@@ -7,13 +7,13 @@ caption: Schaerbeek, Belgique, décembre 2018
 
 # Virtualisation
 
-L'activité _« I501B Virtualisation »_, qui fait partie du cours _« I5010 – Distributed Systems »_ enseigné aux étudiant(e)s en deuxième année du master ingénieur industriel en informatique à l'[ECAM Brussels Engineering School](https://www.ecam.be) (ECAM), est particulier dans le sens où le cours et son contenu sont créés par les étudiants eux-mêmes!
+L'activité _« I501B – Virtualisation »_ fait partie du cours _« I5010 – Distributed Systems »_ enseigné aux étudiant(e)s en deuxième année du master ingénieur industriel en informatique à l'[ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). Cette activité est particulière dans le sens où l'activité et son contenu sont créés par les étudiant(e)s eux-mêmes!
 
 ## Organisation du cours
 
-Les étudiant(e)s travaillent seuls ou en binômes et **choisissent un sujet** qu'ils et elles souhaitent approfondir. Les sujets sont validés par l'enseignant de sorte à avoir un contenu cohérent et pertinent pour le cours dans son entièreté. Les étudiant(e)s sont **coachés** pour la conception de leur présentation, aussi bien du point de vue pédagogique que pour les aspects techniques. Enfin, une fois que toutes les présentations ont été faites devant tou(te)s les étudiant(e)s, ils et elles doivent passer un **examen écrit** qui est créé par l'enseignant à la volée, alors qu'il découvre les sujets abordés, en même temps que les autres étudiant(e)s.
+Les étudiant(e)s travaillent seuls ou en binômes et **choisissent un sujet** qu'ils et elles souhaitent approfondir. Les sujets sont validés par l'enseignant de sorte à avoir un contenu cohérent et pertinent pour l'activité dans son entièreté. Les étudiant(e)s sont **coachés** pour la conception de leur présentation, aussi bien du point de vue pédagogique que pour les aspects techniques. Enfin, une fois que toutes les présentations ont été faites devant tou(te)s les étudiant(e)s, ils et elles doivent passer un **examen écrit** qui est créé par l'enseignant à la volée, alors qu'il découvre les sujets abordés, en même temps que les autres étudiant(e)s.
 
-J'ai donné ce cours de 2018 à 2019, trois fois. Cette page rassemble les présentations créées par les étudiant(e)s, qui sont en français ou en anglais car ils et elles pouvaient choisir la langue utilisée.
+J'ai donné cette activité de 2018 à 2019, trois fois. Cette page rassemble les présentations créées par les étudiant(e)s, qui sont en français ou en anglais car ils et elles pouvaient choisir la langue utilisée.
 
 ## Automne 2019
 

@@ -7,7 +7,7 @@ caption: Torún, Poland, June 2013
 
 # NoSQL
 
-The “I404C NoSQL” activity is part of the “I4040 – Database Management System” course taught to students of first year master in computer science industrial engineer at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). This activity is about **NoSQL models and databases** and, in addition to presenting the four main models, it covers NoSQL specific characteristics and properties.
+The _“I404C – NoSQL”_ activity is part of the _“I4040 – Database Management System”_ course taught to students of first year master in computer science industrial engineer at the [ECAM Brussels Engineering School](https://www.ecam.be) (ECAM). This activity is about **NoSQL models and databases** and, in addition to presenting the four main models, it covers NoSQL specific characteristics and properties.
 
 ## Course organisation
 

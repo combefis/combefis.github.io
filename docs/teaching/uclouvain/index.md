@@ -7,11 +7,13 @@ caption: Louvain-la-Neuve, Belgium, September 2013
 
 # UCLouvain
 
-I worked from 2007 to 2013 as a **teaching assistant** at the [Université catholique de Louvain](https://www.uclouvain.be/en) (UCLouvain). My role was to prepare and supervise practical lab sessions for several courses, followed by bachelor and master students and either taught in French and in English. I started to be involved in the _“Informatique 1”_ course in 2004 as a teaching monitor (tutor) while I was still myself studying.
+I worked from 2007 to 2013 as a **teaching assistant** at the [Université catholique de Louvain](https://www.uclouvain.be/en) (UCLouvain), a university. My role was to prepare and supervise practical lab sessions for several courses, followed by bachelor and master students and either taught in French and in English. I started to be involved in the _“Informatique 1”_ course in 2004 as a teaching monitor (tutor) while I was still myself studying.
 
 After I got my PhD, I was also responsible for two courses as an **invited lecturer**, from 2014 to 2015. I taught the _“Informatique 1”_ course to more than 400 first year bachelor students and the _“Software Engineering Project”_ course targeted to master students.
 
 ## Taught courses
+
+This section lists the courses for which I was only in charge of the **lectures**.
 
 - **LINGI2255 – Software Engineering Project**, 2015 --(1 year)--  
   --_This course, taught to students in first year of master in engineering and computer science, is a real-size software engineering project that students have to realise in groups for a real client, based on a set of specifications provided by the client and some interactions with him/her, following an agile process._--
@@ -19,6 +21,8 @@ After I got my PhD, I was also responsible for two courses as an **invited lectu
   --_This course, taught to students in first year of bachelor in engineering, teaches them the basics of object oriented programming, using the Java programming language. Students are discovering notions of programming, objects, classes, arrays, composition and inheritance, graphical interface, files and linked data structures._--
 
 ## Trained courses
+
+This section lists the courses for which I was only in charge of the **lab sessions**.
 
 - **LFSAB1401 – Informatique 1**, 2004–2011 --(8 years)--  
   --_This course, taught to students in first year of bachelor in engineering, teaches them the basics of object oriented programming, using the Java programming language. Students are discovering notions of programming, objects, classes, arrays, composition and inheritance, graphical interface, files and linked data structures._--

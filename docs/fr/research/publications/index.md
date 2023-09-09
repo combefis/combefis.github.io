@@ -7,9 +7,15 @@ caption: Uppsala, Suède, avril 2015
 
 # Publications
 
+## 2023
+
+1. Sébastien Combéfis. Artificial Intelligence in Primary and Secondary Education: a Review of Educational Activities Development. À paraitre dans _Actes locaux de la 16ème International Conference on Informatics in Schools: Situation, Evolution and Perspectives_ (ISSEP 2023), Lausanne, Suisse, octobre 2023.
+1. Sébastien Combéfis, and Steve Tumson. Raising Young Pupils and Students' Awareness Levels About the Impacts of Digital Technologies on the Environment, Climate, Health and Well-Being Through a Challenge. À paraitre dans _Actes de Frontiers in Education 2023_ (FIE 2023), College Station, TX, USA, octobre 2023.
+1. Sébastien Combéfis. Using Continuous Competency-Based Assessment as a Success Support Service in Higher Education. À paraitre dans _Actes de Frontiers in Education 2023_ (FIE 2023), College Station, TX, USA, octobre 2023.
+
 ## 2022
 
-1. Sébastien Combéfis, et Virginie Van den Schrieck. Continuous Competency-Based Assessment: Impact of Regular Student Involvement on their Performances and Success. Dans _Actes de Frontiers in Education 2022_ (FIE 2022), Uppsala, Suède, octobre 2022.
+4. Sébastien Combéfis, et Virginie Van den Schrieck. Continuous Competency-Based Assessment: Impact of Regular Student Involvement on their Performances and Success. Dans _Actes de Frontiers in Education 2022_ (FIE 2022), Uppsala, Suède, octobre 2022.
 [![PDF](/images/pdf.png)](/files/publi/combefis-fie2022.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-fie2022-slides.pdf){target=_blank}
 1. Sébastien Combéfis. Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools. _Software_, **1**(1):3-30, 2022.
@@ -17,7 +23,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2021
 
-3. Sébastien Combéfis. Conception d'un cours entièrement dispensé à distance combinant les concepts de microcours et d'évaluations par compétences. _Synergies Turquie_, **14**:103-117, 2021.
+6. Sébastien Combéfis. Conception d'un cours entièrement dispensé à distance combinant les concepts de microcours et d'évaluations par compétences. _Synergies Turquie_, **14**:103-117, 2021.
 [![PDF](/images/pdf.png)](/files/publi/combefis-synergiesturquie2021.pdf){target=_blank}
 1. Sébastien Combéfis, et Virginie Van den Schrieck. Transforming a Course with a Traditional Evaluation into a Competency-Based Assessment Approach: a Practical Experiment. Dans _Actes de Frontiers in Education 2021_ (FIE 2021), Lincoln, NE, USA, octobre 2021.
 [![PDF](/images/pdf.png)](/files/publi/combefis-fie2021-1.pdf){target=_blank}
@@ -28,7 +34,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2020
 
-6. Sébastien Combéfis, et Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans _Actes de la 13ème International Conference on Informatics in School: Situation, Evaluation, Problems_ (ISSEP 2020), Tallinn, Estonie, novembre 2020.
+9. Sébastien Combéfis, et Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans _Actes de la 13ème International Conference on Informatics in School: Situation, Evaluation, Problems_ (ISSEP 2020), Tallinn, Estonie, novembre 2020.
 [![PDF](/images/pdf.png)](/files/publi/combefis-issep2020.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-issep2020-slides.pdf){target=_blank}
 1. Sébastien Combéfis, et Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. Dans _Actes de Frontiers in Education 2020_ (FIE 2020), Uppsala, Suède, octobre 2020.
@@ -40,7 +46,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2019
 
-9. Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. Keynote présentée au _1er Global Forum for Education and Learning_ (GFEL 2019), Dubaï, Émirats arabes unis, décembre 2019.
+12. Sébastien Combéfis. The Only Way to Create the Skills of the Future is to Disrupt the Education of Today. Keynote présentée au _1er Global Forum for Education and Learning_ (GFEL 2019), Dubaï, Émirats arabes unis, décembre 2019.
 [![PDF](/images/pdf.png)](/files/publi/combefis-gfel2019.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-gfel2019-slides.pdf){target=_blank}
 1. Sébastien Combéfis, et Guillaume de Moffarts. Automated Generation of Computer Graded Unit Testing-Based Programming Assessments for Education. Dans _Actes de la 6ème International Conference on Computer Science, Engineering and Information Technology_ (CSEIT 2019), 91-100, Zurich, Suisse, novembre 2019.
@@ -59,7 +65,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2017
 
-15. Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe, Mathieu David, Guillaume de Moffarts, Hadrien Hachez, et Julien Kessels. Learning and Teaching Algorithm Design and Optimisation Using Contests Tasks. Dans _Olympiads in Informatics_, **11**:19-28, 2017.
+18. Sébastien Combéfis, Saïkou Ahmadou Barry, Martin Crappe, Mathieu David, Guillaume de Moffarts, Hadrien Hachez, et Julien Kessels. Learning and Teaching Algorithm Design and Optimisation Using Contests Tasks. Dans _Olympiads in Informatics_, **11**:19-28, 2017.
 [![PDF](/images/pdf.png)](/files/publi/combefis-olympiads2017.pdf){target=_blank}
 1. Chang Liu, Sébastien Combéfis, Judith Bishop, et Tao Xie. Workshop Proposal: The Third International Workshop on Coding and Human aspects of Educational Software Engineering (CHESE 2017).
 [![PDF](/images/pdf.png)](/files/publi/combefis-splash17workshops.pdf){target=_blank}
@@ -68,7 +74,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2016
 
-19. Sébastien Combéfis, et Arnaud Schils. Automatic Programming Error Class Identification with Code Plagiarism-Based Clustering. Dans _Actes de la 2ème Int'l Code Hunt Workshop on Educational Software Engineering_ (CHESE 2016), 1-6, Seattle, WA, USA, novembre 2016.
+22. Sébastien Combéfis, et Arnaud Schils. Automatic Programming Error Class Identification with Code Plagiarism-Based Clustering. Dans _Actes de la 2ème Int'l Code Hunt Workshop on Educational Software Engineering_ (CHESE 2016), 1-6, Seattle, WA, USA, novembre 2016.
 [![PDF](/images/pdf.png)](/files/publi/combefis-chese2016.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-chese2016-slides.pdf){target=_blank}
 1. Sébastien Combéfis, Gytautas Beresnevičius, et Valentina Dagienė. Learning Programming through Games and Contests: Overview, Characterisation and Discussion. Dans _Olympiads in Informatics_, **10**:39-60, 2016.
@@ -81,7 +87,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2015
 
-23. Sébastien Combéfis, Corentin Vande Kerckhove, et Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. Présenté au _HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies_ (HybridEd 2015), Toledo, Espagne, septembre 2015.
+26. Sébastien Combéfis, Corentin Vande Kerckhove, et Peter Van Roy. Transforming a University Course into a Two-public Sustainable MOOC. Présenté au _HybridEd Workshop: MOOC-based Models for Hybrid Pedagogies_ (HybridEd 2015), Toledo, Espagne, septembre 2015.
 [![PDF](/images/pdf.png)](/files/publi/combefis-hybrided2015.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-hybrided2015-slides.pdf){target=_blank}
 1. Sébastien Combéfis, et Chantal Poncin. Web Platform to Support Teaching Programming with Snap! and Manage Pupils' Learning. Dans _Actes de la Scratch Conference 2015_ (Scratch2015AMS), Amsterdam, Pays-Bas, aout 2015.
@@ -100,7 +106,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2014
 
-29. Sébastien Combéfis, et Jérémy Wautelet. Programming Trainings and Informatics Teaching Through Online Contests. Dans _Olympiads in Informatics_, **8**:21-34, 2014.
+32. Sébastien Combéfis, et Jérémy Wautelet. Programming Trainings and Informatics Teaching Through Online Contests. Dans _Olympiads in Informatics_, **8**:21-34, 2014.
 [![PDF](/images/pdf.png)](/files/publi/combefis-olympiads2014.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-olympiads2014-slides.pdf){target=_blank}
 1. Sébastien Combéfis. Enseigner des outils méthodologiques et former une attitude professionnelle en BAC 1 par un projet disciplinaire : Mise en place et évaluation d’un dispositif d’aide à la réussite. _Mémoire de master complémentaire_. Université catholique de Louvain (UCLouvain), Belgique, juin 2014.
@@ -120,7 +126,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2013
 
-35. Sébastien Combéfis, et Jean-François Rees. The LouvainX Courses: Selection, Support and On-campus Activities. Poster présenté au _edX Consortium Meeting_, Boston, MA, USA, novembre 2013.
+38. Sébastien Combéfis, et Jean-François Rees. The LouvainX Courses: Selection, Support and On-campus Activities. Poster présenté au _edX Consortium Meeting_, Boston, MA, USA, novembre 2013.
 [![Poster](/images/slides.png)](/files/publi/combefis-edx-consortium-1-2013.pdf){target=_blank}
 1. Sébastien Combéfis, Adrien Bibal, et Peter Van Roy. Recasting a Traditional Course into a MOOC by Means of a SPOC. Poster présenté au _edX Consortium Meeting_, Boston, MA, USA, novembre 2013.
 [![Poster](/images/slides.png)](/files/publi/combefis-edx-consortium-2-2013.pdf){target=_blank}
@@ -134,7 +140,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2012
 
-39. Sébastien Combéfis, et Vianney le Clément de Saint-Marcq. Teaching Programming and Algorithm Design with Pythia, a Web-Based Learning Platform. Dans _Olympiads in Informatics_, **6**:31-43, 2012.
+42. Sébastien Combéfis, et Vianney le Clément de Saint-Marcq. Teaching Programming and Algorithm Design with Pythia, a Web-Based Learning Platform. Dans _Olympiads in Informatics_, **6**:31-43, 2012.
 [![PDF](/images/pdf.png)](/files/publi/combefis-olympiads2012.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-olympiads2012-slides.pdf){target=_blank}
 1. Sébastien Combéfis, et Charles Pecheur. Automatic Generation of Full-Control System Abstraction for Human-Machine Interaction. Dans _Actes du Workshop on Formal Methods in Human-Machine Interaction_ (Formal H 2012), 9-11, Londres, UK, mai 2012.
@@ -145,7 +151,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2011
 
-42. Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Peter Mehlitz. A JavaPathfinder Extension to Analyse Human-Machine Interactions. Dans _Actes du Java Pathfinder Workshop 2011_ (JPF Workshop 2011), Lawrence, KA, USA, novembre 2011.
+45. Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Peter Mehlitz. A JavaPathfinder Extension to Analyse Human-Machine Interactions. Dans _Actes du Java Pathfinder Workshop 2011_ (JPF Workshop 2011), Lawrence, KA, USA, novembre 2011.
 [![PDF](/images/pdf.png)](/files/publi/combefis-jpfworkshop2011.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-jpfworkshop2011-slides.pdf){target=_blank}
 1. Sébastien Combéfis, Dimitra Giannakopoulou, Charles Pecheur, et Michael Feary. Learning System Abstractions for Human Operators. Dans _Actes du 2011 International Workshop on Machine Learning Technologies in Software Engineering_ (MALETS 2011), 3-10, Lawrence, KA, USA, novembre 2011.
@@ -160,7 +166,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2009
 
-46. Sébastien Combéfis, et Charles Pecheur. LTS-Based Analysis of Interactive Systems. Poster présenté au _MoVES Annual Meeting_, Louvain-la-Neuve, Belgique, décembre 2009.
+49. Sébastien Combéfis, et Charles Pecheur. LTS-Based Analysis of Interactive Systems. Poster présenté au _MoVES Annual Meeting_, Louvain-la-Neuve, Belgique, décembre 2009.
 [![Poster](/images/slides.png)](/files/publi/combefis-moves-annual-meeting2009.pdf){target=_blank}
 1. Sébastien Combéfis. Operational Model: Integrating User Tasks and Environment Information with System Model. Présenté au _3ème International Workshop on Formal Methods for Interactive Systems_ (FMIS 2009), Eindhoven, Pays-Bas, novembre 2009.
 [![PDF](/images/pdf.png)](/files/publi/combefis-fmis2009.pdf){target=_blank}
@@ -171,11 +177,11 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2008
 
-49. Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. Dans _Actes de la 8ème International Summer School on MOdelling and VErifying parallel Processes_ (MOVEP 2008), Orléans, France, juin 2008.
+52. Sébastien Combéfis. Formal Analysis of Human-Automation Interaction. Dans _Actes de la 8ème International Summer School on MOdelling and VErifying parallel Processes_ (MOVEP 2008), Orléans, France, juin 2008.
 [![PDF](/images/pdf.png)](/files/publi/combefis-movep2008.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-movep2008-slides.pdf){target=_blank}
 
 ## 2007
 
-50. Sébastien Combéfis, et Jean Miller. Viral Marketing and Community Detection Algorithm. _Mémoire de master_. Université catholique de Louvain (UCLouvain), Belgique, juin 2007.
+53. Sébastien Combéfis, et Jean Miller. Viral Marketing and Community Detection Algorithm. _Mémoire de master_. Université catholique de Louvain (UCLouvain), Belgique, juin 2007.
 [![PDF](/images/pdf.png)](/files/publi/combefis-master-thesis.pdf){target=_blank}

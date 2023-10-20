@@ -10,8 +10,12 @@ caption: Uppsala, Suède, avril 2015
 ## 2023
 
 1. Sébastien Combéfis. Artificial Intelligence in Primary and Secondary Education: a Review of Educational Activities Development. À paraitre dans _Actes locaux de la 16ème International Conference on Informatics in Schools: Situation, Evolution and Perspectives_ (ISSEP 2023), Lausanne, Suisse, octobre 2023.
-1. Sébastien Combéfis, and Steve Tumson. Raising Young Pupils and Students' Awareness Levels About the Impacts of Digital Technologies on the Environment, Climate, Health and Well-Being Through a Challenge. À paraitre dans _Actes de Frontiers in Education 2023_ (FIE 2023), College Station, TX, USA, octobre 2023.
-1. Sébastien Combéfis. Using Continuous Competency-Based Assessment as a Success Support Service in Higher Education. À paraitre dans _Actes de Frontiers in Education 2023_ (FIE 2023), College Station, TX, USA, octobre 2023.
+1. Sébastien Combéfis, and Steve Tumson. Raising Young Pupils and Students' Awareness Levels About the Impacts of Digital Technologies on the Environment, Climate, Health and Well-Being Through a Challenge. Dans _Actes de Frontiers in Education 2023_ (FIE 2023), College Station, TX, USA, octobre 2023.
+[![PDF](/images/pdf.png)](/files/publi/combefis-fie2023-2.pdf){target=_blank}
+[![Slides](/images/slides.png)](/files/publi/combefis-fie2023-2-slides.pdf){target=_blank}
+1. Sébastien Combéfis. Using Continuous Competency-Based Assessment as a Success Support Service in Higher Education. Dans _Actes de Frontiers in Education 2023_ (FIE 2023), College Station, TX, USA, octobre 2023.
+[![PDF](/images/pdf.png)](/files/publi/combefis-fie2023-1.pdf){target=_blank}
+[![Slides](/images/slides.png)](/files/publi/combefis-fie2023-1-slides.pdf){target=_blank}
 
 ## 2022
 

@@ -9,7 +9,9 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2023
 
-1. Sébastien Combéfis. Artificial Intelligence in Primary and Secondary Education: a Review of Educational Activities Development. À paraitre dans _Actes locaux de la 16ème International Conference on Informatics in Schools: Situation, Evolution and Perspectives_ (ISSEP 2023), Lausanne, Suisse, octobre 2023.
+1. Sébastien Combéfis. Artificial Intelligence in Primary and Secondary Education: a Review of Educational Activities Development. Dans _Actes locaux de la 16ème International Conference on Informatics in Schools: Situation, Evolution and Perspectives_ (ISSEP 2023), 3-13, Lausanne, Suisse, octobre 2023.
+[![PDF](/images/pdf.png)](/files/publi/combefis-issep2023.pdf){target=_blank}
+[![Slides](/images/slides.png)](/files/publi/combefis-issep2023-slides.pdf){target=_blank}
 1. Sébastien Combéfis, and Steve Tumson. Raising Young Pupils and Students' Awareness Levels About the Impacts of Digital Technologies on the Environment, Climate, Health and Well-Being Through a Challenge. Dans _Actes de Frontiers in Education 2023_ (FIE 2023), College Station, TX, USA, octobre 2023.
 [![PDF](/images/pdf.png)](/files/publi/combefis-fie2023-2.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-fie2023-2-slides.pdf){target=_blank}
@@ -38,7 +40,7 @@ caption: Uppsala, Suède, avril 2015
 
 ## 2020
 
-9. Sébastien Combéfis, et Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans _Actes de la 13ème International Conference on Informatics in School: Situation, Evaluation, Problems_ (ISSEP 2020), Tallinn, Estonie, novembre 2020.
+9. Sébastien Combéfis, et Gabrielė Stupurienė. Bebras Based Activities for Computer Science Education: Review and Perspectives. Dans _Actes de la 13ème International Conference on Informatics in School: Situation, Evaluation, Problems_ (ISSEP 2020), 15-29, Tallinn, Estonie, novembre 2020.
 [![PDF](/images/pdf.png)](/files/publi/combefis-issep2020.pdf){target=_blank}
 [![Slides](/images/slides.png)](/files/publi/combefis-issep2020-slides.pdf){target=_blank}
 1. Sébastien Combéfis, et Guillaume de Moffarts. Reinventing Evaluations with Competency Based Assessments: a Practical Experiment with Future Computer Science Engineers. Dans _Actes de Frontiers in Education 2020_ (FIE 2020), Uppsala, Suède, octobre 2020.

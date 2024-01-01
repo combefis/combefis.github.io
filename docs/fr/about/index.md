@@ -7,9 +7,9 @@ caption: Bangkok, Thaïlande, juillet 2011
 
 # À propos
 
-Je **travaille** actuellement comme attaché responsable au [Ministère de la Fédération Wallonie-Bruxelles](https://www.federation-wallonie-bruxelles.be/a-propos-de-la-federation/le-ministere) (FWB), une institution qui met en œuvre la politique du Gouvernement, après approbation par le Parlement. Au sein du _Service générale des Affaires Transversales_, j'ai le rôle de manager tant pour un projet de développement informatique que pour le service des accidents du travail des personnels de l'enseignement. Je suis également chargé de cours dans différents établissements d'enseignement supérieur.
+Je **travaille** actuellement comme _directeur_ au [Ministère de la Fédération Wallonie-Bruxelles](https://www.federation-wallonie-bruxelles.be/a-propos-de-la-federation/le-ministere) (FWB), une institution qui met en œuvre la politique du Gouvernement, après approbation par le Parlement. Au sein du _Service générale des Affaires Transversales_, je manage trois services qui gèrent les accidents du travail, la récupération des indus et le contrôle médical des personnels de l'enseignement. Je suis également _chargé de cours_ dans différents établissements d'enseignement supérieur.
 
-Concernant ma **formation**, j'ai obtenu un _Doctorat en Sciences de l'Ingénieur_ en novembre 2013 de l'[Université catholique de Louvain](https://uclouvain.be/fr) (UCLouvain). Ma thèse porte sur l'application de méthodes formelles pour l'analyse d'interactions homme-machine. Je détiens également un diplôme de **Master Ingénieur Civil en Informatique** de l'[École Polytechnique de Louvain](https://uclouvain.be/fr/facultes/epl) (EPL) et un _Master complémentaire en Pédagogie Universitaire et de l'Enseignement Supérieur_, tous les deux délivrés par la même université.
+Concernant ma **formation**, j'ai obtenu un _Doctorat en Sciences de l'Ingénieur_ en novembre 2013 de l'[Université catholique de Louvain](https://uclouvain.be/fr) (UCLouvain). Ma thèse porte sur l'application de méthodes formelles pour l'analyse d'interactions homme-machine. Je détiens également un diplôme de _Master Ingénieur Civil en Informatique_ de l'[École Polytechnique de Louvain](https://uclouvain.be/fr/facultes/epl) (EPL) et un _Master complémentaire en Pédagogie Universitaire et de l'Enseignement Supérieur_, tous les deux délivrés par la même université.
 
 De plus, je suis intéressé par l'**informatique dans l'éducation**, pour mieux l'enseigner, mais aussi pour intégrer les technologies ICT dans l'éducation. Je suis _fondateur_ et **Président** de la [Computer Science and IT in Education ASBL](https://www.csited.be/fr/home) (CSITEd), une association sans but lucratif dont le but principal est la promotion de l'informatique en tant que science, en particulier auprès des élèves du primaire et du secondaire. C'est également au nom de cette association que je suis le _représentant belge officiel_ dans la [communauté Bebras](https://www.bebras.org).
 
@@ -25,8 +25,8 @@ E-mail: [sebastien@combefis.be](mailto:sebastien@combefis.be)
 
 Ci-dessous se trouvent mes **coordonnées professionnelles** pour les différents jobs que j'exerce actuellement.
 
-::: info Fédération Wallonie-Bruxelles
-_Fonctionnaire – attaché responsable de service_  
+::: info Ministère de la Fédération Wallonie-Bruxelles
+_Fonctionnaire – directeur_  
 Boulevard Léopold II 44  
 1080 Molenbeek-Saint-Jean  
 Belgium

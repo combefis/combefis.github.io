@@ -19,7 +19,7 @@ hero:
 features:
   - icon: ⚒
     title: Travail
-    details: Je travaille actuellement comme attaché au Ministère de la Fédération Wallonie-Bruxelles (MFWB). Je suis également chargé de cours dans différents établissements de l'enseignement supérieur.
+    details: Je travaille actuellement comme directeur au Ministère de la Fédération Wallonie-Bruxelles (MFWB). Je suis également chargé de cours dans différents établissements d'enseignement supérieur.
   - icon: 🎓
     title: Éducation
     details: J'ai obtenu un doctorat en sciences de l'ingénieur de l'UCLouvain et j'y ai aussi obtenu un master ingénieur civil en informatique et un master complémentaire en pédagogie universitaire et de l'enseignement supérieur.

@@ -7,9 +7,9 @@ caption: Bangkok, Thailand, July 2011
 
 # About
 
-I am currently **working** as an manager attaché at the [Ministry of the Wallonia-Brussels Federation](https://www.federation-wallonie-bruxelles.be/a-propos-de-la-federation/le-ministere) (MFWB), an institution which implements Government policy, after approval by Parliament. Within the _Service général des Affaires Transversales_, I am serving as a manager both for an IT development project and for the accident at work of the members of teaching staff service. I am also lecturing in several higher education institutions.
+I am currently **working** as a _director_ at the [Ministry of the Wallonia-Brussels Federation](https://www.federation-wallonie-bruxelles.be/a-propos-de-la-federation/le-ministere) (MFWB), an institution which implements Government policy, after approval by Parliament. Within the _Service général des Affaires Transversales_, I am managing three services which are handling the accident at work, the recovery of overdue and the medical control of the members of teaching staff. I am also _lecturing_ in several higher education institutions.
 
-Regarding my **education**, I got a _PhD in Engineering_ in November 2013 from the [Université catholique de Louvain](https://uclouvain.be/en) (UCLouvain). My thesis is about applying formal method techniques to the analysis of human-machine interactions. I also got a **Master in Computer Science Engineering** degree from the [Louvain School of Engineering](https://uclouvain.be/en/faculties/epl) (EPL) and an _Advanced Master in Pedagogy in Higher Education_, both from the same university.
+Regarding my **education**, I got a _PhD in Engineering_ in November 2013 from the [Université catholique de Louvain](https://uclouvain.be/en) (UCLouvain). My thesis is about applying formal method techniques to the analysis of human-machine interactions. I also got a _Master in Computer Science Engineering_ degree from the [Louvain School of Engineering](https://uclouvain.be/en/faculties/epl) (EPL) and an _Advanced Master in Pedagogy in Higher Education_, both from the same university.
 
 Moreover, I am interested in the **Computer Science Education** field, in particular to better teach computer science and to integrate IT technologies in education. I am the _founder_ and **President** of the [Computer Science and IT in Education ASBL](https://www.csited.be/home) (CSITEd), a nonprofit organisation whose main goal is to promote informatics as a science, in particular for primary and secondary schools pupils. It is also on behalf of this organisation that I am the _official Belgian representative_ in the [Bebras community](https://www.bebras.org).
 
@@ -25,8 +25,8 @@ Email: [sebastien@combefis.be](mailto:sebastien@combefis.be)
 
 Below are my **professional contact details** for the different jobs I currently hold.
 
-::: info Wallonia-Brussels Federation
-_Civil servant – service manager attaché_  
+::: info Ministry of Wallonia-Brussels Federation
+_Civil servant – director_  
 Boulevard Léopold II 44  
 1080 Molenbeek-Saint-Jean  
 Belgique

@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: Curriculum Vitæ
-      link: /about/cv/
+      link: /fr/about/cv/
     - theme: alt
       text: Blog
-      link: /blog/
+      link: /fr/blog/
 
 features:
   - icon: ⚒

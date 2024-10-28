@@ -647,7 +647,6 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/combefis/combefis.github.io' },
       { icon: 'instagram', link: 'https://www.instagram.com/scombefis' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/scombefis' },
-      { icon: 'twitter', link: 'https://twitter.com/scombefis' },
     ],
   },
   markdown: {

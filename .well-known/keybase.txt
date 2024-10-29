@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/combefis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sebastien.combefis.be
+  * I am combefis (https://keybase.io/combefis) on keybase.
+  * I have a public key with fingerprint 7923 88DA 7CF9 E7F6 4203  AA86 2587 C60E E6D3 BC7C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101eed3ac478d3bc28469d337a7bef78f22da28d31c043f173ce5588a9b555bfe360a",
+            "fingerprint": "792388da7cf9e7f64203aa862587c60ee6d3bc7c",
+            "host": "keybase.io",
+            "key_id": "2587c60ee6d3bc7c",
+            "kid": "0101eed3ac478d3bc28469d337a7bef78f22da28d31c043f173ce5588a9b555bfe360a",
+            "uid": "23e348b11e3069a3815cea52c7cf5519",
+            "username": "combefis"
+        },
+        "service": {
+            "hostname": "sebastien.combefis.be",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1451152894,
+    "expire_in": 157680000,
+    "prev": "24d2a5ad12b1838b3dec328f85f8d3de508d65856dc23142f91ec478cf7e1572",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUn1QFGUYPz6dDnRkIkxUZHYiBrlubve93X33LgxJSASiQePLqWs/3j22k73j
+boEQzmBQAceUCOYUMsuMMDQCagKzpgGSQEsY1ARtGkZkBgYSG0rHkWzX9L/+7P3n
+nfd5f8/v45mnfnmATu8XU3NuxfTY2Qq/8zOcLnv3Ff9yjHMKZZilHHOghxfaKSCP
+YnNIAmbBTLgJR0gALG+moQA4noBmihEAoFmaQyINRYIQWEL9wnmTGYg4DXhEkhCy
+DEeSJCciQJlYzICJkmxHbpdbkhWVlmYIAKHA0rzIIFqkzIQJsCykCBLSPGVCiNK0
+aF5tLHB6tA7VHMd6kFFyqjX1YXto7z/w/7Pv4n91AAJmyOE4AiaKYQHESR6xJKFK
+iiSJMxrQg9wyW4hUNO8sVDUkD+Y1YGq1ROKRNlgtySOEB6lhFAnJxsdYI4dUEpfb
+qTh5504VUqAoLovGoJS5tJZSxNkekdk4SRbUeaoNJcjtkZwyZsFVJK9IGjtuJnGc
+JCBjNmDoLZfkRjZJQ5A0BU3q0WRQCWZhMcIsECzJCjjB4RBADgiIBwQUISmqkxEQ
+aYICRUKSEngC4GZCZHCkDZQXaaTSEZiWr0h2quRANcratWiSXWaVYjfCvPo6/7WB
+Oj+9LjjIX1s1nf6JlY/3L/yZlbqr7/oiO3+P3ubLj01c81Fyd3xdR9/gbzNP7hgX
+12y17ir4fr42rW/7+rrm9+DIIlE9sIdIMqSDqvLmVbug1HI/IcC4aTVzdS6zMj70
+9I2QTXr7jtt8zt3hFVUFPa5LcoQlxf9M5iv7UtpWOba1Rd4LCnMdd1z3zg+0di5N
+Nh62T7zgGqmZDFnYsu+N1tRXbQOe/reV9a9d/Pjg2fqpdXP5nnBQ/ZOjwb05MXUJ
+u5ysx2r3DLZf9Dtwbv+1hIz3FzafmtzyjrE45+ZeB0Dz1dGxxOos40LF+IYicCEz
+orGm4Vrv6JiVKxmayO/zubIeGJKsgZbke02fTYdOHO9krV9WzAa4sYDFvWxRKCQC
+U482/tLw6Rcv3V5g/pocXvw76NQ3v75oPxOcP/1nbmnG3e7a+pHJwahj7QlxZR8G
+JSivl/UbbnYbcgQj5UlnRp9P3Hgye/nJ1lsxuvYqX3xELixgm9M+R8l3Fp6uPDz6
+1JEidrbkO++JucqO4rYJ+7KfD3lT0u7IwQn3r38wNh4X9lWpc1meNeTHW6Fpx6J6
+W85nRHb5hsLyDqbjzFR9dGyWHDVl1B3qXhrbOnNkuM5YtDuo7Wi7hX/52wcZ1i7f
+hfIfwk43PXfp66ZsGHDF0b8xf114+GWmpXA2t9aY3tuDOtZ+siH52byhrrjtGSN/
+uG+8GZPUs9/bcuIf
+=jc89
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/combefis
+
+==================================================================

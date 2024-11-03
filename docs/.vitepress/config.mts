@@ -20,8 +20,8 @@ export default defineConfig({
       lang: 'en',
       themeConfig: {
         footer: {
-          message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" width="100" alt="CC BY NC ND" style="display: inline-block" /></a>',
-          copyright: '<a href="/about/license/">Creative Commons BY-NC-ND</a> 2009–2024 – Sébastien Combéfis.',
+          message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" width="100" alt="CC BY NC ND 4.0" style="display: inline-block" /></a>',
+          copyright: '<a href="/about/license/">Creative Commons BY-NC-ND 4.0</a> 2009–2024 – Sébastien Combéfis.',
         },
         nav: [
           { text: 'Administration', link: '/administration/', activeMatch: '/administration/' },
@@ -332,8 +332,8 @@ export default defineConfig({
       lang: 'fr',
       themeConfig: {
         footer: {
-          message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" alt="CC BY NC ND" width="100" style="display: inline-block" /></a>',
-          copyright: '<a href="/about/license/">Creative Commons BY-NC-ND</a> 2009–2024 – Sébastien Combéfis.',
+          message: '<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank"><img src="/images/by-nc-nd.png" alt="CC BY NC ND 4.0" width="100" style="display: inline-block" /></a>',
+          copyright: '<a href="/about/license/">Creative Commons BY-NC-ND 4.0</a> 2009–2024 – Sébastien Combéfis.',
         },
         nav: [
           { text: 'Administration', link: '/fr/administration/' },

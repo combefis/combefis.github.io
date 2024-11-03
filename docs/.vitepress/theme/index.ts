@@ -4,6 +4,6 @@ import PageLayout from './PageLayout.vue'
 import './custom.css'
 
 export default {
-  ...DefaultTheme,
+  extends: DefaultTheme,
   Layout: PageLayout,
 }

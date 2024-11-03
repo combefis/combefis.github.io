@@ -1,8 +1,5 @@
 {
-  "devDependencies": {
-    "markdown-it-small": "^1.0.0",
-    "vitepress": "^1.0.0-beta.3"
-  },
+  "license": "CC-BY-NC-ND-4.0",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -11,5 +8,9 @@
   "dependencies": {
     "markdown-it-mathjax3": "^4.3.2",
     "vue3-carousel": "^0.3.1"
+  },
+  "devDependencies": {
+    "markdown-it-small": "^1.0.0",
+    "vitepress": "^1.0.0-beta.3"
   }
 }
